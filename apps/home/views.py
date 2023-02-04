@@ -11,6 +11,13 @@ from django.urls import reverse
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
 
+data_files = []
+
+for root, dirs, files in os.walk("DEPO_DATA"):
+    for file in files:
+        if file.endswith('.json'):
+            data_files.append(os.path.join(root, file))
+
 
 @login_required(login_url="/login/")
 def index(request):
@@ -49,13 +56,7 @@ import json
 def keyword(request):
     if request.method == "POST":
         keyword = request.POST.get("keyword").lower()
-        data_files = []
-
-        for root, dirs, files in os.walk("DEPO_DATA"):
-            for file in files:
-                if file.endswith('.json'):
-                    data_files.append(os.path.join(root, file))
-
+        
         results = []
         for file in data_files:
             with open(file, "r") as f:
