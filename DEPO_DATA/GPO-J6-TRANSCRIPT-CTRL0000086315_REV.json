@@ -1,0 +1,6746 @@
+{
+    "title": "CTRL0000086315 - Transcribed Interview of Ruby Freeman, (May 31, 2022)",
+    "id": "CTRL0000086315",
+    "date": "May 31, 2022",
+    "url_desc": "https://www.govinfo.gov/app/details/GPO-J6-TRANSCRIPT-CTRL0000086315/",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000086315/pdf/GPO-J6-TRANSCRIPT-CTRL0000086315.pdf#page=",
+    "witness": "Ruby Freeman",
+    "data": [
+        {
+            "text": "SELECT COMMITTEE TO INVESTIGATE THE",
+            "page_#": 1
+        },
+        {
+            "text": "JANUARY 6TH ATTACK ON THE U.S. CAPITOL,",
+            "page_#": 1
+        },
+        {
+            "text": "U.S. HOUSE OF REPRESENTATIVES,",
+            "page_#": 1
+        },
+        {
+            "text": "WASHINGTON, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "INTERVIEW OF:",
+            "page_#": 1
+        },
+        {
+            "text": "RUBY FREEMAN",
+            "page_#": 1
+        },
+        {
+            "text": "Tuesday, May 31, 2022",
+            "page_#": 1
+        },
+        {
+            "text": "Washington, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "The interview in the above matter was held in Room 4480, O'Neill House Office",
+            "page_#": 1
+        },
+        {
+            "text": "Building, commencing at 4:59 p.m.",
+            "page_#": 1
+        },
+        {
+            "text": "Present:",
+            "page_#": 1
+        },
+        {
+            "text": "Representative Schiff.",
+            "page_#": 1
+        },
+        {
+            "text": "Appearances:",
+            "page_#": 2
+        },
+        {
+            "text": "For the SELECT COMMITTEE TO INVESTIGATE",
+            "page_#": 2
+        },
+        {
+            "text": "THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL:",
+            "page_#": 2
+        },
+        {
+            "text": ", STAFF ASSOCIATE",
+            "page_#": 2
+        },
+        {
+            "text": "INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": ", PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": "For RUBY FREEMAN:",
+            "page_#": 2
+        },
+        {
+            "text": "MICHAELJ. GOTTLIEB, PARTNER, WILLKIE FARR & GALLAGHER LLP",
+            "page_#": 2
+        },
+        {
+            "text": "ELEANOR WALKER, ASSOCIATE, WILLKIE FARR & GALLAGHER LLP",
+            "page_#": 2
+        },
+        {
+            "text": "MERYL GOVERNSKI, ASSOCIATE, WILLKIE FARR & GALLAGHER LLP",
+            "page_#": 2
+        },
+        {
+            "text": "JOHN TYLER KNOBLETT, ASSOCIATE, WILLKIE FARR & GALLAGHER LLP",
+            "page_#": 2
+        },
+        {
+            "text": "RACHEL GOODMAN, COUNSEL, PROTECT DEMOCRACY",
+            "page_#": 2
+        },
+        {
+            "text": "JOHN LANGFORD, COUNSEL, PROTECT DEMOCRACY",
+            "page_#": 2
+        },
+        {
+            "text": "DAVID A. SCHULZ, SENIOR COUNSEL, BALLARD SPAHR",
+            "page_#": 2
+        },
+        {
+            "text": "Ms. -",
+            "page_#": 3
+        },
+        {
+            "text": "Good afternoon.",
+            "page_#": 3
+        },
+        {
+            "text": "This is a transcribed interview of Ruby Freeman,",
+            "page_#": 3
+        },
+        {
+            "text": "conducted by the House Select Committee to Investigate the January 6th Attack on the",
+            "page_#": 3
+        },
+        {
+            "text": "United States Capitol pursuant to House Resolution 503.",
+            "page_#": 3
+        },
+        {
+            "text": "At this time, I'd like to ask the witness to please state your full name and spell",
+            "page_#": 3
+        },
+        {
+            "text": "your last name for the record.",
+            "page_#": 3
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 3
+        },
+        {
+            "text": "Ruby Jewel Freeman.",
+            "page_#": 3
+        },
+        {
+            "text": "My name is Ruby Jewel Freeman.",
+            "page_#": 3
+        },
+        {
+            "text": "the spelling of the last name is F-r-e-e-m-a-n.",
+            "page_#": 3
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 3
+        },
+        {
+            "text": "And, counsel for Ms. Freeman, could you please identify yourselves for the",
+            "page_#": 3
+        },
+        {
+            "text": "Thank you very much.",
+            "page_#": 3
+        },
+        {
+            "text": "record?",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Langford.",
+            "page_#": 3
+        },
+        {
+            "text": "Sure.",
+            "page_#": 3
+        },
+        {
+            "text": "Ms. Governski.",
+            "page_#": 3
+        },
+        {
+            "text": "Meryl Governski, with Willkie Farr & Gallagher.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Gottlieb.",
+            "page_#": 3
+        },
+        {
+            "text": "Michael Gottlieb, with Willkie Farr & Gallagher.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Knoblett.",
+            "page_#": 3
+        },
+        {
+            "text": "John Tyler Knoblett, for Willkie Farr & Gallagher.",
+            "page_#": 3
+        },
+        {
+            "text": "Ms..",
+            "page_#": 3
+        },
+        {
+            "text": "Are you able to hear us?",
+            "page_#": 3
+        },
+        {
+            "text": "My name is John Langford.",
+            "page_#": 3
+        },
+        {
+            "text": "And I think we have some co-counsel here participating virtually.",
+            "page_#": 3
+        },
+        {
+            "text": "Ms. Goodman.",
+            "page_#": 3
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 3
+        },
+        {
+            "text": "Yes.",
+            "page_#": 3
+        },
+        {
+            "text": "This is Rachel Goodman, with Protect Democracy.",
+            "page_#": 3
+        },
+        {
+            "text": "Let's see.",
+            "page_#": 3
+        },
+        {
+            "text": "And it looks like -- is there someone else?",
+            "page_#": 3
+        },
+        {
+            "text": "Ms. Walker,",
+            "page_#": 3
+        },
+        {
+            "text": "can you hear us?",
+            "page_#": 3
+        },
+        {
+            "text": "Ms. Walker.",
+            "page_#": 3
+        },
+        {
+            "text": "Yes.",
+            "page_#": 3
+        },
+        {
+            "text": "This is Eleanor Walker, with Willkie Farr & Gallagher.",
+            "page_#": 3
+        },
+        {
+            "text": "Ms.~",
+            "page_#": 3
+        },
+        {
+            "text": "Great.",
+            "page_#": 3
+        },
+        {
+            "text": "Thank you very much.",
+            "page_#": 3
+        },
+        {
+            "text": "So thank you all for being here this afternoon.",
+            "page_#": 3
+        },
+        {
+            "text": "And",
+            "page_#": 3
+        },
+        {
+            "text": "I will go over some preliminaries",
+            "page_#": 3
+        },
+        {
+            "text": "before we get started today.",
+            "page_#": 3
+        },
+        {
+            "text": "So, as I mentioned before we went on the record, this is going to be a staff-led",
+            "page_#": 3
+        },
+        {
+            "text": "interview today.",
+            "page_#": 4
+        },
+        {
+            "text": "they will do so virtually.",
+            "page_#": 4
+        },
+        {
+            "text": "for your awareness.",
+            "page_#": 4
+        },
+        {
+            "text": "they may do so.",
+            "page_#": 4
+        },
+        {
+            "text": "to keep track, and they will hopefully come in and out if they are able to join us.",
+            "page_#": 4
+        },
+        {
+            "text": "And if any of them choose while they are here to ask questions,",
+            "page_#": 4
+        },
+        {
+            "text": "We probably won't announce when they leave because it can be hard",
+            "page_#": 4
+        },
+        {
+            "text": "counsel for the select committee.",
+            "page_#": 4
+        },
+        {
+            "text": "I am an investigative",
+            "page_#": 4
+        },
+        {
+            "text": "And I am joined in the room today by my colleague",
+            "page_#": 4
+        },
+        {
+            "text": ", professional staff member for the committee.",
+            "page_#": 4
+        },
+        {
+            "text": "And before we begin, Ms. Freeman, I'd just like to go over some ground rules for",
+            "page_#": 4
+        },
+        {
+            "text": "our interview today.",
+            "page_#": 4
+        },
+        {
+            "text": "patience as I go through them.",
+            "page_#": 4
+        },
+        {
+            "text": "When they do so,",
+            "page_#": 4
+        },
+        {
+            "text": "We will do our best to announce their arrival for the record and",
+            "page_#": 4
+        },
+        {
+            "text": "Again, as I said off the record, my name is",
+            "page_#": 4
+        },
+        {
+            "text": "Members of the select committee may join us.",
+            "page_#": 4
+        },
+        {
+            "text": "They're the same rules we give to everyone.",
+            "page_#": 4
+        },
+        {
+            "text": "So there are official reporters here.",
+            "page_#": 4
+        },
+        {
+            "text": "So thanks for your",
+            "page_#": 4
+        },
+        {
+            "text": "They are going to be creating a transcript of",
+            "page_#": 4
+        },
+        {
+            "text": "the interview today.",
+            "page_#": 4
+        },
+        {
+            "text": "As I mentioned before, we are recording this through the video",
+            "page_#": 4
+        },
+        {
+            "text": "camera here, but the official record of the interview is the transcript that our official",
+            "page_#": 4
+        },
+        {
+            "text": "reporters are creating.",
+            "page_#": 4
+        },
+        {
+            "text": "transcript and suggest any corrections before it's finalized.",
+            "page_#": 4
+        },
+        {
+            "text": "You and your attorneys will have an opportunity to review the",
+            "page_#": 4
+        },
+        {
+            "text": "And because we're creating the official record in the transcript, we'll ask that you",
+            "page_#": 4
+        },
+        {
+            "text": "please wait until our questions are finished before you start talking, and I will similarly try",
+            "page_#": 4
+        },
+        {
+            "text": "my best not to start a new question before you've been able to answer your own, just so",
+            "page_#": 4
+        },
+        {
+            "text": "that the record is as clear as possible.",
+            "page_#": 4
+        },
+        {
+            "text": "We'll also ask that you give verbal responses to our questions as opposed to a",
+            "page_#": 4
+        },
+        {
+            "text": "shaking head or nodding head, because the reporters can only record a verbal response.",
+            "page_#": 4
+        },
+        {
+            "text": "I also say, you know, we appreciate your appearance here voluntarily, and we're",
+            "page_#": 4
+        },
+        {
+            "text": "pleased to be able to meet with you in person.",
+            "page_#": 4
+        },
+        {
+            "text": "to do that.",
+            "page_#": 4
+        },
+        {
+            "text": "So thank you for making the trip up here",
+            "page_#": 4
+        },
+        {
+            "text": "Although today's interview is not under oath like a deposition would be, I do want",
+            "page_#": 5
+        },
+        {
+            "text": "to remind you, as we remind all of our witnesses, that it is unlawful to deliberately",
+            "page_#": 5
+        },
+        {
+            "text": "provide false information to Congress.",
+            "page_#": 5
+        },
+        {
+            "text": "Do you understand that?",
+            "page_#": 5
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 5
+        },
+        {
+            "text": "Yes, ma'am.",
+            "page_#": 5
+        },
+        {
+            "text": "Ms.~",
+            "page_#": 5
+        },
+        {
+            "text": "So, again, it's really important that you understand our questions and are able to",
+            "page_#": 5
+        },
+        {
+            "text": "Okay.",
+            "page_#": 5
+        },
+        {
+            "text": "answer them to the best of your ability today.",
+            "page_#": 5
+        },
+        {
+            "text": "So, if anything I ask you is unclear or if",
+            "page_#": 5
+        },
+        {
+            "text": "you need any clarification, please don't hesitate to ask, and I'd be happy to rephrase.",
+            "page_#": 5
+        },
+        {
+            "text": "have been known to ask an unclear question every once in a while, so please don't",
+            "page_#": 5
+        },
+        {
+            "text": "hesitate.",
+            "page_#": 5
+        },
+        {
+            "text": "And, again, we ask that you respond only to your ability to do so truthfully.",
+            "page_#": 5
+        },
+        {
+            "text": "So, if",
+            "page_#": 5
+        },
+        {
+            "text": "you don't know the answer to a question, please say that, or if you don't recall, please",
+            "page_#": 5
+        },
+        {
+            "text": "just tell us that that's the case.",
+            "page_#": 5
+        },
+        {
+            "text": "And, logistically, we are happy to take any breaks that you need during our time",
+            "page_#": 5
+        },
+        {
+            "text": "today.",
+            "page_#": 5
+        },
+        {
+            "text": "I don't want to -- we are going to try not to keep you here overly long.",
+            "page_#": 5
+        },
+        {
+            "text": "But if",
+            "page_#": 5
+        },
+        {
+            "text": "you need any breaks, either to go outside, have a bathroom break, get something to",
+            "page_#": 5
+        },
+        {
+            "text": "drink, or if you need to consult with your attorneys, please just let us know and we're",
+            "page_#": 5
+        },
+        {
+            "text": "happy to do that.",
+            "page_#": 5
+        },
+        {
+            "text": "other room we have available if you'd like to have a longer conversation.",
+            "page_#": 5
+        },
+        {
+            "text": "You could have a brief sidebar in here, or we can take you back to the",
+            "page_#": 5
+        },
+        {
+            "text": "So any questions about all of those throat-clearing -- the preliminaries here?",
+            "page_#": 5
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 5
+        },
+        {
+            "text": "Ms. -",
+            "page_#": 5
+        },
+        {
+            "text": "Counsel, anything to address?",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. Gottlieb.",
+            "page_#": 5
+        },
+        {
+            "text": "Ms.~",
+            "page_#": 5
+        },
+        {
+            "text": "No questions.",
+            "page_#": 5
+        },
+        {
+            "text": "Okay.",
+            "page_#": 5
+        },
+        {
+            "text": "Wonderful.",
+            "page_#": 5
+        },
+        {
+            "text": "Nothing to address, and no questions.",
+            "page_#": 5
+        },
+        {
+            "text": "Okay.",
+            "page_#": 5
+        },
+        {
+            "text": "Great.",
+            "page_#": 5
+        },
+        {
+            "text": "Ms. Freeman, I understand that you've prepared something, a statement that",
+            "page_#": 6
+        },
+        {
+            "text": "you'd like to share with us.",
+            "page_#": 6
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 6
+        },
+        {
+            "text": "Ms-",
+            "page_#": 6
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 6
+        },
+        {
+            "text": "I should not be here.",
+            "page_#": 6
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 6
+        },
+        {
+            "text": "That is correct.",
+            "page_#": 6
+        },
+        {
+            "text": "Okay.",
+            "page_#": 6
+        },
+        {
+            "text": "Please go ahead.",
+            "page_#": 6
+        },
+        {
+            "text": "We're happy to listen.",
+            "page_#": 6
+        },
+        {
+            "text": "Well, thank you for inviting me here to tell me story.",
+            "page_#": 6
+        },
+        {
+            "text": "You should not know me or my name.",
+            "page_#": 6
+        },
+        {
+            "text": "Freeman.",
+            "page_#": 6
+        },
+        {
+            "text": "this is not the way it was supposed to be.",
+            "page_#": 6
+        },
+        {
+            "text": "followed the Presidential election in 2020.",
+            "page_#": 6
+        },
+        {
+            "text": "My name is Ruby",
+            "page_#": 6
+        },
+        {
+            "text": "I've always believed it when God says that he'll make your name great, but",
+            "page_#": 6
+        },
+        {
+            "text": "I could've never imagined the events that",
+            "page_#": 6
+        },
+        {
+            "text": "For my entire professional life, I was Lady Ruby.",
+            "page_#": 6
+        },
+        {
+            "text": "where I was born and lived my whole life knew me as Lady Ruby.",
+            "page_#": 6
+        },
+        {
+            "text": "business around that name, La Ruby's Unique Treasures, a pop-up shop catering to ladies",
+            "page_#": 6
+        },
+        {
+            "text": "with unique fashions.",
+            "page_#": 6
+        },
+        {
+            "text": "I built my own",
+            "page_#": 6
+        },
+        {
+            "text": "I wore a shirt that proudly proclaimed that I was and I am Lady Ruby.",
+            "page_#": 6
+        },
+        {
+            "text": "had that shirt in every color.",
+            "page_#": 6
+        },
+        {
+            "text": "since, and I'll never wear it again.",
+            "page_#": 6
+        },
+        {
+            "text": "My community in Georgia",
+            "page_#": 6
+        },
+        {
+            "text": "I wore that shirt on election day 2020.",
+            "page_#": 6
+        },
+        {
+            "text": "Now I won't even introduce myself by my name anymore.",
+            "page_#": 6
+        },
+        {
+            "text": "bump into someone I know in the grocery store who says my name.",
+            "page_#": 6
+        },
+        {
+            "text": "who's listening.",
+            "page_#": 6
+        },
+        {
+            "text": "always concerned of who is around me.",
+            "page_#": 6
+        },
+        {
+            "text": "I haven't worn it",
+            "page_#": 6
+        },
+        {
+            "text": "I get nervous when I",
+            "page_#": 6
+        },
+        {
+            "text": "I'm worried about",
+            "page_#": 6
+        },
+        {
+            "text": "I get nervous when I have to give my name for food orders.",
+            "page_#": 6
+        },
+        {
+            "text": "I've lost my name, and I've lost my reputation.",
+            "page_#": 6
+        },
+        {
+            "text": "Actually, I",
+            "page_#": 6
+        },
+        {
+            "text": "I'm",
+            "page_#": 6
+        },
+        {
+            "text": "I've lost my sense of security -- all",
+            "page_#": 6
+        },
+        {
+            "text": "because a group of people, starting with Number 45 and his ally Rudy Giuliani, decided to",
+            "page_#": 6
+        },
+        {
+            "text": "scapegoat me and my daughter, Shaye, to push their own lies about how the Presidential",
+            "page_#": 6
+        },
+        {
+            "text": "election was stolen.",
+            "page_#": 6
+        },
+        {
+            "text": "Some of his supporters and right-wing media organizations repeated those lies",
+            "page_#": 6
+        },
+        {
+            "text": "over and over.",
+            "page_#": 7
+        },
+        {
+            "text": "They accused me of committing crimes, of helping to steal the election.",
+            "page_#": 7
+        },
+        {
+            "text": "They accused me of hiding ballots in suitcases, of counting ballots multiple times, of",
+            "page_#": 7
+        },
+        {
+            "text": "passing around some kind of flash drive by hacking machines that they said were being",
+            "page_#": 7
+        },
+        {
+            "text": "controlled by foreign governments.",
+            "page_#": 7
+        },
+        {
+            "text": "None of this is true.",
+            "page_#": 7
+        },
+        {
+            "text": "What is true is that I signed up as an election worker because I believe in our",
+            "page_#": 7
+        },
+        {
+            "text": "None of it.",
+            "page_#": 7
+        },
+        {
+            "text": "Not one single piece of it.",
+            "page_#": 7
+        },
+        {
+            "text": "democracy.",
+            "page_#": 7
+        },
+        {
+            "text": "career has been devoted to making sure that Fulton County elections are fair and that",
+            "page_#": 7
+        },
+        {
+            "text": "every vote is counted.",
+            "page_#": 7
+        },
+        {
+            "text": "I signed up to support my daughter, Shaye, whose entire professional",
+            "page_#": 7
+        },
+        {
+            "text": "I taught my daughter that if you are going to something, you do it right, and you",
+            "page_#": 7
+        },
+        {
+            "text": "do it well.",
+            "page_#": 7
+        },
+        {
+            "text": "And she did.",
+            "page_#": 7
+        },
+        {
+            "text": "done right.",
+            "page_#": 7
+        },
+        {
+            "text": "It made me proud to watch her succeed in a profession that she loved.",
+            "page_#": 7
+        },
+        {
+            "text": "Shaye was dedicated to her job and making sure that it was",
+            "page_#": 7
+        },
+        {
+            "text": "We showed up to work on election night, proud to be playing a small role in",
+            "page_#": 7
+        },
+        {
+            "text": "American democracy.",
+            "page_#": 7
+        },
+        {
+            "text": "us, like countless other election workers, we don't show up to help any candidate or",
+            "page_#": 7
+        },
+        {
+            "text": "political party.",
+            "page_#": 7
+        },
+        {
+            "text": "from their work or school, who travel for miles and stand in line for hours to have their",
+            "page_#": 7
+        },
+        {
+            "text": "voices heard.",
+            "page_#": 7
+        },
+        {
+            "text": "That's the thing that people who attack us refuse to accept:",
+            "page_#": 7
+        },
+        {
+            "text": "We show up to help the voters -- the millions of voters who take time off",
+            "page_#": 7
+        },
+        {
+            "text": "Our work honors those voters, those who fought and sacrificed to make sure that",
+            "page_#": 7
+        },
+        {
+            "text": "all people have the right to vote in America.",
+            "page_#": 7
+        },
+        {
+            "text": "about democracy, fairness, and respect for our fellow citizens.",
+            "page_#": 7
+        },
+        {
+            "text": "For",
+            "page_#": 7
+        },
+        {
+            "text": "Doing this work is not about politics; it is",
+            "page_#": 7
+        },
+        {
+            "text": "But because some people didn't like the outcome of the fair and accurate election",
+            "page_#": 7
+        },
+        {
+            "text": "in Fulton County, they decided to attack Shaye and me by name and by picture.",
+            "page_#": 7
+        },
+        {
+            "text": "received hundreds of racist, threatening, horrible calls and messages that I do not even",
+            "page_#": 7
+        },
+        {
+            "text": "feel comfortable describing here.",
+            "page_#": 7
+        },
+        {
+            "text": "I had to move out of my house because the FBI said it wasn't safe.",
+            "page_#": 8
+        },
+        {
+            "text": "Strangers",
+            "page_#": 8
+        },
+        {
+            "text": "came by my home the week of January 6th.",
+            "page_#": 8
+        },
+        {
+            "text": "One person told me I had 48 hours to give",
+            "page_#": 8
+        },
+        {
+            "text": "them some sort of statement to avoid going to jail -- to admit to something I never did.",
+            "page_#": 8
+        },
+        {
+            "text": "They tried to force their way into my mom's house to do a citizens' arrest on",
+            "page_#": 8
+        },
+        {
+            "text": "Shaye and me.",
+            "page_#": 8
+        },
+        {
+            "text": "Friends and members of my community were afraid to even be",
+            "page_#": 8
+        },
+        {
+            "text": "associated with me because they didn't want to get caught up in the harassment.",
+            "page_#": 8
+        },
+        {
+            "text": "There is nowhere I feel safe -- nowhere.",
+            "page_#": 8
+        },
+        {
+            "text": "Do you know how it feels to have the President of the United States to target you?",
+            "page_#": 8
+        },
+        {
+            "text": "The President of the United States is supposed to represent every American, not to target",
+            "page_#": 8
+        },
+        {
+            "text": "one.",
+            "page_#": 8
+        },
+        {
+            "text": "American citizen who stood up to help Fulton County run an election in the middle of the",
+            "page_#": 8
+        },
+        {
+            "text": "pandemic.",
+            "page_#": 8
+        },
+        {
+            "text": "accusing me of election fraud.",
+            "page_#": 8
+        },
+        {
+            "text": "But he targeted me, Lady Ruby, a small-business owner, a mother, a proud",
+            "page_#": 8
+        },
+        {
+            "text": "He said my name 18 times -- 18 times -- to the Georgia secretary of state,",
+            "page_#": 8
+        },
+        {
+            "text": "The President of the United States made up lies about two ordinary Americans for",
+            "page_#": 8
+        },
+        {
+            "text": "his own personal gain.",
+            "page_#": 8
+        },
+        {
+            "text": "who repeat whatever they say spoon fed us as enemies and villains to their mob.",
+            "page_#": 8
+        },
+        {
+            "text": "said we were like drug dealers passing out ballots.",
+            "page_#": 8
+        },
+        {
+            "text": "as a prop in the \"big lie.\"",
+            "page_#": 8
+        },
+        {
+            "text": "Then he and he allies like Rudy Giuliani and those in the media",
+            "page_#": 8
+        },
+        {
+            "text": "States eggs on a mob, that mob will come.",
+            "page_#": 8
+        },
+        {
+            "text": "threats, their racism, and their hats.",
+            "page_#": 8
+        },
+        {
+            "text": "Targeted American election workers",
+            "page_#": 8
+        },
+        {
+            "text": "And, lo and behold, when someone as powerful as the President of the United",
+            "page_#": 8
+        },
+        {
+            "text": "They",
+            "page_#": 8
+        },
+        {
+            "text": "They came for us with their cruelty, their",
+            "page_#": 8
+        },
+        {
+            "text": "They haven't stopped even today.",
+            "page_#": 8
+        },
+        {
+            "text": "Number 45 and his crew have destroyed our lives.",
+            "page_#": 8
+        },
+        {
+            "text": "his name.",
+            "page_#": 8
+        },
+        {
+            "text": "So I won't call Number 45 by",
+            "page_#": 8
+        },
+        {
+            "text": "He and his allies took my name, so I won't utter his.",
+            "page_#": 8
+        },
+        {
+            "text": "This isn't political for me.",
+            "page_#": 8
+        },
+        {
+            "text": "This is about truth and decency.",
+            "page_#": 8
+        },
+        {
+            "text": "more than myself and my daughter.",
+            "page_#": 8
+        },
+        {
+            "text": "I'm here today for",
+            "page_#": 8
+        },
+        {
+            "text": "I hope that by me telling my story that you all can",
+            "page_#": 8
+        },
+        {
+            "text": "help prevent the next Ruby becoming a target, the next Shaye.",
+            "page_#": 9
+        },
+        {
+            "text": "done.",
+            "page_#": 9
+        },
+        {
+            "text": "I'm here.",
+            "page_#": 9
+        },
+        {
+            "text": "Something needs to be",
+            "page_#": 9
+        },
+        {
+            "text": "The people need to be held accountable.",
+            "page_#": 9
+        },
+        {
+            "text": "Congress needs to protect our election workers.",
+            "page_#": 9
+        },
+        {
+            "text": "It needs to take steps to",
+            "page_#": 9
+        },
+        {
+            "text": "prevent the spread of lies that threaten our democracy.",
+            "page_#": 9
+        },
+        {
+            "text": "I am just one name, one",
+            "page_#": 9
+        },
+        {
+            "text": "reputation, one life devastated by disinformation, but there are so many more, and there",
+            "page_#": 9
+        },
+        {
+            "text": "will be even more if things don't change.",
+            "page_#": 9
+        },
+        {
+            "text": "Throughout all of this, I have been blessed by my family, friends, and my faith.",
+            "page_#": 9
+        },
+        {
+            "text": "And despite it all, I've never questioned my faith, and I still do not.",
+            "page_#": 9
+        },
+        {
+            "text": "because I'm reminded in the Word that faith is the substance of things hoped for and the",
+            "page_#": 9
+        },
+        {
+            "text": "evidence of things unseen.",
+            "page_#": 9
+        },
+        {
+            "text": "But faith alone is not enough to save our country and democracy.",
+            "page_#": 9
+        },
+        {
+            "text": "works is dead.",
+            "page_#": 9
+        },
+        {
+            "text": "never happen again.",
+            "page_#": 9
+        },
+        {
+            "text": "different to get it.",
+            "page_#": 9
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 9
+        },
+        {
+            "text": "Ms~",
+            "page_#": 9
+        },
+        {
+            "text": "My faith is all I have,",
+            "page_#": 9
+        },
+        {
+            "text": "Faith without",
+            "page_#": 9
+        },
+        {
+            "text": "This requires action and change to ensure that what happened to us will",
+            "page_#": 9
+        },
+        {
+            "text": "And in order to get something different, you have to do something",
+            "page_#": 9
+        },
+        {
+            "text": "Thank you very much.",
+            "page_#": 9
+        },
+        {
+            "text": "I'm not sure that I should continue with any",
+            "page_#": 9
+        },
+        {
+            "text": "questioning because there's not very much that I can add to that.",
+            "page_#": 9
+        },
+        {
+            "text": "So thank you very much for being here.",
+            "page_#": 9
+        },
+        {
+            "text": "Thank you for sharing those thoughts.",
+            "page_#": 9
+        },
+        {
+            "text": "I know this has all been very difficult, has been hugely difficult for you.",
+            "page_#": 9
+        },
+        {
+            "text": "So, especially in",
+            "page_#": 9
+        },
+        {
+            "text": "light of that, thank you for sharing it, and thank you for your patience as we have a",
+            "page_#": 9
+        },
+        {
+            "text": "conversation about it.",
+            "page_#": 9
+        },
+        {
+            "text": "I just want to state, before we go into some of the, you know, history here and",
+            "page_#": 9
+        },
+        {
+            "text": "what you've gone through, that we really appreciate for all of the reasons that you just",
+            "page_#": 9
+        },
+        {
+            "text": "identified, because, on behalf of the select committee, I know that the members of the",
+            "page_#": 9
+        },
+        {
+            "text": "committee feel that what happened to you and to your daughter is not only wrong and",
+            "page_#": 9
+        },
+        {
+            "text": "unjust but they hope that our work here can have something, you know, positive to do to",
+            "page_#": 10
+        },
+        {
+            "text": "make sure that it doesn't happen again.",
+            "page_#": 10
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 10
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 10
+        },
+        {
+            "text": "Ms. -",
+            "page_#": 10
+        },
+        {
+            "text": "I also just want to say that our hope today is to be able to get as much of your",
+            "page_#": 10
+        },
+        {
+            "text": "So thank you for that.",
+            "page_#": 10
+        },
+        {
+            "text": "story to be a part of our record and our work here as possible, but we don't want to make",
+            "page_#": 10
+        },
+        {
+            "text": "what is a difficult circumstance for you any harder.",
+            "page_#": 10
+        },
+        {
+            "text": "So, if there are, sort of, some areas here that we're going to talk about today that",
+            "page_#": 10
+        },
+        {
+            "text": "are particularly sensitive or difficult for you to relive, I hope that you'll let me know that,",
+            "page_#": 10
+        },
+        {
+            "text": "and we can find a way to work around it, because I don't want to make this any more",
+            "page_#": 10
+        },
+        {
+            "text": "difficult for you.",
+            "page_#": 10
+        },
+        {
+            "text": "So thank you in advance for your patience with my questions, and please let me",
+            "page_#": 10
+        },
+        {
+            "text": "know if there's anything that you want to take off the record.",
+            "page_#": 10
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 10
+        },
+        {
+            "text": "Okay?",
+            "page_#": 10
+        },
+        {
+            "text": "Okay.",
+            "page_#": 10
+        },
+        {
+            "text": "EXAMINATION",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "I would love to just rewind a little bit and talk a bit more about your personal",
+            "page_#": 10
+        },
+        {
+            "text": "So, Ms. Freeman, thank you very much again for those comments.",
+            "page_#": 10
+        },
+        {
+            "text": "background before we get into the fact of what happened around the November 2020",
+            "page_#": 10
+        },
+        {
+            "text": "election.",
+            "page_#": 10
+        },
+        {
+            "text": "So where are you from originally?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Georgia.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "From Georgia.",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "I have, yes, ma'am.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "That's great.",
+            "page_#": 10
+        },
+        {
+            "text": "Have you lived in Georgia your whole life?",
+            "page_#": 10
+        },
+        {
+            "text": "I have lived in Georgia my entire life.",
+            "page_#": 10
+        },
+        {
+            "text": "And what's your educational background?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "background.",
+            "page_#": 11
+        },
+        {
+            "text": "I finished high school.",
+            "page_#": 11
+        },
+        {
+            "text": "And I -- that's it.",
+            "page_#": 11
+        },
+        {
+            "text": "I went to secretarial school, my educational",
+            "page_#": 11
+        },
+        {
+            "text": "Went to secretarial school, and I -- yeah.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "That's great.",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "That's my educational background.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "And I know you mentioned in your opening, your statement there, that you",
+            "page_#": 11
+        },
+        {
+            "text": "are a small-business owner --",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Yes.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "-- that you started your own pop-up boutique.",
+            "page_#": 11
+        },
+        {
+            "text": "more about that?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "County Stadium.",
+            "page_#": 11
+        },
+        {
+            "text": "I started out then when the Braves went to the World Series, from the",
+            "page_#": 11
+        },
+        {
+            "text": "worst to the first.",
+            "page_#": 11
+        },
+        {
+            "text": "And later I did the Olympics.",
+            "page_#": 11
+        },
+        {
+            "text": "charge card machines.",
+            "page_#": 11
+        },
+        {
+            "text": "Can you tell us a little bit",
+            "page_#": 11
+        },
+        {
+            "text": "How long have you -- or, when did you first start your company?",
+            "page_#": 11
+        },
+        {
+            "text": "I first started my company in 1987.",
+            "page_#": 11
+        },
+        {
+            "text": "I was a street vendor for Atlanta-Fulton",
+            "page_#": 11
+        },
+        {
+            "text": "I was the first one to start taking",
+            "page_#": 11
+        },
+        {
+            "text": "We had the big black bag phones then.",
+            "page_#": 11
+        },
+        {
+            "text": "So a lot of authentic merchandise, mainly, and so I was always known as \"the",
+            "page_#": 11
+        },
+        {
+            "text": "Neiman Marcus lady\" that the merchandise just like inside.",
+            "page_#": 11
+        },
+        {
+            "text": "and then once it got to be just kind of -- well, everybody sold Braves merchandise then, so",
+            "page_#": 11
+        },
+        {
+            "text": "I stopped.",
+            "page_#": 11
+        },
+        {
+            "text": "And I went back to working Fulton County, and I saw vendors downstairs.",
+            "page_#": 11
+        },
+        {
+            "text": "was like, wow, what are they doing?",
+            "page_#": 11
+        },
+        {
+            "text": "that they were selling purses and stuff.",
+            "page_#": 11
+        },
+        {
+            "text": "it's just time to change gears.",
+            "page_#": 11
+        },
+        {
+            "text": "And I did that for a while,",
+            "page_#": 11
+        },
+        {
+            "text": "What are they doing down there?",
+            "page_#": 11
+        },
+        {
+            "text": "And I",
+            "page_#": 11
+        },
+        {
+            "text": "And I noticed",
+            "page_#": 11
+        },
+        {
+            "text": "And I heard a voice that told me, it's not over,",
+            "page_#": 11
+        },
+        {
+            "text": "So I started selling merchandise for the boutique.",
+            "page_#": 11
+        },
+        {
+            "text": "then moved on to jewelry, and then I sell clothes.",
+            "page_#": 11
+        },
+        {
+            "text": "apparel.",
+            "page_#": 11
+        },
+        {
+            "text": "And I started off with purses,",
+            "page_#": 11
+        },
+        {
+            "text": "So I sell unique ladies accessories and",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "And forgive me.",
+            "page_#": 12
+        },
+        {
+            "text": "That's great.",
+            "page_#": 12
+        },
+        {
+            "text": "room, a David Schulz.",
+            "page_#": 12
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 12
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 12
+        },
+        {
+            "text": "I just wanted to note, we had somebody else in the waiting",
+            "page_#": 12
+        },
+        {
+            "text": "Is that another counsel for your team?",
+            "page_#": 12
+        },
+        {
+            "text": "Yes.",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "Well, if he reappears, we'll know who he is.",
+            "page_#": 12
+        },
+        {
+            "text": "to admit anybody unaffiliated.",
+            "page_#": 12
+        },
+        {
+            "text": "BYMS.-:",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "We don't want",
+            "page_#": 12
+        },
+        {
+            "text": "So, Ms. Freeman, if you could tell us -- first of all, had you ever",
+            "page_#": 12
+        },
+        {
+            "text": "worked on the tabulation process in an election before 2020?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I worked the election for President Obama, the first one.",
+            "page_#": 12
+        },
+        {
+            "text": "Uh-huh, I did",
+            "page_#": 12
+        },
+        {
+            "text": "that, for Fulton County Registration and Elections.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "And so how did you come to be employed by Fulton County for the 2020 election?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "Great.",
+            "page_#": 12
+        },
+        {
+            "text": "I started out with Fulton County years ago, and then I went to do temporary",
+            "page_#": 12
+        },
+        {
+            "text": "work for the elections.",
+            "page_#": 12
+        },
+        {
+            "text": "So that's how I got there.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Through a temporary agency.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Oh, great.",
+            "page_#": 12
+        },
+        {
+            "text": "And I think you mentioned that your daughter has been -- as reflected in public",
+            "page_#": 12
+        },
+        {
+            "text": "reporting, your daughter had been employed with the Fulton County Registration and",
+            "page_#": 12
+        },
+        {
+            "text": "Elections Department for some time at that point.",
+            "page_#": 12
+        },
+        {
+            "text": "Great.",
+            "page_#": 12
+        },
+        {
+            "text": "And --",
+            "page_#": 12
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Yes, she was employed with Fulton County Voters Registration and Elections.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "So why don't you tell us a little bit in your own words about your experience of",
+            "page_#": 12
+        },
+        {
+            "text": "That's great.",
+            "page_#": 12
+        },
+        {
+            "text": "work on election day, on November 3, 2020.",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "ballots.",
+            "page_#": 13
+        },
+        {
+            "text": "Well, we went in on election day 2020 as a normal workday to count the",
+            "page_#": 13
+        },
+        {
+            "text": "Came in from different precincts.",
+            "page_#": 13
+        },
+        {
+            "text": "And that's what we did; we counted ballots.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "It's a long -- it was a long day?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "It was a very long day.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Yeah, even in a normal election, but especially -- it's my understanding from",
+            "page_#": 13
+        },
+        {
+            "text": "Yes, it was.",
+            "page_#": 13
+        },
+        {
+            "text": "our work that, because there were so many more absentee ballots and mail-in ballots in",
+            "page_#": 13
+        },
+        {
+            "text": "2020, that that further added to the burden for election workers on election day.",
+            "page_#": 13
+        },
+        {
+            "text": "consistent with your experience?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Yes.",
+            "page_#": 13
+        },
+        {
+            "text": "Is that",
+            "page_#": 13
+        },
+        {
+            "text": "And that was what we were doing at the State Farm Arena; we were",
+            "page_#": 13
+        },
+        {
+            "text": "there to count the absentee ballots.",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "Great.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "And we don't need to go into too much technical detail, but, generally speaking,",
+            "page_#": 13
+        },
+        {
+            "text": "what were your responsibilities at State Farm Arena in the tabulation process?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "My responsibility for that day was to be an opener, which was to open the",
+            "page_#": 13
+        },
+        {
+            "text": "ballots after they had been cut, just to open the ballots from the precincts to make sure",
+            "page_#": 13
+        },
+        {
+            "text": "that everything added up, the ballots and the envelopes they came in, just to make sure",
+            "page_#": 13
+        },
+        {
+            "text": "that everything was added up.",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "Great.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "And -- let's see.",
+            "page_#": 13
+        },
+        {
+            "text": "Did you work before election day also, or was your work for",
+            "page_#": 13
+        },
+        {
+            "text": "Fulton County in 2020 limited to election day only?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I started working with Fulton County Voters Registration and Elections as a",
+            "page_#": 13
+        },
+        {
+            "text": "temporary employee in August.",
+            "page_#": 13
+        },
+        {
+            "text": "They had a runoff, so I worked there then.",
+            "page_#": 13
+        },
+        {
+            "text": "And then I left because that was over, and they called us back when it was time to",
+            "page_#": 13
+        },
+        {
+            "text": "really get busy for the election.",
+            "page_#": 13
+        },
+        {
+            "text": "So I went to the government center and I worked there.",
+            "page_#": 13
+        },
+        {
+            "text": "And then when it was close to the time, because of my work ethics, they called me",
+            "page_#": 13
+        },
+        {
+            "text": "to come and work with the -- at State Farm for the finishing part of it.",
+            "page_#": 14
+        },
+        {
+            "text": "That's great.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "And so it's my understanding, especially because of how many absentee ballots",
+            "page_#": 14
+        },
+        {
+            "text": "were submitted in the 2020 election, that the counting continued after election day on",
+            "page_#": 14
+        },
+        {
+            "text": "November 3rd.",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 14
+        },
+        {
+            "text": "Well, you always have the provisionals.",
+            "page_#": 14
+        },
+        {
+            "text": "So, yes, that is correct; you have",
+            "page_#": 14
+        },
+        {
+            "text": "voting after the election day.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Great.",
+            "page_#": 14
+        },
+        {
+            "text": "And did you continue to work for the Fulton County Registration",
+            "page_#": 14
+        },
+        {
+            "text": "and Elections Department?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yes, I did, at the State Farm.",
+            "page_#": 14
+        },
+        {
+            "text": "I worked there until that was over with.",
+            "page_#": 14
+        },
+        {
+            "text": "So",
+            "page_#": 14
+        },
+        {
+            "text": "we worked at State Farm to do the -- the other ballots.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "That's great.",
+            "page_#": 14
+        },
+        {
+            "text": "And do you remember about how many days total after the",
+            "page_#": 14
+        },
+        {
+            "text": "election you continued to work at State Farm Arena?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "After the election, really we just did cleanup work.",
+            "page_#": 14
+        },
+        {
+            "text": "And, after that, we",
+            "page_#": 14
+        },
+        {
+            "text": "went back to the Fulton County Government Center.",
+            "page_#": 14
+        },
+        {
+            "text": "Okay.",
+            "page_#": 14
+        },
+        {
+            "text": "Great.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "So, during the process, you know, I would expect that the day, on election day,",
+            "page_#": 14
+        },
+        {
+            "text": "while long and hard work, went as you expected.",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yes, that is fair.",
+            "page_#": 14
+        },
+        {
+            "text": "Is that fair?",
+            "page_#": 14
+        },
+        {
+            "text": "It went long like I expected, because I had experienced it",
+            "page_#": 14
+        },
+        {
+            "text": "with President Oba ma's election, to know that the last ballots would come in would be",
+            "page_#": 14
+        },
+        {
+            "text": "from Milton, Georgia, and Johns Creek, which is farther off.",
+            "page_#": 14
+        },
+        {
+            "text": "their -- the time was still the same, but then they had to get everything together and back",
+            "page_#": 14
+        },
+        {
+            "text": "up to send to the State Farm Arena, for those ballots to be counted, because people were",
+            "page_#": 14
+        },
+        {
+            "text": "still voting, you know, so --",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "That's great.",
+            "page_#": 14
+        },
+        {
+            "text": "So that meant that",
+            "page_#": 14
+        },
+        {
+            "text": "So at what point after your work on tabulating the ballots or during it did you start",
+            "page_#": 15
+        },
+        {
+            "text": "to realize that there was something amiss, that there was, you know, attention brought",
+            "page_#": 15
+        },
+        {
+            "text": "to you for the first time?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Repeat that again.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Yeah, it wasn't a very well phrased question, so apologies for that.",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "That's okay.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "I'm basically wondering, when did you first realize that this problem that,",
+            "page_#": 15
+        },
+        {
+            "text": "you know, was caused for you here -- when did you first realize that?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "December the 3rd was when I first realized.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "And is that -- that's the date that Rudy Giuliani and several",
+            "page_#": 15
+        },
+        {
+            "text": "associates appeared at a hearing of the Georgia State Senate.",
+            "page_#": 15
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I've heard that.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Yes, ma'am.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "So how did you first learn of it?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I first learned about what all was going on that night, the December the 3rd,",
+            "page_#": 15
+        },
+        {
+            "text": "I've heard that that was the date that he did what he did.",
+            "page_#": 15
+        },
+        {
+            "text": "on the phone with a girlfriend.",
+            "page_#": 15
+        },
+        {
+            "text": "friend on Facebook, and she began to talk about stuff.",
+            "page_#": 15
+        },
+        {
+            "text": "\"What is going on?\"",
+            "page_#": 15
+        },
+        {
+            "text": "She is a reporter.\"",
+            "page_#": 15
+        },
+        {
+            "text": "And I had -- someone wanted me to accept them as a",
+            "page_#": 15
+        },
+        {
+            "text": "So I asked my girlfriend, I said,",
+            "page_#": 15
+        },
+        {
+            "text": "She looked in Messenger, and she said, \"Yeah, she's a real person.",
+            "page_#": 15
+        },
+        {
+            "text": "So I did not accept her as a friend, but I responded to her message.",
+            "page_#": 15
+        },
+        {
+            "text": "saying that she wanted to interview me.",
+            "page_#": 15
+        },
+        {
+            "text": "began to talk about stuff.",
+            "page_#": 15
+        },
+        {
+            "text": "about it.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Got it.",
+            "page_#": 15
+        },
+        {
+            "text": "And she was",
+            "page_#": 15
+        },
+        {
+            "text": "And I'm like, interview me for what?",
+            "page_#": 15
+        },
+        {
+            "text": "And that's when it all got started.",
+            "page_#": 15
+        },
+        {
+            "text": "And she",
+            "page_#": 15
+        },
+        {
+            "text": "That's how I found out",
+            "page_#": 15
+        },
+        {
+            "text": "So did you speak to the reporter or to the friend?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I was on the phone with the friend, but I never talked with the reporter,",
+            "page_#": 16
+        },
+        {
+            "text": "because after that point -- first, I said yes, you know, because I don't know what's going",
+            "page_#": 16
+        },
+        {
+            "text": "on.",
+            "page_#": 16
+        },
+        {
+            "text": "can talk.",
+            "page_#": 16
+        },
+        {
+            "text": "It was new.",
+            "page_#": 16
+        },
+        {
+            "text": "I didn't have an attorney or a lawyer at that time.",
+            "page_#": 16
+        },
+        {
+            "text": "So I said, yes, we",
+            "page_#": 16
+        },
+        {
+            "text": "And then after my phone just started blowing up all night and that next morning",
+            "page_#": 16
+        },
+        {
+            "text": "and -- I notified her and I said, \"I think I need an attorney.",
+            "page_#": 16
+        },
+        {
+            "text": "you.\"",
+            "page_#": 16
+        },
+        {
+            "text": "I won't be able to talk to",
+            "page_#": 16
+        },
+        {
+            "text": "And she said, \"Yes, you do, but if you want to talk, then let me know.\"",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "So when you first -- you know, your friend started mentioning this to you and you",
+            "page_#": 16
+        },
+        {
+            "text": "realized that the reporter wanted to talk to you, what did you understand to have caused",
+            "page_#": 16
+        },
+        {
+            "text": "it?",
+            "page_#": 16
+        },
+        {
+            "text": "Okay.",
+            "page_#": 16
+        },
+        {
+            "text": "Did you learn about the video that they played during the hearing?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "No, I didn't know about the video at that moment.",
+            "page_#": 16
+        },
+        {
+            "text": "All I knew at that",
+            "page_#": 16
+        },
+        {
+            "text": "moment was they said that I was stealing ballots, I was trying to steal ballots for President",
+            "page_#": 16
+        },
+        {
+            "text": "Biden.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "And what did you think when you first --",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I did not -- I did not understand anything.",
+            "page_#": 16
+        },
+        {
+            "text": "was talking about.",
+            "page_#": 16
+        },
+        {
+            "text": "I didn't -- I didn't know what they",
+            "page_#": 16
+        },
+        {
+            "text": "I just knew it sound like something serious.",
+            "page_#": 16
+        },
+        {
+            "text": "So that next morning I left and I went to -- because it was Fulton County.",
+            "page_#": 16
+        },
+        {
+            "text": "had worked with Fulton County Police Department, so I was like, I need to go to Fulton",
+            "page_#": 16
+        },
+        {
+            "text": "County Police Department and let them know.",
+            "page_#": 16
+        },
+        {
+            "text": "So I went to -- I called Voters Registration and Elections, I was letting them know",
+            "page_#": 16
+        },
+        {
+            "text": "about all the phone calls.",
+            "page_#": 16
+        },
+        {
+            "text": "and so I went to their office.",
+            "page_#": 16
+        },
+        {
+            "text": "And I",
+            "page_#": 16
+        },
+        {
+            "text": "And they immediately said that they wanted to talk to me,",
+            "page_#": 16
+        },
+        {
+            "text": "And then I went to the police department.",
+            "page_#": 16
+        },
+        {
+            "text": "And they got my phone, and it was",
+            "page_#": 16
+        },
+        {
+            "text": "just blowing up, and people were talking and cursing, and they were gonna -- you know,",
+            "page_#": 16
+        },
+        {
+            "text": "all the threats.",
+            "page_#": 17
+        },
+        {
+            "text": "started.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "So she handled a lot of the calls, you know, and that's how that got",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "So I didn't realize that people got your phone number so quickly",
+            "page_#": 17
+        },
+        {
+            "text": "after that video was posted on -- or aired on December 3rd.",
+            "page_#": 17
+        },
+        {
+            "text": "calls and text messages started arriving?",
+            "page_#": 17
+        },
+        {
+            "text": "But that's really when the",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "that time.",
+            "page_#": 17
+        },
+        {
+            "text": "at that point.",
+            "page_#": 17
+        },
+        {
+            "text": "what was going on.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "So, after you went to talk with folks at the Registration and Elections Department",
+            "page_#": 17
+        },
+        {
+            "text": "Yes.",
+            "page_#": 17
+        },
+        {
+            "text": "And you said there was a video.",
+            "page_#": 17
+        },
+        {
+            "text": "I did not know about the video at",
+            "page_#": 17
+        },
+        {
+            "text": "So all I know is that the phone started blowing up about it.",
+            "page_#": 17
+        },
+        {
+            "text": "I didn't even think how they got my phone number.",
+            "page_#": 17
+        },
+        {
+            "text": "So I didn't know",
+            "page_#": 17
+        },
+        {
+            "text": "I just didn't know",
+            "page_#": 17
+        },
+        {
+            "text": "Right.",
+            "page_#": 17
+        },
+        {
+            "text": "and then at the police department, what happened next?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "What happened after I finished talking with the police department and",
+            "page_#": 17
+        },
+        {
+            "text": "Voters Registration and Elections, I was then told that we had to come downtown to",
+            "page_#": 17
+        },
+        {
+            "text": "meet with different departments that wanted to interview us to find out exactly what",
+            "page_#": 17
+        },
+        {
+            "text": "happened each -- you know, those days.",
+            "page_#": 17
+        },
+        {
+            "text": "meet with them.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "And were those individuals associated the secretary of state's office --",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "It was --",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "-- who wanted to meet with you?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "That was one of them, was the secretary of state.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Do you remember the others?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Yes.",
+            "page_#": 17
+        },
+        {
+            "text": "And so they set up an appointment for us to",
+            "page_#": 17
+        },
+        {
+            "text": "It was the secretary of state -- the ones we met with was the secretary",
+            "page_#": 17
+        },
+        {
+            "text": "of state, it was the FBI, the GBI, the county manager's office, Fulton County manager's",
+            "page_#": 17
+        },
+        {
+            "text": "office.",
+            "page_#": 17
+        },
+        {
+            "text": "And there was one more.",
+            "page_#": 17
+        },
+        {
+            "text": "County manager's -- attorney's office.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "And the county attorney.",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Fulton County attorney's.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Do you remember when that meeting took place?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "No, not -- I don't know the exact date.",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "just kind of was, like, happening.",
+            "page_#": 18
+        },
+        {
+            "text": "I just was trying to live at that point because --",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Sure.",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "-- I was being threatened.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Yeah, totally understand.",
+            "page_#": 18
+        },
+        {
+            "text": "the phone calls started arriving?",
+            "page_#": 18
+        },
+        {
+            "text": "Everything",
+            "page_#": 18
+        },
+        {
+            "text": "So I didn't keep a record of what happened what day.",
+            "page_#": 18
+        },
+        {
+            "text": "Everything was a blur.",
+            "page_#": 18
+        },
+        {
+            "text": "But it was probably within a day or two of when",
+            "page_#": 18
+        },
+        {
+            "text": "Is that fair?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I would say within the week.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Within the week.",
+            "page_#": 18
+        },
+        {
+            "text": "So tell us about --",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I think.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "I'm sorry?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I think.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Oh, yeah.",
+            "page_#": 18
+        },
+        {
+            "text": "So, within that timeframe when you met with the law enforcement and county",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "That's very helpful.",
+            "page_#": 18
+        },
+        {
+            "text": "No problem.",
+            "page_#": 18
+        },
+        {
+            "text": "officials, tell me just generally, what do you remember about the meeting?",
+            "page_#": 18
+        },
+        {
+            "text": "the topics of discussion?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "What were",
+            "page_#": 18
+        },
+        {
+            "text": "I don't remember the exact topics, but I know they were investigating,",
+            "page_#": 18
+        },
+        {
+            "text": "like -- they were asking what happened that night, you know, with the ballots.",
+            "page_#": 18
+        },
+        {
+            "text": "And the",
+            "page_#": 18
+        },
+        {
+            "text": "reporters, they were just asking a lot of different questions as to what happened that",
+            "page_#": 18
+        },
+        {
+            "text": "night.",
+            "page_#": 18
+        },
+        {
+            "text": "we crossed every \"t\" and dotted every \"i,\" whatever we did.",
+            "page_#": 18
+        },
+        {
+            "text": "They were trying -- they were investigating to see if we did something wrong, if",
+            "page_#": 18
+        },
+        {
+            "text": "That's what they wanted to",
+            "page_#": 18
+        },
+        {
+            "text": "know.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "And was your daughter, Ms. Moss, also interviewed at that time?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Sure.",
+            "page_#": 19
+        },
+        {
+            "text": "Understood.",
+            "page_#": 19
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 19
+        },
+        {
+            "text": "All the ones that were interviewed were the ones that was at the",
+            "page_#": 19
+        },
+        {
+            "text": "State Farm Arena that night.",
+            "page_#": 19
+        },
+        {
+            "text": "Okay.",
+            "page_#": 19
+        },
+        {
+            "text": "Great.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Did you ever get interviewed again by any of those law enforcement or",
+            "page_#": 19
+        },
+        {
+            "text": "government officials, or was it just that one time?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "No, ma'am.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Okay.",
+            "page_#": 19
+        },
+        {
+            "text": "Anything else that sticks out in your memory about the process of going in and",
+            "page_#": 19
+        },
+        {
+            "text": "It was just that one time.",
+            "page_#": 19
+        },
+        {
+            "text": "Great.",
+            "page_#": 19
+        },
+        {
+            "text": "being interviewed?",
+            "page_#": 19
+        },
+        {
+            "text": "I'm sure it was intimidating, with all of these various government",
+            "page_#": 19
+        },
+        {
+            "text": "officials and law enforcement officers.",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "And it wasn't -- I wouldn't say it was intimidating, because I worked for the police",
+            "page_#": 19
+        },
+        {
+            "text": "That was it.",
+            "page_#": 19
+        },
+        {
+            "text": "department for 12 years.",
+            "page_#": 19
+        },
+        {
+            "text": "it wasn't really intimidating.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "You know, I maintained the database for 911 for 8 years.",
+            "page_#": 19
+        },
+        {
+            "text": "So",
+            "page_#": 19
+        },
+        {
+            "text": "It was just a lot.",
+            "page_#": 19
+        },
+        {
+            "text": "I shouldn't have suggested that, because I sense that you're not a woman",
+            "page_#": 19
+        },
+        {
+            "text": "easily intimidated, so --",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "-- I apologize for that.",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "So what else -- what happened after that?",
+            "page_#": 19
+        },
+        {
+            "text": "But that makes good sense.",
+            "page_#": 19
+        },
+        {
+            "text": "Well, let me ask you, at that",
+            "page_#": 19
+        },
+        {
+            "text": "point, when you had the interview with the law enforcement officials, were you aware of",
+            "page_#": 19
+        },
+        {
+            "text": "the video at that point?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "No.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Okay.",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I did not look at a lot of stuff.",
+            "page_#": 20
+        },
+        {
+            "text": "No, I wasn't aware of the video at that point.",
+            "page_#": 20
+        },
+        {
+            "text": "I didn't listen to the news.",
+            "page_#": 20
+        },
+        {
+            "text": "I would have",
+            "page_#": 20
+        },
+        {
+            "text": "some people that would call me and tell me certain things or they would send me",
+            "page_#": 20
+        },
+        {
+            "text": "different clips of something, you know, but I didn't get many of those.",
+            "page_#": 20
+        },
+        {
+            "text": "them.",
+            "page_#": 20
+        },
+        {
+            "text": "I didn't watch",
+            "page_#": 20
+        },
+        {
+            "text": "I didn't want to know anything.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you later come to learn about this video that had been circulating?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Which video are you speaking of?",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "I was thinking of the one that was shown during the hearing.",
+            "page_#": 20
+        },
+        {
+            "text": "My",
+            "page_#": 20
+        },
+        {
+            "text": "understanding is that there was a hearing of a senate committee and a long video was",
+            "page_#": 20
+        },
+        {
+            "text": "shown, and then there was a shorter clip that was kind of made and posted onto social",
+            "page_#": 20
+        },
+        {
+            "text": "media and other places, including by Mr. Giuliani.",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "What did it entail?",
+            "page_#": 20
+        },
+        {
+            "text": "What did -- I don't know which one you're speaking of.",
+            "page_#": 20
+        },
+        {
+            "text": "Which video are you speaking of?",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Oh, sure.",
+            "page_#": 20
+        },
+        {
+            "text": "So my understanding is that there was a short clip -- and we",
+            "page_#": 20
+        },
+        {
+            "text": "could pull it up if that would be easier to look at -- but where Mayor Giuliani posted a",
+            "page_#": 20
+        },
+        {
+            "text": "video that was, like, screens of a surveillance camera about ballot processing during the --",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Okay.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "-- you know, election night at State Farm Arena.",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Okay.",
+            "page_#": 20
+        },
+        {
+            "text": "question about it?",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "I can somewhat recall that one, yes, ma'am.",
+            "page_#": 20
+        },
+        {
+            "text": "So what was your",
+            "page_#": 20
+        },
+        {
+            "text": "I'm just wondering if you came to be familiar with it, and if so, you know,",
+            "page_#": 20
+        },
+        {
+            "text": "how did you learn about this video that was circulating.",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "How did I learn about the video?",
+            "page_#": 20
+        },
+        {
+            "text": "me to look on the VouTube.",
+            "page_#": 20
+        },
+        {
+            "text": "Hmm.",
+            "page_#": 20
+        },
+        {
+            "text": "I think someone probably told",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "What did you think when you saw it?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I thought it was horrible.",
+            "page_#": 21
+        },
+        {
+            "text": "degrading.",
+            "page_#": 21
+        },
+        {
+            "text": "It was all a lie.",
+            "page_#": 21
+        },
+        {
+            "text": "be, not what it actually was.",
+            "page_#": 21
+        },
+        {
+            "text": "I thought it was -- it was horrible, it was",
+            "page_#": 21
+        },
+        {
+            "text": "They felt that -- they made it to be what they wanted it to",
+            "page_#": 21
+        },
+        {
+            "text": "Understood.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Did you see any interviews or statements by -- well, let me rephrase.",
+            "page_#": 21
+        },
+        {
+            "text": "I'm aware that individuals associated with or employed by the secretary of state's",
+            "page_#": 21
+        },
+        {
+            "text": "office started speaking out very quickly after this to try to debunk the video, to provide",
+            "page_#": 21
+        },
+        {
+            "text": "context and provide knowledge that what was being said about the video was not true.",
+            "page_#": 21
+        },
+        {
+            "text": "Did you learn of any of those things around this time period in early December",
+            "page_#": 21
+        },
+        {
+            "text": "2020?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I did hear that, you know -- after I heard about my name being mentioned 18",
+            "page_#": 21
+        },
+        {
+            "text": "times by Number 45 and the secretary of state, I did hear a lot about that they said it was",
+            "page_#": 21
+        },
+        {
+            "text": "not true.",
+            "page_#": 21
+        },
+        {
+            "text": "be incorrect, that we did not steal the ballots, we did not have anything to do with",
+            "page_#": 21
+        },
+        {
+            "text": "changing the numbers.",
+            "page_#": 21
+        },
+        {
+            "text": "There was found -- after the recounts and the recounts, that they found it to",
+            "page_#": 21
+        },
+        {
+            "text": "Okay.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "And I'm also aware that President Trump appeared in Georgia at the beginning",
+            "page_#": 21
+        },
+        {
+            "text": "part of December -- I think it was around December 6th -- for a campaign rally in",
+            "page_#": 21
+        },
+        {
+            "text": "connection with the Senate runoff, the next election that was going on in Georgia, and he",
+            "page_#": 21
+        },
+        {
+            "text": "played a news clip that focused on this video.",
+            "page_#": 21
+        },
+        {
+            "text": "Were you aware of this at the time when he did that?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "Not at the time.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Okay.",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "Probably much later.",
+            "page_#": 21
+        },
+        {
+            "text": "When did you learn of it?",
+            "page_#": 21
+        },
+        {
+            "text": "Ma'am, I did not follow the news.",
+            "page_#": 21
+        },
+        {
+            "text": "I was not",
+            "page_#": 21
+        },
+        {
+            "text": "interested in seeing it, because it was -- it was a horrible experience.",
+            "page_#": 22
+        },
+        {
+            "text": "to keep up with anything.",
+            "page_#": 22
+        },
+        {
+            "text": "So I wasn't trying",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Sure.",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I wanted it all to go away, because it was all a big lie, and there was nothing I",
+            "page_#": 22
+        },
+        {
+            "text": "could do at the moment.",
+            "page_#": 22
+        },
+        {
+            "text": "I was just trying to find me an attorney.",
+            "page_#": 22
+        },
+        {
+            "text": "Understood.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "When you did learn that the President had stopped the campaign rally to air this",
+            "page_#": 22
+        },
+        {
+            "text": "news clip focusing on these lies, these allegations, how did that make you feel?",
+            "page_#": 22
+        },
+        {
+            "text": "I don't even think I remember hearing about him and a campaign -- about",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "what you just said.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "But it sounds like you certainly did hear about it when you had the phone call with",
+            "page_#": 22
+        },
+        {
+            "text": "Okay.",
+            "page_#": 22
+        },
+        {
+            "text": "Got it.",
+            "page_#": 22
+        },
+        {
+            "text": "Georgia Secretary of State --",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Right.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "-- Brad Raffensperger.",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Yes.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Okay.",
+            "page_#": 22
+        },
+        {
+            "text": "Yes.",
+            "page_#": 22
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 22
+        },
+        {
+            "text": "So tell me about the circumstances.",
+            "page_#": 22
+        },
+        {
+            "text": "How did you learn about that",
+            "page_#": 22
+        },
+        {
+            "text": "phone call having taken place?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "On the news.",
+            "page_#": 22
+        },
+        {
+            "text": "Just, I heard about it from just listening to the news.",
+            "page_#": 22
+        },
+        {
+            "text": "Sometimes, every now and then, I would turn on the news just to hear something, or I",
+            "page_#": 22
+        },
+        {
+            "text": "would put my name in Google or something, and it would bring up different things.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Okay.",
+            "page_#": 22
+        },
+        {
+            "text": "So what did you learn when you saw this call had taken place?",
+            "page_#": 22
+        },
+        {
+            "text": "you find out that your name was mentioned during the phone call?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Yes, I found out my name was mentioned during that phone call, later.",
+            "page_#": 22
+        },
+        {
+            "text": "don't know exactly when.",
+            "page_#": 22
+        },
+        {
+            "text": "Did",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "So I know you discussed this a little bit in your statement, so --",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Okay.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "-- thank you in advance for your patience as I go over this stuff a little bit",
+            "page_#": 23
+        },
+        {
+            "text": "more.",
+            "page_#": 23
+        },
+        {
+            "text": "But tell me about, you know, sort of, how you learned about the President using",
+            "page_#": 23
+        },
+        {
+            "text": "your name in that call and what the impact was for you.",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Once again, I heard about it on the news.",
+            "page_#": 23
+        },
+        {
+            "text": "I don't know how, whether it",
+            "page_#": 23
+        },
+        {
+            "text": "was VouTube, Google, or if someone called me to tell me, I'm not really sure.",
+            "page_#": 23
+        },
+        {
+            "text": "But the way that it made me feel was horrible.",
+            "page_#": 23
+        },
+        {
+            "text": "It's like, really?",
+            "page_#": 23
+        },
+        {
+            "text": "The President",
+            "page_#": 23
+        },
+        {
+            "text": "of the United States is mentioning my name and saying to find some ballots.",
+            "page_#": 23
+        },
+        {
+            "text": "you can just find -- all we need is -- however many they said.",
+            "page_#": 23
+        },
+        {
+            "text": "All you need is that.",
+            "page_#": 23
+        },
+        {
+            "text": "And to mention my name over and over, I thought -- it was horrible.",
+            "page_#": 23
+        },
+        {
+            "text": "really?",
+            "page_#": 23
+        },
+        {
+            "text": "and over?",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "I'm sure",
+            "page_#": 23
+        },
+        {
+            "text": "It's like,",
+            "page_#": 23
+        },
+        {
+            "text": "You have nothing else to do other than to mention my name several times, over",
+            "page_#": 23
+        },
+        {
+            "text": "And, at that point, it was almost a month or about a month after this lie, this",
+            "page_#": 23
+        },
+        {
+            "text": "allegation, had first arisen, and as I think we were, you know, referring to earlier, there",
+            "page_#": 23
+        },
+        {
+            "text": "were plenty of opportunities for the truth about what happened to have come out at that",
+            "page_#": 23
+        },
+        {
+            "text": "point.",
+            "page_#": 23
+        },
+        {
+            "text": "Did that factor into your, sort of, interpretation, your understanding of what the",
+            "page_#": 23
+        },
+        {
+            "text": "President was doing, the fact that it had already been proven to be a lie at that point?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "At that point, it had been proven to be a lie, but he -- I felt that that wasn't",
+            "page_#": 23
+        },
+        {
+            "text": "good enough for him.",
+            "page_#": 23
+        },
+        {
+            "text": "the threats and everything that I got, they was trying to say I committed a crime.",
+            "page_#": 23
+        },
+        {
+            "text": "that wasn't enough for him.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Right.",
+            "page_#": 23
+        },
+        {
+            "text": "He still was trying to say that I committed a crime.",
+            "page_#": 23
+        },
+        {
+            "text": "He and all of",
+            "page_#": 23
+        },
+        {
+            "text": "So",
+            "page_#": 23
+        },
+        {
+            "text": "Did you learn -- did you ever learn about the President's speech on January 6th",
+            "page_#": 24
+        },
+        {
+            "text": "itself on the Ellipse?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm not sure.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Okay.",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "What did the speech say?",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Well, the President spoke from the Ellipse, which is the area in front of the",
+            "page_#": 24
+        },
+        {
+            "text": "White House here in Washington.",
+            "page_#": 24
+        },
+        {
+            "text": "length.",
+            "page_#": 24
+        },
+        {
+            "text": "of ballots.",
+            "page_#": 24
+        },
+        {
+            "text": "But included in his comments was a reference to the allegation about suitcases",
+            "page_#": 24
+        },
+        {
+            "text": "And so I just wondered whether you became aware of the President including a",
+            "page_#": 24
+        },
+        {
+            "text": "There was a large crowd, and he spoke to them at",
+            "page_#": 24
+        },
+        {
+            "text": "remark about this lie that we've been discussing today in his speech on January 6th.",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "No, ma'am, I did not.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Okay.",
+            "page_#": 24
+        },
+        {
+            "text": "Well, I would like to talk with you a little bit more about the threats that you",
+            "page_#": 24
+        },
+        {
+            "text": "received and the impact on you, but before I do that, I just want to see if there are any big",
+            "page_#": 24
+        },
+        {
+            "text": "points in the story of, sort of, where this lie originated and where you, kind of, saw it",
+            "page_#": 24
+        },
+        {
+            "text": "appear that you'd like to talk about.",
+            "page_#": 24
+        },
+        {
+            "text": "I was not aware of him with the speech, January 6th,",
+            "page_#": 24
+        },
+        {
+            "text": "no.",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Great.",
+            "page_#": 24
+        },
+        {
+            "text": "Where did I see the lie appear?",
+            "page_#": 24
+        },
+        {
+            "text": "I saw the lies appear in the -- like I said, it",
+            "page_#": 24
+        },
+        {
+            "text": "was either Google or somebody called to tell me.",
+            "page_#": 24
+        },
+        {
+            "text": "I didn't watch television.",
+            "page_#": 24
+        },
+        {
+            "text": "I did not want to live that over and over.",
+            "page_#": 24
+        },
+        {
+            "text": "when it happened.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Okay.",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "And if sometimes I would have people to tell me, I'd say, \"I don't want to",
+            "page_#": 24
+        },
+        {
+            "text": "I did not want to see it, because it was horrible lies, and",
+            "page_#": 24
+        },
+        {
+            "text": "So I don't remember a lot of what happened",
+            "page_#": 24
+        },
+        {
+            "text": "hear that.",
+            "page_#": 25
+        },
+        {
+            "text": "I'm not interested.\"",
+            "page_#": 25
+        },
+        {
+            "text": "anything.",
+            "page_#": 25
+        },
+        {
+            "text": "Don't send me an email, no text message, no nothing.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "So let's talk a little bit more about the threats, as much as you are comfortable",
+            "page_#": 25
+        },
+        {
+            "text": "I don't want to know.",
+            "page_#": 25
+        },
+        {
+            "text": "Understood.",
+            "page_#": 25
+        },
+        {
+            "text": "discussing, that you received.",
+            "page_#": 25
+        },
+        {
+            "text": "So I know you've already told us that in the early December time period, right",
+            "page_#": 25
+        },
+        {
+            "text": "You know, I didn't want anybody calling me to tell me",
+            "page_#": 25
+        },
+        {
+            "text": "around December 3rd or 4th --",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "-- your phone started ringing and that you went to the police department.",
+            "page_#": 25
+        },
+        {
+            "text": "What happened after that?",
+            "page_#": 25
+        },
+        {
+            "text": "point?",
+            "page_#": 25
+        },
+        {
+            "text": "What impact on your life did you experience after that",
+            "page_#": 25
+        },
+        {
+            "text": "The impact that it had on my life?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I was afraid to go out.",
+            "page_#": 25
+        },
+        {
+            "text": "It turned my whole life around.",
+            "page_#": 25
+        },
+        {
+            "text": "I was afraid for people to call my name.",
+            "page_#": 25
+        },
+        {
+            "text": "Like I said, I was",
+            "page_#": 25
+        },
+        {
+            "text": "afraid to order food and somebody would ask, what's your name?",
+            "page_#": 25
+        },
+        {
+            "text": "like, just standing there looking at them, you know, and then I would have to come up",
+            "page_#": 25
+        },
+        {
+            "text": "with some name.",
+            "page_#": 25
+        },
+        {
+            "text": "Or if I was at the red light and somebody was staring, you know, it was like, I didn't",
+            "page_#": 25
+        },
+        {
+            "text": "know why they were staring, why -- you know.",
+            "page_#": 25
+        },
+        {
+            "text": "So I was always fearful, I was always afraid.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "And I think you told us earlier in your statement, you remarked about a time",
+            "page_#": 25
+        },
+        {
+            "text": "where you had to move out of your house.",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Yes, ma'am, that's right.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Okay.",
+            "page_#": 25
+        },
+        {
+            "text": "That was -- I was,",
+            "page_#": 25
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 25
+        },
+        {
+            "text": "I had to move out of my house.",
+            "page_#": 25
+        },
+        {
+            "text": "So tell us a little bit more about that.",
+            "page_#": 25
+        },
+        {
+            "text": "What prompted you to",
+            "page_#": 25
+        },
+        {
+            "text": "decide that you needed to leave your house for your own safety?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Around the week of January 6th, the FBI informed me that I needed to leave",
+            "page_#": 25
+        },
+        {
+            "text": "my home for safety.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "And I left my home for safety around that time.",
+            "page_#": 26
+        },
+        {
+            "text": "Understood.",
+            "page_#": 26
+        },
+        {
+            "text": "How long did you, you know, remain outside of your home",
+            "page_#": 26
+        },
+        {
+            "text": "for your own safety?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I stayed away from my home for approximately 2 months.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "And it's obvious, but I have to say these things for the record --",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Yes, ma'am.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "-- so thanks for your patience, but how did that impact you?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "It was horrible.",
+            "page_#": 26
+        },
+        {
+            "text": "I felt homeless.",
+            "page_#": 26
+        },
+        {
+            "text": "I felt, you know, I can't believe -- I can't",
+            "page_#": 26
+        },
+        {
+            "text": "believe this person has caused this much damage to me and my family, to have to leave",
+            "page_#": 26
+        },
+        {
+            "text": "my home that I've lived there for 21 years.",
+            "page_#": 26
+        },
+        {
+            "text": "neighbors watch out for me, you know, and I have to go and stay with somebody.",
+            "page_#": 26
+        },
+        {
+            "text": "hard.",
+            "page_#": 26
+        },
+        {
+            "text": "It was",
+            "page_#": 26
+        },
+        {
+            "text": "It was horrible.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "And, you know, I'm having to have my",
+            "page_#": 26
+        },
+        {
+            "text": "And your conversation with the FBI about needing to leave your home for",
+            "page_#": 26
+        },
+        {
+            "text": "your own safety, or perhaps recommending it, do you remember, was there a specific",
+            "page_#": 26
+        },
+        {
+            "text": "threat that prompted that, or was it the accumulation of threats that you had received?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "What prompted it was, it was getting ready to -- January 6th was about to",
+            "page_#": 26
+        },
+        {
+            "text": "come.",
+            "page_#": 26
+        },
+        {
+            "text": "everything that I had gotten.",
+            "page_#": 26
+        },
+        {
+            "text": "people would come into my home.",
+            "page_#": 26
+        },
+        {
+            "text": "there, just in case something happened.",
+            "page_#": 26
+        },
+        {
+            "text": "And they did not want me to be at home because of all the threats and",
+            "page_#": 26
+        },
+        {
+            "text": "They didn't want me to be there, in fear of, you know, that",
+            "page_#": 26
+        },
+        {
+            "text": "And I had a lot of that, so they didn't want me to be",
+            "page_#": 26
+        },
+        {
+            "text": "I asked, how long am I gonna have to be out of my home?",
+            "page_#": 26
+        },
+        {
+            "text": "They said, at least",
+            "page_#": 26
+        },
+        {
+            "text": "until the inauguration.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Wow.",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Because it was just that bad, with people coming to my home and",
+            "page_#": 26
+        },
+        {
+            "text": "threatening me and me getting mail, letters, and phone calls, you know, the phone calls",
+            "page_#": 26
+        },
+        {
+            "text": "saying different stuff, like, \"We know where you live.",
+            "page_#": 27
+        },
+        {
+            "text": "a lot of different horrible, racist threats.",
+            "page_#": 27
+        },
+        {
+            "text": "We're coming to get you.\"",
+            "page_#": 27
+        },
+        {
+            "text": "It was",
+            "page_#": 27
+        },
+        {
+            "text": "And -- yeah.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "So, just generally speaking, what were the types of threats that you received?",
+            "page_#": 27
+        },
+        {
+            "text": "Understood.",
+            "page_#": 27
+        },
+        {
+            "text": "know you've told us you got a lot of phone calls.",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Were you also getting text messages or other types of email, electronic",
+            "page_#": 27
+        },
+        {
+            "text": "communications containing threats?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "The type threats that I received was email, text messages, Messenger,",
+            "page_#": 27
+        },
+        {
+            "text": "Linked In, mail, people coming to the house.",
+            "page_#": 27
+        },
+        {
+            "text": "And the types were -- they would say things like, \"We know where you live, and",
+            "page_#": 27
+        },
+        {
+            "text": "we're coming to get you, nigger.\"",
+            "page_#": 27
+        },
+        {
+            "text": "Or, you know, \"Your voice mail says about your faith and you're a Christian.",
+            "page_#": 27
+        },
+        {
+            "text": "Biden is gonna help you now that you have given him all these ballots?",
+            "page_#": 27
+        },
+        {
+            "text": "he's gonna come to help you out?",
+            "page_#": 27
+        },
+        {
+            "text": "\"You and your daughters are\" -- they would just use a lot of curse words.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Or, \"You're going to jail, and you're gonna rot in hell.\"",
+            "page_#": 27
+        },
+        {
+            "text": "He's not.",
+            "page_#": 27
+        },
+        {
+            "text": "Do you think",
+            "page_#": 27
+        },
+        {
+            "text": "Do you think",
+            "page_#": 27
+        },
+        {
+            "text": "He don't care anything about you.\"",
+            "page_#": 27
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 27
+        },
+        {
+            "text": "And did people come to your home and either protest or make threats",
+            "page_#": 27
+        },
+        {
+            "text": "directly in the vicinity of your home?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Yes, people did come to my home.",
+            "page_#": 27
+        },
+        {
+            "text": "didn't order, to my home and my mom's home.",
+            "page_#": 27
+        },
+        {
+            "text": "was behind the pizza.",
+            "page_#": 27
+        },
+        {
+            "text": "There was pizzas being delivered that I",
+            "page_#": 27
+        },
+        {
+            "text": "And I found out later what the thing",
+            "page_#": 27
+        },
+        {
+            "text": "And the day that I left, when FBI advised me that I needed to leave, that same day",
+            "page_#": 27
+        },
+        {
+            "text": "my neighbor called and -- one of my neighbors -- and asked if I was at home.",
+            "page_#": 27
+        },
+        {
+            "text": "I was like,",
+            "page_#": 27
+        },
+        {
+            "text": "no.",
+            "page_#": 27
+        },
+        {
+            "text": "talking negative about me and, you know, they were coming to get me and -- they were",
+            "page_#": 27
+        },
+        {
+            "text": "And that's when she advised me that there were people that were on the bullhorns",
+            "page_#": 27
+        },
+        {
+            "text": "coming to get me.",
+            "page_#": 28
+        },
+        {
+            "text": "And people did -- the lady did come to my home to say that -- well, that was later.",
+            "page_#": 28
+        },
+        {
+            "text": "I don't know.",
+            "page_#": 28
+        },
+        {
+            "text": "said that she was coming to help me; they had sent her from Chicago to help me.",
+            "page_#": 28
+        },
+        {
+            "text": "my definition of \"help\" was help -- help me.",
+            "page_#": 28
+        },
+        {
+            "text": "she meant.",
+            "page_#": 28
+        },
+        {
+            "text": "she was gonna put me in safety.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Everything kind of ran together.",
+            "page_#": 28
+        },
+        {
+            "text": "But that lady did come to my home and",
+            "page_#": 28
+        },
+        {
+            "text": "And",
+            "page_#": 28
+        },
+        {
+            "text": "But I later found out that that wasn't what",
+            "page_#": 28
+        },
+        {
+            "text": "She was trying to help me to safety from me doing something wrong, and so",
+            "page_#": 28
+        },
+        {
+            "text": "And is this the -- you referred to it in your statement, about someone trying",
+            "page_#": 28
+        },
+        {
+            "text": "to get you to sign something or admit to something that you didn't do.",
+            "page_#": 28
+        },
+        {
+            "text": "circumstance that you're remembering?",
+            "page_#": 28
+        },
+        {
+            "text": "Is that the same",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Yes, that is the same circumstance.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Okay.",
+            "page_#": 28
+        },
+        {
+            "text": "And I think you mentioned earlier, and I think it's in your complaint and litigation,",
+            "page_#": 28
+        },
+        {
+            "text": "a story about people trying to force their way into your mother's house, saying that they",
+            "page_#": 28
+        },
+        {
+            "text": "wanted to effectuate a citizens' arrest.",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Yes, that is right.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Same person.",
+            "page_#": 28
+        },
+        {
+            "text": "Yes.",
+            "page_#": 28
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 28
+        },
+        {
+            "text": "That is the same person.",
+            "page_#": 28
+        },
+        {
+            "text": "Okay.",
+            "page_#": 28
+        },
+        {
+            "text": "So tell us, how did that happen?",
+            "page_#": 28
+        },
+        {
+            "text": "And what was the",
+            "page_#": 28
+        },
+        {
+            "text": "impact on both you and your mother when that occurred?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "And I'm pretty sure it was -- I remember it was 48 hours before the 6th, this",
+            "page_#": 28
+        },
+        {
+            "text": "person came to my home.",
+            "page_#": 28
+        },
+        {
+            "text": "anybody, so I called my neighbor, and I was like, \"Who is that at my house?",
+            "page_#": 28
+        },
+        {
+            "text": "outside?\"",
+            "page_#": 28
+        },
+        {
+            "text": "And, at that point, I was just scared to go to the door for",
+            "page_#": 28
+        },
+        {
+            "text": "And so she came out, and she was -- she was yelling.",
+            "page_#": 28
+        },
+        {
+            "text": "Who is that",
+            "page_#": 28
+        },
+        {
+            "text": "And I remember hearing,",
+            "page_#": 28
+        },
+        {
+            "text": "the lady said, \"Can we come and talk to you?",
+            "page_#": 28
+        },
+        {
+            "text": "We didn't want to yell.\"",
+            "page_#": 28
+        },
+        {
+            "text": "And she said",
+            "page_#": 28
+        },
+        {
+            "text": "that we want to talk to Ms. Freeman, they sent me from Chicago, we want to talk to her",
+            "page_#": 28
+        },
+        {
+            "text": "and get her some help.",
+            "page_#": 29
+        },
+        {
+            "text": "And she said, \"Well, she's not at home, so leave your number, and I'll have her",
+            "page_#": 29
+        },
+        {
+            "text": "call.\"",
+            "page_#": 29
+        },
+        {
+            "text": "for a long time.",
+            "page_#": 29
+        },
+        {
+            "text": "person with the FBI.\"",
+            "page_#": 29
+        },
+        {
+            "text": "So I immediately called the police.",
+            "page_#": 29
+        },
+        {
+            "text": "And when the police came, she stayed there",
+            "page_#": 29
+        },
+        {
+            "text": "And I was telling her about it.",
+            "page_#": 29
+        },
+        {
+            "text": "And I said, \"Well, I have a contact",
+            "page_#": 29
+        },
+        {
+            "text": "And she called the FBI, and they talked and asked if it was okay for this lady to",
+            "page_#": 29
+        },
+        {
+            "text": "meet me at the police department to talk about how she could help me.",
+            "page_#": 29
+        },
+        {
+            "text": "a police report made.",
+            "page_#": 29
+        },
+        {
+            "text": "And there was",
+            "page_#": 29
+        },
+        {
+            "text": "And she -- we went to the police department.",
+            "page_#": 29
+        },
+        {
+            "text": "So I found out, the time that it took her to leave my house and to get to the police",
+            "page_#": 29
+        },
+        {
+            "text": "department, that's when she had been to my mom's house, and they tried to force their",
+            "page_#": 29
+        },
+        {
+            "text": "way into that house, which I didn't know at that moment, but I found out later.",
+            "page_#": 29
+        },
+        {
+            "text": "then she -- we met at the police department.",
+            "page_#": 29
+        },
+        {
+            "text": "And",
+            "page_#": 29
+        },
+        {
+            "text": "Okay.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "About how many times during this period between election day and January 6th,",
+            "page_#": 29
+        },
+        {
+            "text": "just to start, about how many times do you think you needed to call the police or the FBI",
+            "page_#": 29
+        },
+        {
+            "text": "because of the threats that you were receiving?",
+            "page_#": 29
+        },
+        {
+            "text": "How many times did I have to call the police department?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "six, seven, or eight times.",
+            "page_#": 29
+        },
+        {
+            "text": "to the house.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Ms..",
+            "page_#": 29
+        },
+        {
+            "text": "Congressman Adam Schiff.",
+            "page_#": 29
+        },
+        {
+            "text": "Understand.",
+            "page_#": 29
+        },
+        {
+            "text": "Okay.",
+            "page_#": 29
+        },
+        {
+            "text": "So, Ms. Freeman, we're joined by a member of the select committee,",
+            "page_#": 29
+        },
+        {
+            "text": "Good afternoon, Mr. Schiff.",
+            "page_#": 29
+        },
+        {
+            "text": "BYMS.-:",
+            "page_#": 29
+        },
+        {
+            "text": "I wanted to make a police report for different people coming",
+            "page_#": 29
+        },
+        {
+            "text": "And some would make a police report, and some wouldn't.",
+            "page_#": 29
+        },
+        {
+            "text": "Probably about",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "So, Ms. Freeman, let me go back over my notes.",
+            "page_#": 29
+        },
+        {
+            "text": "I think you have covered",
+            "page_#": 29
+        },
+        {
+            "text": "most of what we were going to talk about in your earlier statement or in response to my",
+            "page_#": 30
+        },
+        {
+            "text": "questions.",
+            "page_#": 30
+        },
+        {
+            "text": "Did you keep documents reflecting the threats that you received, either emails or",
+            "page_#": 30
+        },
+        {
+            "text": "text messages, anything like that?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Yes, I kept a lot of them.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "Okay.",
+            "page_#": 30
+        },
+        {
+            "text": "I was advised that I needed to keep them.",
+            "page_#": 30
+        },
+        {
+            "text": "And what about police reports that you made?",
+            "page_#": 30
+        },
+        {
+            "text": "Did you keep",
+            "page_#": 30
+        },
+        {
+            "text": "copies or anything like that about police reports that were made?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "No, ma'am, I didn't keep copies.",
+            "page_#": 30
+        },
+        {
+            "text": "I figured they would be held at the police",
+            "page_#": 30
+        },
+        {
+            "text": "department so I didn't need to go and pick up a copy.",
+            "page_#": 30
+        },
+        {
+            "text": "Sure.",
+            "page_#": 30
+        },
+        {
+            "text": "Okay.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "And I think that, to the extent that you're comfortable sharing, we'd love to work",
+            "page_#": 30
+        },
+        {
+            "text": "with your attorneys to incorporate some of the threats that you received into our record",
+            "page_#": 30
+        },
+        {
+            "text": "in connection with this.",
+            "page_#": 30
+        },
+        {
+            "text": "And we can talk with your counsel about that afterwards.",
+            "page_#": 30
+        },
+        {
+            "text": "So we talked a lot about the time period leading up to January 6th.",
+            "page_#": 30
+        },
+        {
+            "text": "your experience on January 6th itself?",
+            "page_#": 30
+        },
+        {
+            "text": "had left your house for your own safety.",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "That is right.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "Okay.",
+            "page_#": 30
+        },
+        {
+            "text": "What was",
+            "page_#": 30
+        },
+        {
+            "text": "I think that fell during the time period when you",
+            "page_#": 30
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 30
+        },
+        {
+            "text": "That's when I left my home.",
+            "page_#": 30
+        },
+        {
+            "text": "So, hopefully, there was nobody able to physically threaten you, but",
+            "page_#": 30
+        },
+        {
+            "text": "did you continue to receive any other types of threats during the time period and on",
+            "page_#": 30
+        },
+        {
+            "text": "January 6th?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "I did.",
+            "page_#": 30
+        },
+        {
+            "text": "I did receive other threats, via text message.",
+            "page_#": 30
+        },
+        {
+            "text": "Linked In had shut my",
+            "page_#": 30
+        },
+        {
+            "text": "account down, because they said I was -- it was creating -- I don't know the word they",
+            "page_#": 30
+        },
+        {
+            "text": "used, but it was creating something that would keep them -- they didn't want me on",
+            "page_#": 30
+        },
+        {
+            "text": "Linkedln anymore.",
+            "page_#": 30
+        },
+        {
+            "text": "And I had to change my Facebook page and my business.",
+            "page_#": 30
+        },
+        {
+            "text": "That was hard.",
+            "page_#": 30
+        },
+        {
+            "text": "Because now I don't have -- I couldn't -- my customers couldn't find me --",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Right.",
+            "page_#": 31
+        },
+        {
+            "text": "And --",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "-- in --",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Oh, I'm sorry.",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "-- in the middle of a pandemic.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Right.",
+            "page_#": 31
+        },
+        {
+            "text": "So tell us a little bit more, if you're able to, about the impact on your business.",
+            "page_#": 31
+        },
+        {
+            "text": "Exactly.",
+            "page_#": 31
+        },
+        {
+            "text": "know you just mentioned that you had to change your social media profiles.",
+            "page_#": 31
+        },
+        {
+            "text": "that impact your ability to carry on, you know, doing business as Lady Ruby?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "How did",
+            "page_#": 31
+        },
+        {
+            "text": "It impacted my business to the point where I really didn't have any",
+            "page_#": 31
+        },
+        {
+            "text": "customers at that moment, because I had to change -- they couldn't contact me.",
+            "page_#": 31
+        },
+        {
+            "text": "to have my phone number changed.",
+            "page_#": 31
+        },
+        {
+            "text": "threats and everything off of it, my phone just crashed.",
+            "page_#": 31
+        },
+        {
+            "text": "and hundreds of text messages and emails.",
+            "page_#": 31
+        },
+        {
+            "text": "And when they received my phone to pull all of the",
+            "page_#": 31
+        },
+        {
+            "text": "It was so many, it was hundreds",
+            "page_#": 31
+        },
+        {
+            "text": "So it affected my business because -- as I say, now I don't have the same business",
+            "page_#": 31
+        },
+        {
+            "text": "I had",
+            "page_#": 31
+        },
+        {
+            "text": "name.",
+            "page_#": 31
+        },
+        {
+            "text": "I had to shut down everything for the business.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "And have you been able to rebuild any of the business that you had before",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "I'm getting there with rebuilding my business.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Understood.",
+            "page_#": 31
+        },
+        {
+            "text": "You talked a little bit in your opening remarks, your statement, about your sense",
+            "page_#": 31
+        },
+        {
+            "text": "that?",
+            "page_#": 31
+        },
+        {
+            "text": "I'm getting there.",
+            "page_#": 31
+        },
+        {
+            "text": "of personal safety and how hard this experience has been.",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "It's now been more than a year since this all took place, but I understand",
+            "page_#": 31
+        },
+        {
+            "text": "from your comments and from public reporting that these threats and the impact on you",
+            "page_#": 31
+        },
+        {
+            "text": "from this lie continue to this day.",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "That is correct.",
+            "page_#": 32
+        },
+        {
+            "text": "really -- it really affect me.",
+            "page_#": 32
+        },
+        {
+            "text": "destroyed.",
+            "page_#": 32
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 32
+        },
+        {
+            "text": "The impact is great.",
+            "page_#": 32
+        },
+        {
+            "text": "Personally is my name.",
+            "page_#": 32
+        },
+        {
+            "text": "The lie continues.",
+            "page_#": 32
+        },
+        {
+            "text": "Yeah, it",
+            "page_#": 32
+        },
+        {
+            "text": "My name is out there.",
+            "page_#": 32
+        },
+        {
+            "text": "It's just",
+            "page_#": 32
+        },
+        {
+            "text": "So it's hard for me to -- I had to get -- because of all of that, I had -- my security",
+            "page_#": 32
+        },
+        {
+            "text": "level was high -- I had to have cameras in my home.",
+            "page_#": 32
+        },
+        {
+            "text": "have three motion sensors.",
+            "page_#": 32
+        },
+        {
+            "text": "outside and I'm in the kitchen, you know, I'm always afraid.",
+            "page_#": 32
+        },
+        {
+            "text": "you know, but I'm always afraid that it's somebody at the door, you know.",
+            "page_#": 32
+        },
+        {
+            "text": "goes off if I'm sleeping or whatever -- but it could be just, I don't know, the sun.",
+            "page_#": 32
+        },
+        {
+            "text": "during the day or at night, I don't know what happens, but it's just scary.",
+            "page_#": 32
+        },
+        {
+            "text": "I have Ring.",
+            "page_#": 32
+        },
+        {
+            "text": "Never had.",
+            "page_#": 32
+        },
+        {
+            "text": "I have Nest.",
+            "page_#": 32
+        },
+        {
+            "text": "Sometimes I sleep with the light on.",
+            "page_#": 32
+        },
+        {
+            "text": "bathroom, you know, on, not directly in the room.",
+            "page_#": 32
+        },
+        {
+            "text": "might sleep with the light on.",
+            "page_#": 32
+        },
+        {
+            "text": "television.",
+            "page_#": 32
+        },
+        {
+            "text": "I have 11 cameras.",
+            "page_#": 32
+        },
+        {
+            "text": "So, even if the light comes on",
+            "page_#": 32
+        },
+        {
+            "text": "And it can be a cat going by,",
+            "page_#": 32
+        },
+        {
+            "text": "Or if the Ring",
+            "page_#": 32
+        },
+        {
+            "text": "And",
+            "page_#": 32
+        },
+        {
+            "text": "Sometimes I leave a light out in the",
+            "page_#": 32
+        },
+        {
+            "text": "It depends on how scared I am.",
+            "page_#": 32
+        },
+        {
+            "text": "And I've always been a person for the dark, no light, no",
+            "page_#": 32
+        },
+        {
+            "text": "So I find myself sleeping with the television on sometimes.",
+            "page_#": 32
+        },
+        {
+            "text": "[4:58 p.m.]",
+            "page_#": 33
+        },
+        {
+            "text": "BYMS.-:",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Understandable.",
+            "page_#": 33
+        },
+        {
+            "text": "You made some comments at the beginning about seeing",
+            "page_#": 33
+        },
+        {
+            "text": "yourself as a part of the larger or -- I interpreted them as placing yourself as part of the",
+            "page_#": 33
+        },
+        {
+            "text": "larger community of election workers throughout the country.",
+            "page_#": 33
+        },
+        {
+            "text": "you said about the purpose of doing so is to enable our fellow citizens to be able to -- and",
+            "page_#": 33
+        },
+        {
+            "text": "I'm sorry for roughly paraphrasing you, but to have their voice heard and cast their votes.",
+            "page_#": 33
+        },
+        {
+            "text": "So I wondered if you could talk a little bit more about what you think your",
+            "page_#": 33
+        },
+        {
+            "text": "experience after the 2020 election, what impact that has on other election workers across",
+            "page_#": 33
+        },
+        {
+            "text": "the country?",
+            "page_#": 33
+        },
+        {
+            "text": "And I appreciated what",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "was a scapegoat.",
+            "page_#": 33
+        },
+        {
+            "text": "citizens -- keeping people from voting, from even working the elections.",
+            "page_#": 33
+        },
+        {
+            "text": "us from voting.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "The impact it had on me, it made me believe that it wasn't just about who",
+            "page_#": 33
+        },
+        {
+            "text": "That's how I felt about it.",
+            "page_#": 33
+        },
+        {
+            "text": "It was -- yeah.",
+            "page_#": 33
+        },
+        {
+            "text": "It was -- it was about keeping",
+            "page_#": 33
+        },
+        {
+            "text": "It was to keep",
+            "page_#": 33
+        },
+        {
+            "text": "It was to scare us.",
+            "page_#": 33
+        },
+        {
+            "text": "Do you think that you would ever work as an election worker again after this",
+            "page_#": 33
+        },
+        {
+            "text": "experience?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "Do you think -- do I think I would ever work the elections?",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Do you think it has the effect of discouraging others from participating --",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "1 pray that it does not.",
+            "page_#": 33
+        },
+        {
+            "text": "I -- I don't want people to be discouraged.",
+            "page_#": 33
+        },
+        {
+            "text": "this to teach them, even the more so is to go out and vote.",
+            "page_#": 33
+        },
+        {
+            "text": "they shouldn't be afraid.",
+            "page_#": 33
+        },
+        {
+            "text": "needs to be heard.",
+            "page_#": 33
+        },
+        {
+            "text": "voters for all -- wherever you live, yeah.",
+            "page_#": 33
+        },
+        {
+            "text": "Definitely not.",
+            "page_#": 33
+        },
+        {
+            "text": "You should go and vote.",
+            "page_#": 33
+        },
+        {
+            "text": "You need to be that number.",
+            "page_#": 33
+        },
+        {
+            "text": "I want",
+            "page_#": 33
+        },
+        {
+            "text": "I want people to know that",
+            "page_#": 33
+        },
+        {
+            "text": "Your voice counts.",
+            "page_#": 33
+        },
+        {
+            "text": "Your voice",
+            "page_#": 33
+        },
+        {
+            "text": "You need to be in that number of",
+            "page_#": 33
+        },
+        {
+            "text": "Go and vote.",
+            "page_#": 33
+        },
+        {
+            "text": "And also to work -- work the elections to make sure you can do the job.",
+            "page_#": 33
+        },
+        {
+            "text": "You can",
+            "page_#": 33
+        },
+        {
+            "text": "do it.",
+            "page_#": 34
+        },
+        {
+            "text": "Don't let what happened to me stop anyone from doing that.",
+            "page_#": 34
+        },
+        {
+            "text": "But I wouldn't do it, because it did happen to me, and I need to just stay out of the",
+            "page_#": 34
+        },
+        {
+            "text": "picture totally.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Yep.",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Because I think that could cause a problem for the next person that wants to",
+            "page_#": 34
+        },
+        {
+            "text": "do that, so I want them to feel safe by going to vote and make their voice be heard.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "So I know that you have pursued litigation following these efforts and have a case",
+            "page_#": 34
+        },
+        {
+            "text": "Understood.",
+            "page_#": 34
+        },
+        {
+            "text": "pending, a defamation case.",
+            "page_#": 34
+        },
+        {
+            "text": "us about your thought process around initiating litigation?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "No.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Okay.",
+            "page_#": 34
+        },
+        {
+            "text": "Ms.~",
+            "page_#": 34
+        },
+        {
+            "text": "So I wondered if there is anything you'd like to share with",
+            "page_#": 34
+        },
+        {
+            "text": "I would like -- not like to talk about anything with the litigation.",
+            "page_#": 34
+        },
+        {
+            "text": "That's understandable.",
+            "page_#": 34
+        },
+        {
+            "text": "So let me pause for a moment here, see if any of my colleagues or",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Schiff, if you have anything that you'd like to ask?",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 34
+        },
+        {
+            "text": "Yes.",
+            "page_#": 34
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 34
+        },
+        {
+            "text": "And I appreciate -- I very much appreciate your coming in today.",
+            "page_#": 34
+        },
+        {
+            "text": "As you can see,",
+            "page_#": 34
+        },
+        {
+            "text": "I'm in a less than luxurious environment, being in a car.",
+            "page_#": 34
+        },
+        {
+            "text": "But I --1 want to thank you for",
+            "page_#": 34
+        },
+        {
+            "text": "the courage you displayed.",
+            "page_#": 34
+        },
+        {
+            "text": "terrible about what you've been through and what other elections officials are incurring",
+            "page_#": 34
+        },
+        {
+            "text": "around the country.",
+            "page_#": 34
+        },
+        {
+            "text": "I want to thank you for coming in testify today.",
+            "page_#": 34
+        },
+        {
+            "text": "And I feel",
+            "page_#": 34
+        },
+        {
+            "text": "I know you covered this earlier, but if you wouldn't mind covering it again, I would",
+            "page_#": 34
+        },
+        {
+            "text": "just love to hear it.",
+            "page_#": 34
+        },
+        {
+            "text": "I'm sorry I wasn't able to join you earlier.",
+            "page_#": 34
+        },
+        {
+            "text": "when you first came to learn -- how you first came to learn that -- that people were",
+            "page_#": 34
+        },
+        {
+            "text": "pushing this big falsehood about -- upon you and your mom and what was -- what took",
+            "page_#": 34
+        },
+        {
+            "text": "place?",
+            "page_#": 34
+        },
+        {
+            "text": "When did that first come to your attention?",
+            "page_#": 34
+        },
+        {
+            "text": "But can you tell me",
+            "page_#": 34
+        },
+        {
+            "text": "When did someone first alert you",
+            "page_#": 34
+        },
+        {
+            "text": "that, Hey, there are people out there saying that you did such and such?",
+            "page_#": 35
+        },
+        {
+            "text": "come to your attention?",
+            "page_#": 35
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 35
+        },
+        {
+            "text": "How did that",
+            "page_#": 35
+        },
+        {
+            "text": "I first found out about the lies -- I don't know a certain date that I",
+            "page_#": 35
+        },
+        {
+            "text": "found out, but what I do know is that I was afraid.",
+            "page_#": 35
+        },
+        {
+            "text": "How did I -- you know, I was afraid",
+            "page_#": 35
+        },
+        {
+            "text": "when it happened.",
+            "page_#": 35
+        },
+        {
+            "text": "This whole thing is horrible.",
+            "page_#": 35
+        },
+        {
+            "text": "I just felt that this is horrible.",
+            "page_#": 35
+        },
+        {
+            "text": "And trying to force your way into my mom's house, that -- that did -- and I didn't",
+            "page_#": 35
+        },
+        {
+            "text": "find out that until later when my daughter mentioned it.",
+            "page_#": 35
+        },
+        {
+            "text": "says, Well, grandmother knew that you were under a lot of stress, and she didn't say",
+            "page_#": 35
+        },
+        {
+            "text": "anything.",
+            "page_#": 35
+        },
+        {
+            "text": "And I was just done.",
+            "page_#": 35
+        },
+        {
+            "text": "lady.",
+            "page_#": 35
+        },
+        {
+            "text": "And I just got quiet, and she",
+            "page_#": 35
+        },
+        {
+            "text": "It's like how could you -- I was already bothered with that",
+            "page_#": 35
+        },
+        {
+            "text": "But then, when I found out that, I really was -- she was not on my good side.",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 35
+        },
+        {
+            "text": "Going back to that first time that you became aware that people were pushing this",
+            "page_#": 35
+        },
+        {
+            "text": "lie about you and about your mom, was it -- did you find out about it watching television?",
+            "page_#": 35
+        },
+        {
+            "text": "Did it come to your attention on social media?",
+            "page_#": 35
+        },
+        {
+            "text": "that somebody was making this outlandish claim about you?",
+            "page_#": 35
+        },
+        {
+            "text": "I can't imagine.",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. Gottlieb.",
+            "page_#": 35
+        },
+        {
+            "text": "One thing, Congressman.",
+            "page_#": 35
+        },
+        {
+            "text": "Do you recall how you first came to learn",
+            "page_#": 35
+        },
+        {
+            "text": "I think you -- I think there are two",
+            "page_#": 35
+        },
+        {
+            "text": "different threads that may be getting crossed here.",
+            "page_#": 35
+        },
+        {
+            "text": "mom's house.",
+            "page_#": 35
+        },
+        {
+            "text": "Ms. Freeman's daughter, Shaye Moss, who was caught up in the -- caught up in the lies",
+            "page_#": 35
+        },
+        {
+            "text": "about what happened on election night.",
+            "page_#": 35
+        },
+        {
+            "text": "about the same thing here.",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 35
+        },
+        {
+            "text": "One is the story relating to your",
+            "page_#": 35
+        },
+        {
+            "text": "The other is, I think, Congressman, you may be referring to",
+            "page_#": 35
+        },
+        {
+            "text": "Yes.",
+            "page_#": 35
+        },
+        {
+            "text": "And I just want to make sure that we're talking",
+            "page_#": 35
+        },
+        {
+            "text": "And I was talking about when you first learned about the lies",
+            "page_#": 35
+        },
+        {
+            "text": "about the balance and false claims along those lines.",
+            "page_#": 35
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. Rudy Giuliani and Number 45 Campaign started the lies about",
+            "page_#": 35
+        },
+        {
+            "text": "me and made my name become public.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 36
+        },
+        {
+            "text": "And how did you first learn about that --",
+            "page_#": 36
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Schiff. -- if you can remember?",
+            "page_#": 36
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 36
+        },
+        {
+            "text": "I first --",
+            "page_#": 36
+        },
+        {
+            "text": "I first learned about it -- I think it was -- everything began to kind",
+            "page_#": 36
+        },
+        {
+            "text": "of run together for me, but I do remember seeing a video about the -- on YouTube about",
+            "page_#": 36
+        },
+        {
+            "text": "the -- what they said appeared to be a flash drive that we were passing around.",
+            "page_#": 36
+        },
+        {
+            "text": "that's -- that's when I first learned about that, if that's what you're speaking of?",
+            "page_#": 36
+        },
+        {
+            "text": "Ms.~",
+            "page_#": 36
+        },
+        {
+            "text": "And I think --",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 36
+        },
+        {
+            "text": "Yes.",
+            "page_#": 36
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Schiff, hey, sorry.",
+            "page_#": 36
+        },
+        {
+            "text": "It's-.",
+            "page_#": 36
+        },
+        {
+            "text": "If I could just interject, too.",
+            "page_#": 36
+        },
+        {
+            "text": "BYMS.-:",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Ms. Freeman, I think you -- you told us earlier in your interview about when",
+            "page_#": 36
+        },
+        {
+            "text": "your phone started ringing --",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Right.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "-- on December 3rd.",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Right.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "And you went to the elections department, but also to the police",
+            "page_#": 36
+        },
+        {
+            "text": "And",
+            "page_#": 36
+        },
+        {
+            "text": "department.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Schiff wasn't able to join us for that part, so --",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Okay.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "-- at the risk of having you repeat yourself --",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Okay.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "-- maybe you could tell him a little bit about that.",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Okay.",
+            "page_#": 36
+        },
+        {
+            "text": "On December -- thank you.",
+            "page_#": 36
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 36
+        },
+        {
+            "text": "Yes.",
+            "page_#": 36
+        },
+        {
+            "text": "When I first heard about everything was December the 3rd.",
+            "page_#": 37
+        },
+        {
+            "text": "That's when my",
+            "page_#": 37
+        },
+        {
+            "text": "phone started blowing up, and I had the news reporter that was trying to get in touch",
+            "page_#": 37
+        },
+        {
+            "text": "with me through Messenger, and wanted to interview me.",
+            "page_#": 37
+        },
+        {
+            "text": "December the 3rd, my phone just started blowing up, and I was getting all these text",
+            "page_#": 37
+        },
+        {
+            "text": "messages and emails and -- and that's when that -- couldn't wait for that next morning.",
+            "page_#": 37
+        },
+        {
+            "text": "I went to the police department for Fulton County, because I previously worked",
+            "page_#": 37
+        },
+        {
+            "text": "And so, I guess, on",
+            "page_#": 37
+        },
+        {
+            "text": "for Fulton County, and it all happened -- even though it happened in city of Atlanta, but it",
+            "page_#": 37
+        },
+        {
+            "text": "was Fulton County Voter Registration and Election, and I went there.",
+            "page_#": 37
+        },
+        {
+            "text": "I went to talk with the election workers, the supervisors there, and then I went to",
+            "page_#": 37
+        },
+        {
+            "text": "talk with the police department to make a police report.",
+            "page_#": 37
+        },
+        {
+            "text": "calls were coming in, and she was answering those calls, you know, and talking to them.",
+            "page_#": 37
+        },
+        {
+            "text": "And they were, you know, threatening me even on the phone, and them coming to get",
+            "page_#": 37
+        },
+        {
+            "text": "me.",
+            "page_#": 37
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 37
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 37
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 37
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 37
+        },
+        {
+            "text": "people.",
+            "page_#": 37
+        },
+        {
+            "text": "it.",
+            "page_#": 37
+        },
+        {
+            "text": "And were they from strangers, or was it people that you knew that",
+            "page_#": 37
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 37
+        },
+        {
+            "text": "Yes.",
+            "page_#": 37
+        },
+        {
+            "text": "were -- that you had to find out what was going on?",
+            "page_#": 37
+        },
+        {
+            "text": "And so the first you learned about all this was your phone",
+            "page_#": 37
+        },
+        {
+            "text": "started blowing up and all of these texts and email messages?",
+            "page_#": 37
+        },
+        {
+            "text": "And she got my phone, and the",
+            "page_#": 37
+        },
+        {
+            "text": "No.",
+            "page_#": 37
+        },
+        {
+            "text": "These was from strangers.",
+            "page_#": 37
+        },
+        {
+            "text": "I didn't know any of these",
+            "page_#": 37
+        },
+        {
+            "text": "I did have one of my customers to call me and ask me -- he said, We hear about",
+            "page_#": 37
+        },
+        {
+            "text": "Are you okay?",
+            "page_#": 37
+        },
+        {
+            "text": "They were calling about my safety.",
+            "page_#": 37
+        },
+        {
+            "text": "But all of the calls really that was coming in was death threats and terroristic",
+            "page_#": 37
+        },
+        {
+            "text": "threats and harassments and those type calls and text messages and emails.",
+            "page_#": 37
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 37
+        },
+        {
+            "text": "Thank you for sharing that with me, and I -- we'll look forward to",
+            "page_#": 37
+        },
+        {
+            "text": "reading the rest of your interview today.",
+            "page_#": 37
+        },
+        {
+            "text": "Once again, I really appreciate your willingness",
+            "page_#": 37
+        },
+        {
+            "text": "to come and testify before our committee.",
+            "page_#": 38
+        },
+        {
+            "text": "And having been on the receiving end of a small number of death threats myself, I",
+            "page_#": 38
+        },
+        {
+            "text": "know what that's like tragically.",
+            "page_#": 38
+        },
+        {
+            "text": "And, again, I want to thank you for your courage and",
+            "page_#": 38
+        },
+        {
+            "text": "the public service that you have performed and will continue to perform.",
+            "page_#": 38
+        },
+        {
+            "text": "to meet you, even at a distance.",
+            "page_#": 38
+        },
+        {
+            "text": "And it's nice",
+            "page_#": 38
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 38
+        },
+        {
+            "text": "Thank you, sir.",
+            "page_#": 38
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 38
+        },
+        {
+            "text": "Okay.",
+            "page_#": 38
+        },
+        {
+            "text": "Great.",
+            "page_#": 38
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 38
+        },
+        {
+            "text": "Thanks,-\u00b7",
+            "page_#": 38
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 38
+        },
+        {
+            "text": "Thanks, Mr. Schiff.",
+            "page_#": 38
+        },
+        {
+            "text": "So, Ms. Freeman, I think we've walked through what I planned to cover today, but",
+            "page_#": 38
+        },
+        {
+            "text": "I wanted to give you the opportunity if there is anything else that you think that we've",
+            "page_#": 38
+        },
+        {
+            "text": "missed that you'd like to discuss, or if your counsel have anything they would like to add.",
+            "page_#": 38
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 38
+        },
+        {
+            "text": "I just want to make sure that this doesn't happen to anybody else.",
+            "page_#": 38
+        },
+        {
+            "text": "I want to make sure that the -- I really want to call her name.",
+            "page_#": 38
+        },
+        {
+            "text": "I want to make sure that",
+            "page_#": 38
+        },
+        {
+            "text": "she never goes to anybody else's house.",
+            "page_#": 38
+        },
+        {
+            "text": "with it and she is acceptable and she should come to anybody's house.",
+            "page_#": 38
+        },
+        {
+            "text": "never go to anybody else's house again.",
+            "page_#": 38
+        },
+        {
+            "text": "I don't want her to feel like she's gotten by",
+            "page_#": 38
+        },
+        {
+            "text": "You should",
+            "page_#": 38
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 38
+        },
+        {
+            "text": "Anything else about the -- about the experience and that I have, you know,",
+            "page_#": 38
+        },
+        {
+            "text": "Understood.",
+            "page_#": 38
+        },
+        {
+            "text": "neglected to cover about having to leave your own home and the security precautions",
+            "page_#": 38
+        },
+        {
+            "text": "that you now have to take, the impact on your personal sense of safety and on your",
+            "page_#": 38
+        },
+        {
+            "text": "business?",
+            "page_#": 38
+        },
+        {
+            "text": "Anything else that you would like to cover that we haven't asked you about?",
+            "page_#": 38
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 38
+        },
+        {
+            "text": "No.",
+            "page_#": 38
+        },
+        {
+            "text": "I just -- I really don't want anybody else to have to",
+            "page_#": 38
+        },
+        {
+            "text": "experience this, because I have to leave my home now.",
+            "page_#": 38
+        },
+        {
+            "text": "I have to leave.",
+            "page_#": 38
+        },
+        {
+            "text": "I'm afraid to stay at my home.",
+            "page_#": 38
+        },
+        {
+            "text": "I can't use my name again, you know?",
+            "page_#": 39
+        },
+        {
+            "text": "I'm just afraid.",
+            "page_#": 39
+        },
+        {
+            "text": "It's like I'm afraid to live,",
+            "page_#": 39
+        },
+        {
+            "text": "and I just thank God for the faith that I do have knowing that, you know -- that He said all",
+            "page_#": 39
+        },
+        {
+            "text": "things work together for the good, the good of those that love Him and called according",
+            "page_#": 39
+        },
+        {
+            "text": "to his purpose.",
+            "page_#": 39
+        },
+        {
+            "text": "just want the works that I do speak for me.",
+            "page_#": 39
+        },
+        {
+            "text": "known as -- people ask me, Why you?",
+            "page_#": 39
+        },
+        {
+            "text": "I know that I'm called, and I know I have a purpose in life, and I just -- I",
+            "page_#": 39
+        },
+        {
+            "text": "Why you?",
+            "page_#": 39
+        },
+        {
+            "text": "Why did this happen to you?",
+            "page_#": 39
+        },
+        {
+            "text": "And my -- my answer has always been, Why not?",
+            "page_#": 39
+        },
+        {
+            "text": "happen to Jesus the way it did?",
+            "page_#": 39
+        },
+        {
+            "text": "be done, so I'm here, and it happened to me.",
+            "page_#": 39
+        },
+        {
+            "text": "I want my life -- I want to -- I want this to be",
+            "page_#": 39
+        },
+        {
+            "text": "It doesn't feel good at all.",
+            "page_#": 39
+        },
+        {
+            "text": "Why not me?",
+            "page_#": 39
+        },
+        {
+            "text": "He didn't do anything.",
+            "page_#": 39
+        },
+        {
+            "text": "It hurts.",
+            "page_#": 39
+        },
+        {
+            "text": "Why did things",
+            "page_#": 39
+        },
+        {
+            "text": "So he showed us that it could",
+            "page_#": 39
+        },
+        {
+            "text": "Why not me?",
+            "page_#": 39
+        },
+        {
+            "text": "It hurts.",
+            "page_#": 39
+        },
+        {
+            "text": "It hurts when, you know, you've",
+            "page_#": 39
+        },
+        {
+            "text": "been lied on, you've been threatened, death threats.",
+            "page_#": 39
+        },
+        {
+            "text": "people in -- that was arrested for the Capitol offense, and I was on a -- and then, when",
+            "page_#": 39
+        },
+        {
+            "text": "they went through that thing, that I was on a death list, that hurts.",
+            "page_#": 39
+        },
+        {
+            "text": "that your name was mentioned by the President of the United States several times.",
+            "page_#": 39
+        },
+        {
+            "text": "always have a saying.",
+            "page_#": 39
+        },
+        {
+            "text": "It's that -- but I'm okay.",
+            "page_#": 39
+        },
+        {
+            "text": "not what it looks like.",
+            "page_#": 39
+        },
+        {
+            "text": "I'm okay.",
+            "page_#": 39
+        },
+        {
+            "text": "That hurts to know",
+            "page_#": 39
+        },
+        {
+            "text": "All of that doesn't feel good, but I'm here to say that, you know, we as Christians",
+            "page_#": 39
+        },
+        {
+            "text": "You know, threats came from",
+            "page_#": 39
+        },
+        {
+            "text": "I'm okay.",
+            "page_#": 39
+        },
+        {
+            "text": "In the end, I win.",
+            "page_#": 39
+        },
+        {
+            "text": "It's not what it feels like, and",
+            "page_#": 39
+        },
+        {
+            "text": "All I do is win, win, win.",
+            "page_#": 39
+        },
+        {
+            "text": "So I'm thankful for my attorneys, the team that we have, and I'm really grateful for",
+            "page_#": 39
+        },
+        {
+            "text": "them, because they are the best.",
+            "page_#": 39
+        },
+        {
+            "text": "Ms.~",
+            "page_#": 39
+        },
+        {
+            "text": "Thank you for that, and thank you for your courage.",
+            "page_#": 39
+        },
+        {
+            "text": "Is there anything that your counsel would like to address before we --",
+            "page_#": 39
+        },
+        {
+            "text": "Mr. Gottlieb.",
+            "page_#": 39
+        },
+        {
+            "text": "and your questions today.",
+            "page_#": 39
+        },
+        {
+            "text": "Ms. \u2022",
+            "page_#": 39
+        },
+        {
+            "text": "Mr. Gottlieb.",
+            "page_#": 39
+        },
+        {
+            "text": "I don't think we can improve on that, so we appreciate your time",
+            "page_#": 39
+        },
+        {
+            "text": "So thanks for having --",
+            "page_#": 39
+        },
+        {
+            "text": "Okay.",
+            "page_#": 39
+        },
+        {
+            "text": "Thanks for having Ms. Freeman up.",
+            "page_#": 39
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 40
+        },
+        {
+            "text": "Great.",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you again, Ms. Freeman.",
+            "page_#": 40
+        },
+        {
+            "text": "testimony today, and thank you for your cooperation.",
+            "page_#": 40
+        },
+        {
+            "text": "person.",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you for your",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you for coming to see us in",
+            "page_#": 40
+        },
+        {
+            "text": "We really appreciate it.",
+            "page_#": 40
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 40
+        },
+        {
+            "text": "Ms. -",
+            "page_#": 40
+        },
+        {
+            "text": "Okay.",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you, again, Ms. Freeman.",
+            "page_#": 40
+        },
+        {
+            "text": "Ms. Freeman.",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 40
+        },
+        {
+            "text": "Ms.-",
+            "page_#": 40
+        },
+        {
+            "text": "All right.",
+            "page_#": 40
+        },
+        {
+            "text": "[Whereupon, at 5:13 p.m., the interview was concluded.]",
+            "page_#": 40
+        },
+        {
+            "text": "With that --",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you, sir.",
+            "page_#": 40
+        },
+        {
+            "text": "We'll go off the record.",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you very much.",
+            "page_#": 40
+        },
+        {
+            "text": "Certificate of Deponent/Interviewee",
+            "page_#": 41
+        },
+        {
+            "text": "I have read the foregoing _ _ pages, which contain the correct transcript of the",
+            "page_#": 41
+        },
+        {
+            "text": "answers made by me to the questions therein recorded.",
+            "page_#": 41
+        },
+        {
+            "text": "Witness Name",
+            "page_#": 41
+        },
+        {
+            "text": "Date",
+            "page_#": 41
+        }
+    ]
+}

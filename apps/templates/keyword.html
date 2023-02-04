@@ -1,0 +1,134 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Dashboard {% endblock %}
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}
+<style>
+    form {
+        width: 100%;
+    }
+
+    .highlight {
+        background-color: yellow;
+    }
+</style>
+{% endblock stylesheets %}
+
+{% block content %}
+
+<!-- [ Main Content ] start -->
+<div class="pcoded-main-container">
+    <div class="pcoded-wrapper">
+
+        <div class="pcoded-content">
+            <div class="pcoded-inner-content">
+                <!-- [ breadcrumb ] start -->
+
+                <!-- [ breadcrumb ] end -->
+                <div class="main-body">
+                    <div class="page-wrapper">
+                        <!-- [ Main Content ] start -->
+                        <div class="row p-3">
+                            <form action="" id="form" method="post" onsubmit="event.preventDefault(); searchkeyword();">
+                                {%csrf_token%}
+                                <div class="input-group mb-3">
+                                    <input type="text" name="keyword" class="form-control" placeholder="Enter Keyword"
+                                        aria-label="Recipient's username" aria-describedby="basic-addon2">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-primary" type="submit">Search</button>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                        <div id="total"></div>
+                        <div class="card p-3">
+                            <div class="">
+                                <div class="table-responsive-sm">
+
+                                    <table class="table table-hover table-border-style">
+                                        <div class="row">
+                                            <div class="col-md-1"><b>Index</b></div>
+                                            <div class="col-md-4"><b>Context</b></div>
+                                            <div class="col-md-1"><b>Page #</b></div>
+                                            <div class="col-md-2"><b>witness</b></div>
+                                            <div class="col-md-4"><b>URL</b></div>
+                                        </div>
+                                        <hr>
+                                        <tbody id="table_body">
+                                        </tbody>
+                                    </table>
+                                    <div id="loading_div" style="display: none;">
+                                        <center>
+                                            <br>
+                                            <h5>Loading Data ...</h5>
+                                            <br>
+                                        </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- [ Main Content ] end -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- [ Main Content ] end -->
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+<script>
+    const url = "{% url 'keyword' %}"
+
+
+    function searchkeyword() {
+        const tbody = document.getElementById('table_body');
+        tbody.innerHTML = "";
+        document.getElementById("loading_div").style.display = "block"
+        const form = document.getElementById('form');
+        const data = new URLSearchParams(new FormData(form));
+        fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Accept': '*/*'
+            },
+            body: data,
+        })
+            .then((response) => response.json())
+            .then((data) => {
+
+                document.getElementById("loading_div").style.display = "none"
+
+                if (typeof data["results"] !== 'undefined' && data["results"] !== null) {
+                    const total = data["results"].length
+                    document.getElementById("total").innerHTML = `<p><b>Found ${total} results</b></p>`
+                    for (i = 0; i < total; i++) {
+                        html = `<div class="row">
+                            <div class="col-md-1">${i + 1}</div>
+                            <div class="col-md-4 ctx">${data["results"][i]['context']}</div>
+                            <div class="col-md-1">${data["results"][i]['page_#']}</div>
+                            <div class="col-md-2">${data["results"][i]['witness']}</div>
+                            <div class="col-md-4"><a href="${data["results"][i]['url']}" target='_blank'>${data["results"][i]['url']}</a></div>
+                        </div><hr>`
+                        tbody.insertAdjacentHTML('beforeend', html);
+
+                    }
+                }
+
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+
+            });
+    }
+</script>
+
+
+{% endblock javascripts %}

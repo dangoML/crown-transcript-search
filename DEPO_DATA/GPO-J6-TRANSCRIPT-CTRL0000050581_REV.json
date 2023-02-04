@@ -1,0 +1,5798 @@
+{
+    "title": "CTRL0000050581 - Transcribed Interview of Arthur Schwartz, (February 14, 2022)",
+    "id": "CTRL0000050581",
+    "date": "February 14, 2022",
+    "url_desc": "https://www.govinfo.gov/app/details/GPO-J6-TRANSCRIPT-CTRL0000050581/",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000050581/pdf/GPO-J6-TRANSCRIPT-CTRL0000050581.pdf#page=",
+    "witness": "Arthur Schwartz",
+    "data": [
+        {
+            "text": "SELECT COMMITTEE TO INVESTIGATE THE",
+            "page_#": 1
+        },
+        {
+            "text": "JANUARY 6TH ATTACK ON THE U.S. CAPITOL,",
+            "page_#": 1
+        },
+        {
+            "text": "U.S. HOUSE OF REPRESENTATIVES,",
+            "page_#": 1
+        },
+        {
+            "text": "WASHINGTON, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "DEPOSITION OF:",
+            "page_#": 1
+        },
+        {
+            "text": "ARTHUR SCHWARTZ",
+            "page_#": 1
+        },
+        {
+            "text": "Monday, February 14, 2022",
+            "page_#": 1
+        },
+        {
+            "text": "Washington, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "The deposition in the above matter was held via Webex, commencing at 1:59 p.m.",
+            "page_#": 1
+        },
+        {
+            "text": "Present:",
+            "page_#": 1
+        },
+        {
+            "text": "Representative Raskin.",
+            "page_#": 1
+        },
+        {
+            "text": "Appearances:",
+            "page_#": 2
+        },
+        {
+            "text": "For the SELECT COMMITTEE TO INVESTIGATE",
+            "page_#": 2
+        },
+        {
+            "text": "THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL:",
+            "page_#": 2
+        },
+        {
+            "text": "STAFF ASSOCIATE",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": ", INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "SENIOR INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": "For THE WITNESS:",
+            "page_#": 2
+        },
+        {
+            "text": "DANIEL BEAN",
+            "page_#": 2
+        },
+        {
+            "text": "JARED BURNS",
+            "page_#": 2
+        },
+        {
+            "text": "So it is 1:59 p.m., we'll go on the record.",
+            "page_#": 3
+        },
+        {
+            "text": "Good afternoon.",
+            "page_#": 3
+        },
+        {
+            "text": "This is a deposition of Arthur Schwartz conducted by the House",
+            "page_#": 3
+        },
+        {
+            "text": "Select Committee to Investigate the January 6th Attack on the United States Capitol",
+            "page_#": 3
+        },
+        {
+            "text": "pursuant to House resolution 503.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Schwartz is with us by Webex, and I just ask you to state your full name and",
+            "page_#": 3
+        },
+        {
+            "text": "spell your last name for the record, please.",
+            "page_#": 3
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 3
+        },
+        {
+            "text": "Arthur Schwartz, S-c-h-w-a-r-t-z.",
+            "page_#": 3
+        },
+        {
+            "text": "-",
+            "page_#": 3
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 3
+        },
+        {
+            "text": "And if you wouldn't mind, if you could please just raise",
+            "page_#": 3
+        },
+        {
+            "text": "your right hand, we'll have the court reporter swear you in to get started.",
+            "page_#": 3
+        },
+        {
+            "text": "The Reporter.",
+            "page_#": 3
+        },
+        {
+            "text": "Do you solemnly declare and affirm under the penalty of perjury",
+            "page_#": 3
+        },
+        {
+            "text": "that the testimony you are about to give will be the truth, the whole truth, and nothing",
+            "page_#": 3
+        },
+        {
+            "text": "but the truth?",
+            "page_#": 3
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 3
+        },
+        {
+            "text": "-",
+            "page_#": 3
+        },
+        {
+            "text": "This will be a staff-led deposition and members of the committee may, of course,",
+            "page_#": 3
+        },
+        {
+            "text": "I do.",
+            "page_#": 3
+        },
+        {
+            "text": "Thank you, Mr. Schwartz.",
+            "page_#": 3
+        },
+        {
+            "text": "join and choose to also ask questions.",
+            "page_#": 3
+        },
+        {
+            "text": "on the Webex, but they might pop in from time to time.",
+            "page_#": 3
+        },
+        {
+            "text": "announce them.",
+            "page_#": 3
+        },
+        {
+            "text": "But my name is",
+            "page_#": 3
+        },
+        {
+            "text": "I'll note now that there are no members who are",
+            "page_#": 3
+        },
+        {
+            "text": "And if they do, I'll stop and",
+            "page_#": 3
+        },
+        {
+            "text": "I'm a senior investigative counsel on the staff.",
+            "page_#": 3
+        },
+        {
+            "text": "I'm the only attorney who's on today, and so, otherwise we just have staff who are",
+            "page_#": 3
+        },
+        {
+            "text": "assisting with the deposition, and then also, the court reporters that you just saw.",
+            "page_#": 3
+        },
+        {
+            "text": "So we'll follow the House deposition rules that we've provided to you and your",
+            "page_#": 3
+        },
+        {
+            "text": "counsel previously with the subpoena and under those rules you are permitted to have",
+            "page_#": 3
+        },
+        {
+            "text": "your attorney with you.",
+            "page_#": 3
+        },
+        {
+            "text": "So at this time, I'm going to ask your attorneys to please announce themselves for",
+            "page_#": 4
+        },
+        {
+            "text": "the record, and note that we'll wait until the end of my introductory comments as I",
+            "page_#": 4
+        },
+        {
+            "text": "believe Mr. -- one of your attorneys has an objection to place on the record.",
+            "page_#": 4
+        },
+        {
+            "text": "now if they could just state their names.",
+            "page_#": 4
+        },
+        {
+            "text": "Mr. Bean.",
+            "page_#": 4
+        },
+        {
+            "text": "Sure.",
+            "page_#": 4
+        },
+        {
+            "text": "But for",
+            "page_#": 4
+        },
+        {
+            "text": "On behalf of Arthur Schwartz, we have the law firm of Abel",
+            "page_#": 4
+        },
+        {
+            "text": "Bean Law today, Jared Burns and myself, Daniel Bean.",
+            "page_#": 4
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 4
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 4
+        },
+        {
+            "text": "-",
+            "page_#": 4
+        },
+        {
+            "text": "Now, Mr. Schwartz, under the House deposition rules, neither committee",
+            "page_#": 4
+        },
+        {
+            "text": "members nor staff may discuss the substance of your testimony that you provide today",
+            "page_#": 4
+        },
+        {
+            "text": "unless the committee approves release.",
+            "page_#": 4
+        },
+        {
+            "text": "one what we discussed here today.",
+            "page_#": 4
+        },
+        {
+            "text": "You, of course, are free to tell anyone or no",
+            "page_#": 4
+        },
+        {
+            "text": "That right is entirely yours and your choice to make.",
+            "page_#": 4
+        },
+        {
+            "text": "Before we begin, I'll just go over a few ground rules.",
+            "page_#": 4
+        },
+        {
+            "text": "There's an official court",
+            "page_#": 4
+        },
+        {
+            "text": "reporter, as you've seen, who is transcribing the record of this deposition.",
+            "page_#": 4
+        },
+        {
+            "text": "joining us by Webex and they are also video recording the deposition.",
+            "page_#": 4
+        },
+        {
+            "text": "She is also",
+            "page_#": 4
+        },
+        {
+            "text": "Please wait until each question is completed before you begin your response, and",
+            "page_#": 4
+        },
+        {
+            "text": "I'll do the same and wait for you to finish before I move on to my next question.",
+            "page_#": 4
+        },
+        {
+            "text": "just to keep the record clear.",
+            "page_#": 4
+        },
+        {
+            "text": "That's",
+            "page_#": 4
+        },
+        {
+            "text": "The reporter is not able to record nonverbal responses.",
+            "page_#": 4
+        },
+        {
+            "text": "head or nod your head, I'll just follow up to ask you to say yes or no.",
+            "page_#": 4
+        },
+        {
+            "text": "acronym or a name that I'm unfamiliar with, I might stop you to ask you to spell that for",
+            "page_#": 4
+        },
+        {
+            "text": "the record, and that's just so the record is clear.",
+            "page_#": 4
+        },
+        {
+            "text": "Also, if you say an",
+            "page_#": 4
+        },
+        {
+            "text": "Now, we ask that you provide complete answers based on the best of your",
+            "page_#": 4
+        },
+        {
+            "text": "recollection.",
+            "page_#": 4
+        },
+        {
+            "text": "and make it more clear.",
+            "page_#": 4
+        },
+        {
+            "text": "So if you shake your",
+            "page_#": 4
+        },
+        {
+            "text": "And if the question is not clear, just say so and I'll do my best to restate it",
+            "page_#": 4
+        },
+        {
+            "text": "If you don't know the answer, just say so.",
+            "page_#": 4
+        },
+        {
+            "text": "If you or Mr. Bean need to take a break either to talk between yourselves or just",
+            "page_#": 4
+        },
+        {
+            "text": "for comfort, just let us know.",
+            "page_#": 5
+        },
+        {
+            "text": "Happy to do that.",
+            "page_#": 5
+        },
+        {
+            "text": "We'll go off camera, go on mute.",
+            "page_#": 5
+        },
+        {
+            "text": "You either can talk in private and come back on when you're ready.",
+            "page_#": 5
+        },
+        {
+            "text": "I don't think that this will take more than, you know, a couple of hours.",
+            "page_#": 5
+        },
+        {
+            "text": "want to just power through, I'm fine to do that, too.",
+            "page_#": 5
+        },
+        {
+            "text": "just let me know.",
+            "page_#": 5
+        },
+        {
+            "text": "But if you want to take a break,",
+            "page_#": 5
+        },
+        {
+            "text": "Now, throughout the deposition, I have a staff member who's not with me, but",
+            "page_#": 5
+        },
+        {
+            "text": "will flash exhibits up for you up on the screen.",
+            "page_#": 5
+        },
+        {
+            "text": "so hopefully you've been able to look through those.",
+            "page_#": 5
+        },
+        {
+            "text": "So if you",
+            "page_#": 5
+        },
+        {
+            "text": "I shared those with Mr. Bean on Friday,",
+            "page_#": 5
+        },
+        {
+            "text": "Several of them came from you; several of them came from other witnesses, but",
+            "page_#": 5
+        },
+        {
+            "text": "when they're up on the screen, I'll announce them by number and take whatever time",
+            "page_#": 5
+        },
+        {
+            "text": "you need to look at them to familiarize yourself with them before you answer any",
+            "page_#": 5
+        },
+        {
+            "text": "questions.",
+            "page_#": 5
+        },
+        {
+            "text": "And if we need to zoom in, just tell us.",
+            "page_#": 5
+        },
+        {
+            "text": "It can be a bit hard to navigate virtually.",
+            "page_#": 5
+        },
+        {
+            "text": "I also see that Mr. Raskin has joined us.",
+            "page_#": 5
+        },
+        {
+            "text": "So I'll say, thank you, sir, for being here.",
+            "page_#": 5
+        },
+        {
+            "text": "We're still going over the ground rules for the deposition.",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 5
+        },
+        {
+            "text": "Very good.",
+            "page_#": 5
+        },
+        {
+            "text": "Thank you much.",
+            "page_#": 5
+        },
+        {
+            "text": "So what I'm going to do is show you, Mr. Schwartz, just the first",
+            "page_#": 5
+        },
+        {
+            "text": "exhibit, which is the subpoena, just so you can see how it'll be displayed.",
+            "page_#": 5
+        },
+        {
+            "text": "exhibit 1.",
+            "page_#": 5
+        },
+        {
+            "text": "And so right there, you can see -- can you see that well enough?",
+            "page_#": 5
+        },
+        {
+            "text": "or do you need it closer for you to be able to look at these documents?",
+            "page_#": 5
+        },
+        {
+            "text": "And that's",
+            "page_#": 5
+        },
+        {
+            "text": "Is it zoomed in",
+            "page_#": 5
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 5
+        },
+        {
+            "text": "I can see it.",
+            "page_#": 5
+        },
+        {
+            "text": "-",
+            "page_#": 5
+        },
+        {
+            "text": "You can.",
+            "page_#": 5
+        },
+        {
+            "text": "So you may only refuse to answer a question to preserve a privilege recognized by",
+            "page_#": 5
+        },
+        {
+            "text": "the select committee.",
+            "page_#": 5
+        },
+        {
+            "text": "Great.",
+            "page_#": 5
+        },
+        {
+            "text": "If you refuse to answer a question based on a privilege, staff may",
+            "page_#": 5
+        },
+        {
+            "text": "either proceed with the deposition or seek a ruling from the chairman of the committee",
+            "page_#": 6
+        },
+        {
+            "text": "on the objection.",
+            "page_#": 6
+        },
+        {
+            "text": "answer the question.",
+            "page_#": 6
+        },
+        {
+            "text": "And if the chairman overrules such an objection, you are required to",
+            "page_#": 6
+        },
+        {
+            "text": "At this time, I understand that Mr. Bean is going to make an objection on your",
+            "page_#": 6
+        },
+        {
+            "text": "behalf for the record, so I'll pause so he can do that.",
+            "page_#": 6
+        },
+        {
+            "text": "Mr. Bean.",
+            "page_#": 6
+        },
+        {
+            "text": "Thank you, counsel.",
+            "page_#": 6
+        },
+        {
+            "text": "So Mr. Schwartz objects to the instant deposition proceedings as the select",
+            "page_#": 6
+        },
+        {
+            "text": "committee has not properly and duly authorized, in accordance with House Resolution",
+            "page_#": 6
+        },
+        {
+            "text": "503, Section 2 Alpha, 117th Congress 2021, as it is not compromised of 13 members, five",
+            "page_#": 6
+        },
+        {
+            "text": "of whom were appointed after consultation with the minority leader.",
+            "page_#": 6
+        },
+        {
+            "text": "Mr. Schwartz also objects to the instant deposition proceedings as the subpoena",
+            "page_#": 6
+        },
+        {
+            "text": "purporting to compel his appearance does not further a valid legislative purpose ancillary",
+            "page_#": 6
+        },
+        {
+            "text": "to the legislative authority, but, rather, serves a quintessentially law enforcement",
+            "page_#": 6
+        },
+        {
+            "text": "purposes reserved to the authority of the executive branch of the United States, to wit,",
+            "page_#": 6
+        },
+        {
+            "text": "investigate facts, circumstances, and causes, as well as expose and punish criminal",
+            "page_#": 6
+        },
+        {
+            "text": "behavior and wrongdoing.",
+            "page_#": 6
+        },
+        {
+            "text": "and are devoid of any legislative purpose.",
+            "page_#": 6
+        },
+        {
+            "text": "All of these are proffered objectives of the select committee",
+            "page_#": 6
+        },
+        {
+            "text": "Mr. Schwartz also objects to the instant deposition proceedings as to the",
+            "page_#": 6
+        },
+        {
+            "text": "subpoena reporting to compel Mr. Schwartz' appearance violates his constitutional rights,",
+            "page_#": 6
+        },
+        {
+            "text": "including, but not limited to, his First Amendment right to freedom of speech, freedom of",
+            "page_#": 6
+        },
+        {
+            "text": "assembly, his Fourth Amendment right to be free of unreasonable search and seizure, his",
+            "page_#": 6
+        },
+        {
+            "text": "Fourth Amendment right that warrants be issued only upon a finding of probable cause,",
+            "page_#": 6
+        },
+        {
+            "text": "and finally, his Fifth Amendment right to due process of law.",
+            "page_#": 6
+        },
+        {
+            "text": "Finally, Mr. Schwartz, objects to this proceeding as a violation of the separation of",
+            "page_#": 6
+        },
+        {
+            "text": "powers.",
+            "page_#": 6
+        },
+        {
+            "text": "And, lastly, notwithstanding the aforementioned objections, Mr. Schwartz",
+            "page_#": 6
+        },
+        {
+            "text": "submits to the examination under oath before the select committee as an American",
+            "page_#": 7
+        },
+        {
+            "text": "citizen, except where specifically objected to during these proceedings.",
+            "page_#": 7
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 7
+        },
+        {
+            "text": "-",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. Bean, thank you for that.",
+            "page_#": 7
+        },
+        {
+            "text": "And Mr. Schwartz, I note those",
+            "page_#": 7
+        },
+        {
+            "text": "objections on your behalf.",
+            "page_#": 7
+        },
+        {
+            "text": "response to those except to note, for the record, that the committee does not agree with",
+            "page_#": 7
+        },
+        {
+            "text": "the objections, but understand that you are still willing to go forward today, which we",
+            "page_#": 7
+        },
+        {
+            "text": "appreciate.",
+            "page_#": 7
+        },
+        {
+            "text": "I won't go through the responses of the committee in",
+            "page_#": 7
+        },
+        {
+            "text": "And so before we begin, I'll remind you as we do all witnesses who appear before",
+            "page_#": 7
+        },
+        {
+            "text": "the committee, that it is unlawful to deliberately provide false information to Congress.",
+            "page_#": 7
+        },
+        {
+            "text": "And since this deposition is under oath, providing false information could result in",
+            "page_#": 7
+        },
+        {
+            "text": "criminal penalties to include for perjury or providing false statements.",
+            "page_#": 7
+        },
+        {
+            "text": "Do you understand all of that?",
+            "page_#": 7
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 7
+        },
+        {
+            "text": "I do.",
+            "page_#": 7
+        },
+        {
+            "text": "-",
+            "page_#": 7
+        },
+        {
+            "text": "Any questions before we get started, whether from you, Mr.",
+            "page_#": 7
+        },
+        {
+            "text": "Schwartz, or Mr. Bean?",
+            "page_#": 7
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 7
+        },
+        {
+            "text": "No, sir.",
+            "page_#": 7
+        },
+        {
+            "text": "-",
+            "page_#": 7
+        },
+        {
+            "text": "Okay.",
+            "page_#": 7
+        },
+        {
+            "text": "Great.",
+            "page_#": 7
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 7
+        },
+        {
+            "text": "EXAMINATION",
+            "page_#": 7
+        },
+        {
+            "text": "BY",
+            "page_#": 7
+        },
+        {
+            "text": "So just to get started, just to understand a little bit about your background,",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. Schwartz.",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "49.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "And what State do you live in?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Texas.",
+            "page_#": 7
+        },
+        {
+            "text": "How old are you?",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "And what do you do for a living?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Communications and government affairs consultant.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "And has that been your career for several years now?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "All right.",
+            "page_#": 8
+        },
+        {
+            "text": "And do you have a current company that you work for, or a",
+            "page_#": 8
+        },
+        {
+            "text": "company that is your own?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Is that Axium Advisers?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Correct.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "And how long have you had that company, roughly?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Eight years or so.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Understood.",
+            "page_#": 8
+        },
+        {
+            "text": "And just for the record, is it right that it's A-x-i-u-m, Axium?",
+            "page_#": 8
+        },
+        {
+            "text": "I can't tell you exactly when it was formed.",
+            "page_#": 8
+        },
+        {
+            "text": "And did you serve as a government employee within the",
+            "page_#": 8
+        },
+        {
+            "text": "administration of President Trump?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "No.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "So you're in the private sector with Axium the entire time he served in",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "office?",
+            "page_#": 8
+        },
+        {
+            "text": "I'm going to go through just a few names just to understand if you",
+            "page_#": 8
+        },
+        {
+            "text": "have a professional or a personal relationship with them, just because it'll help us as we",
+            "page_#": 8
+        },
+        {
+            "text": "talk about documents and walk through the events, but Donald Trump Jr.?",
+            "page_#": 8
+        },
+        {
+            "text": "okay, and I've done this with Mr. Bean's other clients, if I can just refer to him by Don Jr.,",
+            "page_#": 8
+        },
+        {
+            "text": "if you're comfortable with that?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 8
+        },
+        {
+            "text": "And if it's",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 9
+        },
+        {
+            "text": "Don Jr., do you provide professional services to him through Axium",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Advisers?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "No.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Is he a friend of yours?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And have you provided uncompensated advice or advisory services over the",
+            "page_#": 9
+        },
+        {
+            "text": "years to him as a friend?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "I provided advice to him as I do all my friends.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Understood.",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And have you provided any advice to her through your company, Axium",
+            "page_#": 9
+        },
+        {
+            "text": "Kimberly Guilfoyle, do you know Ms. Guilfoyle?",
+            "page_#": 9
+        },
+        {
+            "text": "Advisers, over the years?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "No.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Okay.",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "I'm sure, yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Okay.",
+            "page_#": 9
+        },
+        {
+            "text": "S-u-r-a-b-i-a-n?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Is that a longtime friend of yours?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "He's been a friend of mine for several years.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And to your knowledge, does he provide advice in the same way that you do",
+            "page_#": 9
+        },
+        {
+            "text": "Have you provided advice to her just as a friend as you have for Don",
+            "page_#": 9
+        },
+        {
+            "text": "Jr.?",
+            "page_#": 9
+        },
+        {
+            "text": "to Don Jr.?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Do you know Andy Surabian?",
+            "page_#": 9
+        },
+        {
+            "text": "And for the record, that's",
+            "page_#": 9
+        },
+        {
+            "text": "It's not professionally, but as a friend, as you understand it?",
+            "page_#": 9
+        },
+        {
+            "text": "I have no direct knowledge of the specifics of his arrangement with Don Jr.,",
+            "page_#": 9
+        },
+        {
+            "text": "but -- so I can't -- you'll have to ask Andy.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Understood, but you're aware that he does provide advice whether paid for",
+            "page_#": 10
+        },
+        {
+            "text": "or not to Don Jr. from time to time?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And do you know a gentleman by the name of Taylor Budowich,",
+            "page_#": 10
+        },
+        {
+            "text": "B-u-d-o-w-i-c-h?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And how do you know Mr. Budowich?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "I don't remember who introduced us, but through, you know, Republican",
+            "page_#": 10
+        },
+        {
+            "text": "political circles.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And did you know him prior to the time frame we're going to be talking",
+            "page_#": 10
+        },
+        {
+            "text": "about, which is roughly November of 2020 through January of 2021?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And do you know Caroline Wren?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And how did you know Ms. Wren?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "I couldn't tell you how I met her.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "But same question as I asked about Mr. Budowich, did you know her, at",
+            "page_#": 10
+        },
+        {
+            "text": "least, prior to November of 2020, if you remember?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And lastly, Katrina Pierson?",
+            "page_#": 10
+        },
+        {
+            "text": "That's W-r-e-n.",
+            "page_#": 10
+        },
+        {
+            "text": "That's P-i-e-r-s-o-n.",
+            "page_#": 10
+        },
+        {
+            "text": "Have you known Ms.",
+            "page_#": 10
+        },
+        {
+            "text": "Pierson since before November of 2020?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Now, did you have an official role in the 2020 re-election campaign that",
+            "page_#": 10
+        },
+        {
+            "text": "President Trump ran?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "No.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "And after Election Day, so after November 3rd of 2020, did you work for or",
+            "page_#": 11
+        },
+        {
+            "text": "on behalf of President Trump's campaign as he continued to challenge the election",
+            "page_#": 11
+        },
+        {
+            "text": "results?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "No.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "I'm going to focus on mid-December of 2020 through January 6th.",
+            "page_#": 11
+        },
+        {
+            "text": "you still in Texas in that time frame?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "No.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "You weren't?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "McLean, Virginia.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "All right.",
+            "page_#": 11
+        },
+        {
+            "text": "Were",
+            "page_#": 11
+        },
+        {
+            "text": "Were you living in that State?",
+            "page_#": 11
+        },
+        {
+            "text": "Where were you living during those few weeks?",
+            "page_#": 11
+        },
+        {
+            "text": "Now, just talk briefly about the production of documents you",
+            "page_#": 11
+        },
+        {
+            "text": "made, which we appreciate, but have to understand just for the record as we do with any",
+            "page_#": 11
+        },
+        {
+            "text": "witness what the process was to try to identify those documents.",
+            "page_#": 11
+        },
+        {
+            "text": "Did you have any hard-copy files that you went through of any documents to look",
+            "page_#": 11
+        },
+        {
+            "text": "through, or you don't keep hard copies?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "No.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "And it looks like from the documents you did produce, they look to be emails",
+            "page_#": 11
+        },
+        {
+            "text": "I have no such hard copy records.",
+            "page_#": 11
+        },
+        {
+            "text": "that you would've either sent or received through Axium Advisers account.",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 11
+        },
+        {
+            "text": "I couldn't tell -- I gave access and control over my phone and my email to my",
+            "page_#": 11
+        },
+        {
+            "text": "lawyers who used a third-party forensic firm who collected whatever data was requested",
+            "page_#": 11
+        },
+        {
+            "text": "by the subpoena.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Understood.",
+            "page_#": 11
+        },
+        {
+            "text": "So in terms of the cell phone you said you provided it, is that",
+            "page_#": 11
+        },
+        {
+            "text": "just with the number that ends i n - a s the phone number, the last four digits?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Is that an iPhone?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Now, included in the materials you produced, by my count -- and Mr. Bean",
+            "page_#": 12
+        },
+        {
+            "text": "can correct me if I am wrong -- but it was just five emails which comprised seven pages in",
+            "page_#": 12
+        },
+        {
+            "text": "total.",
+            "page_#": 12
+        },
+        {
+            "text": "know you exchanged text messages with, say, Ms. Pierson or Mr. Budowich about this",
+            "page_#": 12
+        },
+        {
+            "text": "during the time frame.",
+            "page_#": 12
+        },
+        {
+            "text": "So I'll just ask -- and we do",
+            "page_#": 12
+        },
+        {
+            "text": "So as a general matter, do you know why you wouldn't still have text messages",
+            "page_#": 12
+        },
+        {
+            "text": "And so I didn't see any text messages of any sort.",
+            "page_#": 12
+        },
+        {
+            "text": "with those folks or others from back in January of 2021?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Is there a particular reason why?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "That's -- it's an option on the iPhone that I selected.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Understood.",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Yes.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "And -- at the time we're talking about, so, again, November 2020 through",
+            "page_#": 12
+        },
+        {
+            "text": "My phone is not set up to store anything after 30 days.",
+            "page_#": 12
+        },
+        {
+            "text": "So they just sort of been deleted in the normal course?",
+            "page_#": 12
+        },
+        {
+            "text": "January of 2021, were you using any other messaging apps, such as Signal or WhatsApp or",
+            "page_#": 12
+        },
+        {
+            "text": "Telegram or Parler, just as a general matter?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Yes.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "You were.",
+            "page_#": 12
+        },
+        {
+            "text": "course on the regular basis whatever messages you would have sent in that time frame?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Do you know whether you delete those just in the normal",
+            "page_#": 12
+        },
+        {
+            "text": "The apps that I used automatically delete at a set time frame, so, yes, they",
+            "page_#": 12
+        },
+        {
+            "text": "would have been deleted automatically.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 12
+        },
+        {
+            "text": "So moving to the -- really going to focus on the Ellipse",
+            "page_#": 12
+        },
+        {
+            "text": "rally.",
+            "page_#": 12
+        },
+        {
+            "text": "that rally on the 6th, do you remember how you first learned about or first started talking",
+            "page_#": 12
+        },
+        {
+            "text": "about the preparation for the event on the 6th?",
+            "page_#": 12
+        },
+        {
+            "text": "I mean, that's really the core of it.",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Let's go back for a second.",
+            "page_#": 12
+        },
+        {
+            "text": "And so, in the weeks or days leading up to",
+            "page_#": 12
+        },
+        {
+            "text": "I was not involved in the preparation, so I don't",
+            "page_#": 12
+        },
+        {
+            "text": "remember.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "I didn't mean to suggest you were.",
+            "page_#": 13
+        },
+        {
+            "text": "I just meant to say that as it was being",
+            "page_#": 13
+        },
+        {
+            "text": "prepared and organized, do you remember when you first -- it was a subject that first",
+            "page_#": 13
+        },
+        {
+            "text": "came on your radar?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I don't.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "I'm going to use a few things for guideposts then to help us, at least,",
+            "page_#": 13
+        },
+        {
+            "text": "try to get roughly around the time frame.",
+            "page_#": 13
+        },
+        {
+            "text": "Okay?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Are you familiar with the fact that Ms. Katrina Pierson met at the White",
+            "page_#": 13
+        },
+        {
+            "text": "House to discuss the rally on January 4th, so 2 days before?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Yes.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "exhibit if it helps.",
+            "page_#": 13
+        },
+        {
+            "text": "believe, in Breitbart on January 3rd about expected speakers at the event on the 6th?",
+            "page_#": 13
+        },
+        {
+            "text": "Then we'll go back one day before that, and we can show you an",
+            "page_#": 13
+        },
+        {
+            "text": "Are you aware that Matthew Boyle, that's B-o-y-1-e, wrote an article, I",
+            "page_#": 13
+        },
+        {
+            "text": "Do you remember that article?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I remember it because it was in the exhibits that my lawyer shared with me",
+            "page_#": 13
+        },
+        {
+            "text": "from the committee.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Understood.",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "And you probably then saw in those exhibits that you",
+            "page_#": 13
+        },
+        {
+            "text": "talked with Ms. Pierson about that on the third.",
+            "page_#": 13
+        },
+        {
+            "text": "that you were aware of, at least, by January 3rd?",
+            "page_#": 13
+        },
+        {
+            "text": "So seems to be that this was something",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "If that's what the exhibits show.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "That's what it shows.",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 13
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "So I'm going to try and see if we can go back further, if it jogs your memory.",
+            "page_#": 13
+        },
+        {
+            "text": "And, I think, as you've seen in the exhibits, we have phone records of yours and Ms.",
+            "page_#": 13
+        },
+        {
+            "text": "Pierson and Mr. Surabian's, but I'll show you yours.",
+            "page_#": 14
+        },
+        {
+            "text": "that to be brought up.",
+            "page_#": 14
+        },
+        {
+            "text": "And is it big enough that you can see?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Is it all right?",
+            "page_#": 14
+        },
+        {
+            "text": "Okay.",
+            "page_#": 14
+        },
+        {
+            "text": "And it's exhibit 4, and I'll just ask",
+            "page_#": 14
+        },
+        {
+            "text": "And so, I'll just ground you in the exhibit.",
+            "page_#": 14
+        },
+        {
+            "text": "It's pretty",
+            "page_#": 14
+        },
+        {
+            "text": "self-explanatory, but what it is, these are an annotated version of a portion of your phone",
+            "page_#": 14
+        },
+        {
+            "text": "records, and you can see they're displayed with a date and time on the left side followed",
+            "page_#": 14
+        },
+        {
+            "text": "by the directions.",
+            "page_#": 14
+        },
+        {
+            "text": "your phone, and then the other phone number that you were communicating with, and",
+            "page_#": 14
+        },
+        {
+            "text": "the duration in seconds.",
+            "page_#": 14
+        },
+        {
+            "text": "So whether it was an incoming communication or an outgoing from",
+            "page_#": 14
+        },
+        {
+            "text": "And then we highlighted certain people, which seemed to be kind of the folks that",
+            "page_#": 14
+        },
+        {
+            "text": "we'll hone in on if you were talking to them.",
+            "page_#": 14
+        },
+        {
+            "text": "And so if you see that, if we can go to the -- page 3 of that exhibit.",
+            "page_#": 14
+        },
+        {
+            "text": "And if we go",
+            "page_#": 14
+        },
+        {
+            "text": "down to the middle, just -- right about there.",
+            "page_#": 14
+        },
+        {
+            "text": "January 2nd --",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yep.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "-- at 3:24 p.m., there's a call that you placed to Caroline Wren for what",
+            "page_#": 14
+        },
+        {
+            "text": "maybe is about 6 minutes or so.",
+            "page_#": 14
+        },
+        {
+            "text": "And if we zoom in -- if you can see",
+            "page_#": 14
+        },
+        {
+            "text": "Do you see that call?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yes.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "All right, and I'll just ask generally, do you remember having communications",
+            "page_#": 14
+        },
+        {
+            "text": "with Ms. Wren about the January 6th event before it took place?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Looking at the phone records, yes, obviously I do, but do I remember what",
+            "page_#": 14
+        },
+        {
+            "text": "communications I had with her, no.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Okay.",
+            "page_#": 14
+        },
+        {
+            "text": "Fair point, but I guess I'll just ask this time, was this what you would",
+            "page_#": 14
+        },
+        {
+            "text": "have been talking with her about?",
+            "page_#": 14
+        },
+        {
+            "text": "Was there any other business you had with her on",
+            "page_#": 14
+        },
+        {
+            "text": "January 2nd around this time frame that you remember?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "There could have been a number of different things that I might have been",
+            "page_#": 15
+        },
+        {
+            "text": "talking to her about.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "But putting the specifics aside, you do have a memory, at least, that you did",
+            "page_#": 15
+        },
+        {
+            "text": "talk with her about the event on the 6th even if you don't remember the particulars of",
+            "page_#": 15
+        },
+        {
+            "text": "those discussions?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "That's fair to say.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "I'll ask if you remember -- you have a few phone calls with",
+            "page_#": 15
+        },
+        {
+            "text": "Don Jr. before speaking with Ms. Wren, both on the 2nd of January and the 1st.",
+            "page_#": 15
+        },
+        {
+            "text": "know whether or not you spoke with him about the event on the 6th before you talked to",
+            "page_#": 15
+        },
+        {
+            "text": "Ms. Wren?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Do you",
+            "page_#": 15
+        },
+        {
+            "text": "Do you remember?",
+            "page_#": 15
+        },
+        {
+            "text": "I don't remember having any conversations with Don about the event before",
+            "page_#": 15
+        },
+        {
+            "text": "it took place.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I'm sure I spoke with Taylor about it, but I don't remember the substance of",
+            "page_#": 15
+        },
+        {
+            "text": "Do you remember talking to Taylor Budowich about the event?",
+            "page_#": 15
+        },
+        {
+            "text": "any conversations that I had with him about it.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "As you sit here, Mr. Schwartz, do you know what role Taylor",
+            "page_#": 15
+        },
+        {
+            "text": "Budowich played with it with regard to the January 6th event at all?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I have no direct knowledge of that.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "How about Ms. Wren?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I had no direct knowledge of what her role was.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "How about Ms. Pierson?",
+            "page_#": 15
+        },
+        {
+            "text": "Do you know what she was doing, based on what",
+            "page_#": 15
+        },
+        {
+            "text": "she was telling you?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I don't remember what we discussed, so I -- I had no direct knowledge, and I",
+            "page_#": 15
+        },
+        {
+            "text": "have no recollection the substance of our conversations.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "After the election in 2020, so after November 3rd, were you generally aware",
+            "page_#": 16
+        },
+        {
+            "text": "of what I'll call the Stop the Steal protests that were taking place around the country and",
+            "page_#": 16
+        },
+        {
+            "text": "in D.C.?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I was aware that it was a thing.",
+            "page_#": 16
+        },
+        {
+            "text": "I couldn't tell you specifically what it was.",
+            "page_#": 16
+        },
+        {
+            "text": "I saw it on social media.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Fair enough, which leads into my next question:",
+            "page_#": 16
+        },
+        {
+            "text": "Did you, yourself, have",
+            "page_#": 16
+        },
+        {
+            "text": "any personal involvement in any such rallies or with the people putting them on?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "No.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Did any of the rallies and the messaging around the Stop the Steal, to the",
+            "page_#": 16
+        },
+        {
+            "text": "extent you knew, did any of that give you any concern or pause about what was",
+            "page_#": 16
+        },
+        {
+            "text": "happening with those prior to January 6th?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Yes.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Okay.",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I was, you know, engaged in efforts to get Senators Loeffler and Perdue",
+            "page_#": 16
+        },
+        {
+            "text": "And what about that?",
+            "page_#": 16
+        },
+        {
+            "text": "re-elected, and the Stop the Steal crowd, for lack of a better way to describe them, was",
+            "page_#": 16
+        },
+        {
+            "text": "telling people not to vote, which was directly contrary to the efforts that I was",
+            "page_#": 16
+        },
+        {
+            "text": "undertaking.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Not to vote because they were saying you couldn't trust the results or what",
+            "page_#": 16
+        },
+        {
+            "text": "did you understand the messaging to be?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I don't really remember.",
+            "page_#": 16
+        },
+        {
+            "text": "The bottom line to me was I knew that they were",
+            "page_#": 16
+        },
+        {
+            "text": "telling people not to vote, which was -- didn't seem productive to me.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "familiar with him?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "All right.",
+            "page_#": 16
+        },
+        {
+            "text": "The gentleman named Ali Alexander, otherwise known as Ali Akbar, are you",
+            "page_#": 16
+        },
+        {
+            "text": "Not that you know him personally, but do you know of him?",
+            "page_#": 16
+        },
+        {
+            "text": "Did you understand him to be associated with the Stop the Steal",
+            "page_#": 16
+        },
+        {
+            "text": "movement that we've been talking about?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I had no direct knowledge of what his involvement was, but I seemed to get",
+            "page_#": 17
+        },
+        {
+            "text": "that indication from social media that he was involved.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "In other words, he was holding himself out as being affiliated with that?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I seem to recall that that was my impression at the time.",
+            "page_#": 17
+        },
+        {
+            "text": "You're talking",
+            "page_#": 17
+        },
+        {
+            "text": "about what I knew back then, correct?",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Correct, as best you can remember.",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Right.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Was there something, in particular, about Mr. Alexander that gave you",
+            "page_#": 17
+        },
+        {
+            "text": "I know that's difficult.",
+            "page_#": 17
+        },
+        {
+            "text": "pause, separate and apart from the broader Stop the Steal movement?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Just from a comms perspective, I never found the things that he was saying",
+            "page_#": 17
+        },
+        {
+            "text": "to be particularly helpful to party politics.",
+            "page_#": 17
+        },
+        {
+            "text": "I don't have any specific recollection of what",
+            "page_#": 17
+        },
+        {
+            "text": "things, but I just didn't view him as being a -- contributing in a positive way.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "with Ms. Pierson.",
+            "page_#": 17
+        },
+        {
+            "text": "down on that first page -- so this is January 3rd at 7:28 p.m., and you write to Ms.",
+            "page_#": 17
+        },
+        {
+            "text": "Pierson -- I should ask, do you remember, at least, as a general matter that you were",
+            "page_#": 17
+        },
+        {
+            "text": "conversing with Ms. Pierson about the event on the 6th, put aside the specifics?",
+            "page_#": 17
+        },
+        {
+            "text": "Now, if we look at exhibit 6, these are text messages that you exchanged",
+            "page_#": 17
+        },
+        {
+            "text": "We'll bring those up on the screen for you to see.",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Vague recollection.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "And if we go",
+            "page_#": 17
+        },
+        {
+            "text": "And so you ask her, you know, why are we letting our people share a",
+            "page_#": 17
+        },
+        {
+            "text": "stage with Ali Akbar and people like that.",
+            "page_#": 17
+        },
+        {
+            "text": "And do you remember what it is that",
+            "page_#": 17
+        },
+        {
+            "text": "prompted you to ask her that question and why you went to her?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I don't remember specifically.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Obviously, at this point, you had an understanding that she was somehow",
+            "page_#": 17
+        },
+        {
+            "text": "involved with the event on the 6th?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I would have to see more text messages to answer that, to refresh my",
+            "page_#": 18
+        },
+        {
+            "text": "recollection, but I don't specifically recall.",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "I imagine you wouldn't just text her out of the blue, I guess, because",
+            "page_#": 18
+        },
+        {
+            "text": "you're asking her -- go ahead.",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I don't see the preceding text messages, so I don't know how out of the blue",
+            "page_#": 18
+        },
+        {
+            "text": "or not it was.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Fair enough.",
+            "page_#": 18
+        },
+        {
+            "text": "When you refer to \"our people share a stage,\" do you know",
+            "page_#": 18
+        },
+        {
+            "text": "who you're talking about there?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Would you consider President Trump and his family to be our people?",
+            "page_#": 18
+        },
+        {
+            "text": "Would you refer to them that way?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I don't know, because I don't know what the context was there.",
+            "page_#": 18
+        },
+        {
+            "text": "speak for President Trump, so I would -- I don't know.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "So I don't",
+            "page_#": 18
+        },
+        {
+            "text": "I can't say.",
+            "page_#": 18
+        },
+        {
+            "text": "Would there be anyone else who spoke on the stage of January 6th you'd",
+            "page_#": 18
+        },
+        {
+            "text": "consider your people?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I don't remember exactly who spoke besides Don Jr. and Don I would",
+            "page_#": 18
+        },
+        {
+            "text": "definitely consider my people.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Understood.",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "And Ms. Pierson writes back, you know, what she",
+            "page_#": 18
+        },
+        {
+            "text": "says seeming to express agreement with you.",
+            "page_#": 18
+        },
+        {
+            "text": "see that there that she seems to express agreement with your view about them sharing",
+            "page_#": 18
+        },
+        {
+            "text": "the stage with Mr. Akbar?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "All right.",
+            "page_#": 18
+        },
+        {
+            "text": "I don't need to read the words, but you",
+            "page_#": 18
+        },
+        {
+            "text": "Does that jive with your memory of your conversations with her",
+            "page_#": 18
+        },
+        {
+            "text": "that she took the same view with you, just as a general matter?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "It does nothing to refresh my recollection.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Okay.",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Sorry.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "You don't have to apologize.",
+            "page_#": 19
+        },
+        {
+            "text": "What is -- what would the reason be, though,",
+            "page_#": 19
+        },
+        {
+            "text": "that you'd be concerned about, say, Don Jr., at least, sharing a stage with someone like Ali",
+            "page_#": 19
+        },
+        {
+            "text": "Akbar and people like that?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I had Don Jr. going down to Georgia for -- to rally and headline events for",
+            "page_#": 19
+        },
+        {
+            "text": "Senators Loeffler and Perdue, and you had this gentleman telling people not to speak.",
+            "page_#": 19
+        },
+        {
+            "text": "Just from a com ms perspective, it didn't seem like a good idea to me to have someone",
+            "page_#": 19
+        },
+        {
+            "text": "who's telling people not to vote on the same stage as Don who's trying to get people out",
+            "page_#": 19
+        },
+        {
+            "text": "to vote.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Now, the event on the 6th was going to be after the Georgia runoff.",
+            "page_#": 19
+        },
+        {
+            "text": "that right, which was on January 5th?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Correct.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "All right.",
+            "page_#": 19
+        },
+        {
+            "text": "Isn't",
+            "page_#": 19
+        },
+        {
+            "text": "So there wasn't any other reason why you were concerned about",
+            "page_#": 19
+        },
+        {
+            "text": "Don Jr. after the Georgia runoffs appearing on the stage with Ali Akbar?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "These texts were dated January 3rd, and I believe the Breitbart article that",
+            "page_#": 19
+        },
+        {
+            "text": "you were talking about was -- preceded that.",
+            "page_#": 19
+        },
+        {
+            "text": "not necessarily, like, well, the runoff was on the 5th and the event was on the 6th.",
+            "page_#": 19
+        },
+        {
+            "text": "information was out there before the 5th, then it's the same com ms problem regardless",
+            "page_#": 19
+        },
+        {
+            "text": "of when the actual event would be.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "So it's -- from a com ms perspective, it's",
+            "page_#": 19
+        },
+        {
+            "text": "And so do you remember now that we're talking about it whether it was that",
+            "page_#": 19
+        },
+        {
+            "text": "article in Breitbart published that night that prompted you?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "If the",
+            "page_#": 19
+        },
+        {
+            "text": "I don't.",
+            "page_#": 19
+        },
+        {
+            "text": "You just don't know?",
+            "page_#": 19
+        },
+        {
+            "text": "It's the only relevant piece of information that I've seen, so I",
+            "page_#": 19
+        },
+        {
+            "text": "can't -- I can't speak about the entire universe of information that was going through my",
+            "page_#": 19
+        },
+        {
+            "text": "head back then.",
+            "page_#": 19
+        },
+        {
+            "text": "I just don't remember.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "If we flip to page 2 of this exhibit, at the top there, you see Ms. Pierson still",
+            "page_#": 20
+        },
+        {
+            "text": "on the evening of January 3rd, so at 9:20 p.m., she references the article it appears by",
+            "page_#": 20
+        },
+        {
+            "text": "saying, \"By the way, Boyle should have asked his, quote/unquote, organizer, if they are on",
+            "page_#": 20
+        },
+        {
+            "text": "the permit.\"",
+            "page_#": 20
+        },
+        {
+            "text": "Do you know who she was referring to there with the word \"organizer\" in",
+            "page_#": 20
+        },
+        {
+            "text": "parenthesis?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "In quotes, do you mean?",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "In quotes.",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I do not.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you ever have a conversation with her about the fact that she believed it",
+            "page_#": 20
+        },
+        {
+            "text": "I'm sorry.",
+            "page_#": 20
+        },
+        {
+            "text": "You're right.",
+            "page_#": 20
+        },
+        {
+            "text": "was Caroline Wren who leaked the speaker list to Breitbart, and Mr. Boyle, in particular?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you ever talk to Mr. Boyle about this article, either before or after it was",
+            "page_#": 20
+        },
+        {
+            "text": "published?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Is he someone that you keep in touch with --",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Oh, I mean, I talked to Matt often.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "So it's possible you did, but you don't remember if you did or didn't?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I don't remember the specifics of any conversation.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Now, the next morning, or at 4:21 a.m. on January 4th, you sent a message",
+            "page_#": 20
+        },
+        {
+            "text": "to Ms. Pierson that said, Sent this to Scavino, dot, dot, dot.",
+            "page_#": 20
+        },
+        {
+            "text": "And she likes an image.",
+            "page_#": 20
+        },
+        {
+            "text": "Now, we don't -- she likes it, it appears, and we don't have the image.",
+            "page_#": 20
+        },
+        {
+            "text": "Do you know what you would've sent to Mr. Scavino on January 4th at that time?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "No, I have no idea.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Is Mr. Scavino someone that you would text with at this time that we're",
+            "page_#": 20
+        },
+        {
+            "text": "talking about in January of 2021?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "Yes.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Would you also talk to him on occasion at that time, in and around that",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "Yes.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Do you recall ever speaking to Mr. Scavino about the January 6th rally before",
+            "page_#": 21
+        },
+        {
+            "text": "time?",
+            "page_#": 21
+        },
+        {
+            "text": "it took place?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I do not.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Now, sticking with the third, if we look at -- I think what I'll show is exhibit 7,",
+            "page_#": 21
+        },
+        {
+            "text": "which were Ms. Pierson's call records.",
+            "page_#": 21
+        },
+        {
+            "text": "same numbers that were highlighted on your call records, and then also added your",
+            "page_#": 21
+        },
+        {
+            "text": "number where it shows up, but if we can focus on page 3, right, and we'll start there.",
+            "page_#": 21
+        },
+        {
+            "text": "And then we'll work our way down, but I just want to highlight something before I get to",
+            "page_#": 21
+        },
+        {
+            "text": "the question, Mr. Schwartz.",
+            "page_#": 21
+        },
+        {
+            "text": "So I blacked out her other numbers, but kept the",
+            "page_#": 21
+        },
+        {
+            "text": "But you'll see on January 2nd, highlighted in red at 4:24 p.m., that Ms. Pierson has",
+            "page_#": 21
+        },
+        {
+            "text": "an incoming call from Mark Meadows.",
+            "page_#": 21
+        },
+        {
+            "text": "Now, is Mr. Meadows someone that you were",
+            "page_#": 21
+        },
+        {
+            "text": "communicating with at this time in January of 2021, whether by text or phone?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "No.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "If we continue on down that exhibit 7, you'll see that Ms. Pierson has",
+            "page_#": 21
+        },
+        {
+            "text": "additional communications with Mr. Meadows on January 3rd before she talks to you, a",
+            "page_#": 21
+        },
+        {
+            "text": "couple calls with him, and also calls with Caroline Wren and Taylor Budowich.",
+            "page_#": 21
+        },
+        {
+            "text": "continue on, also has at 4:58 p.m. and 6:16 p.m. on the 3rd of January still, calls with Dan",
+            "page_#": 21
+        },
+        {
+            "text": "Scavino, or communications with Mr. Scavino.",
+            "page_#": 21
+        },
+        {
+            "text": "she calls you, Ms. Pierson calls you.",
+            "page_#": 21
+        },
+        {
+            "text": "the evening of January 3rd, you call Ms. Pierson and the two of you have over a",
+            "page_#": 21
+        },
+        {
+            "text": "And if we",
+            "page_#": 21
+        },
+        {
+            "text": "And then later that evening at 7:33 p.m.,",
+            "page_#": 21
+        },
+        {
+            "text": "And if we go down to the next page, page 4, still on",
+            "page_#": 21
+        },
+        {
+            "text": "10-minute long conversation.",
+            "page_#": 22
+        },
+        {
+            "text": "You've seen all those records?",
+            "page_#": 22
+        },
+        {
+            "text": "I think I fairly summarized them.",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Do you recall in your conversations with Ms. Pierson, the evening of",
+            "page_#": 22
+        },
+        {
+            "text": "Yep.",
+            "page_#": 22
+        },
+        {
+            "text": "January 3rd, any discussions of her communications with the White House about the",
+            "page_#": 22
+        },
+        {
+            "text": "event on the 6th?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Do you remember whether she told you she spoke to Mr. Meadows or Mr.",
+            "page_#": 22
+        },
+        {
+            "text": "Scavino about the event?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Did she tell you that evening that she'd be meeting at the White House the",
+            "page_#": 22
+        },
+        {
+            "text": "next day on January 4th?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "If we -- do you remember talking to Ms. Pierson or communicating with her,",
+            "page_#": 22
+        },
+        {
+            "text": "at least, after her meeting at the White House on the 4th?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "So we'll go on and we'll look at exhibits -- make sure I get the right one.",
+            "page_#": 22
+        },
+        {
+            "text": "Exhibit 6, again, if we can bring that up, and if we go to page 2.",
+            "page_#": 22
+        },
+        {
+            "text": "see in the middle of that page on January 4th, Ms. Pierson texts you, \"we won\" and you",
+            "page_#": 22
+        },
+        {
+            "text": "write back to her immediately, \"oh, I heard.\"",
+            "page_#": 22
+        },
+        {
+            "text": "\"Rock.",
+            "page_#": 22
+        },
+        {
+            "text": "And at 4:36 p.m., if you",
+            "page_#": 22
+        },
+        {
+            "text": "Star.\"",
+            "page_#": 22
+        },
+        {
+            "text": "Now, do you know what she was referring to there?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "At the time obviously I did, but as I sit here today, I don't remember.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Do you know who you heard from in advance that whatever she had been",
+            "page_#": 22
+        },
+        {
+            "text": "doing she won?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I don't know what she's talking about, so I definitely don't remember what I",
+            "page_#": 22
+        },
+        {
+            "text": "might've heard in advance.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "You follow up then at 8:14 p.m. to say, \"That's literally 100 percent of the",
+            "page_#": 23
+        },
+        {
+            "text": "words that I communicated to Don about this and I haven't spoken to KG at all this week.\"",
+            "page_#": 23
+        },
+        {
+            "text": "Do you see that?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Yes.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "All right, and so what were you conveying there?",
+            "page_#": 23
+        },
+        {
+            "text": "conveyed to Don?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I don't know.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "And is Don Don Jr.?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I believe so.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Right.",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Is that yes?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Yes.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Ms. Pierson goes on after that -- well, maybe we should go -- let me ask this:",
+            "page_#": 23
+        },
+        {
+            "text": "What words had you",
+            "page_#": 23
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 23
+        },
+        {
+            "text": "You write on after that, \"KG,\" is that Kimberly Guilfoyle?",
+            "page_#": 23
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 23
+        },
+        {
+            "text": "Do you remember that Ms. Guilfoyle -- hearing that Ms. Guilfoyle got quite upset because",
+            "page_#": 23
+        },
+        {
+            "text": "she believed she'd been cut out of the speaker list for the January 6th event?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "So if we look at exhibit 2, these are text messages between Katrina Pierson",
+            "page_#": 23
+        },
+        {
+            "text": "and Kimberly Guilfoyle starting on January 4th.",
+            "page_#": 23
+        },
+        {
+            "text": "since they were provided on Friday?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Okay.",
+            "page_#": 23
+        },
+        {
+            "text": "Did you have a chance to review these",
+            "page_#": 23
+        },
+        {
+            "text": "You've seen them?",
+            "page_#": 23
+        },
+        {
+            "text": "Fair to say that, at least just on the face of them, not saying you",
+            "page_#": 23
+        },
+        {
+            "text": "know, but they reflect that Ms. Guilfoyle was upset because she thought she was cut out",
+            "page_#": 23
+        },
+        {
+            "text": "of the speaker's list for the 6th?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Yeah, but I have no direct knowledge of, you know --",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Understood.",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "-- what she was thinking or feeling.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "On page 2 of this, though, I just want to highlight, Ms. Pierson tells Ms.",
+            "page_#": 24
+        },
+        {
+            "text": "Guilfoyle in her response at 6:22 p.m. on the 4th, in the middle, \"I submitted a list with",
+            "page_#": 24
+        },
+        {
+            "text": "everyone on it, including you and Don speaking before POTUS, per usual, and it came",
+            "page_#": 24
+        },
+        {
+            "text": "back very minimal.",
+            "page_#": 24
+        },
+        {
+            "text": "It's so frustrating because I've never had so much interference.\"",
+            "page_#": 24
+        },
+        {
+            "text": "She continues with another message:",
+            "page_#": 24
+        },
+        {
+            "text": "And then, again, continues:",
+            "page_#": 24
+        },
+        {
+            "text": "\"I'm not sure what happened, but it's not my place",
+            "page_#": 24
+        },
+        {
+            "text": "to argue with WH,\" or White House.",
+            "page_#": 24
+        },
+        {
+            "text": "And Ms. Guilfoyle responds on the 4th at 6:37 p.m.:",
+            "page_#": 24
+        },
+        {
+            "text": "\"Yeah, and this the list we",
+            "page_#": 24
+        },
+        {
+            "text": "approved.\"",
+            "page_#": 24
+        },
+        {
+            "text": "And she clarifies:",
+            "page_#": 24
+        },
+        {
+            "text": "And so that brings up a question.",
+            "page_#": 24
+        },
+        {
+            "text": "\"Caroline made the list.\"",
+            "page_#": 24
+        },
+        {
+            "text": "Vea.",
+            "page_#": 24
+        },
+        {
+            "text": "This is the list we approved.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schwartz, did you ever see a list of",
+            "page_#": 24
+        },
+        {
+            "text": "speakers that Ms. Guilfoyle is referring to?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I don't remember seeing any such list.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Did you ever discuss with Ms. Guilfoyle a list of speakers for the event on the",
+            "page_#": 24
+        },
+        {
+            "text": "6th before it took place?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I have no recollection of having any such conversation with her.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Okay.",
+            "page_#": 24
+        },
+        {
+            "text": "Did you ever have a conversation with Don Jr. about the list of",
+            "page_#": 24
+        },
+        {
+            "text": "potential speakers before the event took place?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I have no recollection of having any such conversation with him.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Do you have a recollection of ever talking to him at all about the event on",
+            "page_#": 24
+        },
+        {
+            "text": "the 6th before it took place?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Honestly, no.",
+            "page_#": 24
+        },
+        {
+            "text": "I don't -- I don't think that I did, but, you know, if there are",
+            "page_#": 24
+        },
+        {
+            "text": "texts that suggest otherwise, then that's what they suggest, but I don't recall having any",
+            "page_#": 25
+        },
+        {
+            "text": "conversations with him about it.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Okay.",
+            "page_#": 25
+        },
+        {
+            "text": "Well, to that point, let's look at exhibit 8.",
+            "page_#": 25
+        },
+        {
+            "text": "And this is a group text",
+            "page_#": 25
+        },
+        {
+            "text": "message between Ms. Pierson, yourself, and Taylor Budowich that Ms. Pierson produced",
+            "page_#": 25
+        },
+        {
+            "text": "starting on January 4th.",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "And just want to direct your attention to 6:39 p.m. on the 4th, Ms. Pierson",
+            "page_#": 25
+        },
+        {
+            "text": "says to you and Mr. Budowich:",
+            "page_#": 25
+        },
+        {
+            "text": "being organized and planned before -- long before she was even aware of it.",
+            "page_#": 25
+        },
+        {
+            "text": "going to play that game with her or Caroline,\" which you liked at 6:40 p.m.",
+            "page_#": 25
+        },
+        {
+            "text": "\"You guys may want to let her know that this event was",
+            "page_#": 25
+        },
+        {
+            "text": "Do you know what Ms. Pierson was referring to in that message?",
+            "page_#": 25
+        },
+        {
+            "text": "Ms. Guilfoyle?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "And at 6:42 p.m., Ms. Pierson continues:",
+            "page_#": 25
+        },
+        {
+            "text": "approved Caroline's list.\"",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Yep.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "All right.",
+            "page_#": 25
+        },
+        {
+            "text": "I'm not",
+            "page_#": 25
+        },
+        {
+            "text": "Was it about",
+            "page_#": 25
+        },
+        {
+            "text": "\"And she said that she and Don",
+            "page_#": 25
+        },
+        {
+            "text": "You see that?",
+            "page_#": 25
+        },
+        {
+            "text": "And consistent with what we saw in the earlier exhibit where Ms.",
+            "page_#": 25
+        },
+        {
+            "text": "Pierson and Ms. Guilfoyle exchanged messages and Ms. Guilfoyle said that she and Don",
+            "page_#": 25
+        },
+        {
+            "text": "had approved the list, fair to say?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Yep.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "All right.",
+            "page_#": 25
+        },
+        {
+            "text": "And you laughed at that comment and then at 7:15 p.m. still on",
+            "page_#": 25
+        },
+        {
+            "text": "the 4th, you respond:",
+            "page_#": 25
+        },
+        {
+            "text": "\"Don was going to pull out when he heard the list.",
+            "page_#": 25
+        },
+        {
+            "text": "to stay in once he heard that DJT was going to be there.",
+            "page_#": 25
+        },
+        {
+            "text": "So do you remember sending that message?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I don't.",
+            "page_#": 25
+        },
+        {
+            "text": "Only agreed",
+            "page_#": 25
+        },
+        {
+            "text": "He didn't approve jack shit.\"",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "And when you say Don, I imagine that's you referring to Don Jr., though?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "All right.",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "So you don't have any recollection of how you learned these facts to tell Ms.",
+            "page_#": 26
+        },
+        {
+            "text": "Pierson?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "As I sit here today, I don't have any recollection.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Fair enough.",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Were you in the D.C. area on the day of the 6th in McLean?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I believe I was home all day.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Did you come downtown for the Ellipse rally?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "No.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "All right.",
+            "page_#": 26
+        },
+        {
+            "text": "And DJT is President Trump?",
+            "page_#": 26
+        },
+        {
+            "text": "So on the 6th you were living in McLean, Virginia?",
+            "page_#": 26
+        },
+        {
+            "text": "If I can show you your phone messages just to get a sense of your",
+            "page_#": 26
+        },
+        {
+            "text": "day, but to the best of your memory, you were home all day from morning till night?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I believe so, yes.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Certainly didn't come into the city that day?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I can't say with absolute certainty, but I would be very surprised to learn that",
+            "page_#": 26
+        },
+        {
+            "text": "I was in the city that day.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "If we look at on exhibit 4, and page 4, in particular, towards the bottom,",
+            "page_#": 26
+        },
+        {
+            "text": "you'll see there that what looked to be a fairly brief communications with Don Jr. the",
+            "page_#": 26
+        },
+        {
+            "text": "morning of the 6th, looks like you reach out to him at 10:38 a.m., but then he calls you",
+            "page_#": 26
+        },
+        {
+            "text": "back at 10:40 a.m.",
+            "page_#": 26
+        },
+        {
+            "text": "Do you remember what these conversations were about?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I don't.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Did you watch him speak in real time, that is, Don Jr. at the event on the",
+            "page_#": 27
+        },
+        {
+            "text": "Ellipse?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I don't believe so, no.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Do you know whether you helped him draft his speech or prepare his",
+            "page_#": 27
+        },
+        {
+            "text": "remarks in advance?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I don't remember doing so, but I don't -- I don't generally do that, so --",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "That would be out of the ordinary if you did?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Okay.",
+            "page_#": 27
+        },
+        {
+            "text": "Do you recall watching the rally to see President Trump speak as it",
+            "page_#": 27
+        },
+        {
+            "text": "was taking place in real time?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I don't.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Do you remember when you first learned that there was violence at the",
+            "page_#": 27
+        },
+        {
+            "text": "Capitol that day?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I don't.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "At some point that day, though, I imagine you learned about it?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Yes.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "So if we can look at -- give me one second.",
+            "page_#": 27
+        },
+        {
+            "text": "I don't.",
+            "page_#": 27
+        },
+        {
+            "text": "Look at exhibit 5.",
+            "page_#": 27
+        },
+        {
+            "text": "This looks",
+            "page_#": 27
+        },
+        {
+            "text": "to be a tweet that you sent, and if we can show you at the bottom of that tweet, 2:34",
+            "page_#": 27
+        },
+        {
+            "text": "p.m. on January 6th, 2021.",
+            "page_#": 27
+        },
+        {
+            "text": "And if we go back up to the text, it says:",
+            "page_#": 27
+        },
+        {
+            "text": "revolution.",
+            "page_#": 27
+        },
+        {
+            "text": "No different than what the Black Lives Matter, Inc. thugs",
+            "page_#": 27
+        },
+        {
+            "text": "do.",
+            "page_#": 27
+        },
+        {
+            "text": "This is rioting.",
+            "page_#": 27
+        },
+        {
+            "text": "\"This isn't",
+            "page_#": 27
+        },
+        {
+            "text": "It's disgraceful and they belong in prison.\"",
+            "page_#": 27
+        },
+        {
+            "text": "And it's you apparently retweeting someone named Elijah Schaffer who had",
+            "page_#": 27
+        },
+        {
+            "text": "tweeted out:",
+            "page_#": 27
+        },
+        {
+            "text": "\"Breaking:",
+            "page_#": 27
+        },
+        {
+            "text": "Revolution in process as Trump supporters break into the",
+            "page_#": 27
+        },
+        {
+            "text": "Capitol building, attacking police, breaking windows, and knocking down doors.\"",
+            "page_#": 27
+        },
+        {
+            "text": "you send this tweet out?",
+            "page_#": 27
+        },
+        {
+            "text": "So did",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Yes.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "And so certainly by this time you were aware by 2:34 p.m. of the violence at",
+            "page_#": 28
+        },
+        {
+            "text": "the Capitol?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I think that's fair to say.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Okay.",
+            "page_#": 28
+        },
+        {
+            "text": "Fair to say you monitor social media fairly closely as part of your job",
+            "page_#": 28
+        },
+        {
+            "text": "and what you do day-to-day?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Not every day all day, but generally speaking.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "And were you following President Trump on Twitter at this time?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Can you just clarify what you mean by following him?",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "That's the only term I know.",
+            "page_#": 28
+        },
+        {
+            "text": "I mean, someone you can follow their Twitter",
+            "page_#": 28
+        },
+        {
+            "text": "accounts?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Oh, okay.",
+            "page_#": 28
+        },
+        {
+            "text": "Yeah, but following doesn't mean I'm",
+            "page_#": 28
+        },
+        {
+            "text": "Got you.",
+            "page_#": 28
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 28
+        },
+        {
+            "text": "watching everything that comes out of their Twitter account.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Fair enough.",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I believe so, yes, sir.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Do you recall seeing throughout the day, message or tweets that the",
+            "page_#": 28
+        },
+        {
+            "text": "But he's an account you were following at the time?",
+            "page_#": 28
+        },
+        {
+            "text": "President was sending as the violence was still taking place at the Capitol?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "You don't remember -- do you remember having an opinion on whether the",
+            "page_#": 28
+        },
+        {
+            "text": "President should be doing more or less in response to the violence?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Do you recall talking to Don Jr. at all during the time that the violence was",
+            "page_#": 28
+        },
+        {
+            "text": "taking place at the Capitol on the 6th?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I don't.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you have an opinion during that time, just as a friend, whether he should",
+            "page_#": 28
+        },
+        {
+            "text": "be speaking out publicly about the violence and telling people to stop?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "If you look at exhibit 10, this is a tweet that Don Jr. sent out -- we can show",
+            "page_#": 29
+        },
+        {
+            "text": "you -- at 2:17 p.m. on January 6th of 2021 where he says:",
+            "page_#": 29
+        },
+        {
+            "text": "\"This is wrong and not who",
+            "page_#": 29
+        },
+        {
+            "text": "we are.",
+            "page_#": 29
+        },
+        {
+            "text": "other side.",
+            "page_#": 29
+        },
+        {
+            "text": "of Elijah Schaffer, just a different message, but about Trump supporters having breached",
+            "page_#": 29
+        },
+        {
+            "text": "the Capitol building.",
+            "page_#": 29
+        },
+        {
+            "text": "Be peaceful and use your First Amendment rights, but don't start acting like the",
+            "page_#": 29
+        },
+        {
+            "text": "We have a country to save and this doesn't help anyone,\" and it's a retweet",
+            "page_#": 29
+        },
+        {
+            "text": "Do you recall talking to Don Jr. about this tweet and him sending it out?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "I don't.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "I'm going to show you exhibit 11, which are Mr. Surabian's phone calls, or",
+            "page_#": 29
+        },
+        {
+            "text": "phone records, and direct your attention to page -- give me one second -- 5.",
+            "page_#": 29
+        },
+        {
+            "text": "Now, you can see that -- do you remember whether you talked to Mr. Surabian on",
+            "page_#": 29
+        },
+        {
+            "text": "the 6th during the afternoon while the violence was ongoing about the attack on the",
+            "page_#": 29
+        },
+        {
+            "text": "Capitol?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Okay.",
+            "page_#": 29
+        },
+        {
+            "text": "Have you talked to him since about whether he spoke with Don Jr.",
+            "page_#": 29
+        },
+        {
+            "text": "during this time and what they talked about?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "I have not discussed any of this with him in recent months.",
+            "page_#": 29
+        },
+        {
+            "text": "I don't",
+            "page_#": 29
+        },
+        {
+            "text": "remember what I may have discussed with him before that.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "And I just want to direct your attention to starting at 4:12 p.m., if you go",
+            "page_#": 29
+        },
+        {
+            "text": "down just a little bit, still on the 6th, if you see there at 4:12 p.m. on the 6th, Mr. Surabian",
+            "page_#": 29
+        },
+        {
+            "text": "calls you and you see it's logged there for 458 seconds?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "So my math is not great, but a little over 7 minutes -- between 7- and",
+            "page_#": 29
+        },
+        {
+            "text": "8-minute long call, okay?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "All right.",
+            "page_#": 30
+        },
+        {
+            "text": "At 4:16, so before your call with him is over,",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. Surabian also calls Don Jr., do you see that, at 4:16 p.m.?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "Right.",
+            "page_#": 30
+        },
+        {
+            "text": "So that's at 4:12.",
+            "page_#": 30
+        },
+        {
+            "text": "And that call is logged for 220 seconds.",
+            "page_#": 30
+        },
+        {
+            "text": "4:16 p.m., Mr. Surabian outgoing call to a conference server.",
+            "page_#": 30
+        },
+        {
+            "text": "And right after that, still at",
+            "page_#": 30
+        },
+        {
+            "text": "Do you see that?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "Right, but what I'll ask is, do you recall being on a group call with Don Jr. and",
+            "page_#": 30
+        },
+        {
+            "text": "I don't know what that means.",
+            "page_#": 30
+        },
+        {
+            "text": "Andy Surabian at this time?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "I don't.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "All right, and I'll put more particulars around it.",
+            "page_#": 30
+        },
+        {
+            "text": "This is right at the",
+            "page_#": 30
+        },
+        {
+            "text": "time -- right as President Trump is tweeting at 4:17 p.m. his message, or his video, to the",
+            "page_#": 30
+        },
+        {
+            "text": "rioters to go home.",
+            "page_#": 30
+        },
+        {
+            "text": "Do you recall the fact that he sent out a video that afternoon to tell people to go",
+            "page_#": 30
+        },
+        {
+            "text": "home?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Vaguely, yes.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "And so, again, I'll come back to and I have to ask, you don't recall being on",
+            "page_#": 30
+        },
+        {
+            "text": "the phone with Don Jr. and Andy Surabian at the time the video came out?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "I don't.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "I get that, but how many times have you talked to them during an attack on",
+            "page_#": 30
+        },
+        {
+            "text": "I mean, these are guys I talk to every day, so I don't remember.",
+            "page_#": 30
+        },
+        {
+            "text": "the Capitol?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "I'm just telling you, as I sit here today, I don't remember the calls that I had",
+            "page_#": 30
+        },
+        {
+            "text": "that day.",
+            "page_#": 30
+        },
+        {
+            "text": "would've believed you.",
+            "page_#": 30
+        },
+        {
+            "text": "If you told me that there were no phone records between me and Don, I",
+            "page_#": 30
+        },
+        {
+            "text": "I just don't remember.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Have you ever talked to Don Jr. since the 6th about his efforts to reach his",
+            "page_#": 31
+        },
+        {
+            "text": "father, the President, while the attack was ongoing at the Capitol?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Not that I recall.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "And so has he ever talked to you about text messages he sent to Mark",
+            "page_#": 31
+        },
+        {
+            "text": "Meadows on the afternoon of the 6th trying to get him to tell his father to send a",
+            "page_#": 31
+        },
+        {
+            "text": "message out?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Not that I recall.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Are you aware that these text messages, or some of them, have been made",
+            "page_#": 31
+        },
+        {
+            "text": "public by the select committee?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "I've seen headlines.",
+            "page_#": 31
+        },
+        {
+            "text": "I don't remember exactly what was made public, but",
+            "page_#": 31
+        },
+        {
+            "text": "I've seen headlines, news stories about it, but the specifics I'm not fully briefed on.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Fair enough.",
+            "page_#": 31
+        },
+        {
+            "text": "Have you talked to Don Jr. just about the fact that the news",
+            "page_#": 31
+        },
+        {
+            "text": "reports about his texts being public?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "I've not had any conversations with him in recent months and I believe I",
+            "page_#": 31
+        },
+        {
+            "text": "stopped discussing this with him prior to that being made public.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "How about Ms. Guilfoyle?",
+            "page_#": 31
+        },
+        {
+            "text": "Have you talked to her about her experience on",
+            "page_#": 31
+        },
+        {
+            "text": "the 6th at all since that day that you know of?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Not that I recall and I don't speak to her very frequently.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Understood.",
+            "page_#": 31
+        },
+        {
+            "text": "Now, turning back to your tweets in exhibit 5, and going to",
+            "page_#": 31
+        },
+        {
+            "text": "page 2, on January 10th of 2021, at 7:51 p.m., it looks like you retweeted a tweet from an",
+            "page_#": 31
+        },
+        {
+            "text": "account of Jerry Dunleavy saying that Ali Alexander has been suspended from Twitter.",
+            "page_#": 31
+        },
+        {
+            "text": "And you said:",
+            "page_#": 31
+        },
+        {
+            "text": "some good news\"?",
+            "page_#": 31
+        },
+        {
+            "text": "\"Finally some good news.\"",
+            "page_#": 31
+        },
+        {
+            "text": "So is that a tweet you sent out, the \"finally",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Apparently, yes.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Do you remember sending it out?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Not specifically, no.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Okay.",
+            "page_#": 32
+        },
+        {
+            "text": "But seeing it now here, do you know why you responded to news",
+            "page_#": 32
+        },
+        {
+            "text": "that he was suspended from Twitter with finally some good news?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Do I remember specifically why I said that?",
+            "page_#": 32
+        },
+        {
+            "text": "answer I provided previously.",
+            "page_#": 32
+        },
+        {
+            "text": "comes to the party politics or messaging.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "No.",
+            "page_#": 32
+        },
+        {
+            "text": "It goes back to the",
+            "page_#": 32
+        },
+        {
+            "text": "I don't think that he's a particularly helpful person when it",
+            "page_#": 32
+        },
+        {
+            "text": "And as you sit there, do you know whether or not Kimberly Guilfoyle was",
+            "page_#": 32
+        },
+        {
+            "text": "paid for speaking at the Ellipse rally on January 6th?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "I had no involvement in that and I have no direct knowledge of it.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Had you discussed with people whether she was?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Not that I recall.",
+            "page_#": 32
+        },
+        {
+            "text": "Mr. Bean.",
+            "page_#": 32
+        },
+        {
+            "text": "Hold on one second, Mr. Schwartz.",
+            "page_#": 32
+        },
+        {
+            "text": "-",
+            "page_#": 32
+        },
+        {
+            "text": "Not with your lawyers.",
+            "page_#": 32
+        },
+        {
+            "text": "Mr. Bean.",
+            "page_#": 32
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 32
+        },
+        {
+            "text": "Not with your lawyers.",
+            "page_#": 32
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 32
+        },
+        {
+            "text": "-",
+            "page_#": 32
+        },
+        {
+            "text": "Never looking for a conversation with Mr. Bean or your lawyers.",
+            "page_#": 32
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 32
+        },
+        {
+            "text": "Right.",
+            "page_#": 32
+        },
+        {
+            "text": "BY",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "I don't recall specifically.",
+            "page_#": 32
+        },
+        {
+            "text": "If we look at exhibit 12, I'll represent to you and you've seen this, this is what",
+            "page_#": 32
+        },
+        {
+            "text": "we produced on Friday, but this is something produced by Mr. Budowich with Mr. Bean's",
+            "page_#": 32
+        },
+        {
+            "text": "help, but it's a text message chain between you, Mr. Surabian, and Mr. Budowich on",
+            "page_#": 32
+        },
+        {
+            "text": "January 7th of 2021.",
+            "page_#": 32
+        },
+        {
+            "text": "Have you had a chance to review this?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Yes.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Okay.",
+            "page_#": 32
+        },
+        {
+            "text": "And do you understand that this, at least, concerns whether Don Jr.",
+            "page_#": 32
+        },
+        {
+            "text": "was paid for having spoken on the 6th?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "Yes.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Do you know whether he was paid for having spoken on the 6th?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "I don't have any direct knowledge of that.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Have you spoken to him about that?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "I don't recall having a conversation with him about that.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Did any -- sorry.",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "I don't recall, as I'm sitting here today, having a conversation with him about",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Have you talked to Mr. Surabian about that beyond this text message,",
+            "page_#": 33
+        },
+        {
+            "text": "Go ahead.",
+            "page_#": 33
+        },
+        {
+            "text": "that.",
+            "page_#": 33
+        },
+        {
+            "text": "whether he's talked to Don Jr. about a possible payment?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "I don't specifically recall, but it's in the text messages, it's possible.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Okay.",
+            "page_#": 33
+        },
+        {
+            "text": "And same question as to Mr. Budowich.",
+            "page_#": 33
+        },
+        {
+            "text": "Do you know whether Mr.",
+            "page_#": 33
+        },
+        {
+            "text": "Budowich would have talked to Don Jr. about this?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "You'd have to ask Taylor.",
+            "page_#": 33
+        },
+        {
+            "text": "I don't know.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "So just so we're clear on what the text exchange is, Mr. Budowich sends a",
+            "page_#": 33
+        },
+        {
+            "text": "link to a story at 9:52 p.m.",
+            "page_#": 33
+        },
+        {
+            "text": "time, but it's on the 7th of January of 2021, and it's a link to a story about the Republican",
+            "page_#": 33
+        },
+        {
+            "text": "Attorney Generals Association having supported robocalls on behalf of the Ellipse event.",
+            "page_#": 33
+        },
+        {
+            "text": "Now that's UTC or Greenwich Mean Time, so not East Coast",
+            "page_#": 33
+        },
+        {
+            "text": "And Mr. Budowich then follows up to say:",
+            "page_#": 33
+        },
+        {
+            "text": "\"I don't know if the Don getting paid",
+            "page_#": 33
+        },
+        {
+            "text": "was real, but someone better tell him he should take anything.\"",
+            "page_#": 33
+        },
+        {
+            "text": "And did you understand the reference to the \"Don\" being Don Jr. there?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "I don't recall this text exchange, but as I'm sitting here reading it now, I'm",
+            "page_#": 33
+        },
+        {
+            "text": "assuming, yes, that was Don Jr.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "And Mr. Surabian responds:",
+            "page_#": 33
+        },
+        {
+            "text": "respond within a minute:",
+            "page_#": 33
+        },
+        {
+            "text": "\"Just told him,\" at 9:55 p.m. and then you",
+            "page_#": 33
+        },
+        {
+            "text": "\"Does it say he was getting paid in there?\"",
+            "page_#": 33
+        },
+        {
+            "text": "And presumably",
+            "page_#": 33
+        },
+        {
+            "text": "you were referring to the news report, I think.",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "obviously.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "\"No.",
+            "page_#": 34
+        },
+        {
+            "text": "I think that's a fair assumption, but I can't say with absolute certainty",
+            "page_#": 34
+        },
+        {
+            "text": "Certainly, Mr. Budowich takes that assumption because his response, is:",
+            "page_#": 34
+        },
+        {
+            "text": "Just a hit on the AGs, but people have been digging I'm sure.\"",
+            "page_#": 34
+        },
+        {
+            "text": "And then he continues:",
+            "page_#": 34
+        },
+        {
+            "text": "\"I've been contemplating trying to get ahead of it a bit",
+            "page_#": 34
+        },
+        {
+            "text": "and just bury her,\" to which you respond at 10:02 p.m., \"hashtag, me too.\"",
+            "page_#": 34
+        },
+        {
+            "text": "So who is the \"her\" in that?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "I don't remember.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Could it have been Ms. Guilfoyle?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Could have been, but I don't know.",
+            "page_#": 34
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 34
+        },
+        {
+            "text": "Could have been a reporter, I don't know.",
+            "page_#": 34
+        },
+        {
+            "text": "I'm not going to speculate.",
+            "page_#": 34
+        },
+        {
+            "text": "I have no",
+            "page_#": 34
+        },
+        {
+            "text": "idea.",
+            "page_#": 34
+        },
+        {
+            "text": "I'm going to stop there and see if anybody has any questions.",
+            "page_#": 34
+        },
+        {
+            "text": "-",
+            "page_#": 34
+        },
+        {
+            "text": "don't know if I have any colleagues on, but just give me a second, okay, Mr. Schwartz.",
+            "page_#": 34
+        },
+        {
+            "text": "We're almost done.",
+            "page_#": 34
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 34
+        },
+        {
+            "text": "Sure.",
+            "page_#": 34
+        },
+        {
+            "text": "-",
+            "page_#": 34
+        },
+        {
+            "text": "If anybody does have any questions, please feel free to go off mute",
+            "page_#": 34
+        },
+        {
+            "text": "and ask.",
+            "page_#": 34
+        },
+        {
+            "text": "there.",
+            "page_#": 34
+        },
+        {
+            "text": "I don't see any.",
+            "page_#": 34
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Bean.",
+            "page_#": 34
+        },
+        {
+            "text": "Okay.",
+            "page_#": 34
+        },
+        {
+            "text": "- d i d you want to take a break or did you want to -1 know it's awkward just to stare at me, but I'll be done in just a few",
+            "page_#": 34
+        },
+        {
+            "text": "Just give me a moment to review my notes and we're almost",
+            "page_#": 34
+        },
+        {
+            "text": "seconds.",
+            "page_#": 34
+        },
+        {
+            "text": "I promise.",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Bean.",
+            "page_#": 34
+        },
+        {
+            "text": "-",
+            "page_#": 34
+        },
+        {
+            "text": "You look good looking at your notes.",
+            "page_#": 34
+        },
+        {
+            "text": "Oh, that's nice.",
+            "page_#": 34
+        },
+        {
+            "text": "Thank you for that.",
+            "page_#": 34
+        },
+        {
+            "text": "I think that's it.",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Schwartz, thank you for taking the time out of your schedule and for spending",
+            "page_#": 35
+        },
+        {
+            "text": "part of your Valentine's Day with us.",
+            "page_#": 35
+        },
+        {
+            "text": "appreciate it.",
+            "page_#": 35
+        },
+        {
+            "text": "Maybe not how you envisioned it, but we do",
+            "page_#": 35
+        },
+        {
+            "text": "And we will close the record at this time at 2:53 p.m.",
+            "page_#": 35
+        },
+        {
+            "text": "[Whereupon, at 2:53 p.m., the deposition was concluded.]",
+            "page_#": 35
+        },
+        {
+            "text": "Certificate of Deponent/Interviewee",
+            "page_#": 36
+        },
+        {
+            "text": "I have read the foregoing _ _ pages, which contain the correct transcript of the",
+            "page_#": 36
+        },
+        {
+            "text": "answers made by me to the questions therein recorded.",
+            "page_#": 36
+        },
+        {
+            "text": "Witness Name",
+            "page_#": 36
+        },
+        {
+            "text": "Date",
+            "page_#": 36
+        }
+    ]
+}

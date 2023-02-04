@@ -1,0 +1,7098 @@
+{
+    "title": "CTRL0000050106 - Transcribed Interview of James DeGraffenreid, (February 24, 2022)",
+    "id": "CTRL0000050106",
+    "date": "February 24, 2022",
+    "url_desc": "https://www.govinfo.gov/app/details/GPO-J6-TRANSCRIPT-CTRL0000050106/",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000050106/pdf/GPO-J6-TRANSCRIPT-CTRL0000050106.pdf#page=",
+    "witness": "James DeGraffenreid",
+    "data": [
+        {
+            "text": "SELECT COMMITTEE TO INVESTIGATE THE",
+            "page_#": 1
+        },
+        {
+            "text": "JANUARY 6TH ATTACK ON THE U.S. CAPITOL,",
+            "page_#": 1
+        },
+        {
+            "text": "U.S. HOUSE OF REPRESENTATIVES,",
+            "page_#": 1
+        },
+        {
+            "text": "WASHINGTON, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "DEPOSITION OF:",
+            "page_#": 1
+        },
+        {
+            "text": "JAMES DEGRAFFENREID",
+            "page_#": 1
+        },
+        {
+            "text": "Thursday, February 24, 2022",
+            "page_#": 1
+        },
+        {
+            "text": "Washington, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "The deposition in the above matter was held via Webex, commencing at 2:12 p.m.",
+            "page_#": 1
+        },
+        {
+            "text": "Appearances:",
+            "page_#": 2
+        },
+        {
+            "text": "For the SELECT COMMITTEE TO INVESTIGATE",
+            "page_#": 2
+        },
+        {
+            "text": "THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL:",
+            "page_#": 2
+        },
+        {
+            "text": "STAFF ASSOCIATE",
+            "page_#": 2
+        },
+        {
+            "text": "CHIEF CLERK",
+            "page_#": 2
+        },
+        {
+            "text": ", INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": "OF COUNSEL TO THE VICE CHAIR",
+            "page_#": 2
+        },
+        {
+            "text": "For THE WITNESS:",
+            "page_#": 2
+        },
+        {
+            "text": "GEORGE KELESIS",
+            "page_#": 2
+        },
+        {
+            "text": "BRIAN HARDY",
+            "page_#": 2
+        },
+        {
+            "text": "We are now on the record.",
+            "page_#": 3
+        },
+        {
+            "text": "It is 2:12 p.m. Eastern on February 24, 2022.",
+            "page_#": 3
+        },
+        {
+            "text": "This is the deposition of Mr. James",
+            "page_#": 3
+        },
+        {
+            "text": "DeGraffenreid, conducted by the House Select Committee to Investigate the January 6th",
+            "page_#": 3
+        },
+        {
+            "text": "Attack on the United States Capitol, pursuant to House Resolution 503.",
+            "page_#": 3
+        },
+        {
+            "text": "At this time, I'd like to ask Mr. DeGraffenreid to please state his full name and to",
+            "page_#": 3
+        },
+        {
+            "text": "spell his last name for the record.",
+            "page_#": 3
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 3
+        },
+        {
+            "text": "My full name is James Walter DeGraffenreid,",
+            "page_#": 3
+        },
+        {
+            "text": "D-e-G-r-a-f-f-e-n-r-e-i-d.",
+            "page_#": 3
+        },
+        {
+            "text": "Thank you, Mr. DeGraffenreid.",
+            "page_#": 3
+        },
+        {
+            "text": "This will be a staff-led interview.",
+            "page_#": 3
+        },
+        {
+            "text": "My name is",
+            "page_#": 3
+        },
+        {
+            "text": "and I am an investigative counsel for the Select Committee.",
+            "page_#": 3
+        },
+        {
+            "text": "I am joined here today b y - w h o is Senior Investigative Counsel for the Select",
+            "page_#": 3
+        },
+        {
+            "text": "Committee, and also serves as of counsel to the Vice Chair, Representative Liz Cheney.",
+            "page_#": 3
+        },
+        {
+            "text": "Also in the room is",
+            "page_#": 3
+        },
+        {
+            "text": "who is professional staff for the Select Committee.",
+            "page_#": 3
+        },
+        {
+            "text": "Members of the Select Committee may be joining us and leaving during the course",
+            "page_#": 3
+        },
+        {
+            "text": "of our discussion, and if any of them so choose they, of course, may ask questions as well.",
+            "page_#": 3
+        },
+        {
+            "text": "I'll do my best to announce for the record whenever they join, but right now I don't",
+            "page_#": 3
+        },
+        {
+            "text": "believe that any of them are here with us.",
+            "page_#": 3
+        },
+        {
+            "text": "At this time, would Mr. DeGraffenreid's counsel please state their names for the",
+            "page_#": 3
+        },
+        {
+            "text": "record.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Kelesis.",
+            "page_#": 3
+        },
+        {
+            "text": "This is George Kelesis.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Hardy.",
+            "page_#": 3
+        },
+        {
+            "text": "This is Brian Hardy with the law firm of Marquis Aurbach on behalf of",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. DeGraffenreid.",
+            "page_#": 3
+        },
+        {
+            "text": "I am Mr. DeGraffenreid's personal counsel.",
+            "page_#": 3
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 3
+        },
+        {
+            "text": "So at this time, I'd like to ask the court reporter to please administer the oath to",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. DeGraffenreid.",
+            "page_#": 4
+        },
+        {
+            "text": "The Reporter.",
+            "page_#": 4
+        },
+        {
+            "text": "Do you solemnly declare and affirm under the penalty of perjury",
+            "page_#": 4
+        },
+        {
+            "text": "that the testimony you are about to give will be the truth, the whole truth, and nothing",
+            "page_#": 4
+        },
+        {
+            "text": "but the truth?",
+            "page_#": 4
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 4
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 4
+        },
+        {
+            "text": "I do.",
+            "page_#": 4
+        },
+        {
+            "text": "Before we begin, I'd like to cover a few ground rules.",
+            "page_#": 4
+        },
+        {
+            "text": "So, as you saw, Mr.",
+            "page_#": 4
+        },
+        {
+            "text": "DeGraffenreid, there is an official reporter who is transcribing the record of this",
+            "page_#": 4
+        },
+        {
+            "text": "interview.",
+            "page_#": 4
+        },
+        {
+            "text": "You and your attorneys will have an opportunity to review the transcript and",
+            "page_#": 4
+        },
+        {
+            "text": "suggest any corrections before it's finalized.",
+            "page_#": 4
+        },
+        {
+            "text": "being videotaped and audio recorded, but I will note that the court reporter's transcript is",
+            "page_#": 4
+        },
+        {
+            "text": "the official record of the proceeding.",
+            "page_#": 4
+        },
+        {
+            "text": "And, as I'm sure you can also tell, this is",
+            "page_#": 4
+        },
+        {
+            "text": "Because this is being transcribed, we ask that you wait until each question is",
+            "page_#": 4
+        },
+        {
+            "text": "completed before you begin your response and, likewise, we will try and wait until your",
+            "page_#": 4
+        },
+        {
+            "text": "responses are completed before we ask our next question.",
+            "page_#": 4
+        },
+        {
+            "text": "that the transcript of the record is as complete and accurate as possible.",
+            "page_#": 4
+        },
+        {
+            "text": "That just helps us ensure",
+            "page_#": 4
+        },
+        {
+            "text": "The stenographer cannot record nonverbal responses, such as shaking your head",
+            "page_#": 4
+        },
+        {
+            "text": "or saying uh-huh, so it's important that you answer each question with an audible verbal",
+            "page_#": 4
+        },
+        {
+            "text": "response, yes, no, I don't know.",
+            "page_#": 4
+        },
+        {
+            "text": "I want to make sure that you understand that you're appearing pursuant to a",
+            "page_#": 4
+        },
+        {
+            "text": "subpoena from the Select Committee dated January 28, 2022, which is in the materials",
+            "page_#": 4
+        },
+        {
+            "text": "that have been provided to your counsel, and will be included in the record.",
+            "page_#": 4
+        },
+        {
+            "text": "As you know, you are under oath, meaning that any knowing false statement that",
+            "page_#": 4
+        },
+        {
+            "text": "you make today can constitute perjury as well as a violation of 18 United States Code",
+            "page_#": 4
+        },
+        {
+            "text": "1001.",
+            "page_#": 5
+        },
+        {
+            "text": "So it's important that you tell the truth at all times.",
+            "page_#": 5
+        },
+        {
+            "text": "It's, of course, important that you understand our questions and are able to",
+            "page_#": 5
+        },
+        {
+            "text": "answer them to the best of your ability.",
+            "page_#": 5
+        },
+        {
+            "text": "So, to that end, please don't hesitate to ask us",
+            "page_#": 5
+        },
+        {
+            "text": "to repeat a question if it's not clear, or if you don't understand.",
+            "page_#": 5
+        },
+        {
+            "text": "Similarly, if you don't know the answer to a question, you can say you don't know",
+            "page_#": 5
+        },
+        {
+            "text": "or that you don't recall, but keep in mind that you're under oath and you have to be",
+            "page_#": 5
+        },
+        {
+            "text": "truthful.",
+            "page_#": 5
+        },
+        {
+            "text": "So if you do recall the answer to a question, you must say so.",
+            "page_#": 5
+        },
+        {
+            "text": "If you need to consult with your counsel at any time during the interview, that is",
+            "page_#": 5
+        },
+        {
+            "text": "certainly no problem.",
+            "page_#": 5
+        },
+        {
+            "text": "We can disable the camera and place the audio on mute so that",
+            "page_#": 5
+        },
+        {
+            "text": "you can converse with your counsel as needed.",
+            "page_#": 5
+        },
+        {
+            "text": "necessary.",
+            "page_#": 5
+        },
+        {
+            "text": "So please just let us know if that's ever",
+            "page_#": 5
+        },
+        {
+            "text": "And if you need a break for any other reason during the interview, please let us",
+            "page_#": 5
+        },
+        {
+            "text": "know.",
+            "page_#": 5
+        },
+        {
+            "text": "I'll also try and make sure that we take regular short breaks during the course of",
+            "page_#": 5
+        },
+        {
+            "text": "our conversation.",
+            "page_#": 5
+        },
+        {
+            "text": "Do you have any questions for us before we begin?",
+            "page_#": 5
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 5
+        },
+        {
+            "text": "I do not.",
+            "page_#": 5
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 5
+        },
+        {
+            "text": "So I will begin by directing your attention to exhibit 40, which we will show",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "you on the screen.",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. Hardy. - c a n we just make sure that on the record today, that we're",
+            "page_#": 5
+        },
+        {
+            "text": "clear, similar to what we did before, that you understand that we're seeking to preserve",
+            "page_#": 5
+        },
+        {
+            "text": "the attorney-client privilege and any questions you ask are not intended to seek",
+            "page_#": 5
+        },
+        {
+            "text": "attorney-client information?",
+            "page_#": 5
+        },
+        {
+            "text": "Absolutely.",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. Hardy.",
+            "page_#": 6
+        },
+        {
+            "text": "Perfect.",
+            "page_#": 6
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 6
+        },
+        {
+            "text": "Thank you, Brian.",
+            "page_#": 6
+        },
+        {
+            "text": "BY",
+            "page_#": 6
+        },
+        {
+            "text": "Then we're good and we can proceed forward.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "All right.",
+            "page_#": 6
+        },
+        {
+            "text": "So on the screen I hope you can see, Mr. DeGraffenreid, this is a",
+            "page_#": 6
+        },
+        {
+            "text": "letter from the chairman, Benny Thompson, dated January 28, 2022, addressed to you.",
+            "page_#": 6
+        },
+        {
+            "text": "Is this a copy of the subpoena that you received from the select committee, as far",
+            "page_#": 6
+        },
+        {
+            "text": "as you can tell?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "As far as I can tell from what is shown, yes, it is.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "And do you understand that you are appearing here today pursuant to the",
+            "page_#": 6
+        },
+        {
+            "text": "subpoena with your name, Mr. James DeGraffenreid, on it?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "Yes, I do.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "Part of the subpoena required you to produce documents and information,",
+            "page_#": 6
+        },
+        {
+            "text": "including electronically stored information.",
+            "page_#": 6
+        },
+        {
+            "text": "Do you understand that?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "I do understand that.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "And did you search for records that are responsive to the subpoena",
+            "page_#": 6
+        },
+        {
+            "text": "schedule?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "Yes, I did.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "Have you produced to the select committee all the documents and",
+            "page_#": 6
+        },
+        {
+            "text": "communications in your possession, custody, or control that are responsive to the",
+            "page_#": 6
+        },
+        {
+            "text": "requests in the subpoena?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "To the best of my knowledge, I have, yes.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "I'll ask a few questions just to get a sense of that.",
+            "page_#": 6
+        },
+        {
+            "text": "But did you search your",
+            "page_#": 6
+        },
+        {
+            "text": "personal devices for responsive information, including your laptop, phone, or any other",
+            "page_#": 6
+        },
+        {
+            "text": "devices?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "Yes, I did.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Did you use any secured messaging applications on any of your personal",
+            "page_#": 7
+        },
+        {
+            "text": "devices, and by that, I mean applications like Signal, Telegram or WhatsApp -- and, if so,",
+            "page_#": 7
+        },
+        {
+            "text": "have you searched for and produced any responsive materials from those applications?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "I did use those applications, and I believe you saw from what was submitted",
+            "page_#": 7
+        },
+        {
+            "text": "that I did submit that responsive information.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Did you have any devices or email accounts that you used in an official",
+            "page_#": 7
+        },
+        {
+            "text": "capacity, for example, from the Nevada GOP and, if so, have you searched for and",
+            "page_#": 7
+        },
+        {
+            "text": "produced any responsive materials?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Can you please repeat that question?",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Sure.",
+            "page_#": 7
+        },
+        {
+            "text": "So did you have any devices or email accounts that you used in an",
+            "page_#": 7
+        },
+        {
+            "text": "official capacity, for example, a Nevada GOP email account, or a laptop that was provided",
+            "page_#": 7
+        },
+        {
+            "text": "to you by the Nevada GOP, and, if so, did you search those devices and accounts for",
+            "page_#": 7
+        },
+        {
+            "text": "responsive information?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "I do have an email",
+            "page_#": 7
+        },
+        {
+            "text": "account, and I did search that account.",
+            "page_#": 7
+        },
+        {
+            "text": "I had no devices provided to me by the Nevada GOP.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Did you keep any handwritten or electronic notes and, if so, did you search",
+            "page_#": 7
+        },
+        {
+            "text": "those for responsive materials?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "I don't recall any handwritten notes.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Did you have any involvement in tweets that are put out by the Nevada GOP",
+            "page_#": 7
+        },
+        {
+            "text": "Twitter account?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Anything that I would have had, I did",
+            "page_#": 7
+        },
+        {
+            "text": "search.",
+            "page_#": 7
+        },
+        {
+            "text": "On occasion, before tweets go out, they are circulated to the leadership of",
+            "page_#": 7
+        },
+        {
+            "text": "the party to review.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "And do you typically provide input on those tweets whenever you see them?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Occasionally.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Understood.",
+            "page_#": 8
+        },
+        {
+            "text": "Did you coordinate with any person other than your",
+            "page_#": 8
+        },
+        {
+            "text": "attorneys, or your attorneys' sort of administrative staff in responding to the document",
+            "page_#": 8
+        },
+        {
+            "text": "requests in the subpoena?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I did not.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "All right.",
+            "page_#": 8
+        },
+        {
+            "text": "So, to start, Mr. DeGraffenreid, I'd appreciate if you could briefly",
+            "page_#": 8
+        },
+        {
+            "text": "summarize your professional background, starting with any schooling and then leading up",
+            "page_#": 8
+        },
+        {
+            "text": "to today.",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "California in 1980.",
+            "page_#": 8
+        },
+        {
+            "text": "For the last 20 years I have been a firefighter/EMT for Mono County Fire Rescue.",
+            "page_#": 8
+        },
+        {
+            "text": "own a small business, an insurance agency in Minden, Nevada, with my wife.",
+            "page_#": 8
+        },
+        {
+            "text": "have been involved in the Nevada GOP since approximately 2008.",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "I graduated high school from Mayfair High School in Lakewood,",
+            "page_#": 8
+        },
+        {
+            "text": "I attended some college, did not obtain a degree from any college.",
+            "page_#": 8
+        },
+        {
+            "text": "I also",
+            "page_#": 8
+        },
+        {
+            "text": "And then I",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Do you have an official role in the Nevada GOP?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I am currently the Republican National Committeeman for the State of",
+            "page_#": 8
+        },
+        {
+            "text": "Nevada.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "And have you held that role since 2008, or has your title or your capacity",
+            "page_#": 8
+        },
+        {
+            "text": "changed over the years?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "My capacity has changed.",
+            "page_#": 8
+        },
+        {
+            "text": "I was originally just a member of the party.",
+            "page_#": 8
+        },
+        {
+            "text": "have been the Republican National Committeeman since 2020.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Understood.",
+            "page_#": 8
+        },
+        {
+            "text": "Did you have any formal role in either the 2016 or 2020",
+            "page_#": 8
+        },
+        {
+            "text": "Trump Presidential campaigns and, if so, please describe what those formal",
+            "page_#": 8
+        },
+        {
+            "text": "responsibilities were?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I didn't have any formal responsibilities relative to the campaign itself.",
+            "page_#": 8
+        },
+        {
+            "text": "During the 2016 campaign, I was the vice chairman of the State party.",
+            "page_#": 8
+        },
+        {
+            "text": "In that role, our",
+            "page_#": 8
+        },
+        {
+            "text": "job is to identify voters, register voters, turn them out to vote, basically support the",
+            "page_#": 8
+        },
+        {
+            "text": "campaigns of all Republican candidates in the State.",
+            "page_#": 9
+        },
+        {
+            "text": "connection with my role as vice chairman of the party.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "All right.",
+            "page_#": 9
+        },
+        {
+            "text": "And so, I did those things in",
+            "page_#": 9
+        },
+        {
+            "text": "Just to make sure that I understand clearly, so you've held a role",
+            "page_#": 9
+        },
+        {
+            "text": "as National Committeeman and you've also held a role as vice chair of the State party at",
+            "page_#": 9
+        },
+        {
+            "text": "some point in time?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "That is correct.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 9
+        },
+        {
+            "text": "Prior to that, Secretary of the party, if it's relevant.",
+            "page_#": 9
+        },
+        {
+            "text": "What were your sort of informal responsibilities on either of",
+            "page_#": 9
+        },
+        {
+            "text": "those campaigns in your capacity as vice chair of the State GOP?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "There was probably nothing specific to the Trump campaign.",
+            "page_#": 9
+        },
+        {
+            "text": "Again, my",
+            "page_#": 9
+        },
+        {
+            "text": "role was to support all Republican candidates in the State.",
+            "page_#": 9
+        },
+        {
+            "text": "role is primarily organizational, taking care of planning State party meetings and",
+            "page_#": 9
+        },
+        {
+            "text": "conventions and that sort of thing.",
+            "page_#": 9
+        },
+        {
+            "text": "voters for the election.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And so, the vice chairman's",
+            "page_#": 9
+        },
+        {
+            "text": "As I said, working -- working to identify and turn out",
+            "page_#": 9
+        },
+        {
+            "text": "So I'd like to shift over to the topic of the 2020 Presidential election.",
+            "page_#": 9
+        },
+        {
+            "text": "In,",
+            "page_#": 9
+        },
+        {
+            "text": "let's say, after the Presidential election in 2020, so starting on November 3rd and in the",
+            "page_#": 9
+        },
+        {
+            "text": "weeks thereafter, Mr. DeGraffenreid, did you participate in any conversations with any",
+            "page_#": 9
+        },
+        {
+            "text": "individuals from the Trump campaign, the Trump White House, or the RNC about their",
+            "page_#": 9
+        },
+        {
+            "text": "response to the Presidential election results?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Upon advice of counsel, I am asserting my rights under Article I, Section 8 of",
+            "page_#": 9
+        },
+        {
+            "text": "the Nevada Constitution and the Fifth Amendment to the United States Constitution.",
+            "page_#": 9
+        },
+        {
+            "text": "The United States Supreme Court has long held that constitutional protections",
+            "page_#": 9
+        },
+        {
+            "text": "against self-incrimination were designed to protect the innocent as well as the guilty.",
+            "page_#": 9
+        },
+        {
+            "text": "The Supreme Court has also recognized that one of the basic functions of the privilege is",
+            "page_#": 9
+        },
+        {
+            "text": "to protect innocent men, and has firmly rejected the view that any adverse assumptions",
+            "page_#": 9
+        },
+        {
+            "text": "or implications of guilt should be drawn about anyone who exercises these cherished",
+            "page_#": 9
+        },
+        {
+            "text": "constitutional rights.",
+            "page_#": 10
+        },
+        {
+            "text": "Accordingly, upon advice of counsel, I expressly decline to answer your question.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Thank you, Mr. DeGraffenreid.",
+            "page_#": 10
+        },
+        {
+            "text": "And, of course, you are entitled to assert",
+            "page_#": 10
+        },
+        {
+            "text": "your constitutional privileges under the Fifth Amendment.",
+            "page_#": 10
+        },
+        {
+            "text": "We have communicated this previously to your counsel, but just so that you and I",
+            "page_#": 10
+        },
+        {
+            "text": "are clear on how we'll proceed from here, we will continue to ask you questions.",
+            "page_#": 10
+        },
+        {
+            "text": "any point when you wish to assert your Fifth Amendment privileges, you may do so in",
+            "page_#": 10
+        },
+        {
+            "text": "response to a question.",
+            "page_#": 10
+        },
+        {
+            "text": "Please do not feel as if you have to recite the entirety of what you just read each",
+            "page_#": 10
+        },
+        {
+            "text": "time.",
+            "page_#": 10
+        },
+        {
+            "text": "assert a Fifth Amendment privilege, that's perfectly all right.",
+            "page_#": 10
+        },
+        {
+            "text": "If there is some shorthand that you'd like to refer to any time that you'd like to",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "I understand.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 10
+        },
+        {
+            "text": "And at",
+            "page_#": 10
+        },
+        {
+            "text": "So, with that, I will go ahead and move to the topic of Trump",
+            "page_#": 10
+        },
+        {
+            "text": "Presidential electors in the 2020 Presidential election.",
+            "page_#": 10
+        },
+        {
+            "text": "Mr. DeGraffenreid, can you describe your understanding of the concept of",
+            "page_#": 10
+        },
+        {
+            "text": "alternate electors as it relates to the 2020 Presidential election?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "As stated previously, I expressly decline to answer your question under the",
+            "page_#": 10
+        },
+        {
+            "text": "rights previously asserted.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Were you aware of a plan to convene alternate electors in Michigan,",
+            "page_#": 10
+        },
+        {
+            "text": "Pennsylvania, Wisconsin, New Mexico, Georgia, Nevada or Arizona to cast electoral votes",
+            "page_#": 10
+        },
+        {
+            "text": "for President Trump and Vice President Pence?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Under advice of counsel, I assert the previous privilege.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "When did you first become aware of a plan related to alternate electors in",
+            "page_#": 10
+        },
+        {
+            "text": "the 2020 election, and who first told you about it?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Under advice of counsel, I assert the previous privilege.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "In your understanding, why was it necessary for alternate electors to",
+            "page_#": 11
+        },
+        {
+            "text": "convene in these States?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Did you participate in a meeting of alternate electors that took place in",
+            "page_#": 11
+        },
+        {
+            "text": "Carson City, Nevada, on December 14, 2020, to cast electoral ballots for President Trump",
+            "page_#": 11
+        },
+        {
+            "text": "and Vice President Pence?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "To your knowledge, who was involved in coordinating that ceremony from",
+            "page_#": 11
+        },
+        {
+            "text": "either the Trump campaign, Trump legal team, Trump White House, or RNC?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "I am going to ask you about your communications with a number of",
+            "page_#": 11
+        },
+        {
+            "text": "individuals regarding plans to convene an alternate set of electors.",
+            "page_#": 11
+        },
+        {
+            "text": "you don't have to assert the privilege each time that I say a name, I will simply read the",
+            "page_#": 11
+        },
+        {
+            "text": "list of names to you and you can respond as you see fit.",
+            "page_#": 11
+        },
+        {
+            "text": "And for your sake so",
+            "page_#": 11
+        },
+        {
+            "text": "So my question is, did you have any communications with any of the following",
+            "page_#": 11
+        },
+        {
+            "text": "Trump campaign officials regarding plans to convene an alternate set of electors for",
+            "page_#": 11
+        },
+        {
+            "text": "Nevada:",
+            "page_#": 11
+        },
+        {
+            "text": "Chesebro, James Troupis, John Eastman, Boris Epshteyn, Bernard Kerik, Mike Roman or",
+            "page_#": 11
+        },
+        {
+            "text": "Mike Brown?",
+            "page_#": 11
+        },
+        {
+            "text": "Rudy Giuliani, Jenna Ellis, Matt Morgan, Justin Clark, Nick Trainer, Kenneth",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Did you have any communications with any of the following Trump White",
+            "page_#": 11
+        },
+        {
+            "text": "House officials regarding plans to convene an alternate set of electors:",
+            "page_#": 11
+        },
+        {
+            "text": "Trump, Mark Meadows, or any other member of the administration?",
+            "page_#": 11
+        },
+        {
+            "text": "President",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Were you aware of any coordination of alternate elector ceremonies across",
+            "page_#": 11
+        },
+        {
+            "text": "multiple States?",
+            "page_#": 12
+        },
+        {
+            "text": "And when I say multiple States during the course of today's deposition,",
+            "page_#": 12
+        },
+        {
+            "text": "I mean Michigan, Pennsylvania, Wisconsin, New Mexico, Georgia, Nevada or Arizona.",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. DeGraffenreid, I'd like to direct your attention to the document in",
+            "page_#": 12
+        },
+        {
+            "text": "exhibit 5.",
+            "page_#": 12
+        },
+        {
+            "text": "conversation dated October 30, 2020, between you and Mr. Shawn Meehan.",
+            "page_#": 12
+        },
+        {
+            "text": "This is a document ending with Bates 591, and it appears to be a text message",
+            "page_#": 12
+        },
+        {
+            "text": "Do you recognize this conversation?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "In this exchange at 4:30 p.m., it looks like Mr. Meehan wrote the following,",
+            "page_#": 12
+        },
+        {
+            "text": "quote:",
+            "page_#": 12
+        },
+        {
+            "text": "see Sisolak submitting one slate and Barbara having to send our slate.",
+            "page_#": 12
+        },
+        {
+            "text": "controversial situations, I wonder how that plays out.\"",
+            "page_#": 12
+        },
+        {
+            "text": "\"Been reading more on Electoral College.",
+            "page_#": 12
+        },
+        {
+            "text": "Then you responded, quote:",
+            "page_#": 12
+        },
+        {
+            "text": "If things get really sorted up, I could",
+            "page_#": 12
+        },
+        {
+            "text": "As she dislikes",
+            "page_#": 12
+        },
+        {
+            "text": "\"Elder might do a lot of things, but sending a slate",
+            "page_#": 12
+        },
+        {
+            "text": "of Republican electors without them being clearly the winners of the popular vote is not",
+            "page_#": 12
+        },
+        {
+            "text": "one of them.\"",
+            "page_#": 12
+        },
+        {
+            "text": "Was this the first time that you had heard someone discuss sending competing",
+            "page_#": 12
+        },
+        {
+            "text": "slates of electors in the event that President Trump didn't win the election in Nevada?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "It appears to me that this exchange took place before Election Day on",
+            "page_#": 12
+        },
+        {
+            "text": "November 3rd.",
+            "page_#": 12
+        },
+        {
+            "text": "President Trump had won Nevada or not?",
+            "page_#": 12
+        },
+        {
+            "text": "Why was this strategy the topic of discussion before you knew whether",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "So next, I'll direct your attention to exhibit 6.",
+            "page_#": 12
+        },
+        {
+            "text": "Bates 544.",
+            "page_#": 12
+        },
+        {
+            "text": "November 29, 2020.",
+            "page_#": 12
+        },
+        {
+            "text": "This is a document ending in",
+            "page_#": 12
+        },
+        {
+            "text": "This appears to be an exchange between you and Mr. Meehan dated",
+            "page_#": 12
+        },
+        {
+            "text": "And Mr. Meehan wrote, quote:",
+            "page_#": 13
+        },
+        {
+            "text": "\"And we have a template for when we complete",
+            "page_#": 13
+        },
+        {
+            "text": "ours and send it in ourselves when Sisolak refuses,\" unquote, referring to a certificate of",
+            "page_#": 13
+        },
+        {
+            "text": "ascertainment, as discussed in your prior text message.",
+            "page_#": 13
+        },
+        {
+            "text": "At this time, November 29th, was there a plan in place to prepare an alternate",
+            "page_#": 13
+        },
+        {
+            "text": "certificate of ascertainment for President Trump's Nevada electors?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "On the advice of counsel, I assert the prior privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Around this time, were you aware of any discussions involving the Trump",
+            "page_#": 13
+        },
+        {
+            "text": "administration, Trump campaign, or RNC related to this scenario?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "We will discuss this in more detail shortly, but is it correct that you and the",
+            "page_#": 13
+        },
+        {
+            "text": "other Trump electors in Nevada had filed a lawsuit in State Court related to the 2020",
+            "page_#": 13
+        },
+        {
+            "text": "Presidential election results?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did you participate in any calls or meetings with anyone from the Trump",
+            "page_#": 13
+        },
+        {
+            "text": "administration, Trump campaign, or RNC related to that litigation?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Were you part of a discussion on December 8, 2020, related to alternate",
+            "page_#": 13
+        },
+        {
+            "text": "electors?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did anyone from the Trump administration, Trump campaign, or RNC",
+            "page_#": 13
+        },
+        {
+            "text": "participate in that discussion?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "So next I'd like to turn to exhibit 7, which is a document ending in Bates",
+            "page_#": 13
+        },
+        {
+            "text": "number 634.",
+            "page_#": 13
+        },
+        {
+            "text": "While we pull it up, I will describe to you that this is a message exchange",
+            "page_#": 13
+        },
+        {
+            "text": "between you, Mr. Meehan, and Jim Hindle dated December 9, 2020.",
+            "page_#": 13
+        },
+        {
+            "text": "And you wrote",
+            "page_#": 13
+        },
+        {
+            "text": "below this message that's on the screen the following, quote:",
+            "page_#": 14
+        },
+        {
+            "text": "\"And we need to also",
+            "page_#": 14
+        },
+        {
+            "text": "decide if we're sending in our own ballot.",
+            "page_#": 14
+        },
+        {
+            "text": "Congressman will make the objection ... Cruz and Jordan maybe.\"",
+            "page_#": 14
+        },
+        {
+            "text": "Need to know which Senator and",
+            "page_#": 14
+        },
+        {
+            "text": "Scroll down.",
+            "page_#": 14
+        },
+        {
+            "text": "Was there a discussion at this time related to the submission of alternate electoral",
+            "page_#": 14
+        },
+        {
+            "text": "ballots and, if so, among whom?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Was the alternate elector plan contingent in any way upon the objection of a",
+            "page_#": 14
+        },
+        {
+            "text": "House Member and a Senator during the certification on January 6th?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "And if you could scroll d o w n , _",
+            "page_#": 14
+        },
+        {
+            "text": "Later in this exchange, you wrote, quote:",
+            "page_#": 14
+        },
+        {
+            "text": "clearly communicated last evening.",
+            "page_#": 14
+        },
+        {
+            "text": "\"Yes, the elector frustration was",
+            "page_#": 14
+        },
+        {
+            "text": "Crystal clearly.\"",
+            "page_#": 14
+        },
+        {
+            "text": "What frustration were you referring to in this message?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Then below, you wrote the following, quote:",
+            "page_#": 14
+        },
+        {
+            "text": "consider and plan.\"",
+            "page_#": 14
+        },
+        {
+            "text": "\"So we have some time to",
+            "page_#": 14
+        },
+        {
+            "text": "Could you please scroll down.",
+            "page_#": 14
+        },
+        {
+            "text": "What were the relevant considerations in deciding to move forward with sending",
+            "page_#": 14
+        },
+        {
+            "text": "alternate electoral ballots?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Next, I'd like to direct your attention to exhibit 16.",
+            "page_#": 14
+        },
+        {
+            "text": "This is a Bates ending in",
+            "page_#": 14
+        },
+        {
+            "text": "631, and I believe that it is another version of the message exchange that we were just",
+            "page_#": 14
+        },
+        {
+            "text": "discussing.",
+            "page_#": 14
+        },
+        {
+            "text": "This is dated December 9th, and it's between you, Mr. Meehan, and Mr. Hindle,",
+            "page_#": 14
+        },
+        {
+            "text": "and in it, you write, quote:",
+            "page_#": 15
+        },
+        {
+            "text": "in mind to have the electors meet in Carson City Monday to cast our ballots and transmit",
+            "page_#": 15
+        },
+        {
+            "text": "to the Senate.\"",
+            "page_#": 15
+        },
+        {
+            "text": "\"Online with legal right now.",
+            "page_#": 15
+        },
+        {
+            "text": "Attorneys and campaign have",
+            "page_#": 15
+        },
+        {
+            "text": "Did you participate in a call on December 9th with members of the campaign to",
+            "page_#": 15
+        },
+        {
+            "text": "discuss this issue?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Your message that we just discussed suggests to me that there had not yet",
+            "page_#": 15
+        },
+        {
+            "text": "been a decision made regarding alternate electors at that time.",
+            "page_#": 15
+        },
+        {
+            "text": "that and this message?",
+            "page_#": 15
+        },
+        {
+            "text": "What changed between",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "In your understanding, what was the basis for the campaign's plan for you to",
+            "page_#": 15
+        },
+        {
+            "text": "cast your ballots?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Next, I'll direct your attention to exhibit 8.",
+            "page_#": 15
+        },
+        {
+            "text": "This is a document with Bates",
+            "page_#": 15
+        },
+        {
+            "text": "ending in 774, and I'll describe to you that it is a December 10, 2020, email exchange from",
+            "page_#": 15
+        },
+        {
+            "text": "an individual named Kenneth Chesebro to you, Mr. Michael McDonald, Mr. Jesse Law,",
+            "page_#": 15
+        },
+        {
+            "text": "and it says the following, quote:",
+            "page_#": 15
+        },
+        {
+            "text": "campaign (including Justin Clark and Nick Trainer) asked me to reach out to you and the",
+            "page_#": 15
+        },
+        {
+            "text": "other Nevada electors to run point on the plan to have all Trump-Pence electors in all six",
+            "page_#": 15
+        },
+        {
+            "text": "contested States meet and transmit their votes to Congress on Monday, December 14.\"",
+            "page_#": 15
+        },
+        {
+            "text": "\"Mayor Giuliani and others with the Trump-Pence",
+            "page_#": 15
+        },
+        {
+            "text": "Who, if you know, is Kenneth Chesebro?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "What was Mr. Chesebro's connection to Mr. Giuliani, Mr. Clark, and",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. Trainer, if you know?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "If you know, how were Mr. Giuliani, Mr. Clark, and Mr. Trainer involved in",
+            "page_#": 16
+        },
+        {
+            "text": "the efforts relating to alternate electors?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Do you know why Mr. Chesebro was reaching out to you, Mr. McDonald, and",
+            "page_#": 16
+        },
+        {
+            "text": "Mr. Law, regarding this issue?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "In his email, Mr. Chesebro wrote that he was contacting you and the other",
+            "page_#": 16
+        },
+        {
+            "text": "Nevada electors, quote, \"to run point on the plan to have all Trump-Pence electors in all",
+            "page_#": 16
+        },
+        {
+            "text": "six contested States meet.\"",
+            "page_#": 16
+        },
+        {
+            "text": "That suggests to me that you were already somewhat familiar with this idea.",
+            "page_#": 16
+        },
+        {
+            "text": "that accurate?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Other than the communications we've already discussed, what other",
+            "page_#": 16
+        },
+        {
+            "text": "Is",
+            "page_#": 16
+        },
+        {
+            "text": "conversations or communications did you have regarding the alternate electors plan with",
+            "page_#": 16
+        },
+        {
+            "text": "any member of the RNC Trump campaign or Trump administration?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Did you ever have any direct contact with Mr. Giuliani, Mr. Clark, or",
+            "page_#": 16
+        },
+        {
+            "text": "Mr. Trainer, related to alternate electors?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "At the end of his email, Mr. Chesebro contains -- or includes, rather, a draft",
+            "page_#": 16
+        },
+        {
+            "text": "press release that was slated for release as part of Wisconsin litigation.",
+            "page_#": 16
+        },
+        {
+            "text": "It's at the end of",
+            "page_#": 16
+        },
+        {
+            "text": "the email and it's titled \"Proposed Jim Troupis Statement on Electors' Meeting.\"",
+            "page_#": 16
+        },
+        {
+            "text": "Do you know who Jim Troupis is?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "The last paragraph of that release contains the following, quote:",
+            "page_#": 16
+        },
+        {
+            "text": "\"Given",
+            "page_#": 16
+        },
+        {
+            "text": "that the results in Wisconsin are still in doubt, with legal arguments that have yet to be",
+            "page_#": 17
+        },
+        {
+            "text": "decided ... so, too, the Republican electors should meet this year on December 14 as we",
+            "page_#": 17
+        },
+        {
+            "text": "await a final resolution in Wisconsin.\"",
+            "page_#": 17
+        },
+        {
+            "text": "What did you understand this language in the press release to mean?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "And how did you think that guidance applied to your situation in Nevada?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Was it your understanding that this guidance suggested that alternate",
+            "page_#": 17
+        },
+        {
+            "text": "electors were appropriate because litigation was ongoing in your State?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "And did you understand Mr. Chesebro's guidance here to mean that",
+            "page_#": 17
+        },
+        {
+            "text": "alternate electors were justified because the results in your State were, quote, \"still in",
+            "page_#": 17
+        },
+        {
+            "text": "doubt\"?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "All right.",
+            "page_#": 17
+        },
+        {
+            "text": "So after receiving this email, it looks like you forwarded it on",
+            "page_#": 17
+        },
+        {
+            "text": "December 10th at 4 p.m. to Mr. Hindle, Mr. Law, and Mr. McDonald, as well as Jesse",
+            "page_#": 17
+        },
+        {
+            "text": "Binall, and you wrote, quote:",
+            "page_#": 17
+        },
+        {
+            "text": "\"What do we know about Ken?",
+            "page_#": 17
+        },
+        {
+            "text": "Is this a legit outreach?\"",
+            "page_#": 17
+        },
+        {
+            "text": "What was your understanding of Mr. Chesebro's relationship to the campaign at",
+            "page_#": 17
+        },
+        {
+            "text": "that time?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Did you ever learn more information about that?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Mr. Binall then responded to your email and wrote, quote:",
+            "page_#": 17
+        },
+        {
+            "text": "Without divulging the contents of any privileged communications, are you aware",
+            "page_#": 17
+        },
+        {
+            "text": "of any further steps that Mr. Bina II took on this issue?",
+            "page_#": 17
+        },
+        {
+            "text": "\"I'll handle.\"",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "So next, let's take a look at exhibit 9 with Bates number ending in 761.",
+            "page_#": 18
+        },
+        {
+            "text": "This",
+            "page_#": 18
+        },
+        {
+            "text": "is a December 11th and 12th email exchange that starts with Mr. Chesebro emailing a",
+            "page_#": 18
+        },
+        {
+            "text": "number of individuals whose email addresses indicate that they were affiliated with",
+            "page_#": 18
+        },
+        {
+            "text": "either the Trump campaign or the GOP.",
+            "page_#": 18
+        },
+        {
+            "text": "you on December 12th.",
+            "page_#": 18
+        },
+        {
+            "text": "And then later, it looks like it was forwarded to",
+            "page_#": 18
+        },
+        {
+            "text": "And in Mr. Chesebro's original message, he wrote, quote:",
+            "page_#": 18
+        },
+        {
+            "text": "\"As mentioned to",
+            "page_#": 18
+        },
+        {
+            "text": "Mike Brown (who I am now copying on this thread), I was in email communication with",
+            "page_#": 18
+        },
+        {
+            "text": "Jim DeGraffenreid a couple of days ago, and he was very responsive.\"",
+            "page_#": 18
+        },
+        {
+            "text": "Do you know how the recipients on this initial email were involved in coordinating",
+            "page_#": 18
+        },
+        {
+            "text": "alternate electors, if at all?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Mr. Chesebro, in this email, mentioned communication with you a couple of",
+            "page_#": 18
+        },
+        {
+            "text": "days ago.",
+            "page_#": 18
+        },
+        {
+            "text": "communication earlier?",
+            "page_#": 18
+        },
+        {
+            "text": "Was that communication the email on December 10th or some other",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "An individual named Jeremy Hughes then forwarded that message to",
+            "page_#": 18
+        },
+        {
+            "text": "Mr. McDonald, you, and Jessica Hanson and wrote, quote:",
+            "page_#": 18
+        },
+        {
+            "text": "connected.",
+            "page_#": 18
+        },
+        {
+            "text": "\"Sounds like you all",
+            "page_#": 18
+        },
+        {
+            "text": "Feel like everything is good?\"",
+            "page_#": 18
+        },
+        {
+            "text": "What was your relationship with Mr. Hughes?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Had you two been in contact previously about alternate elector issues?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "So attached to Mr. Chesebro's initial email are I count seven documents, one",
+            "page_#": 18
+        },
+        {
+            "text": "of which I'd like to cover right now.",
+            "page_#": 18
+        },
+        {
+            "text": "That contains Bates number 762 and it's just further",
+            "page_#": 18
+        },
+        {
+            "text": "down in the same exhibit.",
+            "page_#": 19
+        },
+        {
+            "text": "It's a document that is titled \"How to Cast Electoral Votes in Nevada.\"",
+            "page_#": 19
+        },
+        {
+            "text": "like it contains a number of instructions about meeting, convening the ceremony, et",
+            "page_#": 19
+        },
+        {
+            "text": "cetera.",
+            "page_#": 19
+        },
+        {
+            "text": "It looks",
+            "page_#": 19
+        },
+        {
+            "text": "Was this essentially the guide that you followed when planning for the signing",
+            "page_#": 19
+        },
+        {
+            "text": "ceremony?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "On the fifth page of this exhibit, there is a section titled \"Draft language for",
+            "page_#": 19
+        },
+        {
+            "text": "NV Republican Party re:",
+            "page_#": 19
+        },
+        {
+            "text": "December 14 casting of electoral votes,\" and it contains the",
+            "page_#": 19
+        },
+        {
+            "text": "following language in the last paragraph:",
+            "page_#": 19
+        },
+        {
+            "text": "doubt, with legal arguments that have yet to be decided ... so too the Republican electors",
+            "page_#": 19
+        },
+        {
+            "text": "should meet this year on December 14 as we await a final resolution of Nevada's six",
+            "page_#": 19
+        },
+        {
+            "text": "electoral votes.\"",
+            "page_#": 19
+        },
+        {
+            "text": "\"Given that the results in Nevada are still in",
+            "page_#": 19
+        },
+        {
+            "text": "Was this consistent with your understanding of the purpose of alternate electors?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "In your understanding, were the election results in Nevada, quote, \"still in",
+            "page_#": 19
+        },
+        {
+            "text": "doubt\" and, if so, how?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "All right.",
+            "page_#": 19
+        },
+        {
+            "text": "Related to these documents, I'd like to ask a few questions about",
+            "page_#": 19
+        },
+        {
+            "text": "the guidance that you received about the legality of the elector ceremony.",
+            "page_#": 19
+        },
+        {
+            "text": "Did you ever have any discussions related to any legal issues surrounding an",
+            "page_#": 19
+        },
+        {
+            "text": "alternate elector ceremony?",
+            "page_#": 19
+        },
+        {
+            "text": "And, again, I remind you that I'm asking you to answer",
+            "page_#": 19
+        },
+        {
+            "text": "without divulging any attorney-client privileged information.",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "In your understanding, were there any key issues or concerns related to how",
+            "page_#": 19
+        },
+        {
+            "text": "the ceremony was supposed to be conducted?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did anyone provide you with any documentation or legal reasoning to",
+            "page_#": 20
+        },
+        {
+            "text": "support this understanding of the law?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "In any of these discussions, did you discuss Nevada's State laws regarding",
+            "page_#": 20
+        },
+        {
+            "text": "the appointment of Presidential and Vice Presidential electors?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Were you aware of any concerns about whether such a ceremony was",
+            "page_#": 20
+        },
+        {
+            "text": "allowed under State law?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Were you aware at that time that Nevada State law requires electors to",
+            "page_#": 20
+        },
+        {
+            "text": "meet in the presence of the secretary of state?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "At the time, were you aware that Nevada State law requires electors to",
+            "page_#": 20
+        },
+        {
+            "text": "commit to voting for the popular vote winner in the State?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you have any discussions or receive any guidance as to how those State",
+            "page_#": 20
+        },
+        {
+            "text": "laws would affect the alternate elector ceremony, if at all?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Was it your understanding that it was lawful to proceed with the alternate",
+            "page_#": 20
+        },
+        {
+            "text": "elector ceremony in spite of these concerns and, if so, why?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Next, I'll direct your attention to exhibit 10, which ends in Bates number 746.",
+            "page_#": 20
+        },
+        {
+            "text": "This is a memorandum from Mr. Chesebro addressed to Mr. Troupis dated November 18,",
+            "page_#": 20
+        },
+        {
+            "text": "2020, although it's characterized as a December 10th streamlined revision, and the title is",
+            "page_#": 21
+        },
+        {
+            "text": "\"Regarding the Real Deadline for Settling a State's Electoral Votes.\"",
+            "page_#": 21
+        },
+        {
+            "text": "Did you read this memorandum before the alternate elector ceremony on",
+            "page_#": 21
+        },
+        {
+            "text": "December 14th?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "I'll direct you to the second page of this document, which is under the",
+            "page_#": 21
+        },
+        {
+            "text": "header, quote, \"What Must Happen on December 14.\"",
+            "page_#": 21
+        },
+        {
+            "text": "And the second paragraph of",
+            "page_#": 21
+        },
+        {
+            "text": "that reads:",
+            "page_#": 21
+        },
+        {
+            "text": "and Pence meet and cast their votes on December 14.",
+            "page_#": 21
+        },
+        {
+            "text": "electors pledged to Trump and Pence might meet and cast their votes on December 14",
+            "page_#": 21
+        },
+        {
+            "text": "even if, at that juncture, the Trump-Pence ticket is behind in the vote count, and no",
+            "page_#": 21
+        },
+        {
+            "text": "certificate of election has been issued in favor of Trump and Pence.",
+            "page_#": 21
+        },
+        {
+            "text": "reading of the Federal statutes suggests that this is a reasonable course of action.\"",
+            "page_#": 21
+        },
+        {
+            "text": "Prudence dictates that the electors in each State who are pledged to Trump",
+            "page_#": 21
+        },
+        {
+            "text": "It may seem odd that the",
+            "page_#": 21
+        },
+        {
+            "text": "However, a fair",
+            "page_#": 21
+        },
+        {
+            "text": "What was your understanding of the guidance provided in this memorandum?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "On the basis of this guidance, was your understanding that an alternate",
+            "page_#": 21
+        },
+        {
+            "text": "elector ceremony was a prudential or reasonable course of action to take?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "So next, we'll turn to exhibit 11 with Bates number ending in 463.",
+            "page_#": 21
+        },
+        {
+            "text": "This is",
+            "page_#": 21
+        },
+        {
+            "text": "another memorandum from Mr. Chesebro to Mr. Troupis dated December 9, 2020, and",
+            "page_#": 21
+        },
+        {
+            "text": "it's titled \"Regarding Statutory Requirements for December 14 Electoral Votes.\"",
+            "page_#": 21
+        },
+        {
+            "text": "It contains a section titled \"Federal Law\" that runs through various statutory",
+            "page_#": 21
+        },
+        {
+            "text": "requirements for casting electoral votes.",
+            "page_#": 21
+        },
+        {
+            "text": "As you look through this document, are these instructions consistent with how",
+            "page_#": 21
+        },
+        {
+            "text": "you prepared for and conducted the alternate elector ceremony in Nevada on December",
+            "page_#": 21
+        },
+        {
+            "text": "14th?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Did you follow the guidelines laid out here exactly, or did your circumstances",
+            "page_#": 22
+        },
+        {
+            "text": "require any Nevada-specific alterations?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "So page 4 of this document outlines various State law provisions related to",
+            "page_#": 22
+        },
+        {
+            "text": "Nevada.",
+            "page_#": 22
+        },
+        {
+            "text": "And if you could scroll down,",
+            "page_#": 22
+        },
+        {
+            "text": "The first paragraph of the section begins, quote:",
+            "page_#": 22
+        },
+        {
+            "text": "\"Nevada is an extremely",
+            "page_#": 22
+        },
+        {
+            "text": "problematic State, because it requires the meeting of the electors to be overseen by the",
+            "page_#": 22
+        },
+        {
+            "text": "secretary of state, who is only supposed to permit electoral votes for the winner of the",
+            "page_#": 22
+        },
+        {
+            "text": "popular vote in Nevada.\"",
+            "page_#": 22
+        },
+        {
+            "text": "What did you understand this to mean?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "With respect to the words \"extremely problematic,\" did you understand that",
+            "page_#": 22
+        },
+        {
+            "text": "to mean that it would be unlawful or problematic for some other reason?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "The section then continues, arguing that these provisions are designed to",
+            "page_#": 22
+        },
+        {
+            "text": "thwart the faithless elector and then says, quote, that \"They make no sense when applied",
+            "page_#": 22
+        },
+        {
+            "text": "to this situation.\"",
+            "page_#": 22
+        },
+        {
+            "text": "simply meet and cast their votes, without the involvement of the secretary of state.\"",
+            "page_#": 22
+        },
+        {
+            "text": "Then:",
+            "page_#": 22
+        },
+        {
+            "text": "\"Therefore, perhaps arguably the Nevada electors could",
+            "page_#": 22
+        },
+        {
+            "text": "And then further down, it says:",
+            "page_#": 22
+        },
+        {
+            "text": "\"If there were a vote in Congress to take Nevada",
+            "page_#": 22
+        },
+        {
+            "text": "away from Biden and Harris, presumably along with it would come a vote to overlook this",
+            "page_#": 22
+        },
+        {
+            "text": "procedural detail.\"",
+            "page_#": 22
+        },
+        {
+            "text": "What did you understand this guidance to mean?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Did you understand this to mean that Nevada State laws did not apply to a",
+            "page_#": 23
+        },
+        {
+            "text": "meeting of alternate electors?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Did you understand this to mean that Nevada State law did apply, but that",
+            "page_#": 23
+        },
+        {
+            "text": "Congress could choose to overlook it?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "How did you understand Mr. Chesebro's guidance to apply to the",
+            "page_#": 23
+        },
+        {
+            "text": "requirement that electoral electors vote for the winner of the popular vote in Nevada, if",
+            "page_#": 23
+        },
+        {
+            "text": "at all?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Did Mr. Chesebro's analysis in this memo make sense to you?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Did you discuss this analysis with anyone else?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "So going back to page 1, there are a few paragraphs that seem to provide an",
+            "page_#": 23
+        },
+        {
+            "text": "executive summary of Mr. Chesebro's conclusion, and in the second paragraph he writes,",
+            "page_#": 23
+        },
+        {
+            "text": "quote:",
+            "page_#": 23
+        },
+        {
+            "text": "be able to take the essential steps needed to validly cast and transmit their votes.\"",
+            "page_#": 23
+        },
+        {
+            "text": "\"Most of the electors (with the possible exception of the Nevada electors) will",
+            "page_#": 23
+        },
+        {
+            "text": "And then further down, he says:",
+            "page_#": 23
+        },
+        {
+            "text": "\"And, they can do so without any involvement",
+            "page_#": 23
+        },
+        {
+            "text": "by the governor or any other State official (except in Nevada, where the secretary of state",
+            "page_#": 23
+        },
+        {
+            "text": "is involved).\"",
+            "page_#": 23
+        },
+        {
+            "text": "What is your understanding of Mr. Chesebro's conclusion here?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Were you aware of any disagreements about the conclusions that",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. Chesebro drew in this memo?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Did you or the other electors ever consider trying to convene before the",
+            "page_#": 24
+        },
+        {
+            "text": "secretary of state to cast your votes?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Did you ever consider signing a pledge to the effect that President Trump",
+            "page_#": 24
+        },
+        {
+            "text": "was the winner of the popular vote in Nevada?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Let's move to exhibit 12.",
+            "page_#": 24
+        },
+        {
+            "text": "This is a document ending in Bates 786, and it",
+            "page_#": 24
+        },
+        {
+            "text": "appears to be a December 10th and 11th email exchange that starts from Mr. Chesebro",
+            "page_#": 24
+        },
+        {
+            "text": "to you.",
+            "page_#": 24
+        },
+        {
+            "text": "And in that email, Mr. Chesebro wrote, quote:",
+            "page_#": 24
+        },
+        {
+            "text": "\"I spoke this evening with Mayor",
+            "page_#": 24
+        },
+        {
+            "text": "Giuliani, who is focused on doing everything possible to ensure that all the Trump-Pence",
+            "page_#": 24
+        },
+        {
+            "text": "electors vote on December 14.\"",
+            "page_#": 24
+        },
+        {
+            "text": "What was Mr. Giuliani's role in coordinating alternate electors, if you know?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "If you know, what did Mr. Chesebro mean when he wrote that Mr. Giuliani",
+            "page_#": 24
+        },
+        {
+            "text": "was, quote, \"doing everything possible to ensure that the alternate electors voted\"?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Later in this message, Mr. Chesebro writes, quote:",
+            "page_#": 24
+        },
+        {
+            "text": "\"You'll note that page 4",
+            "page_#": 24
+        },
+        {
+            "text": "of the December 9 memo mentions a concern regarding Nevada law, about the role of",
+            "page_#": 24
+        },
+        {
+            "text": "the secretary of state.",
+            "page_#": 24
+        },
+        {
+            "text": "the participation of the secretary of state, on the view that these technical aspects of",
+            "page_#": 24
+        },
+        {
+            "text": "State law are unlikely to matter much in the end.\"",
+            "page_#": 24
+        },
+        {
+            "text": "It may well be that the electoral vote needs to proceed without",
+            "page_#": 24
+        },
+        {
+            "text": "What did you understand Mr. Chesebro to mean when he wrote that it may well",
+            "page_#": 24
+        },
+        {
+            "text": "be that the electoral vote needs to proceed without the participation of the secretary of",
+            "page_#": 25
+        },
+        {
+            "text": "state?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Did you understand Mr. Chesebro to be telling you that it was lawful under",
+            "page_#": 25
+        },
+        {
+            "text": "Nevada State law to convene alternate electors without the secretary of state?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "What did you understand Mr. Chesebro to mean when he wrote that, quote,",
+            "page_#": 25
+        },
+        {
+            "text": "\"these technical aspects of State law are unlikely to matter much in the end\"?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "So after you received this email from Mr. Chesebro, it looks like you",
+            "page_#": 25
+        },
+        {
+            "text": "forwarded it to Mr. McDonald and Ms. Hanson on December 11th, and you wrote, quote:",
+            "page_#": 25
+        },
+        {
+            "text": "\"I've connected Jesse Bina II and Ken to discuss details, and wanted both of you to have",
+            "page_#": 25
+        },
+        {
+            "text": "this background info.",
+            "page_#": 25
+        },
+        {
+            "text": "actions.\"",
+            "page_#": 25
+        },
+        {
+            "text": "It explains very clearly the process and the justification for our",
+            "page_#": 25
+        },
+        {
+            "text": "Did you understand Mr. Chesebro's guidance to have effectively signed off on",
+            "page_#": 25
+        },
+        {
+            "text": "moving forward with an electoral vote ceremony?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Other than what we've already discussed, did you receive any other",
+            "page_#": 25
+        },
+        {
+            "text": "guidance on the legality of the alternate elector ceremony?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Do you recall any of the Nevada electors expressing any doubts or concerns",
+            "page_#": 25
+        },
+        {
+            "text": "about the basis for the plan, from a State-law perspective?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Do you recall any of the Nevada electors expressing any other kinds of",
+            "page_#": 25
+        },
+        {
+            "text": "doubts or concerns about the plan?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Briefly, I'd like to talk through a few questions related to the lawsuit that you",
+            "page_#": 26
+        },
+        {
+            "text": "and the other Trump electors filed in Nevada.",
+            "page_#": 26
+        },
+        {
+            "text": "Other than you and your lawyers, was anyone else involved in coordinating that",
+            "page_#": 26
+        },
+        {
+            "text": "litigation from the Trump administration, Trump campaign, or RNC?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "And briefly, I'd just like to cover the timeline of that litigation to make sure",
+            "page_#": 26
+        },
+        {
+            "text": "that I understand it correctly.",
+            "page_#": 26
+        },
+        {
+            "text": "Court on November 17, 2020?",
+            "page_#": 26
+        },
+        {
+            "text": "Is it correct that you filed the lawsuit in State District",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Is it correct that the District Court dismissed that case on December 4, 2020?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Is it correct that you then appealed that ruling to the Nevada Supreme",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Is it correct that the Nevada Supreme Court affirmed the lower court's ruling",
+            "page_#": 26
+        },
+        {
+            "text": "Court?",
+            "page_#": 26
+        },
+        {
+            "text": "on December 8, 2020?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "After the Nevada State Supreme Court issued its decision, what was your",
+            "page_#": 26
+        },
+        {
+            "text": "understanding of the state of the litigation?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Do you recall any discussions about whether to appeal the Nevada State",
+            "page_#": 26
+        },
+        {
+            "text": "Supreme Court decision to the U.S. Supreme Court?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "I will direct your attention to exhibit 16, which we previously discussed.",
+            "page_#": 26
+        },
+        {
+            "text": "This is Bates number ending in 631, and it's the December 9, 2020, exchange between",
+            "page_#": 27
+        },
+        {
+            "text": "you, Mr. Meehan, and Mr. Hindle.",
+            "page_#": 27
+        },
+        {
+            "text": "And in it, you wrote, quote:",
+            "page_#": 27
+        },
+        {
+            "text": "message below, you wrote, quote:",
+            "page_#": 27
+        },
+        {
+            "text": "certiorari at SCOTUS.\"",
+            "page_#": 27
+        },
+        {
+            "text": "And then in the",
+            "page_#": 27
+        },
+        {
+            "text": "\"They are also looking at ways we might have",
+            "page_#": 27
+        },
+        {
+            "text": "At that time, if you know, and without divulging any privileged communications,",
+            "page_#": 27
+        },
+        {
+            "text": "\"Online with legal right now.\"",
+            "page_#": 27
+        },
+        {
+            "text": "what was the campaign's plan in terms of the justifications for filing for certiorari?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Was filing for certiorari connected to the alternate elector ceremony, if at",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Let's turn to exhibit 18.",
+            "page_#": 27
+        },
+        {
+            "text": "all?",
+            "page_#": 27
+        },
+        {
+            "text": "This is a document with Bates ending in 778, and",
+            "page_#": 27
+        },
+        {
+            "text": "this appears to be a December 11, 2020 email exchange that is a separate thread of the",
+            "page_#": 27
+        },
+        {
+            "text": "exchange that you had with Mr. Chesebro on December 11th that we discussed in exhibit",
+            "page_#": 27
+        },
+        {
+            "text": "8.",
+            "page_#": 27
+        },
+        {
+            "text": "And in that separate thread, it appears that Mr. Chesebro wrote to you on",
+            "page_#": 27
+        },
+        {
+            "text": "December 11th and wrote, quote:",
+            "page_#": 27
+        },
+        {
+            "text": "Nevada are final?",
+            "page_#": 27
+        },
+        {
+            "text": "of this decision.\"",
+            "page_#": 27
+        },
+        {
+            "text": "\"Can you tell me whether all court challenges in",
+            "page_#": 27
+        },
+        {
+            "text": "I'm wondering if there will be an effort to seek Supreme Court review",
+            "page_#": 27
+        },
+        {
+            "text": "Why was Mr. Chesebro asking about the status of the Nevada State Court",
+            "page_#": 27
+        },
+        {
+            "text": "litigation, in your understanding?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "In your understanding, why did it matter whether the litigation was still",
+            "page_#": 27
+        },
+        {
+            "text": "ongoing?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Was it your understanding that litigation needed to be ongoing in order for",
+            "page_#": 28
+        },
+        {
+            "text": "the alternate elector ceremony to be able to proceed?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "So, after receiving this email from Mr. Chesebro, it looks like you connected",
+            "page_#": 28
+        },
+        {
+            "text": "him with your lawyer, Mr. Bina II, and wrote that you were -- that you were forwarding",
+            "page_#": 28
+        },
+        {
+            "text": "that request for information to him.",
+            "page_#": 28
+        },
+        {
+            "text": "Again, without divulging any privileged communications, are you aware of any",
+            "page_#": 28
+        },
+        {
+            "text": "further conversations between Mr. Bina II and Mr. Chesebro regarding the status of the",
+            "page_#": 28
+        },
+        {
+            "text": "litigation?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did the plans that you had about appealing the Nevada Supreme Court",
+            "page_#": 28
+        },
+        {
+            "text": "ruling change after you put Mr. Bina II in touch with Mr. Chesebro?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 28
+        },
+        {
+            "text": "[3:10 p.m.]",
+            "page_#": 29
+        },
+        {
+            "text": "BY",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Were you a part of a discussion on December 12, 2020, related to Nevada",
+            "page_#": 29
+        },
+        {
+            "text": "State court litigation or alternate electors?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Next, I will direct you to exhibit 19 ending in Bates 569.",
+            "page_#": 29
+        },
+        {
+            "text": "This appears to be a message exchange between you, Mr. Hindle, and Ms. Hanson,",
+            "page_#": 29
+        },
+        {
+            "text": "and it is dated December 12, 2020.",
+            "page_#": 29
+        },
+        {
+            "text": "National wants to kill going to the Supreme Court.",
+            "page_#": 29
+        },
+        {
+            "text": "they don't want press or rallies on Monday.",
+            "page_#": 29
+        },
+        {
+            "text": "Ms. Hanson wrote to you, quote:",
+            "page_#": 29
+        },
+        {
+            "text": "Just FYI,",
+            "page_#": 29
+        },
+        {
+            "text": "Doing another call in the a.m.",
+            "page_#": 29
+        },
+        {
+            "text": "And",
+            "page_#": 29
+        },
+        {
+            "text": "Not sure why.",
+            "page_#": 29
+        },
+        {
+            "text": "Did you participate in any discussions where this issue was covered?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "In your understanding, why did National want to, quote, \"kill going to the",
+            "page_#": 29
+        },
+        {
+            "text": "Supreme Court\"?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "In the earlier exchange that we discussed, you had sent a message saying",
+            "page_#": 29
+        },
+        {
+            "text": "that attorneys in the campaign were looking at ways we might have certiorari at SCOTUS.",
+            "page_#": 29
+        },
+        {
+            "text": "What, in your understanding, changed between that message and this one?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Next, let's take a look at exhibit 20 with Bates ending in 539.",
+            "page_#": 29
+        },
+        {
+            "text": "This is a December 13, 2020, text message exchange between you and Mr. Law,",
+            "page_#": 29
+        },
+        {
+            "text": "and in it, Mr. Law wrote, quote:",
+            "page_#": 29
+        },
+        {
+            "text": "delayed is likely to get past tomorrow.",
+            "page_#": 29
+        },
+        {
+            "text": "SCOTUS filing either canceled or delayed.",
+            "page_#": 29
+        },
+        {
+            "text": "Do you know why the filing was either canceled or delayed?",
+            "page_#": 29
+        },
+        {
+            "text": "I think",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "Do you know what Mr. Law meant when he said that delayed was, quote,",
+            "page_#": 30
+        },
+        {
+            "text": "\"likely\"?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "When Mr. Law wrote that delay was likely, quote, \"to get past tomorrow,\" in",
+            "page_#": 30
+        },
+        {
+            "text": "your understanding, was he referring to the elector ceremony on December 14th?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "In your understanding, was the purpose of a delay to ensure that litigation",
+            "page_#": 30
+        },
+        {
+            "text": "was still pending when the elector ceremony happened?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "And, in this message, Mr. Law wrote that the filing was either canceled or",
+            "page_#": 30
+        },
+        {
+            "text": "delayed.",
+            "page_#": 30
+        },
+        {
+            "text": "Do you know what decision was made between those two options?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "And did you ultimately file a petition for certiorari in this litigation?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "Okay.",
+            "page_#": 30
+        },
+        {
+            "text": "In that same message from Mr. Law, he wrote, quote:",
+            "page_#": 30
+        },
+        {
+            "text": "mixed messages and direction on publicity for tomorrow.",
+            "page_#": 30
+        },
+        {
+            "text": "on the call and not with me beforehand.",
+            "page_#": 30
+        },
+        {
+            "text": "Suddenly",
+            "page_#": 30
+        },
+        {
+            "text": "Not pleased that was raised",
+            "page_#": 30
+        },
+        {
+            "text": "Upset chairman.",
+            "page_#": 30
+        },
+        {
+            "text": "Who was delivering mixed messages on publicity, and what were those mixed",
+            "page_#": 30
+        },
+        {
+            "text": "messages?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "In your understanding, Mr. DeGraffenreid, what were the concerns related",
+            "page_#": 30
+        },
+        {
+            "text": "to publicizing the alternate electors ceremony?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "So, next, I will direct your attention to exhibit 21 with Bates ending in 810.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "This is a December 13, 2020, email from Ms. Hanson to a number of individuals,",
+            "page_#": 31
+        },
+        {
+            "text": "including Mr. McDonald and you, containing an invitation to edit a document titled",
+            "page_#": 31
+        },
+        {
+            "text": "\"Elector Voting Talking Points.\"",
+            "page_#": 31
+        },
+        {
+            "text": "The attachment that's linked here is contained on the next page of this exhibit and",
+            "page_#": 31
+        },
+        {
+            "text": "appears to contain those talking points.",
+            "page_#": 31
+        },
+        {
+            "text": "I'm only going to cover just a few of them.",
+            "page_#": 31
+        },
+        {
+            "text": "Let's start with the fourth bullet, which reads, quote:",
+            "page_#": 31
+        },
+        {
+            "text": "meaningfully heard our evidence or allowed us to fully plead our case.",
+            "page_#": 31
+        },
+        {
+            "text": "the more than 8,000 pages of evidence.",
+            "page_#": 31
+        },
+        {
+            "text": "No court of law",
+            "page_#": 31
+        },
+        {
+            "text": "No one reviewed",
+            "page_#": 31
+        },
+        {
+            "text": "At the time that this document was circulated, what was your understanding of",
+            "page_#": 31
+        },
+        {
+            "text": "the electors' intention to file an appeal to the Supreme Court?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Why would you refer to this litigation in the past tense if you were still",
+            "page_#": 31
+        },
+        {
+            "text": "planning on pursuing further litigation?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Next, in what I believe is the eighth bullet in this document, it reads, quote:",
+            "page_#": 31
+        },
+        {
+            "text": "The cash-for-votes scheme has been turned over to the FBI.",
+            "page_#": 31
+        },
+        {
+            "text": "They have not made any",
+            "page_#": 31
+        },
+        {
+            "text": "declaration saying this investigation is completed, and as such, Congress should not",
+            "page_#": 31
+        },
+        {
+            "text": "certify the electoral votes with ongoing investigations.",
+            "page_#": 31
+        },
+        {
+            "text": "What, if you know, was the significance of this statement?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Do you recall any concerns about the wording of any part of this statement?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "All right.",
+            "page_#": 31
+        },
+        {
+            "text": "So, next, I'll go ahead and move to the ceremony itself.",
+            "page_#": 31
+        },
+        {
+            "text": "And who participated, in your knowledge, in the logistics for preparing the",
+            "page_#": 32
+        },
+        {
+            "text": "alternate electors ceremony that took place in Carson City on December 14th?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "And who participated in efforts to coordinate messaging or press coverage",
+            "page_#": 32
+        },
+        {
+            "text": "relating to that event, if you know?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Did you receive any instructions not to publicize that event?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Were members of the Trump administration, Trump campaign, or RNC",
+            "page_#": 32
+        },
+        {
+            "text": "involved in any of the discussions that I just asked you about?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Let's move to exhibit 24.",
+            "page_#": 32
+        },
+        {
+            "text": "And it appears to be a December 13, 2020, exchange between you and Mr.",
+            "page_#": 32
+        },
+        {
+            "text": "This is a document ending with Bates 544.",
+            "page_#": 32
+        },
+        {
+            "text": "Meehan, and in it Mr. Meehan wrote, quote:",
+            "page_#": 32
+        },
+        {
+            "text": "right?",
+            "page_#": 32
+        },
+        {
+            "text": "dorks it up too.",
+            "page_#": 32
+        },
+        {
+            "text": "We just have to meet is all required,",
+            "page_#": 32
+        },
+        {
+            "text": "In Carson City is only requirement not certain building?",
+            "page_#": 32
+        },
+        {
+            "text": "NVSOS not being there",
+            "page_#": 32
+        },
+        {
+            "text": "I will assume that Mr. Meehan was using a more colorful word that got",
+            "page_#": 32
+        },
+        {
+            "text": "auto-corrected there, but if you know, what did he mean when he said that the NVSOS",
+            "page_#": 32
+        },
+        {
+            "text": "not being there dorks it up?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "On the advice of counsel, I assert the prior privilege.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Are you aware of any other discussions that we haven't already covered",
+            "page_#": 32
+        },
+        {
+            "text": "regarding whether the ceremony could proceed without the Nevada secretary of state?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "In a later message further down in this chain, Mr. Meehan wrote, quote:",
+            "page_#": 32
+        },
+        {
+            "text": "Was pretty pissed off last night on call.",
+            "page_#": 32
+        },
+        {
+            "text": "Good thing you missed it.",
+            "page_#": 32
+        },
+        {
+            "text": "J. Law and Amanda",
+            "page_#": 32
+        },
+        {
+            "text": "were trying to change the location and say no crowd.",
+            "page_#": 33
+        },
+        {
+            "text": "cleared to precede on our prior call, time/location set.",
+            "page_#": 33
+        },
+        {
+            "text": "In this message, you referred to a call that happened the night before, which",
+            "page_#": 33
+        },
+        {
+            "text": "I was very clear that we were",
+            "page_#": 33
+        },
+        {
+            "text": "would have been December 12th.",
+            "page_#": 33
+        },
+        {
+            "text": "Did you participate in that call, Mr. DeGraffenreid?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Do you know why Mr. Law and Amanda were trying to change the location",
+            "page_#": 33
+        },
+        {
+            "text": "and say no crowd?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "And, if you know, why do you think Mr. Meehan thought a larger crowd was",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "At a high level, could you describe to me your understanding of what was",
+            "page_#": 33
+        },
+        {
+            "text": "better?",
+            "page_#": 33
+        },
+        {
+            "text": "supposed to take place during the ceremony on December 14th itself?",
+            "page_#": 33
+        },
+        {
+            "text": "mean speeches, signing ceremony, public statements, things like that.",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Okay.",
+            "page_#": 33
+        },
+        {
+            "text": "So I'll direct your attention to exhibit 25.",
+            "page_#": 33
+        },
+        {
+            "text": "And it's another exchange with Mr. Meehan, and in the top center image, Mr.",
+            "page_#": 33
+        },
+        {
+            "text": "Meehan wrote, on December 13, 2020, quote:",
+            "page_#": 33
+        },
+        {
+            "text": "ceremony for public at noon, some speeches, yada yada.",
+            "page_#": 33
+        },
+        {
+            "text": "on what we can say, but doesn't sound too bad.",
+            "page_#": 33
+        },
+        {
+            "text": "This is a document",
+            "page_#": 33
+        },
+        {
+            "text": "ending with Bates 550.",
+            "page_#": 33
+        },
+        {
+            "text": "And by that I",
+            "page_#": 33
+        },
+        {
+            "text": "Actual signing 11 a.m., recreate",
+            "page_#": 33
+        },
+        {
+            "text": "RNC essentially put us in a box",
+            "page_#": 33
+        },
+        {
+            "text": "Is it correct that the actual signing of the ballots took place privately followed by a",
+            "page_#": 33
+        },
+        {
+            "text": "public event later that day?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Is Mr. Meehan's description consistent with how the ceremony ended up",
+            "page_#": 33
+        },
+        {
+            "text": "taking place, as far as you know?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Who in the RNC was coordinating with you on messaging?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "What limitations did they place on the statements that you could make at",
+            "page_#": 34
+        },
+        {
+            "text": "the ceremony?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "What did you want to say and what were the RNC's concerns about it?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "So, later in this exchange, you and Mr. Meehan had kind of a back and forth,",
+            "page_#": 34
+        },
+        {
+            "text": "and I'm going to read a couple of his messages for efficiency's sake.",
+            "page_#": 34
+        },
+        {
+            "text": "So he wrote, quote:",
+            "page_#": 34
+        },
+        {
+            "text": "Spoke to the chairman.",
+            "page_#": 34
+        },
+        {
+            "text": "Wants a smaller group of us for",
+            "page_#": 34
+        },
+        {
+            "text": "planning at breakfast.",
+            "page_#": 34
+        },
+        {
+            "text": "And then he wrote, quote:",
+            "page_#": 34
+        },
+        {
+            "text": "He's stressing on the optics.",
+            "page_#": 34
+        },
+        {
+            "text": "And then he wrote, quote:",
+            "page_#": 34
+        },
+        {
+            "text": "Mike, Kevin, you, T, Hindle, me to plan out",
+            "page_#": 34
+        },
+        {
+            "text": "ceremony, outlines speeches.",
+            "page_#": 34
+        },
+        {
+            "text": "And then, in a later text message, he wrote, quote:",
+            "page_#": 34
+        },
+        {
+            "text": "He's -- referring to Mr.",
+            "page_#": 34
+        },
+        {
+            "text": "McDonald -- He's very concerned RNC will cut cord if it looks bad and steal credit if we do",
+            "page_#": 34
+        },
+        {
+            "text": "well.",
+            "page_#": 34
+        },
+        {
+            "text": "Do you know why Mr. McDonald wanted a smaller group planning the ceremony",
+            "page_#": 34
+        },
+        {
+            "text": "that day?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "And what were Mr. McDonald's concerns about the optics of the ceremony?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Who were the individuals that Mr. Meehan referenced in this message and",
+            "page_#": 34
+        },
+        {
+            "text": "what were their roles in planning the event?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Can you explain Mr. McDonald's concern with respect to the RNC, if you",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "And, if you know, what were the RNC's concerns about holding this",
+            "page_#": 35
+        },
+        {
+            "text": "ceremony, if any?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "So, in one of those messages from the lower left-hand image, you responded",
+            "page_#": 35
+        },
+        {
+            "text": "know?",
+            "page_#": 35
+        },
+        {
+            "text": "to Mr. Meehan, quote:",
+            "page_#": 35
+        },
+        {
+            "text": "Have tried to explain.",
+            "page_#": 35
+        },
+        {
+            "text": "He's concerned that we look like foolish crybabies.",
+            "page_#": 35
+        },
+        {
+            "text": "What were Mr. McDonald's concerns about the ceremony that he expressed to",
+            "page_#": 35
+        },
+        {
+            "text": "I know.",
+            "page_#": 35
+        },
+        {
+            "text": "you?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "And what was the substance of your disagreement with his concerns?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "On the lower right image, Mr. Meehan wrote, quote:",
+            "page_#": 35
+        },
+        {
+            "text": "Attorney Jesse and",
+            "page_#": 35
+        },
+        {
+            "text": "Amanda said we're clear to announce the same is occurring in all States where votes were",
+            "page_#": 35
+        },
+        {
+            "text": "stolen.",
+            "page_#": 35
+        },
+        {
+            "text": "We're in good company.",
+            "page_#": 35
+        },
+        {
+            "text": "Were you a part of any discussions related to this issue?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Were you originally discouraged from identifying that other States were",
+            "page_#": 35
+        },
+        {
+            "text": "holding alternate elector ceremonies?",
+            "page_#": 35
+        },
+        {
+            "text": "And, if so, by whom?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "If you know, what was the concern about making public the existence of",
+            "page_#": 35
+        },
+        {
+            "text": "those ceremonies in other States?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Who made the decision to allow you to discuss the other States publicly?",
+            "page_#": 36
+        },
+        {
+            "text": "And, if so, why?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 36
+        },
+        {
+            "text": "I think we've hit a stopping point, and I know that we've been",
+            "page_#": 36
+        },
+        {
+            "text": "speaking for about an hour and a half.",
+            "page_#": 36
+        },
+        {
+            "text": "break, if that's all right with everyone.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Kelesis.",
+            "page_#": 36
+        },
+        {
+            "text": "So perhaps now is a good time to take a brief",
+            "page_#": 36
+        },
+        {
+            "text": "Yes, that's good.",
+            "page_#": 36
+        },
+        {
+            "text": "10 minutes or so?",
+            "page_#": 36
+        },
+        {
+            "text": "That sounds good.",
+            "page_#": 36
+        },
+        {
+            "text": "hour, if that works for you.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Hardy.",
+            "page_#": 36
+        },
+        {
+            "text": "Yeah, that's fine.",
+            "page_#": 36
+        },
+        {
+            "text": "All right.",
+            "page_#": 36
+        },
+        {
+            "text": "We will go off the record.",
+            "page_#": 36
+        },
+        {
+            "text": "[Recess.]",
+            "page_#": 36
+        },
+        {
+            "text": "Great.",
+            "page_#": 36
+        },
+        {
+            "text": "So let's reconvene at 36 minutes after the",
+            "page_#": 36
+        },
+        {
+            "text": "[3:43 p.m.]",
+            "page_#": 37
+        },
+        {
+            "text": "We will now go on the record, and the time is 3:43 p.m. eastern.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Mr. DeGraffenreid, I would like to ask you a few questions about the",
+            "page_#": 37
+        },
+        {
+            "text": "documents that were submitted as part of the alternate electors ceremony on",
+            "page_#": 37
+        },
+        {
+            "text": "December 14th.",
+            "page_#": 37
+        },
+        {
+            "text": "So my question to you is, I understand that you signed and submitted a number of",
+            "page_#": 37
+        },
+        {
+            "text": "documents in connection with that ceremony, including a Certificate of President Trump's",
+            "page_#": 37
+        },
+        {
+            "text": "Electoral Votes in Nevada, as well as individual ballots for President and Vice President.",
+            "page_#": 37
+        },
+        {
+            "text": "Is that correct?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Were the documents that you signed and submitted the versions of the",
+            "page_#": 37
+        },
+        {
+            "text": "documents that you'd received from Mr. Chesebro?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Did you make any changes to the documents before using them at the",
+            "page_#": 37
+        },
+        {
+            "text": "signing ceremony?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Are you aware of any discussions as to whether revisions were necessary?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "I would like to direct your attention to exhibit 26 with Bates ending in 637.",
+            "page_#": 37
+        },
+        {
+            "text": "This is another piece of the exchange between you, Mr. Meehan, and Mr. Hindle.",
+            "page_#": 37
+        },
+        {
+            "text": "And this particular exchange is dated December 9, 2020.",
+            "page_#": 37
+        },
+        {
+            "text": "In it Mr. Meehan",
+            "page_#": 37
+        },
+        {
+            "text": "wrote - - i t ' s on page 7 of the exhibit, and in it Mr. Meehan wrote, quote:",
+            "page_#": 37
+        },
+        {
+            "text": "make up our own Certificate of Ascertainment, it probably ought to have two whereas",
+            "page_#": 37
+        },
+        {
+            "text": "If we",
+            "page_#": 37
+        },
+        {
+            "text": "statements and maybe one resolved based on us concluding that we're responding to a",
+            "page_#": 38
+        },
+        {
+            "text": "fraudulent election and this is why we are justified and submitting this.",
+            "page_#": 38
+        },
+        {
+            "text": "If you know, why did Mr. Meehan feel that it was important to include this",
+            "page_#": 38
+        },
+        {
+            "text": "language in a Certificate of Ascertainment?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Did you agree that it was important to include this language in a Certificate",
+            "page_#": 38
+        },
+        {
+            "text": "of Ascertainment?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "Under advice of counsel, I assert the prior privilege.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Are you aware of any discussions about whether this kind of language was",
+            "page_#": 38
+        },
+        {
+            "text": "And, if so, why?",
+            "page_#": 38
+        },
+        {
+            "text": "necessary in the Certificate of Ascertainment or any of the other documents?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Next, I would like to turn to exhibit 30.",
+            "page_#": 38
+        },
+        {
+            "text": "This is a piece of an exchange",
+            "page_#": 38
+        },
+        {
+            "text": "between you and Mr. Law on December 13, 2020, and in it, Mr. Law wrote -- it's at the",
+            "page_#": 38
+        },
+        {
+            "text": "bottom of the page.",
+            "page_#": 38
+        },
+        {
+            "text": "12th amendment adjustments made,\" after you wrote to him, \"I can send you the forms if",
+            "page_#": 38
+        },
+        {
+            "text": "you want to print all the sets.\"",
+            "page_#": 38
+        },
+        {
+            "text": "Mr. Law, wrote, quote, \"Great.",
+            "page_#": 38
+        },
+        {
+            "text": "Please do once you get those",
+            "page_#": 38
+        },
+        {
+            "text": "What were the 12th amendment adjustments that Mr. Law thought needed to be",
+            "page_#": 38
+        },
+        {
+            "text": "made to the relevant forms?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Do you know why those changes were necessary?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "And do you know whether the documents were ever revised accordingly?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "So, later in this exchange, you responded, quote:",
+            "page_#": 38
+        },
+        {
+            "text": "Shawn -- presumably",
+            "page_#": 38
+        },
+        {
+            "text": "you're referring to Mr. Meehan -- pointed out a serious error on the certification, so I",
+            "page_#": 38
+        },
+        {
+            "text": "need to modify that form.",
+            "page_#": 39
+        },
+        {
+            "text": "What was the serious error that Mr. Meehan identified on the certification?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "And were the relevant forms ever revised accordingly, if you know?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Let's turn to exhibit 27, Bates number ending in 470.",
+            "page_#": 39
+        },
+        {
+            "text": "This is titled \"Memorandum,\" and it looks like it's a letter that's addressed to the",
+            "page_#": 39
+        },
+        {
+            "text": "President of the Senate, of the United States Senate, the Archivist of the United States,",
+            "page_#": 39
+        },
+        {
+            "text": "the secretary of state of the State of Nevada, and the Chief Judge of the U.S. District Court",
+            "page_#": 39
+        },
+        {
+            "text": "for the District of Nevada, dated December 14th.",
+            "page_#": 39
+        },
+        {
+            "text": "And it contains the following language, quote:",
+            "page_#": 39
+        },
+        {
+            "text": "Enclosed please find duplicate",
+            "page_#": 39
+        },
+        {
+            "text": "originals of Nevada's electoral votes for President and Vice President.",
+            "page_#": 39
+        },
+        {
+            "text": "If you know, is this the cover letter that was submitted along with the electoral",
+            "page_#": 39
+        },
+        {
+            "text": "votes cast by the Nevada Trump electors?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Is this the same version of the letter that you received from Mr. Chesebro, or",
+            "page_#": 39
+        },
+        {
+            "text": "was it altered in any way, if you know?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "And did you have any discussions about revising this document before",
+            "page_#": 39
+        },
+        {
+            "text": "sending it?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Okay.",
+            "page_#": 39
+        },
+        {
+            "text": "This is a document that is titled \"Certificate of the Votes of the 2020 Electors from",
+            "page_#": 39
+        },
+        {
+            "text": "Let's go to exhibit 28, with Bates ending in 477.",
+            "page_#": 39
+        },
+        {
+            "text": "Nevada,\" containing six",
+            "page_#": 39
+        },
+        {
+            "text": "electoral votes for Donald Trump for President.",
+            "page_#": 39
+        },
+        {
+            "text": "If you know, is this the certificate that was submitted along with the electoral",
+            "page_#": 40
+        },
+        {
+            "text": "votes cast by the Nevada Trump electors?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 40
+        },
+        {
+            "text": "Q",
+            "page_#": 40
+        },
+        {
+            "text": "Is this the same version of the letter that you received from Mr. Chesebro, or",
+            "page_#": 40
+        },
+        {
+            "text": "did you revise it in any way before sending?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 40
+        },
+        {
+            "text": "Q",
+            "page_#": 40
+        },
+        {
+            "text": "And did you have any discussions about revising this document before",
+            "page_#": 40
+        },
+        {
+            "text": "sending it?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 40
+        },
+        {
+            "text": "Q",
+            "page_#": 40
+        },
+        {
+            "text": "The first paragraph of this document reads as follows, quote:",
+            "page_#": 40
+        },
+        {
+            "text": "We, the",
+            "page_#": 40
+        },
+        {
+            "text": "undersigned, being the duly elected and qualified electors for President and Vice",
+            "page_#": 40
+        },
+        {
+            "text": "President of the United States of America from the State of Nevada, do hereby certify the",
+            "page_#": 40
+        },
+        {
+            "text": "following.",
+            "page_#": 40
+        },
+        {
+            "text": "In your view, did this certificate purport to show that you and the other alternate",
+            "page_#": 40
+        },
+        {
+            "text": "electors were the duly elected and qualified electors from Nevada?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 40
+        },
+        {
+            "text": "Q",
+            "page_#": 40
+        },
+        {
+            "text": "Was it your understanding that the purpose of submitting alternate electoral",
+            "page_#": 40
+        },
+        {
+            "text": "votes for President Trump was a provisional measure pending the outcome of litigation?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 40
+        },
+        {
+            "text": "Q",
+            "page_#": 40
+        },
+        {
+            "text": "In your view, is the language in this document consistent with the belief that",
+            "page_#": 40
+        },
+        {
+            "text": "the electoral ballots were provisional?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 40
+        },
+        {
+            "text": "Q",
+            "page_#": 40
+        },
+        {
+            "text": "Did you have any discussions or do you know of any discussions about",
+            "page_#": 40
+        },
+        {
+            "text": "altering the language in the certificate to reflect a belief that the electoral votes were",
+            "page_#": 40
+        },
+        {
+            "text": "meant to be provisional?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 41
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 41
+        },
+        {
+            "text": "Q",
+            "page_#": 41
+        },
+        {
+            "text": "Mr. DeGraffenreid, I understand that alternate electors in some States",
+            "page_#": 41
+        },
+        {
+            "text": "edited the language in their versions of this document to indicate an understanding that",
+            "page_#": 41
+        },
+        {
+            "text": "the votes were provisional.",
+            "page_#": 41
+        },
+        {
+            "text": "And I will read two of those for you.",
+            "page_#": 41
+        },
+        {
+            "text": "In particular, in New Mexico, electors included the language, quote:",
+            "page_#": 41
+        },
+        {
+            "text": "We, the",
+            "page_#": 41
+        },
+        {
+            "text": "undersigned, on the understanding that it might later be determined that we are the duly",
+            "page_#": 41
+        },
+        {
+            "text": "elected and qualified electors.",
+            "page_#": 41
+        },
+        {
+            "text": "And in Pennsylvania, electors included the language quote:",
+            "page_#": 41
+        },
+        {
+            "text": "We, the",
+            "page_#": 41
+        },
+        {
+            "text": "undersigned, on the understanding that if as a result of a final non-appealable court order",
+            "page_#": 41
+        },
+        {
+            "text": "or other proceeding prescribed by law we are ultimately recognized as being the duly",
+            "page_#": 41
+        },
+        {
+            "text": "elected and qualified electors.",
+            "page_#": 41
+        },
+        {
+            "text": "Were you aware of any alterations to the language in other States' version of this",
+            "page_#": 41
+        },
+        {
+            "text": "document?",
+            "page_#": 41
+        },
+        {
+            "text": "A",
+            "page_#": 41
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 41
+        },
+        {
+            "text": "Q",
+            "page_#": 41
+        },
+        {
+            "text": "And is there any reason that you felt that it wasn't necessary in your case?",
+            "page_#": 41
+        },
+        {
+            "text": "A",
+            "page_#": 41
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 41
+        },
+        {
+            "text": "Q",
+            "page_#": 41
+        },
+        {
+            "text": "Do you recall, or are you aware of any discussions about the significance of",
+            "page_#": 41
+        },
+        {
+            "text": "characterizing the vote as provisional or not?",
+            "page_#": 41
+        },
+        {
+            "text": "A",
+            "page_#": 41
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 41
+        },
+        {
+            "text": "Q",
+            "page_#": 41
+        },
+        {
+            "text": "Next, I'll direct your attention to exhibit 29 with Bates number ending in 479.",
+            "page_#": 41
+        },
+        {
+            "text": "The second page of this document reads, \"State of Nevada,\" then \"Nevada",
+            "page_#": 41
+        },
+        {
+            "text": "Presidential Elector Official Ballot for President of the United States,\" and, quote, \"I",
+            "page_#": 41
+        },
+        {
+            "text": "hereby cast my vote for blank for President of the United States,\" and then in handwriting",
+            "page_#": 41
+        },
+        {
+            "text": "appears the name Donald J. Trump.",
+            "page_#": 41
+        },
+        {
+            "text": "Is that your handwriting, Mr. DeGraffenreid?",
+            "page_#": 41
+        },
+        {
+            "text": "A",
+            "page_#": 42
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 42
+        },
+        {
+            "text": "Q",
+            "page_#": 42
+        },
+        {
+            "text": "At the bottom of this document, there is a signature.",
+            "page_#": 42
+        },
+        {
+            "text": "Is that your signature, Mr. DeGraffenreid?",
+            "page_#": 42
+        },
+        {
+            "text": "A",
+            "page_#": 42
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 42
+        },
+        {
+            "text": "Q",
+            "page_#": 42
+        },
+        {
+            "text": "Is this the document that you signed on December 14, 2020, in Carson City,",
+            "page_#": 42
+        },
+        {
+            "text": "Nevada?",
+            "page_#": 42
+        },
+        {
+            "text": "A",
+            "page_#": 42
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 42
+        },
+        {
+            "text": "Q",
+            "page_#": 42
+        },
+        {
+            "text": "Briefly, if you can, I would ask that you describe what took place during the",
+            "page_#": 42
+        },
+        {
+            "text": "public ceremony that you and other Trump electors held in Carson City on",
+            "page_#": 42
+        },
+        {
+            "text": "December 14th.",
+            "page_#": 42
+        },
+        {
+            "text": "A",
+            "page_#": 42
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 42
+        },
+        {
+            "text": "Q",
+            "page_#": 42
+        },
+        {
+            "text": "Did you make any statements during that ceremony reflecting a belief that",
+            "page_#": 42
+        },
+        {
+            "text": "the electoral votes you were casting were provisional?",
+            "page_#": 42
+        },
+        {
+            "text": "A",
+            "page_#": 42
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 42
+        },
+        {
+            "text": "Q",
+            "page_#": 42
+        },
+        {
+            "text": "Next let's turn to exhibit 34 with Bates number ending in 813.",
+            "page_#": 42
+        },
+        {
+            "text": "This is a December 14, 2020, email exchange, and I will describe to you on the",
+            "page_#": 42
+        },
+        {
+            "text": "screen that it contains a message from the Nevada GOP containing, quote, a statement",
+            "page_#": 42
+        },
+        {
+            "text": "on the Nevada Republican presidential electors casting electoral votes for President",
+            "page_#": 42
+        },
+        {
+            "text": "Donald J. Trump and Vice President Michael Pence.",
+            "page_#": 42
+        },
+        {
+            "text": "And it looks like it is forwarded to a number of individuals, including Mr. Hindle,",
+            "page_#": 42
+        },
+        {
+            "text": "Ms. Hanson, Mr. McDonald, you, and others.",
+            "page_#": 42
+        },
+        {
+            "text": "And the bottom, second page of this email contains the language from this",
+            "page_#": 42
+        },
+        {
+            "text": "release.",
+            "page_#": 42
+        },
+        {
+            "text": "In the third paragraph, it reads, quote:",
+            "page_#": 42
+        },
+        {
+            "text": "rightful victor in the Silver State.",
+            "page_#": 42
+        },
+        {
+            "text": "There is a legitimate concern over the",
+            "page_#": 42
+        },
+        {
+            "text": "A court of law has failed to meaningfully evaluate the",
+            "page_#": 42
+        },
+        {
+            "text": "evidence and our law enforcement agencies and government officials have failed to",
+            "page_#": 43
+        },
+        {
+            "text": "investigate.",
+            "page_#": 43
+        },
+        {
+            "text": "to Congress to make a determination as to who is the rightful victor of Nevada between",
+            "page_#": 43
+        },
+        {
+            "text": "the dueling votes.",
+            "page_#": 43
+        },
+        {
+            "text": "This left our electors no choice but to send their votes for President Trump",
+            "page_#": 43
+        },
+        {
+            "text": "What, if any, Mr. DeGraffenreid, was your role in preparing this statement?",
+            "page_#": 43
+        },
+        {
+            "text": "A",
+            "page_#": 43
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 43
+        },
+        {
+            "text": "Q",
+            "page_#": 43
+        },
+        {
+            "text": "If you know, what did it mean to say that a court of law has, quote, failed to",
+            "page_#": 43
+        },
+        {
+            "text": "meaningfully evaluate the evidence?",
+            "page_#": 43
+        },
+        {
+            "text": "A",
+            "page_#": 43
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 43
+        },
+        {
+            "text": "Q",
+            "page_#": 43
+        },
+        {
+            "text": "The specific language in this statement says that electors have no choice,",
+            "page_#": 43
+        },
+        {
+            "text": "quote, but to send their votes for President Trump to Congress to make a determination",
+            "page_#": 43
+        },
+        {
+            "text": "as to who is the rightful victor of Nevada.",
+            "page_#": 43
+        },
+        {
+            "text": "In your view, is that language consistent with a belief that the electoral votes were",
+            "page_#": 43
+        },
+        {
+            "text": "provisional?",
+            "page_#": 43
+        },
+        {
+            "text": "A",
+            "page_#": 43
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 43
+        },
+        {
+            "text": "Q",
+            "page_#": 43
+        },
+        {
+            "text": "Finally, the bottom of this document contains a statement that's attributed",
+            "page_#": 43
+        },
+        {
+            "text": "to Nevada GOP chairman, Mr. McDonald, and it contains the following, quote:",
+            "page_#": 43
+        },
+        {
+            "text": "people of Nevada did not have a fair election due to the irregularities and fraud seen",
+            "page_#": 43
+        },
+        {
+            "text": "throughout the State.",
+            "page_#": 43
+        },
+        {
+            "text": "investigated, we must submit our electoral votes for the rightful victors and allow",
+            "page_#": 43
+        },
+        {
+            "text": "Congress to make a determination.",
+            "page_#": 43
+        },
+        {
+            "text": "The",
+            "page_#": 43
+        },
+        {
+            "text": "With ongoing challenges and evidence left to be meaningfully",
+            "page_#": 43
+        },
+        {
+            "text": "In your understanding, what were the ongoing challenges and evidence left to be",
+            "page_#": 43
+        },
+        {
+            "text": "meaningfully investigated that this refers to?",
+            "page_#": 43
+        },
+        {
+            "text": "A",
+            "page_#": 43
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 43
+        },
+        {
+            "text": "Q",
+            "page_#": 43
+        },
+        {
+            "text": "So, based on the documents that you produced, we understand that Mr.",
+            "page_#": 43
+        },
+        {
+            "text": "McDonald mailed the electoral ballots and other materials on the same day as the",
+            "page_#": 44
+        },
+        {
+            "text": "ceremony, December 14th.",
+            "page_#": 44
+        },
+        {
+            "text": "Is that correct?",
+            "page_#": 44
+        },
+        {
+            "text": "A",
+            "page_#": 44
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 44
+        },
+        {
+            "text": "Q",
+            "page_#": 44
+        },
+        {
+            "text": "If you know, what was the significance of sending the ballots on",
+            "page_#": 44
+        },
+        {
+            "text": "December 14th?",
+            "page_#": 44
+        },
+        {
+            "text": "A",
+            "page_#": 44
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 44
+        },
+        {
+            "text": "Q",
+            "page_#": 44
+        },
+        {
+            "text": "And, if you know, why didn't Mr. McDonald wait to send the ballots until",
+            "page_#": 44
+        },
+        {
+            "text": "after the resolution of any ongoing disputes about Nevada's election outcome?",
+            "page_#": 44
+        },
+        {
+            "text": "A",
+            "page_#": 44
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 44
+        },
+        {
+            "text": "Q",
+            "page_#": 44
+        },
+        {
+            "text": "Did you have discussions about this question with anyone from the Trump",
+            "page_#": 44
+        },
+        {
+            "text": "administration, Trump campaign, or the RNC?",
+            "page_#": 44
+        },
+        {
+            "text": "A",
+            "page_#": 44
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 44
+        },
+        {
+            "text": "Q",
+            "page_#": 44
+        },
+        {
+            "text": "All right.",
+            "page_#": 44
+        },
+        {
+            "text": "I have just one other quick area that I would like to talk through",
+            "page_#": 44
+        },
+        {
+            "text": "with you, Mr. DeGraffenreid, so we're close to being finished.",
+            "page_#": 44
+        },
+        {
+            "text": "We understand that Members of Congress reached out to individuals in the",
+            "page_#": 44
+        },
+        {
+            "text": "Nevada State Republican Party in order to collect evidence of election fraud in advance of",
+            "page_#": 44
+        },
+        {
+            "text": "the Joint Session of Congress on January 6, 2021.",
+            "page_#": 44
+        },
+        {
+            "text": "Is that accurate?",
+            "page_#": 44
+        },
+        {
+            "text": "A",
+            "page_#": 44
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 44
+        },
+        {
+            "text": "Q",
+            "page_#": 44
+        },
+        {
+            "text": "To your knowledge, who -- specifically which Members of Congress reached",
+            "page_#": 44
+        },
+        {
+            "text": "out seeking information?",
+            "page_#": 44
+        },
+        {
+            "text": "A",
+            "page_#": 44
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 44
+        },
+        {
+            "text": "Q",
+            "page_#": 44
+        },
+        {
+            "text": "What, if anything, did they say about how they intended to use the",
+            "page_#": 44
+        },
+        {
+            "text": "information they were seeking from you?",
+            "page_#": 44
+        },
+        {
+            "text": "A",
+            "page_#": 44
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 44
+        },
+        {
+            "text": "Q",
+            "page_#": 45
+        },
+        {
+            "text": "What, if anything, did they say about what they intended to do during the",
+            "page_#": 45
+        },
+        {
+            "text": "Joint Session of Congress on January 6th?",
+            "page_#": 45
+        },
+        {
+            "text": "A",
+            "page_#": 45
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 45
+        },
+        {
+            "text": "Q",
+            "page_#": 45
+        },
+        {
+            "text": "And, as far as you know, what information did you or others in Nevada",
+            "page_#": 45
+        },
+        {
+            "text": "provide to them in response to those requests?",
+            "page_#": 45
+        },
+        {
+            "text": "A",
+            "page_#": 45
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 45
+        },
+        {
+            "text": "Q",
+            "page_#": 45
+        },
+        {
+            "text": "Did you have any other contacts with Members of Congress, members of the",
+            "page_#": 45
+        },
+        {
+            "text": "Trump White House, the Trump campaign, or the RNC regarding the Joint Session?",
+            "page_#": 45
+        },
+        {
+            "text": "A",
+            "page_#": 45
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 45
+        },
+        {
+            "text": "Q",
+            "page_#": 45
+        },
+        {
+            "text": "Next, let's turn to exhibit 37, which is a Bates number ending in 544.",
+            "page_#": 45
+        },
+        {
+            "text": "This looks like a message exchange between you and Mr. Meehan, dated",
+            "page_#": 45
+        },
+        {
+            "text": "December 18, 2020, and in it, you wrote, quote, Andy Biggs, who signed on to the letter,",
+            "page_#": 45
+        },
+        {
+            "text": "has reached out to NV to ask about our evidence.",
+            "page_#": 45
+        },
+        {
+            "text": "What evidence was Representative Biggs seeking from you?",
+            "page_#": 45
+        },
+        {
+            "text": "A",
+            "page_#": 45
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 45
+        },
+        {
+            "text": "Q",
+            "page_#": 45
+        },
+        {
+            "text": "And did you or anyone else provide him with information, as far as you",
+            "page_#": 45
+        },
+        {
+            "text": "A",
+            "page_#": 45
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 45
+        },
+        {
+            "text": "Q",
+            "page_#": 45
+        },
+        {
+            "text": "To your knowledge, did any other House Member reach out to people in",
+            "page_#": 45
+        },
+        {
+            "text": "know?",
+            "page_#": 45
+        },
+        {
+            "text": "Nevada related to evidence of election fraud?",
+            "page_#": 45
+        },
+        {
+            "text": "A",
+            "page_#": 45
+        },
+        {
+            "text": "On the advice of counsel, I assert the prior privilege.",
+            "page_#": 45
+        },
+        {
+            "text": "Q",
+            "page_#": 45
+        },
+        {
+            "text": "Let's go to exhibit 38 with Bates ending in 579.",
+            "page_#": 45
+        },
+        {
+            "text": "This is a December 20, 2020, exchange between you, Mr. McDonald, and Jolette",
+            "page_#": 45
+        },
+        {
+            "text": "Gowens, and it looks like you sent the others a press release from Representative Brooks'",
+            "page_#": 45
+        },
+        {
+            "text": "office, and you said, quote:",
+            "page_#": 45
+        },
+        {
+            "text": "Can't remember if I sent y'all this or not, but it's likely that",
+            "page_#": 45
+        },
+        {
+            "text": "this is what was behind the phone call from AZ.",
+            "page_#": 46
+        },
+        {
+            "text": "Is the phone call that you reference in this message the same or different than",
+            "page_#": 46
+        },
+        {
+            "text": "what you referred to from Mr. Biggs earlier?",
+            "page_#": 46
+        },
+        {
+            "text": "A",
+            "page_#": 46
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 46
+        },
+        {
+            "text": "Q",
+            "page_#": 46
+        },
+        {
+            "text": "In another message you wrote, quote:",
+            "page_#": 46
+        },
+        {
+            "text": "Sounds like they're doing their",
+            "page_#": 46
+        },
+        {
+            "text": "homework in advance of January 6th.",
+            "page_#": 46
+        },
+        {
+            "text": "What do you mean by that?",
+            "page_#": 46
+        },
+        {
+            "text": "A",
+            "page_#": 46
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 46
+        },
+        {
+            "text": "Q",
+            "page_#": 46
+        },
+        {
+            "text": "Next let's move to exhibit 39 with Bates ending in 564.",
+            "page_#": 46
+        },
+        {
+            "text": "This looks like a December 29, 2020, text message exchange between you and",
+            "page_#": 46
+        },
+        {
+            "text": "Janet Freixas, although I'm certain that I have just mispronounced that last name.",
+            "page_#": 46
+        },
+        {
+            "text": "in it, she writes, quote:",
+            "page_#": 46
+        },
+        {
+            "text": "arsenal (just want to make sure it didn't slip out), has anyone put anything on record that",
+            "page_#": 46
+        },
+        {
+            "text": "the Democrats ballots were filed inappropriately?",
+            "page_#": 46
+        },
+        {
+            "text": "And then you responded, quote:",
+            "page_#": 46
+        },
+        {
+            "text": "Congress.",
+            "page_#": 46
+        },
+        {
+            "text": "I know I am grasping at straws here and I know it is in your",
+            "page_#": 46
+        },
+        {
+            "text": "I believe that's still a day-of objection by",
+            "page_#": 46
+        },
+        {
+            "text": "It has been shared with the objectors.",
+            "page_#": 46
+        },
+        {
+            "text": "Who were the objectors that you were referring to in this message?",
+            "page_#": 46
+        },
+        {
+            "text": "Mr. Hardy.",
+            "page_#": 46
+        },
+        {
+            "text": "Your audio is cutting out.",
+            "page_#": 46
+        },
+        {
+            "text": "Sorry about that.",
+            "page_#": 46
+        },
+        {
+            "text": "Mr. Kelesis.",
+            "page_#": 46
+        },
+        {
+            "text": "Yes.",
+            "page_#": 46
+        },
+        {
+            "text": "Mr. Hardy.",
+            "page_#": 46
+        },
+        {
+            "text": "Try it again,.",
+            "page_#": 46
+        },
+        {
+            "text": "How about now?",
+            "page_#": 46
+        },
+        {
+            "text": "Mr. Hardy.",
+            "page_#": 46
+        },
+        {
+            "text": "There you go.",
+            "page_#": 46
+        },
+        {
+            "text": "All right.",
+            "page_#": 46
+        },
+        {
+            "text": "Perfect.",
+            "page_#": 46
+        },
+        {
+            "text": "Your audio just cut out.",
+            "page_#": 46
+        },
+        {
+            "text": "Can you hear us now?",
+            "page_#": 46
+        },
+        {
+            "text": "Give us one second.",
+            "page_#": 46
+        },
+        {
+            "text": "And",
+            "page_#": 46
+        },
+        {
+            "text": "Well, I'll repeat my question just so Mr. DeGraffenreid knows what I was referring",
+            "page_#": 47
+        },
+        {
+            "text": "to.",
+            "page_#": 47
+        },
+        {
+            "text": "BY",
+            "page_#": 47
+        },
+        {
+            "text": "Q",
+            "page_#": 47
+        },
+        {
+            "text": "So I was asking specifically about his message in which he wrote:",
+            "page_#": 47
+        },
+        {
+            "text": "that's still a day-of objection by Congress.",
+            "page_#": 47
+        },
+        {
+            "text": "I believe",
+            "page_#": 47
+        },
+        {
+            "text": "It has been shared with the objectors.",
+            "page_#": 47
+        },
+        {
+            "text": "And my question was who the objectors were that you were referring to in this",
+            "page_#": 47
+        },
+        {
+            "text": "message?",
+            "page_#": 47
+        },
+        {
+            "text": "A",
+            "page_#": 47
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 47
+        },
+        {
+            "text": "Q",
+            "page_#": 47
+        },
+        {
+            "text": "Other than the individuals that we've discussed, are you aware of any",
+            "page_#": 47
+        },
+        {
+            "text": "Members of Congress or their staff communicating with you or others in Nevada in",
+            "page_#": 47
+        },
+        {
+            "text": "advance of the January 6th joint session?",
+            "page_#": 47
+        },
+        {
+            "text": "A",
+            "page_#": 47
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 47
+        },
+        {
+            "text": "All right.",
+            "page_#": 47
+        },
+        {
+            "text": "So I don't have any further substantive questions,",
+            "page_#": 47
+        },
+        {
+            "text": "although I do have a few final questions to wrap up.",
+            "page_#": 47
+        },
+        {
+            "text": "Before I d o , - j u s t let me know if you have anything.",
+            "page_#": 47
+        },
+        {
+            "text": "All right.",
+            "page_#": 47
+        },
+        {
+            "text": "BY",
+            "page_#": 47
+        },
+        {
+            "text": "Q",
+            "page_#": 47
+        },
+        {
+            "text": "So, Mr. DeGraffenreid, is there anyone we should talk to in order to learn",
+            "page_#": 47
+        },
+        {
+            "text": "more about the issues that we've discussed today?",
+            "page_#": 47
+        },
+        {
+            "text": "A",
+            "page_#": 47
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 47
+        },
+        {
+            "text": "Q",
+            "page_#": 47
+        },
+        {
+            "text": "All right.",
+            "page_#": 47
+        },
+        {
+            "text": "Are there other sources of information that would be helpful for us to collect?",
+            "page_#": 47
+        },
+        {
+            "text": "A",
+            "page_#": 47
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 47
+        },
+        {
+            "text": "Q",
+            "page_#": 47
+        },
+        {
+            "text": "And are there any issues that we haven't discussed that you think are",
+            "page_#": 47
+        },
+        {
+            "text": "relevant for us to pursue?",
+            "page_#": 48
+        },
+        {
+            "text": "A",
+            "page_#": 48
+        },
+        {
+            "text": "On advice of counsel, I assert the prior privilege.",
+            "page_#": 48
+        },
+        {
+            "text": "Thank you, Mr. DeGraffenreid.",
+            "page_#": 48
+        },
+        {
+            "text": "That concludes all the questions that I have for you today.",
+            "page_#": 48
+        },
+        {
+            "text": "And, before we go off the record, I will thank you for your time.",
+            "page_#": 48
+        },
+        {
+            "text": "By way of explanation, what we will do from here is that this executive session of",
+            "page_#": 48
+        },
+        {
+            "text": "the select committee will go into recess.",
+            "page_#": 48
+        },
+        {
+            "text": "committee does not have any plans to reach out to you or speak with you further after",
+            "page_#": 48
+        },
+        {
+            "text": "our discussion today, that still allows us to continue to speak with you in the event that",
+            "page_#": 48
+        },
+        {
+            "text": "we have additional questions we need to ask or if your position on invoking your Fifth",
+            "page_#": 48
+        },
+        {
+            "text": "Amendment privileges should change at any time.",
+            "page_#": 48
+        },
+        {
+            "text": "Does that make sense?",
+            "page_#": 48
+        },
+        {
+            "text": "Mr. Hardy.",
+            "page_#": 48
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 48
+        },
+        {
+            "text": "-",
+            "page_#": 48
+        },
+        {
+            "text": "Yes.",
+            "page_#": 48
+        },
+        {
+            "text": "I understand.",
+            "page_#": 48
+        },
+        {
+            "text": "All right.",
+            "page_#": 48
+        },
+        {
+            "text": "Again, I'll thank you so much for your time.",
+            "page_#": 48
+        },
+        {
+            "text": "It is 4:09",
+            "page_#": 48
+        },
+        {
+            "text": "p.m. eastern, and we can go off the record.",
+            "page_#": 48
+        },
+        {
+            "text": "[Whereupon, at 4:09 p.m., the deposition was recessed, subject to call of the",
+            "page_#": 48
+        },
+        {
+            "text": "And what that means is, while the select",
+            "page_#": 48
+        },
+        {
+            "text": "chair.]",
+            "page_#": 48
+        },
+        {
+            "text": "Certificate of Deponent/Interviewee",
+            "page_#": 49
+        },
+        {
+            "text": "I have read the foregoing _ _ pages, which contain the correct transcript of the",
+            "page_#": 49
+        },
+        {
+            "text": "answers made by me to the questions therein recorded.",
+            "page_#": 49
+        },
+        {
+            "text": "Witness Name",
+            "page_#": 49
+        },
+        {
+            "text": "Date",
+            "page_#": 49
+        }
+    ]
+}

@@ -1,0 +1,4438 @@
+{
+    "title": "CTRL0000916055 - Transcribed Interview of Garrett M. Ziegler, (July 19, 2022)",
+    "id": "CTRL0000916055",
+    "date": "July 19, 2022",
+    "url_desc": "https://www.govinfo.gov/app/details/GPO-J6-TRANSCRIPT-CTRL0000916055/",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000916055/pdf/GPO-J6-TRANSCRIPT-CTRL0000916055.pdf#page=",
+    "witness": "Garrett M. Ziegler",
+    "data": [
+        {
+            "text": "SELECT COMMITTEE TO INVESTIGATE THE",
+            "page_#": 1
+        },
+        {
+            "text": "JANUARY 6TH ATTACK ON THE U.S. CAPITOL,",
+            "page_#": 1
+        },
+        {
+            "text": "U.S. HOUSE OF REPRESENTATIVES,",
+            "page_#": 1
+        },
+        {
+            "text": "WASHINGTON, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "DEPOSITION OF:",
+            "page_#": 1
+        },
+        {
+            "text": "GARRETT ZIEGLER",
+            "page_#": 1
+        },
+        {
+            "text": "Tuesday, July 19, 2022",
+            "page_#": 1
+        },
+        {
+            "text": "Washington, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "The deposition in the above matter was held in Room 5480, O'Neill House Office",
+            "page_#": 1
+        },
+        {
+            "text": "Building, commencing at 10:17 a.m.",
+            "page_#": 1
+        },
+        {
+            "text": "Present:",
+            "page_#": 1
+        },
+        {
+            "text": "Representative Schiff.",
+            "page_#": 1
+        },
+        {
+            "text": "Appearances:",
+            "page_#": 2
+        },
+        {
+            "text": "For the SELECT COMMITTEE TO INVESTIGATE",
+            "page_#": 2
+        },
+        {
+            "text": "THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL:",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": "SENIOR INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": ", CHIEF CLERK",
+            "page_#": 2
+        },
+        {
+            "text": ", INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": "For GARRETT ZIEGLER:",
+            "page_#": 2
+        },
+        {
+            "text": "JOHN KIVONAGA",
+            "page_#": 2
+        },
+        {
+            "text": "Let's go on the record.",
+            "page_#": 3
+        },
+        {
+            "text": "This is the deposition of Garrett Ziegler conducted by the House Select Committee",
+            "page_#": 3
+        },
+        {
+            "text": "to Investigate the January 6th Attack on the United States Capitol pursuant to House",
+            "page_#": 3
+        },
+        {
+            "text": "Resolution 503.",
+            "page_#": 3
+        },
+        {
+            "text": "This will be a staff-led deposition, though members may choose to ask questions",
+            "page_#": 3
+        },
+        {
+            "text": "as they so desire.",
+            "page_#": 3
+        },
+        {
+            "text": "My name is",
+            "page_#": 3
+        },
+        {
+            "text": "I am a senior investigative counsel with the select",
+            "page_#": 3
+        },
+        {
+            "text": "committee.",
+            "page_#": 3
+        },
+        {
+            "text": "Members may join the deposition either in person or by Webex, and I'll do my best to",
+            "page_#": 3
+        },
+        {
+            "text": "note their presence as they join.",
+            "page_#": 3
+        },
+        {
+            "text": "Present in the room with me is",
+            "page_#": 3
+        },
+        {
+            "text": "professional staff member.",
+            "page_#": 3
+        },
+        {
+            "text": "We'll be holding this deposition under House rules that we've previously provided",
+            "page_#": 3
+        },
+        {
+            "text": "to Mr. Ziegler and his counsel.",
+            "page_#": 3
+        },
+        {
+            "text": "Under those rules, Mr. Ziegler, you're permitted to have your attorney present.",
+            "page_#": 3
+        },
+        {
+            "text": "I'll note for the record that your attorney is present and I'll have him identify himself in a",
+            "page_#": 3
+        },
+        {
+            "text": "moment.",
+            "page_#": 3
+        },
+        {
+            "text": "Counsel for other persons or other government agencies may not attend.",
+            "page_#": 3
+        },
+        {
+            "text": "other words, the only lawyers who are present today are those from the select",
+            "page_#": 3
+        },
+        {
+            "text": "committee and your counsel.",
+            "page_#": 3
+        },
+        {
+            "text": "In",
+            "page_#": 3
+        },
+        {
+            "text": "At this time, I'd ask Mr. Ziegler's counsel to please state his name for the record.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 3
+        },
+        {
+            "text": "My name is John Kiyonaga, K-i-y-o-n-a-g-a.",
+            "page_#": 3
+        },
+        {
+            "text": "I'm counsel for",
+            "page_#": 3
+        },
+        {
+            "text": "Garrett Ziegler, Z-i-e-g-1-e-r, the deponent in this matter.",
+            "page_#": 3
+        },
+        {
+            "text": "Thank you, John.",
+            "page_#": 3
+        },
+        {
+            "text": "-",
+            "page_#": 3
+        },
+        {
+            "text": "Before we get started, I'd like to cover a few grounds rules for today's deposition.",
+            "page_#": 3
+        },
+        {
+            "text": "As you heard me mention before -- well, maybe you didn't hear me mention",
+            "page_#": 3
+        },
+        {
+            "text": "because I didn't say it -- we have an official reporter who's transcribing the deposition.",
+            "page_#": 3
+        },
+        {
+            "text": "The deposition's also being video recorded, but the reporter's transcription is the official",
+            "page_#": 4
+        },
+        {
+            "text": "record of the proceeding.",
+            "page_#": 4
+        },
+        {
+            "text": "it's completed before you give your answer, and I'll do my best to wait until you complete",
+            "page_#": 4
+        },
+        {
+            "text": "your answer before I ask the next question.",
+            "page_#": 4
+        },
+        {
+            "text": "So it's important that you wait to answer each question until",
+            "page_#": 4
+        },
+        {
+            "text": "The reporter cannot note nonverbal responses, such as shaking or nodding of the",
+            "page_#": 4
+        },
+        {
+            "text": "head, so it's important that you respond to each question with an audible verbal",
+            "page_#": 4
+        },
+        {
+            "text": "response.",
+            "page_#": 4
+        },
+        {
+            "text": "If you need to take any breaks or would like to discuss anything with your attorney",
+            "page_#": 4
+        },
+        {
+            "text": "privately, we're happy to accommodate you and take breaks as best we can.",
+            "page_#": 4
+        },
+        {
+            "text": "You may only refuse to answer a question to preserve a privilege recognized by",
+            "page_#": 4
+        },
+        {
+            "text": "the select committee.",
+            "page_#": 4
+        },
+        {
+            "text": "either proceed with the deposition or seek a ruling from the chair on the objection at that",
+            "page_#": 4
+        },
+        {
+            "text": "time.",
+            "page_#": 4
+        },
+        {
+            "text": "at the end of the deposition, you will be required to answer the question.",
+            "page_#": 4
+        },
+        {
+            "text": "If you refuse to answer a question based on privilege, staff may",
+            "page_#": 4
+        },
+        {
+            "text": "If the chairman overrules such an objection, either after the objection is made or",
+            "page_#": 4
+        },
+        {
+            "text": "I want to remind you that it's unlawful to deliberately provide false information to",
+            "page_#": 4
+        },
+        {
+            "text": "Congress.",
+            "page_#": 4
+        },
+        {
+            "text": "And because you will be taking an oath to tell the truth in this deposition, a",
+            "page_#": 4
+        },
+        {
+            "text": "knowingly false answer could subject you to prosecution for perjury.",
+            "page_#": 4
+        },
+        {
+            "text": "Do you have any questions on anything I said thus far?",
+            "page_#": 4
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 4
+        },
+        {
+            "text": "No.",
+            "page_#": 4
+        },
+        {
+            "text": "Madam Reporter, I'd ask you to swear the witness, please.",
+            "page_#": 4
+        },
+        {
+            "text": "The Reporter.",
+            "page_#": 4
+        },
+        {
+            "text": "Please raise your right hand.",
+            "page_#": 4
+        },
+        {
+            "text": "Do you solemnly swear and affirm, under the penalty of perjury, that the",
+            "page_#": 4
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 4
+        },
+        {
+            "text": "testimony you will give will be the truth, the whole truth, and nothing but the truth?",
+            "page_#": 4
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 4
+        },
+        {
+            "text": "I do.",
+            "page_#": 4
+        },
+        {
+            "text": "The Reporter.",
+            "page_#": 5
+        },
+        {
+            "text": "-",
+            "page_#": 5
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 5
+        },
+        {
+            "text": "John, is there something you wanted to say on the record before we",
+            "page_#": 5
+        },
+        {
+            "text": "start?",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 5
+        },
+        {
+            "text": "Yes.",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. Ziegler has complied fully with the subpoena for",
+            "page_#": 5
+        },
+        {
+            "text": "documentation.",
+            "page_#": 5
+        },
+        {
+            "text": "That should not be taken as any concession on his part of the authority",
+            "page_#": 5
+        },
+        {
+            "text": "of the committee to seek such.",
+            "page_#": 5
+        },
+        {
+            "text": "and the fact that he is the person subject to the subpoena and has provided documents",
+            "page_#": 5
+        },
+        {
+            "text": "and plenary compliance therewith, he is going to be refusing to answer any further",
+            "page_#": 5
+        },
+        {
+            "text": "questions based on his Fifth Amendment privilege against self-incrimination,",
+            "page_#": 5
+        },
+        {
+            "text": "acknowledging the fact that incrimination does not connote any consciousness of guilt.",
+            "page_#": 5
+        },
+        {
+            "text": "Rather, it is any disclosure or statement that could tend to excite or encourage a",
+            "page_#": 5
+        },
+        {
+            "text": "He is going to be, beyond acknowledging his identity",
+            "page_#": 5
+        },
+        {
+            "text": "surmise of guilt on the part of a third party, specifically any law enforcement entity, which",
+            "page_#": 5
+        },
+        {
+            "text": "definition I would take for purposes of this hearing to include the committee, and which",
+            "page_#": 5
+        },
+        {
+            "text": "concern is manifestly well-founded given the fact that his previous boss has been arrested",
+            "page_#": 5
+        },
+        {
+            "text": "in a very public manner.",
+            "page_#": 5
+        },
+        {
+            "text": "But also comprised within his invocation of privilege will be an executive privilege,",
+            "page_#": 5
+        },
+        {
+            "text": "deliberative privilege, Presidential communication privilege, privilege founded on",
+            "page_#": 5
+        },
+        {
+            "text": "freedom of association and First Amendment and privacy as the case may be.",
+            "page_#": 5
+        },
+        {
+            "text": "But I've instructed him in response to specific questions beyond the initial",
+            "page_#": 5
+        },
+        {
+            "text": "questions acknowledging who he is and why he's here simply to invoke his privilege.",
+            "page_#": 5
+        },
+        {
+            "text": "And I'm explaining ahead of time what that means to avoid a word salad every time a",
+            "page_#": 5
+        },
+        {
+            "text": "question is asked.",
+            "page_#": 5
+        },
+        {
+            "text": "If there develops a disagreement between myself or himself and the committee as",
+            "page_#": 5
+        },
+        {
+            "text": "to whether or not he is entitled to invoke privilege, he is going to require a ruling from an",
+            "page_#": 5
+        },
+        {
+            "text": "Article Ill judge, a United States district judge, compelling responses.",
+            "page_#": 5
+        },
+        {
+            "text": "He will not be",
+            "page_#": 5
+        },
+        {
+            "text": "bound by a determination by the committee.",
+            "page_#": 6
+        },
+        {
+            "text": "So ask away.",
+            "page_#": 6
+        },
+        {
+            "text": "-",
+            "page_#": 6
+        },
+        {
+            "text": "Okay.",
+            "page_#": 6
+        },
+        {
+            "text": "So I'm not going to respond to sort of all that.",
+            "page_#": 6
+        },
+        {
+            "text": "I do want to point out that we are not a -- this committee is not a law",
+            "page_#": 6
+        },
+        {
+            "text": "enforcement agency.",
+            "page_#": 6
+        },
+        {
+            "text": "on that issue to connote any sort of type of agreement with your -- with the assumption",
+            "page_#": 6
+        },
+        {
+            "text": "that you've made in connection with that statement.",
+            "page_#": 6
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 6
+        },
+        {
+            "text": "So I want to state that for the record and don't want my silence",
+            "page_#": 6
+        },
+        {
+            "text": "Yeah, I understand, and I note your disagreement.",
+            "page_#": 6
+        },
+        {
+            "text": "We'll have to",
+            "page_#": 6
+        },
+        {
+            "text": "disagree on that.",
+            "page_#": 6
+        },
+        {
+            "text": "So the fact that it's part of the legislative branch doesn't change the practical effect, in",
+            "page_#": 6
+        },
+        {
+            "text": "our view, of its operations.",
+            "page_#": 6
+        },
+        {
+            "text": "-",
+            "page_#": 6
+        },
+        {
+            "text": "But my position, his position, is that the committee is acting as one.",
+            "page_#": 6
+        },
+        {
+            "text": "Okay.",
+            "page_#": 6
+        },
+        {
+            "text": "And in terms of invoking privileges -- well, I take it that Mr.",
+            "page_#": 6
+        },
+        {
+            "text": "Ziegler is going to, on your advice, is going to invoke the Fifth Amendment to any",
+            "page_#": 6
+        },
+        {
+            "text": "substantive question that I ask.",
+            "page_#": 6
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 6
+        },
+        {
+            "text": "-",
+            "page_#": 6
+        },
+        {
+            "text": "Yes.",
+            "page_#": 6
+        },
+        {
+            "text": "And I'd be fine -- I think it would be helpful to articulate that clearly.",
+            "page_#": 6
+        },
+        {
+            "text": "If there are other objections that you also have that you'd like to reserve, I think that's",
+            "page_#": 6
+        },
+        {
+            "text": "also fine as well and not have to sort of state those every time.",
+            "page_#": 6
+        },
+        {
+            "text": "But I do want it to be clear, if there's a particular question to which Mr. Ziegler is",
+            "page_#": 6
+        },
+        {
+            "text": "asserting his Fifth Amendment rights, then that should be stated for the record.",
+            "page_#": 6
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 6
+        },
+        {
+            "text": "Well, what I'd like to do is assert his rights in the plural,",
+            "page_#": 6
+        },
+        {
+            "text": "understanding ahead of time that those comprise principally his Fifth Amendment right,",
+            "page_#": 6
+        },
+        {
+            "text": "but also on an individual basis the other rights that I've mentioned.",
+            "page_#": 6
+        },
+        {
+            "text": "to be bound by an analysis that I make on the fly in here today as to exactly which other",
+            "page_#": 6
+        },
+        {
+            "text": "privileges might apply.",
+            "page_#": 6
+        },
+        {
+            "text": "I'm not sure I want",
+            "page_#": 6
+        },
+        {
+            "text": "But I would state at the outset that the Fifth Amendment privilege should be",
+            "page_#": 7
+        },
+        {
+            "text": "taken, as far as we're concerned, to apply to any question you ask beyond the initial",
+            "page_#": 7
+        },
+        {
+            "text": "questions confirming who he is.",
+            "page_#": 7
+        },
+        {
+            "text": "So in other words, the other privileges that I mentioned a moment ago may or",
+            "page_#": 7
+        },
+        {
+            "text": "may not apply to particular questions that you ask, but the Fifth Amendment privilege will",
+            "page_#": 7
+        },
+        {
+            "text": "always apply.",
+            "page_#": 7
+        },
+        {
+            "text": "that you're going to be asking beyond the initial confirmation of who he is.",
+            "page_#": 7
+        },
+        {
+            "text": "So that that will -- that should cover basically any substantive question",
+            "page_#": 7
+        },
+        {
+            "text": "-",
+            "page_#": 7
+        },
+        {
+            "text": "Okay.",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 7
+        },
+        {
+            "text": "Anything else we need to cover before we get started?",
+            "page_#": 7
+        },
+        {
+            "text": "I don't think so.",
+            "page_#": 7
+        },
+        {
+            "text": "EXAMINATION",
+            "page_#": 7
+        },
+        {
+            "text": "BY-",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "All right.",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. Ziegler, if you can take a look at exhibit 1 in your binder.",
+            "page_#": 7
+        },
+        {
+            "text": "Exhibit 1 is the subpoena from this committee dated April 27th, 2022.",
+            "page_#": 7
+        },
+        {
+            "text": "Do you understand that you're appearing here today pursuant to that subpoena?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Yes.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "The subpoena also calls for production of documents and information,",
+            "page_#": 7
+        },
+        {
+            "text": "including electronically stored information.",
+            "page_#": 7
+        },
+        {
+            "text": "Have you conducted a diligent search for records that are responsive to the",
+            "page_#": 7
+        },
+        {
+            "text": "subpoena?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Yes.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Have you produced to the committee all documents and communications in",
+            "page_#": 7
+        },
+        {
+            "text": "your possession, custody, or control that are responsive to the requests described in the",
+            "page_#": 7
+        },
+        {
+            "text": "subpoena?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 7
+        },
+        {
+            "text": "Yes.",
+            "page_#": 7
+        },
+        {
+            "text": "Speak up when you say yes.",
+            "page_#": 7
+        },
+        {
+            "text": "Don't mutter it into your chest.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "BY-",
+            "page_#": 8
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "Could you describe, generally, what efforts you took to comply with this",
+            "page_#": 8
+        },
+        {
+            "text": "subpoena, exhibit 1?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I conducted a search based on all of the electronic devices that I have access",
+            "page_#": 8
+        },
+        {
+            "text": "to and own and went through them diligently, including the electronic accounts, to mean",
+            "page_#": 8
+        },
+        {
+            "text": "email accounts, most of which I do not have access to anymore, particularly my former",
+            "page_#": 8
+        },
+        {
+            "text": "White House account where the lion's share of this correspondence would reside.",
+            "page_#": 8
+        },
+        {
+            "text": "And I understand that, based on my cursory knowledge of the Presidential",
+            "page_#": 8
+        },
+        {
+            "text": "Records Act, that account and all the materials therein are in the National Archives.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "When you say the account information, do you mean that you went online,",
+            "page_#": 8
+        },
+        {
+            "text": "for example, to Gmail or some other ISP, and tried to access your records that way as",
+            "page_#": 8
+        },
+        {
+            "text": "well?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Yes.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Did you look for hard --",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 8
+        },
+        {
+            "text": "[Discussion off the record.]",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 8
+        },
+        {
+            "text": "Could you indulge me one minute.",
+            "page_#": 8
+        },
+        {
+            "text": "BY-",
+            "page_#": 8
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 8
+        },
+        {
+            "text": "Did you look for hard copy documents, including any notebooks or notes of",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "meetings?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Yes.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "In your search for electronically stored information, did you also look for",
+            "page_#": 8
+        },
+        {
+            "text": "documents in addition to electronic communications?",
+            "page_#": 8
+        },
+        {
+            "text": "So, for example, Word",
+            "page_#": 8
+        },
+        {
+            "text": "documents or Excel spreadsheets or things of that nature?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "All the above, yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And in terms of emails that you searched, did you -- I think you mentioned",
+            "page_#": 9
+        },
+        {
+            "text": "your work email and maybe difficulty -- your prior work email -- difficulty getting access",
+            "page_#": 9
+        },
+        {
+            "text": "to that.",
+            "page_#": 9
+        },
+        {
+            "text": "Did you look for documents, responsive documents connected to all of the email",
+            "page_#": 9
+        },
+        {
+            "text": "addresses that you had in the relevant time period?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Including your iCloud account?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "With respect to messages, did you search for text messages?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "On which phones?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "My personal.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Did you just have one phone during the relevant timeframe?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Did you look for responsive messages under various messaging applications,",
+            "page_#": 9
+        },
+        {
+            "text": "And then, obviously, I don't have the work phone anymore.",
+            "page_#": 9
+        },
+        {
+            "text": "for example, Signal or Telegram or WhatsApp?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "How about social media private messages?",
+            "page_#": 9
+        },
+        {
+            "text": "During the relevant timeframe,",
+            "page_#": 9
+        },
+        {
+            "text": "did you use those platforms to communicate with other individuals?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And did you search those platforms to see if you had responsive documents?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Have you destroyed, deleted, or otherwise manipulated any documents",
+            "page_#": 9
+        },
+        {
+            "text": "responsive to the requests described in the subpoena?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "No.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Have you withheld from production any responsive documents based on a",
+            "page_#": 10
+        },
+        {
+            "text": "claim of privilege?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "No.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "So there's no document that you found that appeared responsive, but you",
+            "page_#": 10
+        },
+        {
+            "text": "felt that because of any other privileges that your counsel has referenced or otherwise",
+            "page_#": 10
+        },
+        {
+            "text": "that you feel you needed to or could produce the document?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "To my recollection, no.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Okay.",
+            "page_#": 10
+        },
+        {
+            "text": "after high school?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Could you briefly describe your educational background, starting",
+            "page_#": 10
+        },
+        {
+            "text": "I attended Saint Louis University in St. Louis, Missouri.",
+            "page_#": 10
+        },
+        {
+            "text": "degree in economics.",
+            "page_#": 10
+        },
+        {
+            "text": "I graduated with a",
+            "page_#": 10
+        },
+        {
+            "text": "And that is it.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "When did you graduate?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "May 2018.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "What jobs have you held since graduating from college?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Just at the White House from February of 2019 to January of 2021, and then",
+            "page_#": 10
+        },
+        {
+            "text": "now I run a 501{c)(3) nonprofit.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "college?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "What was your title in the White House beginning in February 2019?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Policy analyst.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Within a particular office within the White House?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes, the Office of Trade and Manufacturing Policy.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "How did you get that position?",
+            "page_#": 10
+        },
+        {
+            "text": "So your job at the White House was your first job upon graduation from",
+            "page_#": 10
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 11
+        },
+        {
+            "text": "I'm going to ask you to invoke.",
+            "page_#": 11
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 11
+        },
+        {
+            "text": "I'm invoking my right under the Fifth Amendment to not answer",
+            "page_#": 11
+        },
+        {
+            "text": "particular questions.",
+            "page_#": 11
+        },
+        {
+            "text": "BY-",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "that question?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "No.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "So you're invoking your Fifth Amendment right not to answer that question?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Yes.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "How long did you work in the Office of Trade and Manufacturing Policy?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Twenty-three months.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "What were your job responsibilities?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "I invoke my right to silence.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Under the Fifth Amendment?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Yes.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "To whom did you report during the 23 months that you worked at the Office",
+            "page_#": 11
+        },
+        {
+            "text": "And so you're -- sorry.",
+            "page_#": 11
+        },
+        {
+            "text": "Something else you wanted to say in response to",
+            "page_#": 11
+        },
+        {
+            "text": "of Trade and Manufacturing Policy?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "I invoke my right to silence.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Under the Fifth Amendment?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Yes.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "In late 2020, approximately how many people worked in the Office of Trade",
+            "page_#": 11
+        },
+        {
+            "text": "and Manufacturing Policy?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "I invoke my right to silence.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Under the Fifth Amendment?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Yes.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "While you were working in the White House, did you do any work for the",
+            "page_#": 12
+        },
+        {
+            "text": "Trump 2020 campaign?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I invoke my right to silence.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Under the Fifth Amendment?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Yes.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Was that the direction of Peter Navarro?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. Navarro had said publicly that he allowed several members of his staff to",
+            "page_#": 12
+        },
+        {
+            "text": "help out in battleground States on their own time.",
+            "page_#": 12
+        },
+        {
+            "text": "Did that include you?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "What campaign activities, if any, were you involved with in 2020?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Are you going to assert your Fifth Amendment privilege against",
+            "page_#": 12
+        },
+        {
+            "text": "self-incrimination to any questions I would ask you about your work on the 2020",
+            "page_#": 12
+        },
+        {
+            "text": "campaign?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Yes.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "After the 2020 election, did you assist with any efforts by the Trump",
+            "page_#": 12
+        },
+        {
+            "text": "campaign to challenge the results of the election?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Did Mr. Navarro direct you to assist the Trump campaign in its efforts to",
+            "page_#": 12
+        },
+        {
+            "text": "challenge the 2020 election?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "What discussions did you have with Mr. Navarro regarding the 2020",
+            "page_#": 12
+        },
+        {
+            "text": "election?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did you ever discuss with him strategies for overturning the election?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did other members of the staff of the Office of Trade and Manufacturing",
+            "page_#": 13
+        },
+        {
+            "text": "Policy participate in efforts to challenge or overturn the 2020 election?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Which staff members from the Office of Trade and Manufacturing Policy",
+            "page_#": 13
+        },
+        {
+            "text": "assisted in efforts to challenge the 2020 election?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did Joanna Miller participate in those efforts?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did Hannah Robertson assist in those efforts?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Alexander Szarka, did he participate in those efforts?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did Brendan McCommas participate in those efforts?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Do you know someone named Christopher Abbott?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Were there any analysts within the Office of Trade and Manufacturing Policy",
+            "page_#": 13
+        },
+        {
+            "text": "who were not tasked with work relating to overturning the 2020 election during the time",
+            "page_#": 13
+        },
+        {
+            "text": "you were there?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Between mid-November 2020 and early January 2021, approximately how",
+            "page_#": 13
+        },
+        {
+            "text": "many hours per day did you spend working on issues related to contesting the 2020",
+            "page_#": 13
+        },
+        {
+            "text": "election?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Are you able to estimate what percentage of Mr. Navarro's time he spent",
+            "page_#": 14
+        },
+        {
+            "text": "working on election-related matters in November and December of 2020?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. Ziegler, are you going to assert your Fifth Amendment privilege against",
+            "page_#": 14
+        },
+        {
+            "text": "self-incrimination to any questions I would ask of you regarding your efforts to assist in",
+            "page_#": 14
+        },
+        {
+            "text": "challenging or overturning the results of the 2020 election?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yes.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "And would you likewise assert your Fifth Amendment privilege against",
+            "page_#": 14
+        },
+        {
+            "text": "self-incrimination to any questions I would ask you about Mr. Navarro's efforts in that",
+            "page_#": 14
+        },
+        {
+            "text": "regard?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yes.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Did you work with someone -- Strike that.",
+            "page_#": 14
+        },
+        {
+            "text": "Do you know someone named Christos Makridis?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I invoke my right under the Fifth Amendment to silence.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Did Mr. Makridis assist in the efforts to challenge or overturn the 2020",
+            "page_#": 14
+        },
+        {
+            "text": "election?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Do you know someone named Riley?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "In November 2020, did you have any contact with attorneys for the Trump",
+            "page_#": 14
+        },
+        {
+            "text": "campaign?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Have you ever spoken to Rudy Giuliani?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Have you ever spoken to Sidney Powell?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Have you ever spoken with Emily Newman?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Did you speak with any attorneys who were representing or assisting the",
+            "page_#": 15
+        },
+        {
+            "text": "Trump campaign regarding strategies for overturning the results of the 2020 election?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "In November of 2020, did you attend any meetings at the Westin Hotel in",
+            "page_#": 15
+        },
+        {
+            "text": "Arlington?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Have you ever been to the Westin Hotel in Arlington?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Did you ever meet Ms. Powell there?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Did you ever meet Mr. Giuliani there?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Did you ever meet Mike Trimarco there?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Did you ever meet or speak to Phill Kline at the Westin at Arlington?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Is it your intention to assert your Fifth Amendment privilege against",
+            "page_#": 15
+        },
+        {
+            "text": "self-incrimination to any questions I would ask of you regarding interactions with Trump",
+            "page_#": 15
+        },
+        {
+            "text": "campaign attorneys or investigators?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Yes.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Have you ever been to the Trump Hotel?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "In November of 2020, did you meet with anyone assisting the Trump",
+            "page_#": 16
+        },
+        {
+            "text": "campaign at the Trump Hotel in Washington?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Do you know Patrick Byrne?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Have you ever spoken with Mr. Byrne about issues relating to the 2020",
+            "page_#": 16
+        },
+        {
+            "text": "election?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Have you ever spoken to any analysts who you understood to be working",
+            "page_#": 16
+        },
+        {
+            "text": "with Mr. Byrne regarding the 2020 election?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Do you know General Michael Flynn?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Have you ever spoken to Mr. Flynn regarding the 2020 election?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I invoke my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Have you ever spoken with any investigator or analyst working on behalf of",
+            "page_#": 16
+        },
+        {
+            "text": "President Trump regarding the 2020 election?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Are you going to assert your Fifth Amendment privilege against",
+            "page_#": 16
+        },
+        {
+            "text": "self-incrimination to any questions I would ask of you regarding your interactions with",
+            "page_#": 16
+        },
+        {
+            "text": "attorneys, investigators, or analysts who were working on behalf of President Trump in",
+            "page_#": 16
+        },
+        {
+            "text": "connection with the 2020 election?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Yes, I am.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Have you ever been to a ranch in South Carolina owned by Lin Wood?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Do you know Lin Wood?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you ever met or spoken with Steve Bannon?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "What is Steve Bannon's relationship with Peter Navarro, if you know?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Do you know whether Mr. Bannon and Mr. Navarro worked together in",
+            "page_#": 17
+        },
+        {
+            "text": "devising a strategy to overturn the results of the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you ever heard the term Green Bay Sweep?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you heard that term used with respect to the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Mr. Ziegler, did you play any role in devising or implementing the Green Bay",
+            "page_#": 17
+        },
+        {
+            "text": "Sweep as a strategy for overturning the results of the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you ever discussed the Green Bay Sweep with Peter Navarro?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Are you going to assert your Fifth Amendment privilege against",
+            "page_#": 17
+        },
+        {
+            "text": "self-incrimination to any question I would ask you about concerning conversations with",
+            "page_#": 17
+        },
+        {
+            "text": "Mr. Bannon or Mr. Navarro regarding the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Yes.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Take a look at exhibit 2.",
+            "page_#": 17
+        },
+        {
+            "text": "I'll represent to you this is the cover sheet of a",
+            "page_#": 17
+        },
+        {
+            "text": "much longer document or set of documents that's commonly referred to as the Navarro",
+            "page_#": 17
+        },
+        {
+            "text": "Report.",
+            "page_#": 18
+        },
+        {
+            "text": "Did you play any role in the preparation of the Navarro Report?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "When did you begin working on the Navarro Report?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "You've said publicly that there's a time when you were spending 6 hours a",
+            "page_#": 18
+        },
+        {
+            "text": "day on this project.",
+            "page_#": 18
+        },
+        {
+            "text": "Is that accurate?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "What was the purpose of the Navarro Report?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "The introduction to volume 1 -- actually let's take a look at exhibit 3.",
+            "page_#": 18
+        },
+        {
+            "text": "Have you seen this document before?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "I'll represent to you this is what I understand to be volume 1 of the Navarro",
+            "page_#": 18
+        },
+        {
+            "text": "Report released in December of 2020.",
+            "page_#": 18
+        },
+        {
+            "text": "If you take a look at the introduction on page 5, the very end of the introduction,",
+            "page_#": 18
+        },
+        {
+            "text": "it says, \"If, in fact\" -- the second to last paragraph -- \"If, in fact, compelling evidence",
+            "page_#": 18
+        },
+        {
+            "text": "comes to light proving the election was indeed stolen after a fait accompli Biden",
+            "page_#": 18
+        },
+        {
+            "text": "inauguration, we as a country run the very real risk that the very center of our American",
+            "page_#": 18
+        },
+        {
+            "text": "union will not hold.\"",
+            "page_#": 18
+        },
+        {
+            "text": "At the very end of the next paragraph it says, \"It is, therefore, critical that we get",
+            "page_#": 18
+        },
+        {
+            "text": "to the bottom of this matter.",
+            "page_#": 18
+        },
+        {
+            "text": "That is the purpose of this report.\"",
+            "page_#": 18
+        },
+        {
+            "text": "Do you agree with that description of the purpose of the Navarro report?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Volume 1 of the report purports to describe election irregularities in six",
+            "page_#": 18
+        },
+        {
+            "text": "States.",
+            "page_#": 19
+        },
+        {
+            "text": "Where did the information come from for this report?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "The report frequently refers to alleged irregularities, but at various times it",
+            "page_#": 19
+        },
+        {
+            "text": "cites -- or purports to cite -- evidence supporting certain election fraud claims.",
+            "page_#": 19
+        },
+        {
+            "text": "Was it the intent of the report to highlight the allegations that had been made or",
+            "page_#": 19
+        },
+        {
+            "text": "to reach conclusions regarding the veracity or strength of the allegations that were made",
+            "page_#": 19
+        },
+        {
+            "text": "regarding the 2020 election?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "A portion of exhibit 3 refers to allegations of bribery that",
+            "page_#": 19
+        },
+        {
+            "text": "occurred -- supposedly occurred -- in connection with the 2020 election in the State of",
+            "page_#": 19
+        },
+        {
+            "text": "Nevada.",
+            "page_#": 19
+        },
+        {
+            "text": "Did you personally investigate allegations of election-related bribery in Nevada?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "What did you do to investigate those allegations?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Did you travel to Nevada?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Who paid for your travel to Nevada?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Did you personally conduct any investigation or analysis regarding any of the",
+            "page_#": 19
+        },
+        {
+            "text": "claims of election fraud raised by the Trump campaign?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Are you going to assert your Fifth Amendment privilege against",
+            "page_#": 19
+        },
+        {
+            "text": "self-incrimination to any questions I would ask of you regarding the preparation of the",
+            "page_#": 19
+        },
+        {
+            "text": "Navarro Report?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Yes.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Do you know someone named Mark Cook?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Who is Mr. Cook?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did Mark Cook investigate any claims of election fraud raised by the Trump",
+            "page_#": 20
+        },
+        {
+            "text": "campaign?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you assist him in investigating claims of election fraud?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Do you know Phil Waldron?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Have you ever had any discussions with Phil Waldron about anything related",
+            "page_#": 20
+        },
+        {
+            "text": "to the 2020 election?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you assist Mr. Waldron in the preparation of any materials that were",
+            "page_#": 20
+        },
+        {
+            "text": "shared with Members of Congress in December 2020 or January of 2021?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Do you know Ivan Raiklin?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Have you ever had any discussions with Mr. Raiklin about anything related to",
+            "page_#": 20
+        },
+        {
+            "text": "the 2020 election?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you assist Mr. Raiklin in the preparation of any materials that were",
+            "page_#": 20
+        },
+        {
+            "text": "shared with Members of Congress or White House personnel in December 2020 or",
+            "page_#": 21
+        },
+        {
+            "text": "January 2021?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Take a look at exhibit 4, please.",
+            "page_#": 21
+        },
+        {
+            "text": "Exhibit 4 is an email chain beginning on",
+            "page_#": 21
+        },
+        {
+            "text": "Sunday, December 27th, 2020, at 11:18 p.m., which you're not copied on.",
+            "page_#": 21
+        },
+        {
+            "text": "represent to you that's an email to Mark Meadows.",
+            "page_#": 21
+        },
+        {
+            "text": "And I'll",
+            "page_#": 21
+        },
+        {
+            "text": "But the last in time -- or second to last in time -- email is from Mr. Raiklin to what",
+            "page_#": 21
+        },
+        {
+            "text": "appears to be your work email address on December 27th at 11:27 p.m.",
+            "page_#": 21
+        },
+        {
+            "text": "Do you recognize that email?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Did Mr. Raiklin send you this email in late December of 2020 describing a",
+            "page_#": 21
+        },
+        {
+            "text": "path to victory for President Trump?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "The email says, \"Please disseminate accordingly.\"",
+            "page_#": 21
+        },
+        {
+            "text": "Did you take any steps to disseminate the email and materials provided by Mr.",
+            "page_#": 21
+        },
+        {
+            "text": "Raiklin?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Had you spoken to Mr. Raiklin prior to receiving this email?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "In the latest in time email in this chain, you send -- it appears that you send",
+            "page_#": 21
+        },
+        {
+            "text": "the email chain from your White House email to an email of",
+            "page_#": 21
+        },
+        {
+            "text": "Was that your email at the time?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Is that one of the emails that you searched for responsive documents?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Is there a reason you did not produce this document in response to the",
+            "page_#": 22
+        },
+        {
+            "text": "subpoena?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Did you take any steps following up on the email that you received from Mr.",
+            "page_#": 22
+        },
+        {
+            "text": "Raiklin and the proposed path to victory?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Are you going to assert your Fifth Amendment privilege against",
+            "page_#": 22
+        },
+        {
+            "text": "self-incrimination to any questions I would ask of you regarding Ivan Raiklin or this email",
+            "page_#": 22
+        },
+        {
+            "text": "and its attachments?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Yes.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "If you look at the documents that are attached to or behind the email chain",
+            "page_#": 22
+        },
+        {
+            "text": "in exhibit 4, including various scenarios proposed for January 6th, 2021, and some",
+            "page_#": 22
+        },
+        {
+            "text": "spreadsheets that describe certain actions to be taken by the legislative, executive",
+            "page_#": 22
+        },
+        {
+            "text": "branch, and others.",
+            "page_#": 22
+        },
+        {
+            "text": "Have you seen these documents before?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Take a look at exhibit 5.",
+            "page_#": 22
+        },
+        {
+            "text": "Exhibit 5 is an email from Ivan Raiklin to Mark",
+            "page_#": 22
+        },
+        {
+            "text": "Meadows and others within the White House sent on December 23rd, 2020, at 7:43 p.m.",
+            "page_#": 22
+        },
+        {
+            "text": "Have you seen this document before?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "The document includes an attachment or a portion of the email -- it's not",
+            "page_#": 22
+        },
+        {
+            "text": "clear whether it was attached or just pasted in the bottom of the email -- which is a",
+            "page_#": 22
+        },
+        {
+            "text": "memorandum for the President, \"Subject:",
+            "page_#": 22
+        },
+        {
+            "text": "Operation Pence Card,\" December 23rd.",
+            "page_#": 22
+        },
+        {
+            "text": "Have you seen this document before?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Have you ever talked to Mr. Raiklin about a proposal or a strategy hat that",
+            "page_#": 23
+        },
+        {
+            "text": "he had that he referred to as the Pence card?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Did you receive an email similar to this one in the same general timeframe,",
+            "page_#": 23
+        },
+        {
+            "text": "late December of 2020?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "In this email and its attachments, Mr. Raiklin talks about various powers that",
+            "page_#": 23
+        },
+        {
+            "text": "he believed the Vice President had and actions that the Vice President could take on",
+            "page_#": 23
+        },
+        {
+            "text": "January 6th of 2021.",
+            "page_#": 23
+        },
+        {
+            "text": "Have you ever had any discussions with anyone about the role of the Vice",
+            "page_#": 23
+        },
+        {
+            "text": "President in the joint session of Congress on January 6th?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Have you ever talked about that with Mr. Navarro?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Have you ever talked about that with anyone on the staff of the Office of",
+            "page_#": 23
+        },
+        {
+            "text": "Trade and Manufacturing Policy?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Take a look at exhibit 6, please.",
+            "page_#": 23
+        },
+        {
+            "text": "Do you recognize this document?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "The document is entitled, \"Analyzing the Election:",
+            "page_#": 23
+        },
+        {
+            "text": "A Simple, Realistic, and",
+            "page_#": 23
+        },
+        {
+            "text": "Understandable Path for Uncovering Hard Evidence in the 2020 Election as Described by",
+            "page_#": 23
+        },
+        {
+            "text": "Election Experts.\"",
+            "page_#": 23
+        },
+        {
+            "text": "Did you prepare this document?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 23
+        },
+        {
+            "text": "Do you know which election experts are referred to or referenced in the title",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "of the document?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Did you ever interview or talk to election experts regarding a path to",
+            "page_#": 24
+        },
+        {
+            "text": "uncovering hard evidence with respect to the 2020 election?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Do you know whether any of the steps that are set forth in this document",
+            "page_#": 24
+        },
+        {
+            "text": "were ever taken by anyone who was working on President Trump's behalf to overturn the",
+            "page_#": 24
+        },
+        {
+            "text": "2020 election?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Ziegler, when did you first meet Patrick Byrne?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Was he sharing information with you regarding projects that he was working",
+            "page_#": 24
+        },
+        {
+            "text": "on with respect to the 2020 election?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Were you acting as a conduit of information between Mr. Byrne and the",
+            "page_#": 24
+        },
+        {
+            "text": "analysts that he was working with and people at the White House?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Were you acting as a conduit of information between others who were",
+            "page_#": 24
+        },
+        {
+            "text": "working on President Trump's behalf, lawyers and investigators and folks at the White",
+            "page_#": 24
+        },
+        {
+            "text": "House?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Did Mr. Byrne call you on December 18th and ask that you help him get into",
+            "page_#": 24
+        },
+        {
+            "text": "the White House?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Prior to December 18th, had you spoken with Mr. Byrne about ideas for",
+            "page_#": 25
+        },
+        {
+            "text": "gaining access to voting machines in disputed States?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Did you ever talk with anyone within the White House or elsewhere about",
+            "page_#": 25
+        },
+        {
+            "text": "the authority that the President might have to authorize the seizure of voting machines?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Did Mr. Byrne ever tell that you that he was trying to get a meeting with the",
+            "page_#": 25
+        },
+        {
+            "text": "President to discuss that issue?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Have you ever had any discussions with Patrick Byrne about your view that",
+            "page_#": 25
+        },
+        {
+            "text": "the President was not being well-served by his White House advisers?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment?",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Did you ever assist Mr. Byrne, Mr. Flynn, Sidney Powell, and Emily Newman",
+            "page_#": 25
+        },
+        {
+            "text": "to get past security at the White House on December 18th, 2020?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "What was your understanding as to why that group was at the White House",
+            "page_#": 25
+        },
+        {
+            "text": "on December 18th?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Who else assisted getting the group into the West Wing on December 18th,",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Do you know Patrick Weaver?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Did you and Mr. Weaver take steps to get Mr. Byrne, Mr. Flynn, Ms. Powell,",
+            "page_#": 25
+        },
+        {
+            "text": "2020?",
+            "page_#": 25
+        },
+        {
+            "text": "and Ms. Newman into the White House without an appointment that night?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Do you know what that group was hoping to accomplish at the White House",
+            "page_#": 26
+        },
+        {
+            "text": "that evening?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Did you ever talk to either Patrick Byrne, Michael Flynn, or anyone else",
+            "page_#": 26
+        },
+        {
+            "text": "about what happened in the White House on December 18th?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Have you ever spoken with Michael Flynn?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "And I may have asked you this earlier, but did you ever discuss with Mr.",
+            "page_#": 26
+        },
+        {
+            "text": "Flynn any plans to overturn the results of the 2020 election?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Have you ever spoken to President Trump, Mr. Ziegler?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Did you have a conversation with President Trump shortly before the end of",
+            "page_#": 26
+        },
+        {
+            "text": "his term in office in the Oval Office?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "When you met with President Trump in the Oval Office in mid-January",
+            "page_#": 26
+        },
+        {
+            "text": "of 2021, did you discuss the 2020 election?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Did you tell him that you didn't believe that the people who worked with",
+            "page_#": 26
+        },
+        {
+            "text": "him -- let me start that again.",
+            "page_#": 26
+        },
+        {
+            "text": "Did you tell him that you did not believe that the people working for him were",
+            "page_#": 26
+        },
+        {
+            "text": "fighting hard enough for him?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment and other",
+            "page_#": 26
+        },
+        {
+            "text": "privileges.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Did you tell him that you believed the election was stolen?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment and other",
+            "page_#": 27
+        },
+        {
+            "text": "privileges.",
+            "page_#": 27
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 27
+        },
+        {
+            "text": "He is saying \"other privileges.\"",
+            "page_#": 27
+        },
+        {
+            "text": "I at the outset made clear that you were invoking under the Fifth, not to the",
+            "page_#": 27
+        },
+        {
+            "text": "exclusion of any other privileges, specifically the ones I articulated.",
+            "page_#": 27
+        },
+        {
+            "text": "invoking under my privileges.\"",
+            "page_#": 27
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 27
+        },
+        {
+            "text": "So just say, \"I'm",
+            "page_#": 27
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 27
+        },
+        {
+            "text": "BY",
+            "page_#": 27
+        },
+        {
+            "text": "I see Mr. Schiff has joined -- just in the nick of time, I might add.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Mr. Ziegler, where were you on January 6th?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Did you attend the rally on the Ellipse?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Did you watch the President's speech that afternoon?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Were you at or near the U.S. Capitol that day?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Were you at the Willard Hotel for any portion of that day?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 27
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 27
+        },
+        {
+            "text": "I'm sorry, what hotel was that.",
+            "page_#": 27
+        },
+        {
+            "text": "The Willard.",
+            "page_#": 27
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 27
+        },
+        {
+            "text": "Willard.",
+            "page_#": 27
+        },
+        {
+            "text": "Willard Intercontinental, I think, might be the full name.",
+            "page_#": 27
+        },
+        {
+            "text": "Mr. Kiyonaga.",
+            "page_#": 28
+        },
+        {
+            "text": "Yes.",
+            "page_#": 28
+        },
+        {
+            "text": "I didn't hear the word clearly.",
+            "page_#": 28
+        },
+        {
+            "text": "B~",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "And your answer is you're refusing to answer that question on Fifth",
+            "page_#": 28
+        },
+        {
+            "text": "Amendment grounds?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Yes.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you speak with Mr. Navarro on January 6th?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you speak to Mr. Bannon on January 6th?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you speak with anyone affiliated with the President Trump campaign on",
+            "page_#": 28
+        },
+        {
+            "text": "January 6th?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Ziegler, is it your intention to invoke your Fifth Amendment right against",
+            "page_#": 28
+        },
+        {
+            "text": "self-incrimination to any questions I would ask of you regarding your activities on",
+            "page_#": 28
+        },
+        {
+            "text": "January 6th and who you spoke to that day?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Yes.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Were you expecting violence in the Capitol -- or in the Nation's Capital,",
+            "page_#": 28
+        },
+        {
+            "text": "meaning Washington, D.C. -- on January 6th prior to that date?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you instruct your wife or suggest that you wife leave town prior to",
+            "page_#": 28
+        },
+        {
+            "text": "January 6th because of concerns about violence?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "I'm invoking my right to silence under the Fifth Amendment.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Schiff, do you have any questions of the witness?",
+            "page_#": 28
+        },
+        {
+            "text": "No?",
+            "page_#": 28
+        },
+        {
+            "text": "Okay.",
+            "page_#": 28
+        },
+        {
+            "text": "It took me long to hit the unmute button.",
+            "page_#": 28
+        },
+        {
+            "text": "I don't",
+            "page_#": 28
+        },
+        {
+            "text": "Hearing none, I think we're done.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 28
+        },
+        {
+            "text": "I don't.",
+            "page_#": 28
+        },
+        {
+            "text": "Sorry.",
+            "page_#": 28
+        },
+        {
+            "text": "have any questions.",
+            "page_#": 29
+        },
+        {
+            "text": "Thank you, sir.",
+            "page_#": 29
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 29
+        },
+        {
+            "text": "-",
+            "page_#": 29
+        },
+        {
+            "text": "Okay.",
+            "page_#": 29
+        },
+        {
+            "text": "[Discussion off the record.]",
+            "page_#": 29
+        },
+        {
+            "text": "We can go off the record for a second.",
+            "page_#": 29
+        },
+        {
+            "text": "Back on the record.",
+            "page_#": 29
+        },
+        {
+            "text": "Okay.",
+            "page_#": 29
+        },
+        {
+            "text": "Now we can",
+            "page_#": 29
+        },
+        {
+            "text": "go off the record.",
+            "page_#": 29
+        },
+        {
+            "text": "[Whereupon, at 10:58 a.m., the deposition was recessed subject to the call of the",
+            "page_#": 29
+        },
+        {
+            "text": "We're going to be in recess subject to the call of the chair.",
+            "page_#": 29
+        },
+        {
+            "text": "chair.]",
+            "page_#": 29
+        },
+        {
+            "text": "Certificate of Deponent/Interviewee",
+            "page_#": 30
+        },
+        {
+            "text": "I have read the foregoing _ _ pages, which contain the correct transcript of the",
+            "page_#": 30
+        },
+        {
+            "text": "answers made by me to the questions therein recorded.",
+            "page_#": 30
+        },
+        {
+            "text": "Witness Name",
+            "page_#": 30
+        },
+        {
+            "text": "Date",
+            "page_#": 30
+        }
+    ]
+}

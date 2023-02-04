@@ -1,0 +1,6786 @@
+{
+    "title": "CTRL0000034602 - Transcribed Interview of Jeffrey Clark, (November 5, 2021)",
+    "id": "CTRL0000034602",
+    "date": "November 5, 2021",
+    "url_desc": "https://www.govinfo.gov/app/details/GPO-J6-TRANSCRIPT-CTRL0000034602/",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000034602/pdf/GPO-J6-TRANSCRIPT-CTRL0000034602.pdf#page=",
+    "witness": "Jeffrey Clark",
+    "data": [
+        {
+            "text": "SELECT COMMITTEE TO INVESTIGATE THE",
+            "page_#": 1
+        },
+        {
+            "text": "JANUARY 6TH ATTACK ON THE U.S. CAPITOL,",
+            "page_#": 1
+        },
+        {
+            "text": "U.S. HOUSE OF REPRESENTATIVES,",
+            "page_#": 1
+        },
+        {
+            "text": "WASHINGTON, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "DEPOSITION OF:",
+            "page_#": 1
+        },
+        {
+            "text": "JEFFREY CLARK",
+            "page_#": 1
+        },
+        {
+            "text": "Friday, November 5, 2021",
+            "page_#": 1
+        },
+        {
+            "text": "Washington, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "The interview in the above matter was held in room 4480, O'Neill House Office",
+            "page_#": 1
+        },
+        {
+            "text": "Building, commencing at 10:00 a.m.",
+            "page_#": 1
+        },
+        {
+            "text": "Present:",
+            "page_#": 1
+        },
+        {
+            "text": "Representatives Thompson, Lofgren, Schiff, Aguilar, Murphy, Raskin,",
+            "page_#": 1
+        },
+        {
+            "text": "Luria, Cheney, and Kinzinger.",
+            "page_#": 1
+        },
+        {
+            "text": "Appearances:",
+            "page_#": 2
+        },
+        {
+            "text": "For the SELECT COMMITTEE TO INVESTIGATE",
+            "page_#": 2
+        },
+        {
+            "text": "THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL:",
+            "page_#": 2
+        },
+        {
+            "text": "STAFF DIRECTOR",
+            "page_#": 2
+        },
+        {
+            "text": "DEPUTY STAFF DIRECTOR AND CHIEF COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "CHIEF INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "SENIOR INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "DETAILEE, DEPARTMENT OF HOMELAND SECURITY",
+            "page_#": 2
+        },
+        {
+            "text": "SENIOR INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF",
+            "page_#": 2
+        },
+        {
+            "text": "CHIEF CLERK",
+            "page_#": 2
+        },
+        {
+            "text": "ENIOR INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "CHIEF ADMINSTRATIVE OFFICER",
+            "page_#": 2
+        },
+        {
+            "text": "For THE WITNESS:",
+            "page_#": 3
+        },
+        {
+            "text": "HARRY MACDOUGALD",
+            "page_#": 3
+        },
+        {
+            "text": "Caldwell, Carlson, Elliott & Deloach, LLP",
+            "page_#": 3
+        },
+        {
+            "text": "Two Ravinia Drive",
+            "page_#": 3
+        },
+        {
+            "text": "Suite 1600",
+            "page_#": 3
+        },
+        {
+            "text": "Atlanta, GA 30346",
+            "page_#": 3
+        },
+        {
+            "text": "Good morning.",
+            "page_#": 4
+        },
+        {
+            "text": "This is a deposition of Jeffrey B. Clark, conducted",
+            "page_#": 4
+        },
+        {
+            "text": "by the House Select Committee to Investigate the January 6th Attack on the U.S. Capitol,",
+            "page_#": 4
+        },
+        {
+            "text": "pursuant to House Resolution 503.",
+            "page_#": 4
+        },
+        {
+            "text": "Mr. Clark, if you could please state your full name and spell your last name for the",
+            "page_#": 4
+        },
+        {
+            "text": "record.",
+            "page_#": 4
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 4
+        },
+        {
+            "text": "Sure.",
+            "page_#": 4
+        },
+        {
+            "text": "Jeffrey B. Clark.",
+            "page_#": 4
+        },
+        {
+            "text": "Clark is C-1-a-r-k.",
+            "page_#": 4
+        },
+        {
+            "text": "This will be a staff-led deposition.",
+            "page_#": 4
+        },
+        {
+            "text": "Members of the select",
+            "page_#": 4
+        },
+        {
+            "text": "committee, I believe, are already in attendance and may also choose to ask questions.",
+            "page_#": 4
+        },
+        {
+            "text": "My name i s - and I'm the chief investigative counsel to the select",
+            "page_#": 4
+        },
+        {
+            "text": "committee.",
+            "page_#": 4
+        },
+        {
+            "text": "I think we have Vice Chair Cheney, Ms. Lofgren, two members of the select",
+            "page_#": 4
+        },
+        {
+            "text": "committee, who are attending via Webex.",
+            "page_#": 4
+        },
+        {
+            "text": "We are conducting a deposition in person.",
+            "page_#": 4
+        },
+        {
+            "text": "So, under the House deposition rules, neither committee members nor staff may",
+            "page_#": 4
+        },
+        {
+            "text": "discuss the substance of the testimony that you provide today, unless the committee",
+            "page_#": 4
+        },
+        {
+            "text": "approves release.",
+            "page_#": 4
+        },
+        {
+            "text": "This is essentially an executive session of the select committee.",
+            "page_#": 4
+        },
+        {
+            "text": "You and your attorney will have an opportunity to review the transcript.",
+            "page_#": 4
+        },
+        {
+            "text": "court reporter is taking a verbatim account of the testimony.",
+            "page_#": 4
+        },
+        {
+            "text": "The",
+            "page_#": 4
+        },
+        {
+            "text": "And you'll have a chance,",
+            "page_#": 4
+        },
+        {
+            "text": "Mr. Clark, to read that and review it before it is finalized to ensure that it is correct.",
+            "page_#": 4
+        },
+        {
+            "text": "Before we begin, I would like to describe just a few ground rules.",
+            "page_#": 4
+        },
+        {
+            "text": "We'll follow",
+            "page_#": 4
+        },
+        {
+            "text": "the House deposition rules that we have provided to your counsel, Mr. MacDougald,",
+            "page_#": 4
+        },
+        {
+            "text": "previously.",
+            "page_#": 4
+        },
+        {
+            "text": "Under the House deposition rules, counsel for other persons or government",
+            "page_#": 4
+        },
+        {
+            "text": "agencies may not attend, but you are permitted to have your attorney present, and I see",
+            "page_#": 4
+        },
+        {
+            "text": "that you do have your attorney with you.",
+            "page_#": 4
+        },
+        {
+            "text": "Mr. MacDougald, if you could just introduce yourself and spell your name for the",
+            "page_#": 5
+        },
+        {
+            "text": "court reporter?",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 5
+        },
+        {
+            "text": "Yes, sir.",
+            "page_#": 5
+        },
+        {
+            "text": "Mr. Clark in this proceeding.",
+            "page_#": 5
+        },
+        {
+            "text": "My name is Harry MacDougald.",
+            "page_#": 5
+        },
+        {
+            "text": "I represent",
+            "page_#": 5
+        },
+        {
+            "text": "My last name is spelled M-a-c, capital D-o-u-g-a-1-d.",
+            "page_#": 5
+        },
+        {
+            "text": "So, as noted, there is an official reporter transcribing the record of",
+            "page_#": 5
+        },
+        {
+            "text": "the deposition.",
+            "page_#": 5
+        },
+        {
+            "text": "Please wait until each question is completed before you begin your",
+            "page_#": 5
+        },
+        {
+            "text": "response.",
+            "page_#": 5
+        },
+        {
+            "text": "We will try to wait until your response is complete before we ask our next",
+            "page_#": 5
+        },
+        {
+            "text": "question.",
+            "page_#": 5
+        },
+        {
+            "text": "The stenographer cannot record nonverbal responses, such as shaking your",
+            "page_#": 5
+        },
+        {
+            "text": "head.",
+            "page_#": 5
+        },
+        {
+            "text": "So it's important that you answer each question with an audible verbal response.",
+            "page_#": 5
+        },
+        {
+            "text": "We ask that you provide complete answers based on your best recollection.",
+            "page_#": 5
+        },
+        {
+            "text": "question is not clear, please ask for clarification.",
+            "page_#": 5
+        },
+        {
+            "text": "just simply say so.",
+            "page_#": 5
+        },
+        {
+            "text": "If a",
+            "page_#": 5
+        },
+        {
+            "text": "If you do not know the answer, then",
+            "page_#": 5
+        },
+        {
+            "text": "You may only refuse to answer a question to preserve a privilege",
+            "page_#": 5
+        },
+        {
+            "text": "recognized by the select committee.",
+            "page_#": 5
+        },
+        {
+            "text": "If you refuse to answer a question based on",
+            "page_#": 5
+        },
+        {
+            "text": "privilege, staff may either proceed with the deposition or seek a ruling from the chairman",
+            "page_#": 5
+        },
+        {
+            "text": "based on the objection.",
+            "page_#": 5
+        },
+        {
+            "text": "If the chairman overrules such an objection, you are required to",
+            "page_#": 5
+        },
+        {
+            "text": "answer the question.",
+            "page_#": 5
+        },
+        {
+            "text": "I also have to remind you that it is unlawful to deliberately provide false",
+            "page_#": 5
+        },
+        {
+            "text": "information to Congress.",
+            "page_#": 5
+        },
+        {
+            "text": "Since your deposition is under oath, we ask that you please",
+            "page_#": 5
+        },
+        {
+            "text": "stand and raise your right hand to be sworn by the court reporter.",
+            "page_#": 5
+        },
+        {
+            "text": "[Witness sworn.]",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "So, Mr. Clark, I want to give you a chance to open -- to provide any opening",
+            "page_#": 5
+        },
+        {
+            "text": "comments you have.",
+            "page_#": 5
+        },
+        {
+            "text": "But I just want to make sure you know who everyone is on our",
+            "page_#": 5
+        },
+        {
+            "text": "side of the table.",
+            "page_#": 5
+        },
+        {
+            "text": "So I'll introduce myself.",
+            "page_#": 5
+        },
+        {
+            "text": "I am the chief investigative counsel.",
+            "page_#": 5
+        },
+        {
+            "text": "With me i s .",
+            "page_#": 5
+        },
+        {
+            "text": "who are senior investigative counsel",
+            "page_#": 6
+        },
+        {
+            "text": "investigative counsel;",
+            "page_#": 6
+        },
+        {
+            "text": "who is an",
+            "page_#": 6
+        },
+        {
+            "text": "who are also counsel to the committee;",
+            "page_#": 6
+        },
+        {
+            "text": ", who is the deputy staff director and chief counsel to the select",
+            "page_#": 6
+        },
+        {
+            "text": "and I see",
+            "page_#": 6
+        },
+        {
+            "text": "committee; and - w h o is our parliamentarian.",
+            "page_#": 6
+        },
+        {
+            "text": "who is a",
+            "page_#": 6
+        },
+        {
+            "text": "researcher, is here as well.",
+            "page_#": 6
+        },
+        {
+            "text": "On the video, again, I think",
+            "page_#": 6
+        },
+        {
+            "text": "our staff director, has joined.",
+            "page_#": 6
+        },
+        {
+            "text": "And I",
+            "page_#": 6
+        },
+        {
+            "text": "also introduced before Ms. Lofgren and Ms. Cheney.",
+            "page_#": 6
+        },
+        {
+            "text": "So, with that, if there is anything -Mr. MacDougald.",
+            "page_#": 6
+        },
+        {
+            "text": "Yes.",
+            "page_#": 6
+        },
+        {
+            "text": "delivered a letter to",
+            "page_#": 6
+        },
+        {
+            "text": "I would like to advise counsel and the committee that I",
+            "page_#": 6
+        },
+        {
+            "text": "which was addressed to Representative Thompson, on",
+            "page_#": 6
+        },
+        {
+            "text": "behalf of Mr. Clark that asserts executive privilege with respect to testimony and",
+            "page_#": 6
+        },
+        {
+            "text": "documents that have been subpoenaed from Mr. Clark.",
+            "page_#": 6
+        },
+        {
+            "text": "The grounds of our assertion are set forth in the letter.",
+            "page_#": 6
+        },
+        {
+            "text": "It is 12 pages.",
+            "page_#": 6
+        },
+        {
+            "text": "And,",
+            "page_#": 6
+        },
+        {
+            "text": "based on those objections, we do not intend to answer any questions or produce any",
+            "page_#": 6
+        },
+        {
+            "text": "documents today, but we have appeared in compliance with the subpoena in order to",
+            "page_#": 6
+        },
+        {
+            "text": "assert those objections, as opposed to just refusing to show up.",
+            "page_#": 6
+        },
+        {
+            "text": "All right.",
+            "page_#": 6
+        },
+        {
+            "text": "So I appreciate that the letter has been delivered.",
+            "page_#": 6
+        },
+        {
+            "text": "We",
+            "page_#": 6
+        },
+        {
+            "text": "did receive it, as you -Mr. MacDougald.",
+            "page_#": 6
+        },
+        {
+            "text": "And I actually have some copies for other counsel, a few.",
+            "page_#": 6
+        },
+        {
+            "text": "Maybe not for everybody, but I would be happy to pass those around, keeping one for",
+            "page_#": 6
+        },
+        {
+            "text": "myself.",
+            "page_#": 6
+        },
+        {
+            "text": "Thank you, Mr. MacDougald.",
+            "page_#": 6
+        },
+        {
+            "text": "So let me make sure I understand.",
+            "page_#": 6
+        },
+        {
+            "text": "The letter, which I haven't had a chance to",
+            "page_#": 6
+        },
+        {
+            "text": "read yet, sets forth the position that Mr. Clark will not answer any question, regardless of",
+            "page_#": 6
+        },
+        {
+            "text": "its subject matter.",
+            "page_#": 6
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 7
+        },
+        {
+            "text": "Correct.",
+            "page_#": 7
+        },
+        {
+            "text": "Due to executive privilege.",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 7
+        },
+        {
+            "text": "Correct.",
+            "page_#": 7
+        },
+        {
+            "text": "Will also not produce any documents.",
+            "page_#": 7
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 7
+        },
+        {
+            "text": "Correct.",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 7
+        },
+        {
+            "text": "And I interrupt just to say also on the basis that it would be",
+            "page_#": 7
+        },
+        {
+            "text": "prudent to await the conclusion with finality of the judicial review proceedings that are",
+            "page_#": 7
+        },
+        {
+            "text": "going on in the DDC.",
+            "page_#": 7
+        },
+        {
+            "text": "Again, I haven't had a chance to read the letter.",
+            "page_#": 7
+        },
+        {
+            "text": "But I will say for",
+            "page_#": 7
+        },
+        {
+            "text": "the record that our intention today was to ask questions well beyond direct",
+            "page_#": 7
+        },
+        {
+            "text": "communications with the former President, questions about your involvement with",
+            "page_#": 7
+        },
+        {
+            "text": "Members of Congress, questions about your work within the Department of Justice, your",
+            "page_#": 7
+        },
+        {
+            "text": "interaction within the Department well beyond direct communications with the",
+            "page_#": 7
+        },
+        {
+            "text": "President.",
+            "page_#": 7
+        },
+        {
+            "text": "Again, still your position that, beyond direct communications, all of the entire",
+            "page_#": 7
+        },
+        {
+            "text": "subject matter is subject to executive privilege?",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 7
+        },
+        {
+            "text": "Yes.",
+            "page_#": 7
+        },
+        {
+            "text": "That is our position,",
+            "page_#": 7
+        },
+        {
+            "text": "And the reason for",
+            "page_#": 7
+        },
+        {
+            "text": "that is that the privileges that are under the overall umbrella of executive privilege are",
+            "page_#": 7
+        },
+        {
+            "text": "numerous, including Presidential communications.",
+            "page_#": 7
+        },
+        {
+            "text": "In addition, as a Department of",
+            "page_#": 7
+        },
+        {
+            "text": "Justice official, there is a law enforcement privilege, law enforcement investigation",
+            "page_#": 7
+        },
+        {
+            "text": "privilege.",
+            "page_#": 7
+        },
+        {
+            "text": "There are -- there is a deliberative process privilege.",
+            "page_#": 7
+        },
+        {
+            "text": "not to mention the attorney-client privilege.",
+            "page_#": 7
+        },
+        {
+            "text": "context.",
+            "page_#": 7
+        },
+        {
+            "text": "There are any number,",
+            "page_#": 7
+        },
+        {
+            "text": "So all of these things are applicable in this",
+            "page_#": 7
+        },
+        {
+            "text": "I understand that's disputed by the committee.",
+            "page_#": 7
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 7
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 7
+        },
+        {
+            "text": "And I don't want to get into an argument with you all about",
+            "page_#": 7
+        },
+        {
+            "text": "that today.",
+            "page_#": 8
+        },
+        {
+            "text": "that.",
+            "page_#": 8
+        },
+        {
+            "text": "That's being argued in court.",
+            "page_#": 8
+        },
+        {
+            "text": "And there will ultimately be a decision about",
+            "page_#": 8
+        },
+        {
+            "text": "We don't know where that line is going to be drawn.",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. Clark finds himself in a position of having worked for a President who has",
+            "page_#": 8
+        },
+        {
+            "text": "exerted executive privilege, giving him a letter asserting executive privilege.",
+            "page_#": 8
+        },
+        {
+            "text": "And,",
+            "page_#": 8
+        },
+        {
+            "text": "therefore, as his lawyer, I can't allow him to be exposed to the risk of guessing where that",
+            "page_#": 8
+        },
+        {
+            "text": "line is going to be drawn.",
+            "page_#": 8
+        },
+        {
+            "text": "And so, for now, we are standing on executive privilege.",
+            "page_#": 8
+        },
+        {
+            "text": "We",
+            "page_#": 8
+        },
+        {
+            "text": "will not be answering any questions or producing any documents.",
+            "page_#": 8
+        },
+        {
+            "text": "You are in receipt, Mr. Clark, of -- are you not, of a letter dated July",
+            "page_#": 8
+        },
+        {
+            "text": "21st, I believe, of earlier this year, from the Department of Justice, indicating that, in view",
+            "page_#": 8
+        },
+        {
+            "text": "of the current White House, the current Department of Justice, it would not be",
+            "page_#": 8
+        },
+        {
+            "text": "appropriate to exert executive privilege?",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 8
+        },
+        {
+            "text": "We understand that's the position of the Department of",
+            "page_#": 8
+        },
+        {
+            "text": "Justice on this matter -The Witness.",
+            "page_#": 8
+        },
+        {
+            "text": "But I --",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 8
+        },
+        {
+            "text": "And the White House.",
+            "page_#": 8
+        },
+        {
+            "text": "I mean, he did receive a letter.",
+            "page_#": 8
+        },
+        {
+            "text": "Okay?",
+            "page_#": 8
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 8
+        },
+        {
+            "text": "I want to reserve all rights as to that letter, including rights to -- to",
+            "page_#": 8
+        },
+        {
+            "text": "make any and all arguments about it, but I am in receipt of the letter, yes.",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 8
+        },
+        {
+            "text": "-",
+            "page_#": 8
+        },
+        {
+            "text": "Can we take 5 minutes?",
+            "page_#": 8
+        },
+        {
+            "text": "Sure.",
+            "page_#": 8
+        },
+        {
+            "text": "I just want to consult with the parliamentarian about sort of what,",
+            "page_#": 8
+        },
+        {
+            "text": "if anything, we need to do on the record to preserve the ongoing conversation.",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 8
+        },
+        {
+            "text": "Sure.",
+            "page_#": 8
+        },
+        {
+            "text": "I appreciate it.",
+            "page_#": 8
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 8
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 8
+        },
+        {
+            "text": "Thank you, sir.",
+            "page_#": 8
+        },
+        {
+            "text": "So we'll take a brief recess.",
+            "page_#": 9
+        },
+        {
+            "text": "[Recess.]",
+            "page_#": 9
+        },
+        {
+            "text": "BY-:",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Thank you for your indulgence.",
+            "page_#": 9
+        },
+        {
+            "text": "I had a chance to quickly look at the letter.",
+            "page_#": 9
+        },
+        {
+            "text": "And I do want to ask a few questions just to clarify more specifically the basis of the",
+            "page_#": 9
+        },
+        {
+            "text": "privilege assertion and ensure that we have on the record some of the things that",
+            "page_#": 9
+        },
+        {
+            "text": "happened before today.",
+            "page_#": 9
+        },
+        {
+            "text": "So, Mr. Clark, you were subpoenaed back on October 13th to appear before the",
+            "page_#": 9
+        },
+        {
+            "text": "select committee, and we agreed to defer that to today when you obtained new counsel,",
+            "page_#": 9
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 9
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "That's correct.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And were you given, and I asked you about this before, a letter back -- dated",
+            "page_#": 9
+        },
+        {
+            "text": "July 26th of 2021, that -- and I'm going to quote from it.",
+            "page_#": 9
+        },
+        {
+            "text": "It was from the Department of",
+            "page_#": 9
+        },
+        {
+            "text": "Justice, indicating that committees had sought your testimony about any efforts by",
+            "page_#": 9
+        },
+        {
+            "text": "President Trump or any DOJ officials to advance unsubstantiated allegations of voter",
+            "page_#": 9
+        },
+        {
+            "text": "fraud, challenge the 2020 election results, stop Congress' count of the electoral college",
+            "page_#": 9
+        },
+        {
+            "text": "vote, or overturn President Biden's certified victory.",
+            "page_#": 9
+        },
+        {
+            "text": "And, in response to congressional inquiries on those subject matters, the",
+            "page_#": 9
+        },
+        {
+            "text": "Department of Justice indicated -- and I'm going to quote again -- given these",
+            "page_#": 9
+        },
+        {
+            "text": "extraordinary circumstances, including President Biden's determination that executive",
+            "page_#": 9
+        },
+        {
+            "text": "privilege -- determination on executive privilege, which was that it wouldn't be",
+            "page_#": 9
+        },
+        {
+            "text": "appropriate, and having reviewed the scope of the committee's request and reviews, the",
+            "page_#": 9
+        },
+        {
+            "text": "Department authorizes you to provide unrestricted testimony to the committees",
+            "page_#": 9
+        },
+        {
+            "text": "irrespective of potential privilege, as long as the testimony is confined to the scope of the",
+            "page_#": 9
+        },
+        {
+            "text": "interviews as set forth by the committees.",
+            "page_#": 9
+        },
+        {
+            "text": "And you received that letter back in July.",
+            "page_#": 9
+        },
+        {
+            "text": "Is",
+            "page_#": 9
+        },
+        {
+            "text": "that right?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "I've answered that question already.",
+            "page_#": 10
+        },
+        {
+            "text": "I will refer to counsel.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And are you aware that other representatives of the Department of Justice,",
+            "page_#": 10
+        },
+        {
+            "text": "frankly your superiors at the time that you were employed there, received a similar letter",
+            "page_#": 10
+        },
+        {
+            "text": "and have provided testimony to congressional committees?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And, yet, your position today is in stark contrast to theirs.",
+            "page_#": 10
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Yes, we address that in the letter.",
+            "page_#": 10
+        },
+        {
+            "text": "Now, in the letter, which, again, I appreciate you giving us this morning, but",
+            "page_#": 10
+        },
+        {
+            "text": "we have not had a chance to review before.",
+            "page_#": 10
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 10
+        },
+        {
+            "text": "And I would like, on the record, to apologize to you,",
+            "page_#": 10
+        },
+        {
+            "text": "and to the committee and staff for being so late in delivering this item to you",
+            "page_#": 10
+        },
+        {
+            "text": "when you were inquiring about our position.",
+            "page_#": 10
+        },
+        {
+            "text": "for the one-week extension.",
+            "page_#": 10
+        },
+        {
+            "text": "the inconvenience.",
+            "page_#": 10
+        },
+        {
+            "text": "So, two things:",
+            "page_#": 10
+        },
+        {
+            "text": "Very much appreciate it.",
+            "page_#": 10
+        },
+        {
+            "text": "One, I want to thank you",
+            "page_#": 10
+        },
+        {
+            "text": "But, secondly, to apologize for",
+            "page_#": 10
+        },
+        {
+            "text": "Having just gotten into the matter, we have been working on this",
+            "page_#": 10
+        },
+        {
+            "text": "right up until yesterday afternoon and preparing what we were going to say, and we just",
+            "page_#": 10
+        },
+        {
+            "text": "weren't ready to tell you.",
+            "page_#": 10
+        },
+        {
+            "text": "Mr. MacDougald, I understand.",
+            "page_#": 10
+        },
+        {
+            "text": "These are important issues, and",
+            "page_#": 10
+        },
+        {
+            "text": "we want to make sure you and your client are fully prepared.",
+            "page_#": 10
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 10
+        },
+        {
+            "text": "-",
+            "page_#": 10
+        },
+        {
+            "text": "It is a very important matter.",
+            "page_#": 10
+        },
+        {
+            "text": "We are trying our best to get to the fact and want to make sure we",
+            "page_#": 10
+        },
+        {
+            "text": "are treating all witnesses with fairness and professional consideration.",
+            "page_#": 10
+        },
+        {
+            "text": "But, going back to the letter, attached to the letter is a letter that you received",
+            "page_#": 10
+        },
+        {
+            "text": "from Doug Collins, who represented the former President, that essentially says, upon",
+            "page_#": 11
+        },
+        {
+            "text": "receipt of that DOJ authorization, that the former President will not seek judicial",
+            "page_#": 11
+        },
+        {
+            "text": "intervention to prevent your testimony or the testimony of the other Department of",
+            "page_#": 11
+        },
+        {
+            "text": "Justice officials who have already received letters from the Department similar to July",
+            "page_#": 11
+        },
+        {
+            "text": "26th, 2021, letter.",
+            "page_#": 11
+        },
+        {
+            "text": "So you attach a letter explicitly from the former President saying that he would",
+            "page_#": 11
+        },
+        {
+            "text": "not seek judicial intervention to prevent you from going forward with this deposition or",
+            "page_#": 11
+        },
+        {
+            "text": "other inquiries from Congress.",
+            "page_#": 11
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 11
+        },
+        {
+            "text": "in our letter.",
+            "page_#": 11
+        },
+        {
+            "text": "letter.",
+            "page_#": 11
+        },
+        {
+            "text": "we address the letter and what it means in detail",
+            "page_#": 11
+        },
+        {
+            "text": "And we do not agree with the characterization that you just made of that",
+            "page_#": 11
+        },
+        {
+            "text": "We view that letter as directly asserting executive privilege.",
+            "page_#": 11
+        },
+        {
+            "text": "And the",
+            "page_#": 11
+        },
+        {
+            "text": "nonobjection statement that you read from is expressly conditioned on certain things not",
+            "page_#": 11
+        },
+        {
+            "text": "happening.",
+            "page_#": 11
+        },
+        {
+            "text": "Those things have happened.",
+            "page_#": 11
+        },
+        {
+            "text": "Furthermore, the President has in fact filed suit asserting executive privilege",
+            "page_#": 11
+        },
+        {
+            "text": "against the committee, and specifically, he referenced his intention of executive privilege",
+            "page_#": 11
+        },
+        {
+            "text": "with respect to former DOJ personnel, such as Mr. Clark.",
+            "page_#": 11
+        },
+        {
+            "text": "So, under the circumstances, I",
+            "page_#": 11
+        },
+        {
+            "text": "represent a client who asked -- the President for whom he worked has unequivocally",
+            "page_#": 11
+        },
+        {
+            "text": "asserted executive privilege.",
+            "page_#": 11
+        },
+        {
+            "text": "I understand that you all don't agree with that, and you think the current",
+            "page_#": 11
+        },
+        {
+            "text": "President has the authority to waive it.",
+            "page_#": 11
+        },
+        {
+            "text": "We don't agree with that.",
+            "page_#": 11
+        },
+        {
+            "text": "That's being",
+            "page_#": 11
+        },
+        {
+            "text": "decided in court now.",
+            "page_#": 11
+        },
+        {
+            "text": "Has there been any further communication, direct communication,",
+            "page_#": 11
+        },
+        {
+            "text": "from the former President's representatives to Mr. Clark about executive privilege?",
+            "page_#": 11
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 11
+        },
+        {
+            "text": "about any of this.",
+            "page_#": 11
+        },
+        {
+            "text": "I have had no communication with any attorney for Mr. Trump",
+            "page_#": 11
+        },
+        {
+            "text": "Your letter indicates -- and I'm looking at pages 2 and 3 -- that the",
+            "page_#": 12
+        },
+        {
+            "text": "former President did directly direct other witnesses who have been subpoenaed by the",
+            "page_#": 12
+        },
+        {
+            "text": "subcommittee -- Mark Meadows, Dan Scavino, Kash Patel, and Steve",
+            "page_#": 12
+        },
+        {
+            "text": "Bannon -- asserting -- instructing them not to testify.",
+            "page_#": 12
+        },
+        {
+            "text": "Did you get any similar",
+            "page_#": 12
+        },
+        {
+            "text": "communication from the former President similarly directing that you not provide",
+            "page_#": 12
+        },
+        {
+            "text": "testimony?",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 12
+        },
+        {
+            "text": "We contend the August 2nd letter from Mr. Collins on its face",
+            "page_#": 12
+        },
+        {
+            "text": "and in light of subsequent developments constitutes such a direction.",
+            "page_#": 12
+        },
+        {
+            "text": "-",
+            "page_#": 12
+        },
+        {
+            "text": "And your letter also cites the pending litigation.",
+            "page_#": 12
+        },
+        {
+            "text": "So, to be clear",
+            "page_#": 12
+        },
+        {
+            "text": "about your position, the pending litigation that the President has filed, Trump v.",
+            "page_#": 12
+        },
+        {
+            "text": "Thompson, in the D.C. district court governs, in your view, your ability to testify to the",
+            "page_#": 12
+        },
+        {
+            "text": "select committee without regard to executive privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 12
+        },
+        {
+            "text": "That's not accurate.",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 12
+        },
+        {
+            "text": "Well, help me understand.",
+            "page_#": 12
+        },
+        {
+            "text": "So the President has asserted executive privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "He's",
+            "page_#": 12
+        },
+        {
+            "text": "instructed Mr. Clark to assert executive privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "-",
+            "page_#": 12
+        },
+        {
+            "text": "And your view is -- I'm sorry to interrupt you.",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 12
+        },
+        {
+            "text": "Yes.",
+            "page_#": 12
+        },
+        {
+            "text": "But that is in the August the 2nd letter?",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 12
+        },
+        {
+            "text": "And in light of subsequent developments and in light of",
+            "page_#": 12
+        },
+        {
+            "text": "footnote 2 in their brief, in their original brief in support of the application for preliminary",
+            "page_#": 12
+        },
+        {
+            "text": "injunction.",
+            "page_#": 12
+        },
+        {
+            "text": "So all those things together clearly instruct Mr. Clark to abide by President",
+            "page_#": 12
+        },
+        {
+            "text": "Trump's invocation of executive privilege.",
+            "page_#": 12
+        },
+        {
+            "text": "And, as his attorney, I cannot expose him to",
+            "page_#": 12
+        },
+        {
+            "text": "the risk of going against that.",
+            "page_#": 12
+        },
+        {
+            "text": "Let me pause and see if anybody else -- go ahead, Jeff.",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. Schiff, do you have any questions?",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "I do.",
+            "page_#": 13
+        },
+        {
+            "text": "I just want to make sure that I understand correctly.",
+            "page_#": 13
+        },
+        {
+            "text": "You",
+            "page_#": 13
+        },
+        {
+            "text": "have not received any communication from the President instructing Mr. Clark to assert",
+            "page_#": 13
+        },
+        {
+            "text": "executive privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Is that correct?",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "No, you haven't.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "explanation.",
+            "page_#": 13
+        },
+        {
+            "text": "That is not correct.",
+            "page_#": 13
+        },
+        {
+            "text": "I've just explained that.",
+            "page_#": 13
+        },
+        {
+            "text": "So have you received a letter --",
+            "page_#": 13
+        },
+        {
+            "text": "You may not agree with the explanation, but it is an",
+            "page_#": 13
+        },
+        {
+            "text": "We have a letter from August 2nd asserting --",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "Well --",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "-- the privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "We have subsequent developments that",
+            "page_#": 13
+        },
+        {
+            "text": "invalidate the conditions to testimony -Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. --",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "-- we have the President's lawsuit.",
+            "page_#": 13
+        },
+        {
+            "text": "Do you have a letter from the President instructing Mr. Clark to",
+            "page_#": 13
+        },
+        {
+            "text": "assert executive privilege?",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "Do you have one or do you not?",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "Yes.",
+            "page_#": 13
+        },
+        {
+            "text": "It is attached to my letter.",
+            "page_#": 13
+        },
+        {
+            "text": "Is that a letter to Mr. Clark?",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "Yes.",
+            "page_#": 13
+        },
+        {
+            "text": "Yes.",
+            "page_#": 13
+        },
+        {
+            "text": "It is.",
+            "page_#": 13
+        },
+        {
+            "text": "From the President's counsel instructing him to assert executive",
+            "page_#": 13
+        },
+        {
+            "text": "privilege.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 13
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 13
+        },
+        {
+            "text": "That's correct.",
+            "page_#": 13
+        },
+        {
+            "text": "Can I see that letter?",
+            "page_#": 13
+        },
+        {
+            "text": "This is the letter that concludes:",
+            "page_#": 13
+        },
+        {
+            "text": "Nonetheless, to avoid further distraction and",
+            "page_#": 13
+        },
+        {
+            "text": "without any way otherwise waive an executive privilege associated with matters the",
+            "page_#": 14
+        },
+        {
+            "text": "committee are purporting to investigate, President Trump will not agree -- will agree not",
+            "page_#": 14
+        },
+        {
+            "text": "to seek judicial intervention to prevent your testimony or the testimony of five other",
+            "page_#": 14
+        },
+        {
+            "text": "former Department officials:",
+            "page_#": 14
+        },
+        {
+            "text": "Richard Donoghue, Patrick Hovakimian, Byung \"B.J.\" Pak,",
+            "page_#": 14
+        },
+        {
+            "text": "Bobby Christine, and Jeffrey Clark.",
+            "page_#": 14
+        },
+        {
+            "text": "We have already received letters from the",
+            "page_#": 14
+        },
+        {
+            "text": "Department similar to the July 26th letter you received.",
+            "page_#": 14
+        },
+        {
+            "text": "As long as the committees do",
+            "page_#": 14
+        },
+        {
+            "text": "not seek privileged information from any other Trump administration officials or advisers.",
+            "page_#": 14
+        },
+        {
+            "text": "If the committee do seek such information, however, we will take all necessary",
+            "page_#": 14
+        },
+        {
+            "text": "appropriate steps on President Trump's behalf to defend the Office of the Presidency.",
+            "page_#": 14
+        },
+        {
+            "text": "This is the letter you're referring to?",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 14
+        },
+        {
+            "text": "Yes, Mr. Schiff.",
+            "page_#": 14
+        },
+        {
+            "text": "I apologize for the --",
+            "page_#": 14
+        },
+        {
+            "text": "And you are aware that President Trump has not sought judicial",
+            "page_#": 14
+        },
+        {
+            "text": "intervention to prevent Mr. Clark's testimony?",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 14
+        },
+        {
+            "text": "Not specifically asking Mr. Clark, but the current lawsuit",
+            "page_#": 14
+        },
+        {
+            "text": "against the committee specifically refers to the invocation of executive privilege as to",
+            "page_#": 14
+        },
+        {
+            "text": "persons like Mr. Clark in footnote 2 of the opening brief in support of their application for",
+            "page_#": 14
+        },
+        {
+            "text": "preliminary injunction, which has been delivered, of course, to committee counsel.",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 14
+        },
+        {
+            "text": "I just want to make sure that I have the chronology correct.",
+            "page_#": 14
+        },
+        {
+            "text": "The",
+            "page_#": 14
+        },
+        {
+            "text": "President's counsel wrote to Mr. Clark saying that they would not seek judicial",
+            "page_#": 14
+        },
+        {
+            "text": "intervention to prevent his testimony, and they have not done so.",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 14
+        },
+        {
+            "text": "Correct?",
+            "page_#": 14
+        },
+        {
+            "text": "That is not a fair or accurate summary of the letter.",
+            "page_#": 14
+        },
+        {
+            "text": "The",
+            "page_#": 14
+        },
+        {
+            "text": "letter attaches conditions to that, and those conditions have not been met.",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 14
+        },
+        {
+            "text": "Well, if, presumably, Counsel, if the conditions have not been met,",
+            "page_#": 14
+        },
+        {
+            "text": "President Trump was more than capable of seeking judicial intervention to stop",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. Clark's testimony.",
+            "page_#": 14
+        },
+        {
+            "text": "Correct?",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 15
+        },
+        {
+            "text": "Yes, Congressman Schiff.",
+            "page_#": 15
+        },
+        {
+            "text": "And he has not done so.",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 15
+        },
+        {
+            "text": "Has he?",
+            "page_#": 15
+        },
+        {
+            "text": "Representative, we disagree with that.",
+            "page_#": 15
+        },
+        {
+            "text": "And we're not here",
+            "page_#": 15
+        },
+        {
+            "text": "to have an oral argument about these -Mr. Schiff.",
+            "page_#": 15
+        },
+        {
+            "text": "Counsel, I am just establishing the facts.",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 15
+        },
+        {
+            "text": "Well, the facts are plain in the documents.",
+            "page_#": 15
+        },
+        {
+            "text": "And you are aware, Mr. Clark, that those in a higher position in the",
+            "page_#": 15
+        },
+        {
+            "text": "Justice Department, who arguably would have a stronger claim of privilege if there was",
+            "page_#": 15
+        },
+        {
+            "text": "one to be made, have testified before Congress as to the same matters that you are being",
+            "page_#": 15
+        },
+        {
+            "text": "asked to testify?",
+            "page_#": 15
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. MacDougald has answered that question, respectfully,",
+            "page_#": 15
+        },
+        {
+            "text": "Representative Schiff.",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 15
+        },
+        {
+            "text": "You are aware of that, Mr. MacDougald?",
+            "page_#": 15
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 15
+        },
+        {
+            "text": "Oh, yes.",
+            "page_#": 15
+        },
+        {
+            "text": "It's addressed in the letter.",
+            "page_#": 15
+        },
+        {
+            "text": "It's addressed in the",
+            "page_#": 15
+        },
+        {
+            "text": "letter.",
+            "page_#": 15
+        },
+        {
+            "text": "And what I would say to you all is I don't want to get into any kind of a bickering or",
+            "page_#": 15
+        },
+        {
+            "text": "arguing about the contours of executive privilege and whether an argument we have",
+            "page_#": 15
+        },
+        {
+            "text": "made is correct in person verbally.",
+            "page_#": 15
+        },
+        {
+            "text": "These are very important matters.",
+            "page_#": 15
+        },
+        {
+            "text": "worked hard on this letter to assert the objections.",
+            "page_#": 15
+        },
+        {
+            "text": "We have",
+            "page_#": 15
+        },
+        {
+            "text": "And we invite you all to respond to",
+            "page_#": 15
+        },
+        {
+            "text": "us, but we think that dialogue is best conducted in writing because it is so important.",
+            "page_#": 15
+        },
+        {
+            "text": "And it's important to be clear and precise in what we say.",
+            "page_#": 15
+        },
+        {
+            "text": "And our position, we've stated it.",
+            "page_#": 15
+        },
+        {
+            "text": "not producing documents today.",
+            "page_#": 15
+        },
+        {
+            "text": "We're",
+            "page_#": 15
+        },
+        {
+            "text": "We are leaving the door open for further dialogue",
+            "page_#": 15
+        },
+        {
+            "text": "about the points being raised in the letter.",
+            "page_#": 15
+        },
+        {
+            "text": "to pursue.",
+            "page_#": 15
+        },
+        {
+            "text": "We're not answering questions today.",
+            "page_#": 15
+        },
+        {
+            "text": "And I think that's the process that we ought",
+            "page_#": 15
+        },
+        {
+            "text": "Now, you know, the Trump v. Thompson case will ultimately be decided one way",
+            "page_#": 16
+        },
+        {
+            "text": "or the other, and then we'll know where we stand on executive privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "Both sides will",
+            "page_#": 16
+        },
+        {
+            "text": "know.",
+            "page_#": 16
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 16
+        },
+        {
+            "text": "Before I yield back to committee counsel, I just want to state, for the",
+            "page_#": 16
+        },
+        {
+            "text": "record, people in a superior position to Mr. Clark's who were at the Justice Department",
+            "page_#": 16
+        },
+        {
+            "text": "and were his superiors at the time of the events of interest to the committee have",
+            "page_#": 16
+        },
+        {
+            "text": "testified.",
+            "page_#": 16
+        },
+        {
+            "text": "The current Justice Department and the current President of the United States",
+            "page_#": 16
+        },
+        {
+            "text": "have not asserted privilege, in fact have instructed Mr. Clark they will not assert privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "He has refused to testify.",
+            "page_#": 16
+        },
+        {
+            "text": "He has refused to testify, not on the basis of any action",
+            "page_#": 16
+        },
+        {
+            "text": "that President Trump has taken to seek judicial intervention in this proceeding.",
+            "page_#": 16
+        },
+        {
+            "text": "We",
+            "page_#": 16
+        },
+        {
+            "text": "have not received any communication that I'm aware of from the former President",
+            "page_#": 16
+        },
+        {
+            "text": "asserting privilege.",
+            "page_#": 16
+        },
+        {
+            "text": "And Mr. Clark, in my opinion, is asserting -- arrogating to himself a decision that",
+            "page_#": 16
+        },
+        {
+            "text": "his superiors disagree with, that the President has not asserted to this committee, and in",
+            "page_#": 16
+        },
+        {
+            "text": "defiance of the lawful process of this committee.",
+            "page_#": 16
+        },
+        {
+            "text": "And I yield back to counsel.",
+            "page_#": 16
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 16
+        },
+        {
+            "text": "And, respectfully, for the record, disagree with Congressman",
+            "page_#": 16
+        },
+        {
+            "text": "Schiff's assertion, but let's leave it there.",
+            "page_#": 16
+        },
+        {
+            "text": "Let me just ask, to follow up on Congressman Schiff's question, has",
+            "page_#": 16
+        },
+        {
+            "text": "there been any effort to confirm your interpretation of the August 2nd letter with the",
+            "page_#": 16
+        },
+        {
+            "text": "former President's counsel?",
+            "page_#": 16
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 16
+        },
+        {
+            "text": "I have indicated previously I have not communicated with",
+            "page_#": 16
+        },
+        {
+            "text": "them, but I can read.",
+            "page_#": 16
+        },
+        {
+            "text": "So the interpretation that you're providing today that the August",
+            "page_#": 16
+        },
+        {
+            "text": "2nd letter is, in fact, a direction not to testify, just based on --",
+            "page_#": 16
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 17
+        },
+        {
+            "text": "We go through that in detail in this letter.",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 17
+        },
+        {
+            "text": "So there are a number of circumstances that combine the",
+            "page_#": 17
+        },
+        {
+            "text": "direct statements in the letter.",
+            "page_#": 17
+        },
+        {
+            "text": "Beyond that, there -- the statement that you all -- the committee is relying on",
+            "page_#": 17
+        },
+        {
+            "text": "expressly states that it is not waiving anything, and there are conditions attached.",
+            "page_#": 17
+        },
+        {
+            "text": "Those conditions are not being met, and there is pending executive privilege lawsuit that",
+            "page_#": 17
+        },
+        {
+            "text": "specifically refers to people in Mr. Clark's position.",
+            "page_#": 17
+        },
+        {
+            "text": "And, again, Mr. MacDougald, I appreciate that that is your position.",
+            "page_#": 17
+        },
+        {
+            "text": "I think it's important for us, as we consider options, contempt referrals or litigation to",
+            "page_#": 17
+        },
+        {
+            "text": "make a record just to make sure -Mr. MacDougald.",
+            "page_#": 17
+        },
+        {
+            "text": "I understand that.",
+            "page_#": 17
+        },
+        {
+            "text": "-- that we're clear as to what the basis of the assertion is, on what",
+            "page_#": 17
+        },
+        {
+            "text": "facts or communications it relies.",
+            "page_#": 17
+        },
+        {
+            "text": "So I don't mean to sound belligerent.",
+            "page_#": 17
+        },
+        {
+            "text": "I'm just trying",
+            "page_#": 17
+        },
+        {
+            "text": "to ensure that we understand -Mr. MacDougald.",
+            "page_#": 17
+        },
+        {
+            "text": "I understand and respect that.",
+            "page_#": 17
+        },
+        {
+            "text": "You have a job.",
+            "page_#": 17
+        },
+        {
+            "text": "I have a",
+            "page_#": 17
+        },
+        {
+            "text": "job.",
+            "page_#": 17
+        },
+        {
+            "text": "To that end, we do need to go through, not every question that I",
+            "page_#": 17
+        },
+        {
+            "text": "would have asked, but I do need to flag particular areas that we seek to develop.",
+            "page_#": 17
+        },
+        {
+            "text": "understand your position would be, as I go through those, that you will not answer that",
+            "page_#": 17
+        },
+        {
+            "text": "question due to assertion of executive privilege, but that, Mr. MacDougald, establishes",
+            "page_#": 17
+        },
+        {
+            "text": "the factual basis of what we're seeking as we consider further proceedings.",
+            "page_#": 17
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 17
+        },
+        {
+            "text": "We're not willing to do that.",
+            "page_#": 17
+        },
+        {
+            "text": "Well, again, this is a deposition of the select committee.",
+            "page_#": 17
+        },
+        {
+            "text": "go through and ask some questions that will understandably prompt privilege.",
+            "page_#": 17
+        },
+        {
+            "text": "I have to",
+            "page_#": 17
+        },
+        {
+            "text": "But, to",
+            "page_#": 17
+        },
+        {
+            "text": "ensure that the court ultimately or the Justice Department has a record of the subject",
+            "page_#": 18
+        },
+        {
+            "text": "matters and can evaluate the privilege claim, it's important for us to put those subject",
+            "page_#": 18
+        },
+        {
+            "text": "matters in the form of questions directly to Mr. Clark.",
+            "page_#": 18
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 18
+        },
+        {
+            "text": "Let me confer with Mr. Clark.",
+            "page_#": 18
+        },
+        {
+            "text": "Do you mind if we step out?",
+            "page_#": 18
+        },
+        {
+            "text": "es.",
+            "page_#": 18
+        },
+        {
+            "text": "Of course.",
+            "page_#": 18
+        },
+        {
+            "text": "We'll go off the record.",
+            "page_#": 18
+        },
+        {
+            "text": "[Recess.]",
+            "page_#": 18
+        },
+        {
+            "text": "Mr. MacDougald, again, our intention would be just to complete a",
+            "page_#": 18
+        },
+        {
+            "text": "record to ensure that the court or the Department has a clear record of the subject",
+            "page_#": 18
+        },
+        {
+            "text": "matters.",
+            "page_#": 18
+        },
+        {
+            "text": "And we want to go through those questions, understanding that they will",
+            "page_#": 18
+        },
+        {
+            "text": "trigger an assertion of privilege, but we think it is important to put them to the scope of",
+            "page_#": 18
+        },
+        {
+            "text": "our intended areas of inquiry on the record.",
+            "page_#": 18
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 18
+        },
+        {
+            "text": "Our position is that we have asserted the objection, and",
+            "page_#": 18
+        },
+        {
+            "text": "there's a pending court proceeding that will determine the contours of executive privilege",
+            "page_#": 18
+        },
+        {
+            "text": "with respect to the committee's investigation.",
+            "page_#": 18
+        },
+        {
+            "text": "And it is premature to engage in that",
+            "page_#": 18
+        },
+        {
+            "text": "exercise and that it is just unproductive to engage these questions.",
+            "page_#": 18
+        },
+        {
+            "text": "And we invite the",
+            "page_#": 18
+        },
+        {
+            "text": "committee, as we did in the letter, to have some dialogue with us.",
+            "page_#": 18
+        },
+        {
+            "text": "But, pending",
+            "page_#": 18
+        },
+        {
+            "text": "resolution of that case, we do not think that going through that process that you",
+            "page_#": 18
+        },
+        {
+            "text": "described is productive or worthwhile.",
+            "page_#": 18
+        },
+        {
+            "text": "It is just not what we are doing.",
+            "page_#": 18
+        },
+        {
+            "text": "As we say in the letter, if the committee in the meantime would like to",
+            "page_#": 18
+        },
+        {
+            "text": "significantly narrow the scope of the inquiry that it wishes to pursue with Mr. Clark, we",
+            "page_#": 18
+        },
+        {
+            "text": "are willing to discuss that and do that.",
+            "page_#": 18
+        },
+        {
+            "text": "I mean, if it is more narrowly focused on the",
+            "page_#": 18
+        },
+        {
+            "text": "events of January 6th, that's something that we can work with you on.",
+            "page_#": 18
+        },
+        {
+            "text": "But, right now,",
+            "page_#": 18
+        },
+        {
+            "text": "executive privilege not -- Mr. Clark has ethical responsibilities to respect the assertion of",
+            "page_#": 18
+        },
+        {
+            "text": "privilege until this is determined judicially.",
+            "page_#": 18
+        },
+        {
+            "text": "You, right now, have no idea exactly what it is I intend to ask",
+            "page_#": 19
+        },
+        {
+            "text": "Mr. Clark because I haven't had a chance yet.",
+            "page_#": 19
+        },
+        {
+            "text": "We haven't had any negotiations.",
+            "page_#": 19
+        },
+        {
+            "text": "haven't had any sort of proffer or exchange of information.",
+            "page_#": 19
+        },
+        {
+            "text": "view of the select committee, to establish for Mr.",
+            "page_#": 19
+        },
+        {
+            "text": "We",
+            "page_#": 19
+        },
+        {
+            "text": "So it's important, in the",
+            "page_#": 19
+        },
+        {
+            "text": "Clark, for the Department of Justice,",
+            "page_#": 19
+        },
+        {
+            "text": "for potential court to evaluate the claim, to put on the record what the scope of our area",
+            "page_#": 19
+        },
+        {
+            "text": "of inquiry is of Mr. Clark.",
+            "page_#": 19
+        },
+        {
+            "text": "And, again, I understand that he's not going to provide -- is",
+            "page_#": 19
+        },
+        {
+            "text": "unlikely to provide any answers to those questions, and that is his right at this time to",
+            "page_#": 19
+        },
+        {
+            "text": "assert that privilege.",
+            "page_#": 19
+        },
+        {
+            "text": "But, to the extent we are going to challenge the privilege, Mr. MacDougald, we",
+            "page_#": 19
+        },
+        {
+            "text": "need a record that would form the basis of that challenge.",
+            "page_#": 19
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 19
+        },
+        {
+            "text": "One second.",
+            "page_#": 19
+        },
+        {
+            "text": "[Discussion off the record.]",
+            "page_#": 19
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 19
+        },
+        {
+            "text": "The concern that I have,",
+            "page_#": 19
+        },
+        {
+            "text": "this devolves into badgering the witness.",
+            "page_#": 19
+        },
+        {
+            "text": "is that, at some point,",
+            "page_#": 19
+        },
+        {
+            "text": "And I would be surprised if the committee",
+            "page_#": 19
+        },
+        {
+            "text": "undertook litigation against Mr. Clark concerning the scope of the executive privilege",
+            "page_#": 19
+        },
+        {
+            "text": "while the Trump v. Thompson case is ongoing.",
+            "page_#": 19
+        },
+        {
+            "text": "wasteful of resources.",
+            "page_#": 19
+        },
+        {
+            "text": "That would be highly duplicative,",
+            "page_#": 19
+        },
+        {
+            "text": "And most of those privilege questions can be answered by that",
+            "page_#": 19
+        },
+        {
+            "text": "case.",
+            "page_#": 19
+        },
+        {
+            "text": "And so, with respect to topics, you know, the assertion of privilege, it's -- you",
+            "page_#": 19
+        },
+        {
+            "text": "know, my client is in a bind.",
+            "page_#": 19
+        },
+        {
+            "text": "He's under subpoena.",
+            "page_#": 19
+        },
+        {
+            "text": "worked for has asserted executive privilege.",
+            "page_#": 19
+        },
+        {
+            "text": "Okay?",
+            "page_#": 19
+        },
+        {
+            "text": "And, yet, the President that he",
+            "page_#": 19
+        },
+        {
+            "text": "He cannot testify under those",
+            "page_#": 19
+        },
+        {
+            "text": "circumstances, period.",
+            "page_#": 19
+        },
+        {
+            "text": "And so we've got a court proceeding underway that's going to resolve the scope of",
+            "page_#": 19
+        },
+        {
+            "text": "that.",
+            "page_#": 19
+        },
+        {
+            "text": "And the prudent thing is to let that play out.",
+            "page_#": 19
+        },
+        {
+            "text": "And, like I said, in the meantime, if",
+            "page_#": 19
+        },
+        {
+            "text": "the committee would like to significantly narrow the scope of the inquiry, we're certainly",
+            "page_#": 19
+        },
+        {
+            "text": "willing to entertain that.",
+            "page_#": 20
+        },
+        {
+            "text": "And, of course, we are willing to have a dialogue about the",
+            "page_#": 20
+        },
+        {
+            "text": "privilege assertions in the document, and if the committee chose to identify with greater",
+            "page_#": 20
+        },
+        {
+            "text": "specificity in that dialogue what it was seeking, and we could respond and move forward.",
+            "page_#": 20
+        },
+        {
+            "text": "Mr. MacDougald, we haven't had a chance to have this",
+            "page_#": 20
+        },
+        {
+            "text": "conversation because there has been no discussion, no negotiations.",
+            "page_#": 20
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 20
+        },
+        {
+            "text": "One at a time.",
+            "page_#": 20
+        },
+        {
+            "text": "I understand.",
+            "page_#": 20
+        },
+        {
+            "text": "There is, though, the Miers case clearly rejects a",
+            "page_#": 20
+        },
+        {
+            "text": "blanket assertion of privilege, even when asserted by a sitting President with respect to",
+            "page_#": 20
+        },
+        {
+            "text": "White House counsel.",
+            "page_#": 20
+        },
+        {
+            "text": "The privilege must be asserted question by question, area by",
+            "page_#": 20
+        },
+        {
+            "text": "area.",
+            "page_#": 20
+        },
+        {
+            "text": "And I understand your point about badgering.",
+            "page_#": 20
+        },
+        {
+            "text": "I don't intend to badger you or",
+            "page_#": 20
+        },
+        {
+            "text": "Mr. Clark with those questions.",
+            "page_#": 20
+        },
+        {
+            "text": "With that said, it's important to get on the record the areas of inquiry so that a",
+            "page_#": 20
+        },
+        {
+            "text": "court could potentially adjudicate the application of a privilege.",
+            "page_#": 20
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 20
+        },
+        {
+            "text": "I think that if the committee is interested in pursuing the",
+            "page_#": 20
+        },
+        {
+            "text": "inquiry, balancing Mr. Clark's interests in complying with his duties as a lawyer in light of",
+            "page_#": 20
+        },
+        {
+            "text": "President Trump's invocation of the privilege, the fair thing do to Mr. Clark is to let the",
+            "page_#": 20
+        },
+        {
+            "text": "Trump v. Thompson case play out rather than badgering.",
+            "page_#": 20
+        },
+        {
+            "text": "Now, if there is some alternative method of preserving the record, I'm happy to",
+            "page_#": 20
+        },
+        {
+            "text": "discuss that.",
+            "page_#": 20
+        },
+        {
+            "text": "But I think sitting here for 5 hours while counsel and committee members",
+            "page_#": 20
+        },
+        {
+            "text": "propound questions that we're not going to answer is not a good use of anybody's time.",
+            "page_#": 20
+        },
+        {
+            "text": "And, as far as -- and, again, on the timing of this and us not having had a dialogue, before",
+            "page_#": 20
+        },
+        {
+            "text": "I got involved, Mr. Clark asked for a three-week extension.",
+            "page_#": 20
+        },
+        {
+            "text": "That's okay.",
+            "page_#": 20
+        },
+        {
+            "text": "That was not agreed to.",
+            "page_#": 20
+        },
+        {
+            "text": "You get to decide, which made the one week you gave me especially",
+            "page_#": 20
+        },
+        {
+            "text": "appreciated when I -- when we spoke.",
+            "page_#": 20
+        },
+        {
+            "text": "But it is a significant matter.",
+            "page_#": 21
+        },
+        {
+            "text": "There are weighty and difficult legal issues involved.",
+            "page_#": 21
+        },
+        {
+            "text": "And, you know, I'm not going to let Mr. Clark produce either attorney-client or executive",
+            "page_#": 21
+        },
+        {
+            "text": "privilege or any other privileges in response to these questions.",
+            "page_#": 21
+        },
+        {
+            "text": "line is going to end up.",
+            "page_#": 21
+        },
+        {
+            "text": "So I have to protect him.",
+            "page_#": 21
+        },
+        {
+            "text": "I don't know where that",
+            "page_#": 21
+        },
+        {
+            "text": "So we are just not going to answer",
+            "page_#": 21
+        },
+        {
+            "text": "the questions.",
+            "page_#": 21
+        },
+        {
+            "text": "I understand.",
+            "page_#": 21
+        },
+        {
+            "text": "We're talking past each other.",
+            "page_#": 21
+        },
+        {
+            "text": "talk you out of your position at this point.",
+            "page_#": 21
+        },
+        {
+            "text": "I'm not trying to",
+            "page_#": 21
+        },
+        {
+            "text": "I'm simply trying to establish a record that",
+            "page_#": 21
+        },
+        {
+            "text": "can be considered by the select committee first and ultimately potentially by the Attorney",
+            "page_#": 21
+        },
+        {
+            "text": "General of the United States if there's a criminal contempt referral or a Federal judge if",
+            "page_#": 21
+        },
+        {
+            "text": "there is some sort of effort civilly to enforce the subpoena.",
+            "page_#": 21
+        },
+        {
+            "text": "complete record at this point.",
+            "page_#": 21
+        },
+        {
+            "text": "I'm not saying that any of that's going to happen, but we",
+            "page_#": 21
+        },
+        {
+            "text": "need to create a record to consider next steps.",
+            "page_#": 21
+        },
+        {
+            "text": "understand.",
+            "page_#": 21
+        },
+        {
+            "text": "We don't have that",
+            "page_#": 21
+        },
+        {
+            "text": "So it's not meant to be badgering.",
+            "page_#": 21
+        },
+        {
+            "text": "[11:00 a.m.]",
+            "page_#": 22
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 22
+        },
+        {
+            "text": "Okay.",
+            "page_#": 22
+        },
+        {
+            "text": "And my suggestion and request to the committee is to",
+            "page_#": 22
+        },
+        {
+            "text": "make that record after the decision is made in Trump v. Thompson, and you'll know",
+            "page_#": 22
+        },
+        {
+            "text": "where we stand.",
+            "page_#": 22
+        },
+        {
+            "text": "But we are not necessarily going to wait for Trump v. Thompson to",
+            "page_#": 22
+        },
+        {
+            "text": "be resolved before we seek enforcement action, and that's why we need to make the",
+            "page_#": 22
+        },
+        {
+            "text": "record today.",
+            "page_#": 22
+        },
+        {
+            "text": "And, again, I understand that these questions will prompt, according to what",
+            "page_#": 22
+        },
+        {
+            "text": "you've said thus far, some kind of executive privilege assertion.",
+            "page_#": 22
+        },
+        {
+            "text": "I want to make sure we",
+            "page_#": 22
+        },
+        {
+            "text": "understand the basis of that assertion and that you understand and that ultimately a",
+            "page_#": 22
+        },
+        {
+            "text": "court understands what are the areas that we seek to develop with Mr. Clark.",
+            "page_#": 22
+        },
+        {
+            "text": "Again, not meant to be badgering.",
+            "page_#": 22
+        },
+        {
+            "text": "It's just essentially clarifying our positions and",
+            "page_#": 22
+        },
+        {
+            "text": "creating a record for others to review thereafter.",
+            "page_#": 22
+        },
+        {
+            "text": "So let me just -Mr. MacDougald.",
+            "page_#": 22
+        },
+        {
+            "text": "We are not going to participate in that",
+            "page_#": 22
+        },
+        {
+            "text": ", and we",
+            "page_#": 22
+        },
+        {
+            "text": "are concluded, and we are leaving.",
+            "page_#": 22
+        },
+        {
+            "text": "So, to be clear, you're refusing to answer any of these questions or",
+            "page_#": 22
+        },
+        {
+            "text": "even go through and assert privilege question by question -Mr. MacDougald.",
+            "page_#": 22
+        },
+        {
+            "text": "Correct.",
+            "page_#": 22
+        },
+        {
+            "text": "-- based on the representations in the letter and -Mr. MacDougald.",
+            "page_#": 22
+        },
+        {
+            "text": "Correct.",
+            "page_#": 22
+        },
+        {
+            "text": "-- a blanket assertion?",
+            "page_#": 22
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 22
+        },
+        {
+            "text": "Correct.",
+            "page_#": 22
+        },
+        {
+            "text": "Go ahead, Mr. Clark.",
+            "page_#": 22
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 23
+        },
+        {
+            "text": "the letter.",
+            "page_#": 23
+        },
+        {
+            "text": "The blanket assertion point is inaccurate.",
+            "page_#": 23
+        },
+        {
+            "text": "The points are made in",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. MacDougald has made the points, and we're going over the same thing",
+            "page_#": 23
+        },
+        {
+            "text": "again and again, and it's not productive.",
+            "page_#": 23
+        },
+        {
+            "text": "And so you'll see that the letter makes the",
+            "page_#": 23
+        },
+        {
+            "text": "arguments about what would be prudent and efficient from this, you know, point",
+            "page_#": 23
+        },
+        {
+            "text": "forward, and that's what we're going to stand on.",
+            "page_#": 23
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 23
+        },
+        {
+            "text": "And we're --you know, we will engage in that dialogue with",
+            "page_#": 23
+        },
+        {
+            "text": "you, as invited in the letter, but the process that you contemplated today will not go",
+            "page_#": 23
+        },
+        {
+            "text": "forward.",
+            "page_#": 23
+        },
+        {
+            "text": "Let me stop again and see if anyone else has any questions.",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 23
+        },
+        {
+            "text": "I do have one question.",
+            "page_#": 23
+        },
+        {
+            "text": "Well, a couple of questions.",
+            "page_#": 23
+        },
+        {
+            "text": "So, counsel, on behalf of your client, are you refusing to answer any questions",
+            "page_#": 23
+        },
+        {
+            "text": "today regarding the subject matter of our committee?",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 23
+        },
+        {
+            "text": "Our position is stated in the letter, Congressman.",
+            "page_#": 23
+        },
+        {
+            "text": "And, just for clarity, are you refusing to answer any questions about",
+            "page_#": 23
+        },
+        {
+            "text": "the subject matter of January 6th to our committee?",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 23
+        },
+        {
+            "text": "Well, actually, our letter invites the committee to narrow its",
+            "page_#": 23
+        },
+        {
+            "text": "scope to the events of January 6th.",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 23
+        },
+        {
+            "text": "But, counsel, you're refusing today --",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 23
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 23
+        },
+        {
+            "text": "But the committee has not done that.",
+            "page_#": 23
+        },
+        {
+            "text": "Well, counsel for the committee was endeavoring to go through the",
+            "page_#": 23
+        },
+        {
+            "text": "questions and find out what your client would answer and what they would not.",
+            "page_#": 23
+        },
+        {
+            "text": "Do I understand your position today is that you are giving a blanket refusal to",
+            "page_#": 23
+        },
+        {
+            "text": "answer any questions about the events of January 6th to this committee?",
+            "page_#": 23
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 23
+        },
+        {
+            "text": "Representative Schiff, you're mischaracterizing our position.",
+            "page_#": 23
+        },
+        {
+            "text": "That",
+            "page_#": 23
+        },
+        {
+            "text": "question has been asked and answered about six times now.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 24
+        },
+        {
+            "text": "Well, then --",
+            "page_#": 24
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 24
+        },
+        {
+            "text": "If I had a transcript, I could count them.",
+            "page_#": 24
+        },
+        {
+            "text": "Then do you object to our asking you questions today about",
+            "page_#": 24
+        },
+        {
+            "text": "January 6th?",
+            "page_#": 24
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 24
+        },
+        {
+            "text": "We've already answered that question.",
+            "page_#": 24
+        },
+        {
+            "text": "We think --",
+            "page_#": 24
+        },
+        {
+            "text": "So then you're refusing to answer questions today.",
+            "page_#": 24
+        },
+        {
+            "text": "establish a very clean record.",
+            "page_#": 24
+        },
+        {
+            "text": "Just want to",
+            "page_#": 24
+        },
+        {
+            "text": "You're refusing to answer any questions today about",
+            "page_#": 24
+        },
+        {
+            "text": "January 6th?",
+            "page_#": 24
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 24
+        },
+        {
+            "text": "We think that you need to have a dialogue with Mr. MacDougald",
+            "page_#": 24
+        },
+        {
+            "text": "about that before that proceeds.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 24
+        },
+        {
+            "text": "So --",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 24
+        },
+        {
+            "text": "You can take that up if the scope is narrowed.",
+            "page_#": 24
+        },
+        {
+            "text": "But, as we sit,",
+            "page_#": 24
+        },
+        {
+            "text": "the scope is not narrowed.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 24
+        },
+        {
+            "text": "Well, counsel, this would be an opportunity for you to narrow the",
+            "page_#": 24
+        },
+        {
+            "text": "scope and answer questions -Mr. MacDougald.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 24
+        },
+        {
+            "text": "It's not for me to narrow the scope.",
+            "page_#": 24
+        },
+        {
+            "text": "Answer questions that you believe are within the scope and refuse,",
+            "page_#": 24
+        },
+        {
+            "text": "and then we can decide what repercussion from that refusal.",
+            "page_#": 24
+        },
+        {
+            "text": "But, today, you are",
+            "page_#": 24
+        },
+        {
+            "text": "refusing to answer any questions whether they're within your perceived idea of the scope",
+            "page_#": 24
+        },
+        {
+            "text": "of the committee or not.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 24
+        },
+        {
+            "text": "questions today.",
+            "page_#": 24
+        },
+        {
+            "text": "We have asserted our position that we're not answering",
+            "page_#": 24
+        },
+        {
+            "text": "We've invited the committee to engage in a dialogue with us about",
+            "page_#": 24
+        },
+        {
+            "text": "narrowing the scope.",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 24
+        },
+        {
+            "text": "Is that correct?",
+            "page_#": 24
+        },
+        {
+            "text": "That invitation remains open.",
+            "page_#": 24
+        },
+        {
+            "text": "Well --",
+            "page_#": 24
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 25
+        },
+        {
+            "text": "But, as of this moment, the scope has not been narrowed, and",
+            "page_#": 25
+        },
+        {
+            "text": "the -- our position remains as previously stated.",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 25
+        },
+        {
+            "text": "Well, let me ask one illustrative question, then.",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Clark, in your letter to the committee, you state you gave an interview to the",
+            "page_#": 25
+        },
+        {
+            "text": "press about January 6th, and your comments were not included in the article, and you",
+            "page_#": 25
+        },
+        {
+            "text": "expressed some dissatisfaction that your comments about January 6 were not included in",
+            "page_#": 25
+        },
+        {
+            "text": "the Bloomberg article.",
+            "page_#": 25
+        },
+        {
+            "text": "What were your comments to the press about January 6th?",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 25
+        },
+        {
+            "text": "I think that's stated in the letter.",
+            "page_#": 25
+        },
+        {
+            "text": "No, it isn't.",
+            "page_#": 25
+        },
+        {
+            "text": "What were your comments to the press about January 6th?",
+            "page_#": 25
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 25
+        },
+        {
+            "text": "It is stated in the letter, so that stands as the answer.",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 25
+        },
+        {
+            "text": "Well, would you please tell us what those comments were?",
+            "page_#": 25
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 25
+        },
+        {
+            "text": "you:",
+            "page_#": 25
+        },
+        {
+            "text": "It's what the letter says, Representative.",
+            "page_#": 25
+        },
+        {
+            "text": "The letter doesn't tell us what you told the reporter, so I'm asking",
+            "page_#": 25
+        },
+        {
+            "text": "What did you tell the reporter -The Witness.",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 25
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 25
+        },
+        {
+            "text": "That's --- about January 6th.",
+            "page_#": 25
+        },
+        {
+            "text": "That's not accurate, Representative Schiff.",
+            "page_#": 25
+        },
+        {
+            "text": "If you read the letter,",
+            "page_#": 25
+        },
+        {
+            "text": "it represents what was stated to the reporter.",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 25
+        },
+        {
+            "text": "Well, read to me from the letter what it is you told the reporter",
+            "page_#": 25
+        },
+        {
+            "text": "about January 6th, then, if it's included -The Witness.",
+            "page_#": 25
+        },
+        {
+            "text": "Respectfully, Representative Schiff, I think that request, you know,",
+            "page_#": 25
+        },
+        {
+            "text": "to have me read something that's in a letter that you have is badgering.",
+            "page_#": 25
+        },
+        {
+            "text": "line into that.",
+            "page_#": 25
+        },
+        {
+            "text": "It crosses the",
+            "page_#": 25
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 26
+        },
+        {
+            "text": "Well, Mr. Clark, it's not in the letter.",
+            "page_#": 26
+        },
+        {
+            "text": "And is it your position, counsel, that somehow Mr. Clark can assert executive",
+            "page_#": 26
+        },
+        {
+            "text": "privilege over statements he gave to the press on behalf of the former President?",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 26
+        },
+        {
+            "text": "We made reference to that in the letter, Congressman, in the",
+            "page_#": 26
+        },
+        {
+            "text": "context of inviting the committee to narrow the scope.",
+            "page_#": 26
+        },
+        {
+            "text": "We're happy to have that",
+            "page_#": 26
+        },
+        {
+            "text": "discussion, but it needs to occur in writing so that we know where we stand.",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 26
+        },
+        {
+            "text": "My question is --",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 26
+        },
+        {
+            "text": "This is an important matter for Mr. Clark, and I'm advising",
+            "page_#": 26
+        },
+        {
+            "text": "him -- I'm trying to protect him, and I'm -- we're going to do that based on a scope that is",
+            "page_#": 26
+        },
+        {
+            "text": "set forth in writing that we can analyze and decide whether we're going to object to it or",
+            "page_#": 26
+        },
+        {
+            "text": "not.",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 26
+        },
+        {
+            "text": "My --",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 26
+        },
+        {
+            "text": "We don't have that, and I'm not going to let him answer those",
+            "page_#": 26
+        },
+        {
+            "text": "questions.",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 26
+        },
+        {
+            "text": "Counsel, you would agree, would you not, that statements your client",
+            "page_#": 26
+        },
+        {
+            "text": "made to the press are not covered by any conceivable privilege?",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 26
+        },
+        {
+            "text": "Can we agree on that?",
+            "page_#": 26
+        },
+        {
+            "text": "Hypothetically.",
+            "page_#": 26
+        },
+        {
+            "text": "Are you objecting, nonetheless, to his answering questions about",
+            "page_#": 26
+        },
+        {
+            "text": "what he told the press about January 6th that were not included in an article?",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 26
+        },
+        {
+            "text": "respect to Mr. Clark.",
+            "page_#": 26
+        },
+        {
+            "text": "I am objecting to the way the committee is proceeding with",
+            "page_#": 26
+        },
+        {
+            "text": "You have a very broad-scope subpoena that has not been",
+            "page_#": 26
+        },
+        {
+            "text": "narrowed, and we have invited the committee to narrow the scope and expressed a",
+            "page_#": 26
+        },
+        {
+            "text": "willingness to testify more narrowly about January 6th.",
+            "page_#": 26
+        },
+        {
+            "text": "We're not going to do that on the fly.",
+            "page_#": 26
+        },
+        {
+            "text": "We'll have a dialogue with the committee",
+            "page_#": 26
+        },
+        {
+            "text": "as counsel, and we will proceed in an orderly manner to resolve that scope issue.",
+            "page_#": 26
+        },
+        {
+            "text": "But",
+            "page_#": 26
+        },
+        {
+            "text": "we're not going to do it on the fly in this deposition.",
+            "page_#": 27
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 27
+        },
+        {
+            "text": "Before I yield back to counsel, I'd like the record to reflect the witness",
+            "page_#": 27
+        },
+        {
+            "text": "today refuses to answer any questions about January 6th, including questions as to",
+            "page_#": 27
+        },
+        {
+            "text": "comments he made to the press that could not be even conceivably, I think as counsel",
+            "page_#": 27
+        },
+        {
+            "text": "has acknowledged, within the realm of privilege.",
+            "page_#": 27
+        },
+        {
+            "text": "And, with that, I yield back to committee counsel.",
+            "page_#": 27
+        },
+        {
+            "text": "Mr. MacDougald, with all due respect, Mr. Clark has been",
+            "page_#": 27
+        },
+        {
+            "text": "subpoenaed to appear before this committee.",
+            "page_#": 27
+        },
+        {
+            "text": "to answer questions.",
+            "page_#": 27
+        },
+        {
+            "text": "It is a legal obligation, on a date certain,",
+            "page_#": 27
+        },
+        {
+            "text": "That does not include a legal obligation by the committee to",
+            "page_#": 27
+        },
+        {
+            "text": "negotiate, or to set forth in advance particular subject matters.",
+            "page_#": 27
+        },
+        {
+            "text": "It's a legal obligation to",
+            "page_#": 27
+        },
+        {
+            "text": "show up and answer questions, or to assert a privilege in response to specific questions.",
+            "page_#": 27
+        },
+        {
+            "text": "My understanding is that, despite that legal obligation and an offer to go through",
+            "page_#": 27
+        },
+        {
+            "text": "the questions and assert a privilege point by point, he's refusing to answer any such",
+            "page_#": 27
+        },
+        {
+            "text": "questions.",
+            "page_#": 27
+        },
+        {
+            "text": "I just want to make clear that that is his position.",
+            "page_#": 27
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 27
+        },
+        {
+            "text": "The letter explains our position, and the letter is not based",
+            "page_#": 27
+        },
+        {
+            "text": "exclusively on executive privilege.",
+            "page_#": 27
+        },
+        {
+            "text": "You need to read the letter, respectfully, Mr. Heaphy,",
+            "page_#": 27
+        },
+        {
+            "text": "very carefully.",
+            "page_#": 27
+        },
+        {
+            "text": "Well, Mr. Clark, I just got the letter when you walked in the door -The Witness.",
+            "page_#": 27
+        },
+        {
+            "text": "And that's why we're proposing that we depart for today.",
+            "page_#": 27
+        },
+        {
+            "text": "But you have a legal obligation to be here today to answer",
+            "page_#": 27
+        },
+        {
+            "text": "questions.",
+            "page_#": 27
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 27
+        },
+        {
+            "text": "I think, if you read the letter, you will see that even that is in",
+            "page_#": 27
+        },
+        {
+            "text": "dispute.",
+            "page_#": 27
+        },
+        {
+            "text": "I think your position is, again, a blanket assertion and refusal to",
+            "page_#": 27
+        },
+        {
+            "text": "answer --",
+            "page_#": 27
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 28
+        },
+        {
+            "text": "You continue to try to characterize my position as if it were that,",
+            "page_#": 28
+        },
+        {
+            "text": "but that's a mischaracterization, and we do not accept that.",
+            "page_#": 28
+        },
+        {
+            "text": "-",
+            "page_#": 28
+        },
+        {
+            "text": "Before we go off the record, let me see if anyone else -- Mr. Raskin,",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Kinzinger, Ms. Cheney -- have any questions.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 28
+        },
+        {
+            "text": "I just wonder if Mr. Clark's counsel has any authority for the",
+            "page_#": 28
+        },
+        {
+            "text": "proposition that he can categorically refuse to answer any questions as opposed to",
+            "page_#": 28
+        },
+        {
+            "text": "invoke the privilege he says he has with respect to the specific questions.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 28
+        },
+        {
+            "text": "Our legal authority is set forth in the letter, Congressman.",
+            "page_#": 28
+        },
+        {
+            "text": "Well, the letter seems to be the magic solution for everything, but",
+            "page_#": 28
+        },
+        {
+            "text": "could you name the Supreme Court decision that you're refusing to?",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 28
+        },
+        {
+            "text": "Congressman Raskin, as I previously stated, we're not going to",
+            "page_#": 28
+        },
+        {
+            "text": "engage in legal debate or argument over this.",
+            "page_#": 28
+        },
+        {
+            "text": "We've set forth a written objection.",
+            "page_#": 28
+        },
+        {
+            "text": "committee can respond to it in writing, and we'll deal with that at that time.",
+            "page_#": 28
+        },
+        {
+            "text": "The",
+            "page_#": 28
+        },
+        {
+            "text": "But we're",
+            "page_#": 28
+        },
+        {
+            "text": "not going to do Q&A on legal points in this deposition.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 28
+        },
+        {
+            "text": "Okay.",
+            "page_#": 28
+        },
+        {
+            "text": "Well, then, I will just state for the record that the",
+            "page_#": 28
+        },
+        {
+            "text": "subpoenaed witness has refused to answer any questions of fact.",
+            "page_#": 28
+        },
+        {
+            "text": "He's refused to",
+            "page_#": 28
+        },
+        {
+            "text": "engage in any questions and interpreting any questions of law and continually refers to",
+            "page_#": 28
+        },
+        {
+            "text": "the letter that they gave us today.",
+            "page_#": 28
+        },
+        {
+            "text": "So I would just say I think that this witness is",
+            "page_#": 28
+        },
+        {
+            "text": "categorically refusing to engage in any of the obligations that he's required to engage in.",
+            "page_#": 28
+        },
+        {
+            "text": "And I'll yield back.",
+            "page_#": 28
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Kinzinger.",
+            "page_#": 28
+        },
+        {
+            "text": "Mr. Kinzinger, go ahead.",
+            "page_#": 28
+        },
+        {
+            "text": "Just -- yeah.",
+            "page_#": 28
+        },
+        {
+            "text": "Just a real quick -- and, since the letter is the focus,",
+            "page_#": 28
+        },
+        {
+            "text": "can you tell me when this letter, if you would, was completed?",
+            "page_#": 28
+        },
+        {
+            "text": "Did you finish it",
+            "page_#": 28
+        },
+        {
+            "text": "5 minutes prior to coming in at 10 o'clock, being as you had a legal obligation to show up",
+            "page_#": 28
+        },
+        {
+            "text": "today, and is that why we just got this at this moment -- your legal obligation was",
+            "page_#": 28
+        },
+        {
+            "text": "completed just a couple minutes ago -- or had you had this in hand a few days prior when",
+            "page_#": 29
+        },
+        {
+            "text": "maybe you could have shared it and we would have been, you know, better armed to",
+            "page_#": 29
+        },
+        {
+            "text": "discuss since this is the only thing you're willing to discuss?",
+            "page_#": 29
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 29
+        },
+        {
+            "text": "Thank you, Congressman.",
+            "page_#": 29
+        },
+        {
+            "text": "You may not have been tuned in earlier when I explained t o - my",
+            "page_#": 29
+        },
+        {
+            "text": "apology for giving this to him just this morning.",
+            "page_#": 29
+        },
+        {
+            "text": "I was just engaged last week.",
+            "page_#": 29
+        },
+        {
+            "text": "We've been working continuously on this letter up",
+            "page_#": 29
+        },
+        {
+            "text": "through yesterday afternoon, late, and I've been conferring with Mr. Clark.",
+            "page_#": 29
+        },
+        {
+            "text": "So I've been",
+            "page_#": 29
+        },
+        {
+            "text": "continuously involved in the preparation of this letter since sometime last week.",
+            "page_#": 29
+        },
+        {
+            "text": "I can't remember what day I first got started, but it was just late.",
+            "page_#": 29
+        },
+        {
+            "text": "time.",
+            "page_#": 29
+        },
+        {
+            "text": "We didn't have",
+            "page_#": 29
+        },
+        {
+            "text": "We were working on it up through yesterday.",
+            "page_#": 29
+        },
+        {
+            "text": "And I apologize to the committee and to counsel and committee staff for any",
+            "page_#": 29
+        },
+        {
+            "text": "inconvenience that the late delivery of this position may have caused.",
+            "page_#": 29
+        },
+        {
+            "text": "best I can.",
+            "page_#": 29
+        },
+        {
+            "text": "It's just me.",
+            "page_#": 29
+        },
+        {
+            "text": "But I'm doing the",
+            "page_#": 29
+        },
+        {
+            "text": "It's just me trying to help Mr. Clark, and I've done everything",
+            "page_#": 29
+        },
+        {
+            "text": "that I could to get this ready in the time that I had available, and that went up almost to",
+            "page_#": 29
+        },
+        {
+            "text": "the last minute.",
+            "page_#": 29
+        },
+        {
+            "text": "Other members?",
+            "page_#": 29
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 29
+        },
+        {
+            "text": "Ms. Cheney, anything from you?",
+            "page_#": 29
+        },
+        {
+            "text": "Thank you very much-yes.",
+            "page_#": 29
+        },
+        {
+            "text": "I'd like to ask the witness when",
+            "page_#": 29
+        },
+        {
+            "text": "he first met Congressman Scott Perry?",
+            "page_#": 29
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 29
+        },
+        {
+            "text": "I will assert the privilege objection to that question,",
+            "page_#": 29
+        },
+        {
+            "text": "respectfully, Congressman Cheney.",
+            "page_#": 29
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 29
+        },
+        {
+            "text": "And what's the basis for the privilege assertion about your meeting",
+            "page_#": 29
+        },
+        {
+            "text": "a Member of Congress?",
+            "page_#": 29
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 29
+        },
+        {
+            "text": "The privilege objection is set forth in the letter, Congressman.",
+            "page_#": 29
+        },
+        {
+            "text": "It's a detailed legal question, and the parameters of the privileges that attend aides and",
+            "page_#": 29
+        },
+        {
+            "text": "advisers to the President extends in many directions.",
+            "page_#": 30
+        },
+        {
+            "text": "the committee, and it's a particular application.",
+            "page_#": 30
+        },
+        {
+            "text": "We understand that's disputed by",
+            "page_#": 30
+        },
+        {
+            "text": "But pending the resolution of the",
+            "page_#": 30
+        },
+        {
+            "text": "Trump v. Thompson case, we're not willing to answer any questions of that nature until",
+            "page_#": 30
+        },
+        {
+            "text": "we know exactly where the line is.",
+            "page_#": 30
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 30
+        },
+        {
+            "text": "And I'd like to also know when, Mr. Clark, you became engaged in",
+            "page_#": 30
+        },
+        {
+            "text": "the debates about the Georgia election procedure?",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 30
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 30
+        },
+        {
+            "text": "Same objection.",
+            "page_#": 30
+        },
+        {
+            "text": "I'm sorry.",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 30
+        },
+        {
+            "text": "Same objection, Congressman -- Representative.",
+            "page_#": 30
+        },
+        {
+            "text": "a Congressman a minute ago.",
+            "page_#": 30
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 30
+        },
+        {
+            "text": "Could you please state that for the record?",
+            "page_#": 30
+        },
+        {
+            "text": "I called you",
+            "page_#": 30
+        },
+        {
+            "text": "I apologize.",
+            "page_#": 30
+        },
+        {
+            "text": "So what objection is that?",
+            "page_#": 30
+        },
+        {
+            "text": "You're claiming executive privilege",
+            "page_#": 30
+        },
+        {
+            "text": "with respect to your knowledge about Georgia election procedures?",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 30
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 30
+        },
+        {
+            "text": "You're talking about me or Mr. Clark?",
+            "page_#": 30
+        },
+        {
+            "text": "I'm talking about Mr. Clark, your client.",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 30
+        },
+        {
+            "text": "We assert privileges in the letter that cover that,",
+            "page_#": 30
+        },
+        {
+            "text": "Representative.",
+            "page_#": 30
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 30
+        },
+        {
+            "text": "Did you have any interaction with any other Members of Congress?",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 30
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 30
+        },
+        {
+            "text": "Same objection, respectfully.",
+            "page_#": 30
+        },
+        {
+            "text": "And in terms of your assertions about Dominion voting machines",
+            "page_#": 30
+        },
+        {
+            "text": "and smart thermostats, could you explain where you got that information?",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 30
+        },
+        {
+            "text": "Ms. Cheney.",
+            "page_#": 30
+        },
+        {
+            "text": "Same objection, respectfully.",
+            "page_#": 30
+        },
+        {
+            "text": "So I just want to be clear that I want the record to show that",
+            "page_#": 30
+        },
+        {
+            "text": "Mr. Clark is refusing to answer any questions, including those questions that have nothing",
+            "page_#": 30
+        },
+        {
+            "text": "to do with any of his interaction with the President, questions that couldn't conceivably",
+            "page_#": 30
+        },
+        {
+            "text": "be covered by any assertion of executive privilege.",
+            "page_#": 30
+        },
+        {
+            "text": "And, with that, I'll yield back,",
+            "page_#": 31
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 31
+        },
+        {
+            "text": "Ms. Lofgren.",
+            "page_#": 31
+        },
+        {
+            "text": "Anyone else?",
+            "page_#": 31
+        },
+        {
+            "text": "Mr. Aguilar, Ms. Luria, Ms. Lofgren?",
+            "page_#": 31
+        },
+        {
+            "text": "I'm fine.",
+            "page_#": 31
+        },
+        {
+            "text": "No?",
+            "page_#": 31
+        },
+        {
+            "text": "Okay.",
+            "page_#": 31
+        },
+        {
+            "text": "Just a couple of things.",
+            "page_#": 31
+        },
+        {
+            "text": "well as deposition testimony.",
+            "page_#": 31
+        },
+        {
+            "text": "The subpoena also today was to produce documents as",
+            "page_#": 31
+        },
+        {
+            "text": "Are there any documents -- and this may be covered in",
+            "page_#": 31
+        },
+        {
+            "text": "the letter, but, again, haven't had a chance to read it -- that you have that are responsive",
+            "page_#": 31
+        },
+        {
+            "text": "to produce to the select committee?",
+            "page_#": 31
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 31
+        },
+        {
+            "text": "We are asserting the objection as to all the document",
+            "page_#": 31
+        },
+        {
+            "text": "requests, and noting in the letter that there is very substantial overlap between the",
+            "page_#": 31
+        },
+        {
+            "text": "letters -- the documents requested from the Archives -Okay.",
+            "page_#": 31
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 31
+        },
+        {
+            "text": "-- and the documents requested from Mr. Clark.",
+            "page_#": 31
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 31
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 31
+        },
+        {
+            "text": "And, consequently, we do not have any responsive documents",
+            "page_#": 31
+        },
+        {
+            "text": "for you today.",
+            "page_#": 31
+        },
+        {
+            "text": "Okay.",
+            "page_#": 31
+        },
+        {
+            "text": "So very substantial overlap suggests that there are some",
+            "page_#": 31
+        },
+        {
+            "text": "documents that Mr. Clark possesses that are not included in the Archives.",
+            "page_#": 31
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 31
+        },
+        {
+            "text": "Well, that's not right.",
+            "page_#": 31
+        },
+        {
+            "text": "Whether he has custody or control of",
+            "page_#": 31
+        },
+        {
+            "text": "the document is one thing.",
+            "page_#": 31
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 31
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 31
+        },
+        {
+            "text": "Whether it's covered in the request at the Archives is another.",
+            "page_#": 31
+        },
+        {
+            "text": "We specifically -- and I think this was the product of an email that I",
+            "page_#": 31
+        },
+        {
+            "text": "sent you -- have been interested in his use of a personal email",
+            "page_#": 31
+        },
+        {
+            "text": "Was there any use of that email for subject matters related to the select",
+            "page_#": 31
+        },
+        {
+            "text": "committee's inquiry, and have those documents been identified as responsive?",
+            "page_#": 32
+        },
+        {
+            "text": "[Witness conferred with counsel.]",
+            "page_#": 32
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 32
+        },
+        {
+            "text": "I'll answer.",
+            "page_#": 32
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 32
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 32
+        },
+        {
+            "text": "He'll answer the question.",
+            "page_#": 32
+        },
+        {
+            "text": "So my strong recollection, right -- and we're talking about events",
+            "page_#": 32
+        },
+        {
+            "text": "that are closing on a year ago -- is that that's not an email address that I established.",
+            "page_#": 32
+        },
+        {
+            "text": "That's an email address that the tech contractors who had offices inside DOJ for the Civil",
+            "page_#": 32
+        },
+        {
+            "text": "Division established, and that that was used for purposes of, you know -- so, if I would do",
+            "page_#": 32
+        },
+        {
+            "text": "an argument -- and I did several arguments, including in those months -- I wouldn't tend to",
+            "page_#": 32
+        },
+        {
+            "text": "do it from my desk.",
+            "page_#": 32
+        },
+        {
+            "text": "I would tend to do it either from a side desk that I had, or from the",
+            "page_#": 32
+        },
+        {
+            "text": "conference room.",
+            "page_#": 32
+        },
+        {
+            "text": "And so I would have the tech person set up a loaner laptop, and then I would email",
+            "page_#": 32
+        },
+        {
+            "text": "him the Zoom link or whatever, you know, the instrumentality was.",
+            "page_#": 32
+        },
+        {
+            "text": "And then I think -- so",
+            "page_#": 32
+        },
+        {
+            "text": "that -- I think he would open that account on the loaner laptop, and then, you know,",
+            "page_#": 32
+        },
+        {
+            "text": "connect to the court link for the argument.",
+            "page_#": 32
+        },
+        {
+            "text": "So I think that's what that account is for.",
+            "page_#": 32
+        },
+        {
+            "text": "I did make an effort to see if, you know -- I have senses of kind of like what",
+            "page_#": 32
+        },
+        {
+            "text": "passwords might be, could I log into that, and I couldn't.",
+            "page_#": 32
+        },
+        {
+            "text": "And I suspect, again, based on",
+            "page_#": 32
+        },
+        {
+            "text": "my best recollection as I sit here, that the reason why I couldn't log in is I didn't create the",
+            "page_#": 32
+        },
+        {
+            "text": "account, so I don't know what the password is.",
+            "page_#": 32
+        },
+        {
+            "text": "Did you use a gmail account, a personal email account, to conduct",
+            "page_#": 32
+        },
+        {
+            "text": "any official business during your time at the Department?",
+            "page_#": 32
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 32
+        },
+        {
+            "text": "I think that, on that, we're going to stand on the letter.",
+            "page_#": 32
+        },
+        {
+            "text": "How about personal cell phone?",
+            "page_#": 32
+        },
+        {
+            "text": "Were there communications, text",
+            "page_#": 32
+        },
+        {
+            "text": "messages that you might possess responsive to the subpoena on a personal device?",
+            "page_#": 32
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 32
+        },
+        {
+            "text": "Same as the last --",
+            "page_#": 32
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 33
+        },
+        {
+            "text": "Same objection.",
+            "page_#": 33
+        },
+        {
+            "text": "So, to be clear, no documents have been produced, and the letter",
+            "page_#": 33
+        },
+        {
+            "text": "indicates that, to the extent that documents in your possession are responsive, they're",
+            "page_#": 33
+        },
+        {
+            "text": "being withheld on the same assertion of executive privilege?",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 33
+        },
+        {
+            "text": "Correct.",
+            "page_#": 33
+        },
+        {
+            "text": "And the other privileges identified in the letter.",
+            "page_#": 33
+        },
+        {
+            "text": "There are other privileges identified in the letter, but the executive privilege is the front",
+            "page_#": 33
+        },
+        {
+            "text": "and center.",
+            "page_#": 33
+        },
+        {
+            "text": "Okay.",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 33
+        },
+        {
+            "text": "What are they?",
+            "page_#": 33
+        },
+        {
+            "text": "I'm sorry.",
+            "page_#": 33
+        },
+        {
+            "text": "Again --",
+            "page_#": 33
+        },
+        {
+            "text": "Well, there is a -- we enumerate, and I believe these are all",
+            "page_#": 33
+        },
+        {
+            "text": "subsidiary to the executive -That's my question.",
+            "page_#": 33
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 33
+        },
+        {
+            "text": "Are they all within the executive --",
+            "page_#": 33
+        },
+        {
+            "text": "No.",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 33
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 33
+        },
+        {
+            "text": "Well, no.",
+            "page_#": 33
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 33
+        },
+        {
+            "text": "That's a subtle legal point.",
+            "page_#": 33
+        },
+        {
+            "text": "I would say no.",
+            "page_#": 33
+        },
+        {
+            "text": "I think that you should look at the",
+            "page_#": 33
+        },
+        {
+            "text": "enumeration, and we stand on that.",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 33
+        },
+        {
+            "text": "And then we reserve any other objections or rights that he may",
+            "page_#": 33
+        },
+        {
+            "text": "have under the Constitution or otherwise.",
+            "page_#": 33
+        },
+        {
+            "text": "All right.",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 33
+        },
+        {
+            "text": "So --",
+            "page_#": 33
+        },
+        {
+            "text": "If I could just -Yes.",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 33
+        },
+        {
+            "text": "-- follow up on that question.",
+            "page_#": 33
+        },
+        {
+            "text": "What privilege are you asserting would apply to enable you to refuse to answer a",
+            "page_#": 33
+        },
+        {
+            "text": "question about whether you used personal electronic devices in the course of your",
+            "page_#": 33
+        },
+        {
+            "text": "government business?",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 33
+        },
+        {
+            "text": "We're asserting privileges set forth in the letter, Congressman.",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 34
+        },
+        {
+            "text": "privileges?",
+            "page_#": 34
+        },
+        {
+            "text": "And what privilege in particular, because you refer to a number of",
+            "page_#": 34
+        },
+        {
+            "text": "So, for this specific question -- that is, whether Mr. Clark used personal",
+            "page_#": 34
+        },
+        {
+            "text": "devices to communicate government business -- which specific privilege enables Mr. Clark",
+            "page_#": 34
+        },
+        {
+            "text": "to refuse to answer that question?",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 34
+        },
+        {
+            "text": "Given the lack of specificity of the question, we can do no more",
+            "page_#": 34
+        },
+        {
+            "text": "than allude to the privileges that are asserted in the letter, which are the full panoply of",
+            "page_#": 34
+        },
+        {
+            "text": "executive, Federal law enforcement, and so on, privileges that are in the letter, and plus",
+            "page_#": 34
+        },
+        {
+            "text": "the reservation that we've made.",
+            "page_#": 34
+        },
+        {
+            "text": "So, you know, I -- again, with respect, Congressman, we",
+            "page_#": 34
+        },
+        {
+            "text": "do not want to engage in a debate or a law school set of hypotheticals about this.",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 34
+        },
+        {
+            "text": "Well, counsel, you said my question wasn't very specific.",
+            "page_#": 34
+        },
+        {
+            "text": "Let me try",
+            "page_#": 34
+        },
+        {
+            "text": "to make it very, very specific.",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Clark, did you use personal electronic devices to conduct government business",
+            "page_#": 34
+        },
+        {
+            "text": "while you were at the Department of Justice?",
+            "page_#": 34
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 34
+        },
+        {
+            "text": "Yes or no?",
+            "page_#": 34
+        },
+        {
+            "text": "This has been asked and answered, Representative.",
+            "page_#": 34
+        },
+        {
+            "text": "I don't have an answer, so would you please answer the question for",
+            "page_#": 34
+        },
+        {
+            "text": "me?",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 34
+        },
+        {
+            "text": "We would object based on privileges set forth in the letter,",
+            "page_#": 34
+        },
+        {
+            "text": "Congressman.",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 34
+        },
+        {
+            "text": "And, counsel, which specific privilege entitles this witness to refuse to",
+            "page_#": 34
+        },
+        {
+            "text": "answer a question about whether he used personal devices -- I'm not asking about the",
+            "page_#": 34
+        },
+        {
+            "text": "content, not asking about communications with the President, but merely the simple fact",
+            "page_#": 34
+        },
+        {
+            "text": "of whether he used personal electronic devices to conduct government business.",
+            "page_#": 34
+        },
+        {
+            "text": "What",
+            "page_#": 34
+        },
+        {
+            "text": "specific privilege are you asserting that gives him the right to refuse to answer that",
+            "page_#": 34
+        },
+        {
+            "text": "question?",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 34
+        },
+        {
+            "text": "We rest on the privileges asserted in the letter, Congressman.",
+            "page_#": 34
+        },
+        {
+            "text": "We object.",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 35
+        },
+        {
+            "text": "Let the record reflect that counsel has cited no particular privilege to",
+            "page_#": 35
+        },
+        {
+            "text": "refuse to answer that question.",
+            "page_#": 35
+        },
+        {
+            "text": "So, Mr. MacDougald, I'm just looking at the letter, again, not having",
+            "page_#": 35
+        },
+        {
+            "text": "a chance yet to read it carefully.",
+            "page_#": 35
+        },
+        {
+            "text": "And, on page 2, it says, the general category of executive",
+            "page_#": 35
+        },
+        {
+            "text": "privilege, the specific categories of Presidential communications, law enforcement, and",
+            "page_#": 35
+        },
+        {
+            "text": "deliberative process privileges, as well as attorney-client privilege, and the work product",
+            "page_#": 35
+        },
+        {
+            "text": "doctrine, all harmonize on this point.",
+            "page_#": 35
+        },
+        {
+            "text": "Is that the universe of privileges that that sentence",
+            "page_#": 35
+        },
+        {
+            "text": "that I just read from your letter that Mr. Clark is asserting today?",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 35
+        },
+        {
+            "text": "Well, the -- you should read the entire letter",
+            "page_#": 35
+        },
+        {
+            "text": "I appreciate that, but I'm -- again, not having had a chance to do",
+            "page_#": 35
+        },
+        {
+            "text": "that, I just want to make sure it's clear on the record.",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 35
+        },
+        {
+            "text": "Well, we think the letter is clear, and the letter is on the record.",
+            "page_#": 35
+        },
+        {
+            "text": "At the time of these events, Mr. Clark was an employee of the",
+            "page_#": 35
+        },
+        {
+            "text": "Department of Justice, right, and his client was the people of the United States, not",
+            "page_#": 35
+        },
+        {
+            "text": "President Trump or anyone else.",
+            "page_#": 35
+        },
+        {
+            "text": "So help me understand how any attorney-client",
+            "page_#": 35
+        },
+        {
+            "text": "privilege could possibly be implicated when a Department of Justice official, a member of",
+            "page_#": 35
+        },
+        {
+            "text": "the executive branch, in the course of his professional responsibilities, is engaged in talking",
+            "page_#": 35
+        },
+        {
+            "text": "to his superiors or anyone else within the executive branch?",
+            "page_#": 35
+        },
+        {
+            "text": "I will say maybe for the fifth or sixth time, we're",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 35
+        },
+        {
+            "text": "not going to engage in legal argument on these points in the deposition.",
+            "page_#": 35
+        },
+        {
+            "text": "If you want to",
+            "page_#": 35
+        },
+        {
+            "text": "engage in legal argument in letters or court filings, we're happy to do that, but we're not",
+            "page_#": 35
+        },
+        {
+            "text": "going to do it in this deposition,",
+            "page_#": 35
+        },
+        {
+            "text": "Yeah",
+            "page_#": 35
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 35
+        },
+        {
+            "text": "And so I think we have, you know, reached an impasse and,",
+            "page_#": 35
+        },
+        {
+            "text": "consequently, we -The Witness.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 36
+        },
+        {
+            "text": "I -I have two follow-up --",
+            "page_#": 36
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 36
+        },
+        {
+            "text": "I would say that we've not reached an impasse, and there have been",
+            "page_#": 36
+        },
+        {
+            "text": "repeated attempts to characterize the position as absolutist.",
+            "page_#": 36
+        },
+        {
+            "text": "dialogue in the letter.",
+            "page_#": 36
+        },
+        {
+            "text": "We're inviting a",
+            "page_#": 36
+        },
+        {
+            "text": "But, for today, I think that we're done.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 36
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 36
+        },
+        {
+            "text": "It's not.",
+            "page_#": 36
+        },
+        {
+            "text": "We're done.",
+            "page_#": 36
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 36
+        },
+        {
+            "text": "We're done for the day.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Raskin, go ahead.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 36
+        },
+        {
+            "text": "Well, I just want to follow up on your question about the",
+            "page_#": 36
+        },
+        {
+            "text": "attorney-client privilege.",
+            "page_#": 36
+        },
+        {
+            "text": "Who is the attorney, and who is the client that are covered by the attorney-client",
+            "page_#": 36
+        },
+        {
+            "text": "privilege being invoked in the letter?",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 36
+        },
+        {
+            "text": "It's asked and answered.",
+            "page_#": 36
+        },
+        {
+            "text": "The privilege is set forth in the",
+            "page_#": 36
+        },
+        {
+            "text": "letter.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 36
+        },
+        {
+            "text": "Well, forgive me, because I'm not in the room right now.",
+            "page_#": 36
+        },
+        {
+            "text": "The letter",
+            "page_#": 36
+        },
+        {
+            "text": "arrived late, thank you for your apology about that, but one way to make that apology",
+            "page_#": 36
+        },
+        {
+            "text": "meaningful might be to restate the point of your own letter.",
+            "page_#": 36
+        },
+        {
+            "text": "Who is the attorney, and",
+            "page_#": 36
+        },
+        {
+            "text": "who is the client in the attorney-client privilege being asserted in your letter?",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 36
+        },
+        {
+            "text": "We're happy to engage in that dialogue in correspondence with",
+            "page_#": 36
+        },
+        {
+            "text": "committee counsel, but we're not going to do it in the deposition, Congressman.",
+            "page_#": 36
+        },
+        {
+            "text": "Mr. Raskin.",
+            "page_#": 36
+        },
+        {
+            "text": "Wow.",
+            "page_#": 36
+        },
+        {
+            "text": "Okay.",
+            "page_#": 36
+        },
+        {
+            "text": "I yield back to y o u , . Thanks.",
+            "page_#": 36
+        },
+        {
+            "text": "Okay.",
+            "page_#": 36
+        },
+        {
+            "text": "Well, I can tell you, Mr. MacDougald, that we're not going to",
+            "page_#": 36
+        },
+        {
+            "text": "conclude the deposition.",
+            "page_#": 37
+        },
+        {
+            "text": "I think what we'd like to do is take a recess, look again at your",
+            "page_#": 37
+        },
+        {
+            "text": "letter temporarily and reconvene, maybe in an hour or so.",
+            "page_#": 37
+        },
+        {
+            "text": "I understand the position, but,",
+            "page_#": 37
+        },
+        {
+            "text": "again, we have been given a letter with very substantial legal arguments that we just need",
+            "page_#": 37
+        },
+        {
+            "text": "a minute -- more than a minute -Mr. MacDougald.",
+            "page_#": 37
+        },
+        {
+            "text": "-",
+            "page_#": 37
+        },
+        {
+            "text": "I think you need more than a minute.",
+            "page_#": 37
+        },
+        {
+            "text": "I mean --",
+            "page_#": 37
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 37
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 37
+        },
+        {
+            "text": "-- to be fair to the witness, it will -- you need to let us go, and",
+            "page_#": 37
+        },
+        {
+            "text": "then you all study it and figure out what you want to say about it, and then we'll respond.",
+            "page_#": 37
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 37
+        },
+        {
+            "text": "-",
+            "page_#": 37
+        },
+        {
+            "text": "We --",
+            "page_#": 37
+        },
+        {
+            "text": "Respectfully, that's not the way it works.",
+            "page_#": 37
+        },
+        {
+            "text": ".",
+            "page_#": 37
+        },
+        {
+            "text": "subpoenaed to be here today.",
+            "page_#": 37
+        },
+        {
+            "text": "The witness was",
+            "page_#": 37
+        },
+        {
+            "text": "Whether it's an inconvenience for him to wait an hour or",
+            "page_#": 37
+        },
+        {
+            "text": "so while the committee and the staff discuss this, he doesn't have any right to avoid being",
+            "page_#": 37
+        },
+        {
+            "text": "inconvenienced by a brief delay like that.",
+            "page_#": 37
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 37
+        },
+        {
+            "text": "So I think the response on that is I see no indication, from the fact",
+            "page_#": 37
+        },
+        {
+            "text": "that the same questions are being asked over and over again, that anything is going to",
+            "page_#": 37
+        },
+        {
+            "text": "change as a result of that.",
+            "page_#": 37
+        },
+        {
+            "text": "have the dialogue.",
+            "page_#": 37
+        },
+        {
+            "text": "So, you know, we -- we're going to depart at this point.",
+            "page_#": 37
+        },
+        {
+            "text": "We want it to be open.",
+            "page_#": 37
+        },
+        {
+            "text": "We",
+            "page_#": 37
+        },
+        {
+            "text": "You can come back to us.",
+            "page_#": 37
+        },
+        {
+            "text": "And we recognize that the letter will require your study, but, you know, you've also",
+            "page_#": 37
+        },
+        {
+            "text": "placed me in a position where you did not give the full extension that was requested in",
+            "page_#": 37
+        },
+        {
+            "text": "light of personal circumstances and in light of, you know, the situation that's -- I have to",
+            "page_#": 37
+        },
+        {
+            "text": "deal with in terms of managing life generally, and so, I think, at this point, we would like to",
+            "page_#": 37
+        },
+        {
+            "text": "conclude things, and that's our position.",
+            "page_#": 37
+        },
+        {
+            "text": "Again, that's not a closed door.",
+            "page_#": 37
+        },
+        {
+            "text": "It's an open door to dialogue.",
+            "page_#": 37
+        },
+        {
+            "text": "Mr. Clark, with all due respect, the door has been open since July",
+            "page_#": 37
+        },
+        {
+            "text": "when the Department of Justice wrote you a letter.",
+            "page_#": 37
+        },
+        {
+            "text": "I first personally reached out to your",
+            "page_#": 37
+        },
+        {
+            "text": "counsel in August.",
+            "page_#": 38
+        },
+        {
+            "text": "interview.",
+            "page_#": 38
+        },
+        {
+            "text": "The indication was that perhaps you would come in for a voluntary",
+            "page_#": 38
+        },
+        {
+            "text": "And, when that ultimately was not something to which you agreed, the",
+            "page_#": 38
+        },
+        {
+            "text": "committee issued you a subpoena with a legal obligation.",
+            "page_#": 38
+        },
+        {
+            "text": "You changed counsel, and we gave your new counsel a brief indulgence because he",
+            "page_#": 38
+        },
+        {
+            "text": "had just been retained.",
+            "page_#": 38
+        },
+        {
+            "text": "And, as a matter of professional courtesy to Mr. MacDougald, we",
+            "page_#": 38
+        },
+        {
+            "text": "gave you an extra week.",
+            "page_#": 38
+        },
+        {
+            "text": "But, with all due respect, we have been willing to talk with you, work with you,",
+            "page_#": 38
+        },
+        {
+            "text": "wanted to do this voluntarily since this summer.",
+            "page_#": 38
+        },
+        {
+            "text": "So this is not a last-minute attempt to",
+            "page_#": 38
+        },
+        {
+            "text": "force you without ample notice of our interest to answer questions on the record.",
+            "page_#": 38
+        },
+        {
+            "text": "Our",
+            "page_#": 38
+        },
+        {
+            "text": "efforts in good faith to engage with you extend 4 months.",
+            "page_#": 38
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 38
+        },
+        {
+            "text": "So, as the letter indicates, I had been reviewing various things,",
+            "page_#": 38
+        },
+        {
+            "text": "studying legal doctrines, conferring with counsel, so we have similarly proceeded in good",
+            "page_#": 38
+        },
+        {
+            "text": "faith, and we continue to want to proceed in good faith.",
+            "page_#": 38
+        },
+        {
+            "text": "But, for today, you know, sitting here to have the same questions be asked and for",
+            "page_#": 38
+        },
+        {
+            "text": "attempts to, you know, respectfully, to be made to mischaracterize our position, that's not",
+            "page_#": 38
+        },
+        {
+            "text": "something that it seems to be prudent to continue to do.",
+            "page_#": 38
+        },
+        {
+            "text": "The Rules of the House provide that the chair will rule on objections",
+            "page_#": 38
+        },
+        {
+            "text": "or assertions of privilege.",
+            "page_#": 38
+        },
+        {
+            "text": "The chair has not yet had an opportunity to rule.",
+            "page_#": 38
+        },
+        {
+            "text": "Part of the",
+            "page_#": 38
+        },
+        {
+            "text": "reason for a brief recess and discussion with the chairman is to get -- again, this is all part",
+            "page_#": 38
+        },
+        {
+            "text": "of completing our record such that the committee can consider other options.",
+            "page_#": 38
+        },
+        {
+            "text": "So we can stand in recess subject to the call of the chair.",
+            "page_#": 38
+        },
+        {
+            "text": "deposition.",
+            "page_#": 38
+        },
+        {
+            "text": "We're not concluding the",
+            "page_#": 38
+        },
+        {
+            "text": "But the Rules of the House provide a recess subject to the call of the chair as",
+            "page_#": 38
+        },
+        {
+            "text": "we consult with him and seek his potential ruling on your executive privilege assertion.",
+            "page_#": 38
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 38
+        },
+        {
+            "text": "That involves procedures that you will decide how to invoke, and,",
+            "page_#": 38
+        },
+        {
+            "text": "you know -- but, in terms of our presence, though, we're going to depart.",
+            "page_#": 38
+        },
+        {
+            "text": "We've made",
+            "page_#": 38
+        },
+        {
+            "text": "our position clear, and we've made our willingness to engage in a dialogue from this point",
+            "page_#": 39
+        },
+        {
+            "text": "forward clear, and I think that's where we stand.",
+            "page_#": 39
+        },
+        {
+            "text": "-",
+            "page_#": 39
+        },
+        {
+            "text": "Before I go -- yeah, go ahead, Mr. Raskin.",
+            "page_#": 39
+        },
+        {
+            "text": "Mr. Raskin. \u2022, what I would just say is that what I'm taking from the",
+            "page_#": 39
+        },
+        {
+            "text": "representation is that Mr. Clark's lawyer has declared us at an impasse, and Mr. Clark has",
+            "page_#": 39
+        },
+        {
+            "text": "declared that they're going to leave despite the fact that they're being told to stay under",
+            "page_#": 39
+        },
+        {
+            "text": "the rules of the committee.",
+            "page_#": 39
+        },
+        {
+            "text": "That is precisely my interpretation.",
+            "page_#": 39
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 39
+        },
+        {
+            "text": "Much like -- much like our dispute about the notion of absolutism,",
+            "page_#": 39
+        },
+        {
+            "text": "the notion that we're at an impasse is also a mischaracterization.",
+            "page_#": 39
+        },
+        {
+            "text": "I've repeatedly said and",
+            "page_#": 39
+        },
+        {
+            "text": "the letter says that the dialogue remains open.",
+            "page_#": 39
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 39
+        },
+        {
+            "text": "And, counsel, I just want to add to the record that we were presented",
+            "page_#": 39
+        },
+        {
+            "text": "with this letter right -At 10 o'clock",
+            "page_#": 39
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 39
+        },
+        {
+            "text": "-- at 10 o'clock this morning.",
+            "page_#": 39
+        },
+        {
+            "text": "Counsel apologized for the late delivery",
+            "page_#": 39
+        },
+        {
+            "text": "of this letter, yet counsel has insisted that a one-hour recess to consider the letter further",
+            "page_#": 39
+        },
+        {
+            "text": "and consult with the chairman of the committee is beyond their willingness to",
+            "page_#": 39
+        },
+        {
+            "text": "accommodate, and it is their intention to walk out of the deposition notwithstanding the",
+            "page_#": 39
+        },
+        {
+            "text": "deposition continues.",
+            "page_#": 39
+        },
+        {
+            "text": "I yield back to counsel.",
+            "page_#": 39
+        },
+        {
+            "text": "-",
+            "page_#": 39
+        },
+        {
+            "text": "Again, my view is precisely the same as Mr. Raskin's and Mr. Schiff's.",
+            "page_#": 39
+        },
+        {
+            "text": "Disappointing, but we will consider you to have left the deposition that is subject to recall",
+            "page_#": 39
+        },
+        {
+            "text": "by the chair.",
+            "page_#": 39
+        },
+        {
+            "text": "Mr. MacDougald.",
+            "page_#": 39
+        },
+        {
+            "text": "Okay.",
+            "page_#": 39
+        },
+        {
+            "text": "[Mr. Clark and Mr. MacDougald left the deposition at 11:29 a.m.]",
+            "page_#": 39
+        },
+        {
+            "text": "Okay.",
+            "page_#": 40
+        },
+        {
+            "text": "We're still on the record, Ms. Lofgren.",
+            "page_#": 40
+        },
+        {
+            "text": "I just want to make",
+            "page_#": 40
+        },
+        {
+            "text": "sure that there are things that are entered for the record, right.",
+            "page_#": 40
+        },
+        {
+            "text": "Exhibit 1 is the letter to Mr. Clark that was sent by the Department of Justice on",
+            "page_#": 40
+        },
+        {
+            "text": "July 26th, 2021, which I'd ask that we mark and be part of the record as exhibit 1.",
+            "page_#": 40
+        },
+        {
+            "text": "I believe exhibit 2 will be the letter that Mr. MacDougald delivered to the select",
+            "page_#": 40
+        },
+        {
+            "text": "committee today.",
+            "page_#": 40
+        },
+        {
+            "text": "I don't think we need the subpoena to be an exhibit.",
+            "page_#": 40
+        },
+        {
+            "text": "That's already part of the",
+            "page_#": 40
+        },
+        {
+            "text": "committee's record.",
+            "page_#": 40
+        },
+        {
+            "text": "-",
+            "page_#": 40
+        },
+        {
+            "text": "We're okay because he showed up.",
+            "page_#": 40
+        },
+        {
+            "text": "He did.",
+            "page_#": 40
+        },
+        {
+            "text": "So those two exhibits and the DOJ letter and his letter to us",
+            "page_#": 40
+        },
+        {
+            "text": "will be formally part of the record of the deposition.",
+            "page_#": 40
+        },
+        {
+            "text": "[Clark Exhibit No. 1",
+            "page_#": 40
+        },
+        {
+            "text": "Was marked for identification.]",
+            "page_#": 40
+        },
+        {
+            "text": "[Clark Exhibit No. 2",
+            "page_#": 40
+        },
+        {
+            "text": "Was marked for identification.]",
+            "page_#": 40
+        },
+        {
+            "text": "And, before we go off the record, is there any other",
+            "page_#": 40
+        },
+        {
+            "text": "representations here, Mr. Schiff?",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 40
+        },
+        {
+            "text": "I would just like to include in the record a copy of the Bloomberg",
+            "page_#": 40
+        },
+        {
+            "text": "article that counsel for Mr. Clark references in which, per counsel's letter, Mr. Clark was",
+            "page_#": 40
+        },
+        {
+            "text": "disappointed it didn't include his discussion of January 6th, the interview that was",
+            "page_#": 40
+        },
+        {
+            "text": "published.",
+            "page_#": 40
+        },
+        {
+            "text": "He summarizes that conversation with the reporter, but was unwilling today to",
+            "page_#": 40
+        },
+        {
+            "text": "discuss even what he told the reporter during that interview, and failed to identify any",
+            "page_#": 40
+        },
+        {
+            "text": "privilege that would cover, even conceivably, an interview that Mr. Clark gave with the",
+            "page_#": 40
+        },
+        {
+            "text": "press about January 6.",
+            "page_#": 40
+        },
+        {
+            "text": "And I would like that to be included in the record.",
+            "page_#": 41
+        },
+        {
+            "text": "[Clark Exhibit No. 3",
+            "page_#": 41
+        },
+        {
+            "text": "Was marked for identification.]",
+            "page_#": 41
+        },
+        {
+            "text": "I appreciate that.",
+            "page_#": 41
+        },
+        {
+            "text": "What I would propose to do quickly is to go through the exercise that he refused",
+            "page_#": 41
+        },
+        {
+            "text": "to indulge and just put on the record the areas that I intended to develop with him, just,",
+            "page_#": 41
+        },
+        {
+            "text": "again, so that, for consideration by a court or by DOJ, at least the subject matters that we",
+            "page_#": 41
+        },
+        {
+            "text": "intended to develop are reflected in an official proceeding.",
+            "page_#": 41
+        },
+        {
+            "text": "And I just want to make sure that the record reflected when the",
+            "page_#": 41
+        },
+        {
+            "text": "witness left.",
+            "page_#": 41
+        },
+        {
+            "text": "It did.",
+            "page_#": 41
+        },
+        {
+            "text": "Okay.",
+            "page_#": 41
+        },
+        {
+            "text": "So -- and this won't take 5 hours, as Mr. Clark suggested,",
+            "page_#": 41
+        },
+        {
+            "text": "but I intended to develop with him a series of questions about documents, what he",
+            "page_#": 41
+        },
+        {
+            "text": "maintains, his use of personal devices or emails, to get a little bit more information about",
+            "page_#": 41
+        },
+        {
+            "text": "categories of responsive information that he maintains, whether or not he was",
+            "page_#": 41
+        },
+        {
+            "text": "withholding any of them on a privilege basis.",
+            "page_#": 41
+        },
+        {
+            "text": "He has not produced any documents or a",
+            "page_#": 41
+        },
+        {
+            "text": "privilege log to the committee.",
+            "page_#": 41
+        },
+        {
+            "text": "I then intended to develop very simple things about his background, his",
+            "page_#": 41
+        },
+        {
+            "text": "professional background, his educational background, his current employment.",
+            "page_#": 41
+        },
+        {
+            "text": "I would have proceeded then to questions about the institutional role of the",
+            "page_#": 41
+        },
+        {
+            "text": "Department of Justice in matters of election integrity.",
+            "page_#": 41
+        },
+        {
+            "text": "There was a November 9th",
+            "page_#": 41
+        },
+        {
+            "text": "memo from Attorney General Barr to the Department that authorized U.S. attorneys",
+            "page_#": 41
+        },
+        {
+            "text": "offices to investigate credible allegations of voter fraud.",
+            "page_#": 41
+        },
+        {
+            "text": "I wanted to ask him about the",
+            "page_#": 41
+        },
+        {
+            "text": "Civil Division or the Environment of Natural Resources Division having any role in voter",
+            "page_#": 41
+        },
+        {
+            "text": "fraud investigations.",
+            "page_#": 41
+        },
+        {
+            "text": "I wanted to ask him about communications he had with President Trump, from his",
+            "page_#": 41
+        },
+        {
+            "text": "initial introduction to President Trump, which we think occurred sometime in December",
+            "page_#": 42
+        },
+        {
+            "text": "of 2020, the role of Congressman Perry or Mark Meadows in facilitating that introduction,",
+            "page_#": 42
+        },
+        {
+            "text": "what they discussed, whether it was about the election or otherwise; who else might",
+            "page_#": 42
+        },
+        {
+            "text": "have participated in the communication with President Trump, and the specific",
+            "page_#": 42
+        },
+        {
+            "text": "representations of that discussion.",
+            "page_#": 42
+        },
+        {
+            "text": "We wanted to talk to him about the White House contacts policy and the fact that",
+            "page_#": 42
+        },
+        {
+            "text": "his communications with the President violated that White House policy, and the fact that",
+            "page_#": 42
+        },
+        {
+            "text": "he didn't notify Attorney General Rosen or Deputy Attorney General Donaghue of those",
+            "page_#": 42
+        },
+        {
+            "text": "communications.",
+            "page_#": 42
+        },
+        {
+            "text": "We wanted to talk about the reaction by the Department of Justice leadership to",
+            "page_#": 42
+        },
+        {
+            "text": "their discovery of that meeting, any representations he made to them.",
+            "page_#": 42
+        },
+        {
+            "text": "We then wanted to talk specifically about efforts that he took, proposed that the",
+            "page_#": 42
+        },
+        {
+            "text": "Department take with respect to election fraud.",
+            "page_#": 42
+        },
+        {
+            "text": "We wanted to ask him, for instance,",
+            "page_#": 42
+        },
+        {
+            "text": "about an ODNI briefing that he sought about alleged interference with Dominion voting",
+            "page_#": 42
+        },
+        {
+            "text": "machines by the Chinese Government, and a draft letter to Georgia officials that he put",
+            "page_#": 42
+        },
+        {
+            "text": "forth that asked the Department, or was the Department asking Georgia legislative",
+            "page_#": 42
+        },
+        {
+            "text": "officials to convene a special session and consider the appointment of an alternate slate",
+            "page_#": 42
+        },
+        {
+            "text": "of electors.",
+            "page_#": 42
+        },
+        {
+            "text": "We intended to go through specific representations in that draft letter and",
+            "page_#": 42
+        },
+        {
+            "text": "ask for their basis.",
+            "page_#": 42
+        },
+        {
+            "text": "I also wanted to ask him about metadata in that draft letter that indicates some",
+            "page_#": 42
+        },
+        {
+            "text": "involvement with the White House Communications Agency and the drafting or",
+            "page_#": 42
+        },
+        {
+            "text": "preparation of that letter.",
+            "page_#": 42
+        },
+        {
+            "text": "I also wanted to ask him about the response to that proposal from Mr. Rosen and",
+            "page_#": 42
+        },
+        {
+            "text": "Mr. Clark, which was very strongly negative, Mr. Donaghue's indication that it was",
+            "page_#": 42
+        },
+        {
+            "text": "factually inaccurate because the Department was not investigating serious allegations of",
+            "page_#": 42
+        },
+        {
+            "text": "fraud, and institutionally, it would be inappropriate for the Department to suggest to a",
+            "page_#": 43
+        },
+        {
+            "text": "State that it convene its legislature in a special session, get his reaction to Mr. Donaghue's",
+            "page_#": 43
+        },
+        {
+            "text": "criticism of those two proposals.",
+            "page_#": 43
+        },
+        {
+            "text": "I wanted to ask him about a December 28th meeting -- subsequent meeting with",
+            "page_#": 43
+        },
+        {
+            "text": "Rosen and Donaghue about additional conversations with the White House about the",
+            "page_#": 43
+        },
+        {
+            "text": "Georgia draft letter or other possible steps to take -- that the Department would take to",
+            "page_#": 43
+        },
+        {
+            "text": "intervene in the counting of the votes.",
+            "page_#": 43
+        },
+        {
+            "text": "I wanted to ask him specifically about whether he had any involvement in the",
+            "page_#": 43
+        },
+        {
+            "text": "appointment of a special counsel, the possibility of holding a press conference to",
+            "page_#": 43
+        },
+        {
+            "text": "announce the Department's involvement, or the Department's joining a Supreme Court",
+            "page_#": 43
+        },
+        {
+            "text": "case as a potential plaintiff despite other professionals in the Department indicating that",
+            "page_#": 43
+        },
+        {
+            "text": "the Department had no standing.",
+            "page_#": 43
+        },
+        {
+            "text": "We ultimately wanted to ask him about efforts by the President to install him as",
+            "page_#": 43
+        },
+        {
+            "text": "Acting Attorney General, the basis for that possibility, his discussions with the President",
+            "page_#": 43
+        },
+        {
+            "text": "about actions he might take if he were appointed as Acting Attorney General.",
+            "page_#": 43
+        },
+        {
+            "text": "There",
+            "page_#": 43
+        },
+        {
+            "text": "was a -- wanted to ask him ultimately about a meeting in the Oval Office with the",
+            "page_#": 43
+        },
+        {
+            "text": "President and others at which his possible appointment as Acting Attorney General was",
+            "page_#": 43
+        },
+        {
+            "text": "discussed and when the President ultimately decided not to make a change and appoint",
+            "page_#": 43
+        },
+        {
+            "text": "Mr. Clark as the Acting Attorney General.",
+            "page_#": 43
+        },
+        {
+            "text": "Finally, we wanted to ask him a series of questions about things beyond his",
+            "page_#": 43
+        },
+        {
+            "text": "interactions with the President.",
+            "page_#": 43
+        },
+        {
+            "text": "For instance, his potential involvement in meetings in",
+            "page_#": 43
+        },
+        {
+            "text": "advance of January 6th with campaign officials, with lawyers who purported to represent",
+            "page_#": 43
+        },
+        {
+            "text": "the former President, who had come up with theories as to the Vice President's authority",
+            "page_#": 43
+        },
+        {
+            "text": "to reject slates of electors.",
+            "page_#": 43
+        },
+        {
+            "text": "We wanted to ask him about the Willard War Room and communications with",
+            "page_#": 43
+        },
+        {
+            "text": "Steve Bannon, Rudy Giuliani, Bernie Kerik, John Eastman, and others.",
+            "page_#": 44
+        },
+        {
+            "text": "We wanted to ask",
+            "page_#": 44
+        },
+        {
+            "text": "him about what he did and what he was aware of on January 6th itself.",
+            "page_#": 44
+        },
+        {
+            "text": "We wanted to",
+            "page_#": 44
+        },
+        {
+            "text": "ask him about further interactions at any time he had with the Chief of Staff Mark",
+            "page_#": 44
+        },
+        {
+            "text": "Meadows, including Mr. Meadows' travel to Georgia, and interaction with Georgia State",
+            "page_#": 44
+        },
+        {
+            "text": "officials.",
+            "page_#": 44
+        },
+        {
+            "text": "We wanted to ask Mr. Clark about any campaign activities or discussions with",
+            "page_#": 44
+        },
+        {
+            "text": "representatives of the Trump campaign, Bill Stepien, and Jason Miller.",
+            "page_#": 44
+        },
+        {
+            "text": "We wanted to get his substantive view on the Eastman memos.",
+            "page_#": 44
+        },
+        {
+            "text": "The Eastman",
+            "page_#": 44
+        },
+        {
+            "text": "memos put forward the theory that the Vice President need not certify the slates of",
+            "page_#": 44
+        },
+        {
+            "text": "electors that were put forth and were pending his review on January the 6th.",
+            "page_#": 44
+        },
+        {
+            "text": "We wanted to ask him about any discussions he had with various State officials in",
+            "page_#": 44
+        },
+        {
+            "text": "Georgia, in Pennsylvania, or elsewhere.",
+            "page_#": 44
+        },
+        {
+            "text": "We wanted to ask him about interaction with a man named John Lott, who",
+            "page_#": 44
+        },
+        {
+            "text": "worked at the Department of Justice and wrote a memo that involved some allegations of",
+            "page_#": 44
+        },
+        {
+            "text": "voter fraud.",
+            "page_#": 44
+        },
+        {
+            "text": "And we wanted to ask him about the Gohmert v. Pence litigation, the one matter",
+            "page_#": 44
+        },
+        {
+            "text": "in which the Department did intervene, but simply to indicate that there was no standing",
+            "page_#": 44
+        },
+        {
+            "text": "by the plaintiff, Congressman Gohmert, to bring that litigation.",
+            "page_#": 44
+        },
+        {
+            "text": "Mr. Clark actually signed",
+            "page_#": 44
+        },
+        {
+            "text": "the pleading indicating that the Department -- the Department's view that Mr. Gohmert",
+            "page_#": 44
+        },
+        {
+            "text": "had no standing, and the case should be dismissed.",
+            "page_#": 44
+        },
+        {
+            "text": "Let me stop and see if any of my colleagues have additional subject matters that",
+            "page_#": 44
+        },
+        {
+            "text": "they wanted to flag so that the record reflects the universe of things that we wanted to",
+            "page_#": 44
+        },
+        {
+            "text": "develop with Mr. Clark. -",
+            "page_#": 44
+        },
+        {
+            "text": "Nope.",
+            "page_#": 44
+        },
+        {
+            "text": "No.",
+            "page_#": 44
+        },
+        {
+            "text": "o r - anything?",
+            "page_#": 44
+        },
+        {
+            "text": "The only caveat I'd have to all of that was that that is what we",
+            "page_#": 45
+        },
+        {
+            "text": "intended to ask him as of now, but that this is an ongoing investigation.",
+            "page_#": 45
+        },
+        {
+            "text": "We continue to",
+            "page_#": 45
+        },
+        {
+            "text": "develop new facts and seek documents that we haven't yet received, and that that may",
+            "page_#": 45
+        },
+        {
+            "text": "not ultimately be the final universe of subject matters for Mr. Clark.",
+            "page_#": 45
+        },
+        {
+            "text": "But that is what we",
+            "page_#": 45
+        },
+        {
+            "text": "intended to ask him about today.",
+            "page_#": 45
+        },
+        {
+            "text": "And, of course, any other questions that would come up as a result",
+            "page_#": 45
+        },
+        {
+            "text": "of things that Mr. Clark told us in the deposition.",
+            "page_#": 45
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 45
+        },
+        {
+            "text": "For the record -- I suppose it's clear, but to make it crystal clear, I proposed going",
+            "page_#": 45
+        },
+        {
+            "text": "through that list on the record with Mr. Clark so that he and his lawyer would have a",
+            "page_#": 45
+        },
+        {
+            "text": "sense of the subject matters and would articulate in response to each category the basis",
+            "page_#": 45
+        },
+        {
+            "text": "for his assertion of executive privilege.",
+            "page_#": 45
+        },
+        {
+            "text": "He refused to indulge, walked out of the",
+            "page_#": 45
+        },
+        {
+            "text": "deposition before we had a chance to ask those questions.",
+            "page_#": 45
+        },
+        {
+            "text": "So I'm now simply making this for the record, but not for Mr. Clark, because he",
+            "page_#": 45
+        },
+        {
+            "text": "has left the deposition.",
+            "page_#": 45
+        },
+        {
+            "text": "All right.",
+            "page_#": 45
+        },
+        {
+            "text": "Anything else that anyone has before we go off the record? . ,",
+            "page_#": 45
+        },
+        {
+            "text": "anything?",
+            "page_#": 45
+        },
+        {
+            "text": "Mr. Schiff, any other statements that we want to make sure are reflected in the",
+            "page_#": 45
+        },
+        {
+            "text": "official record?",
+            "page_#": 45
+        },
+        {
+            "text": "Mr. Schiff.",
+            "page_#": 45
+        },
+        {
+            "text": "Well, I know our committee wanted to ask, among other questions,",
+            "page_#": 45
+        },
+        {
+            "text": "whether he had destroyed or erased any cell phone or other digital device during the",
+            "page_#": 45
+        },
+        {
+            "text": "course of 2021.",
+            "page_#": 45
+        },
+        {
+            "text": "But, as he would not even answer questions as to whether he used",
+            "page_#": 45
+        },
+        {
+            "text": "personal devices for the conduct of government business, he did not allow us the",
+            "page_#": 45
+        },
+        {
+            "text": "opportunity to ask that line of questioning either.",
+            "page_#": 45
+        },
+        {
+            "text": "I viewed his refusal as categorical, without even an assertion of privilege or a",
+            "page_#": 45
+        },
+        {
+            "text": "claimed assertion of privilege, but a constant reference to a letter, a letter that, in and of",
+            "page_#": 46
+        },
+        {
+            "text": "itself, was not from the former President directing him not to testify.",
+            "page_#": 46
+        },
+        {
+            "text": "There has been no",
+            "page_#": 46
+        },
+        {
+            "text": "legal action by the former President to intervene in this proceeding.",
+            "page_#": 46
+        },
+        {
+            "text": "Given that his colleagues in the Justice Department in higher positions of authority",
+            "page_#": 46
+        },
+        {
+            "text": "have testified and his refusal even to answer questions about his statements about",
+            "page_#": 46
+        },
+        {
+            "text": "January 6th made to the press, those refusals at least strike this member of the",
+            "page_#": 46
+        },
+        {
+            "text": "committee as not in good faith, and I yield back.",
+            "page_#": 46
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 46
+        },
+        {
+            "text": "Mrs. Luria.",
+            "page_#": 46
+        },
+        {
+            "text": "Any other Members?",
+            "page_#": 46
+        },
+        {
+            "text": "Yes?",
+            "page_#": 46
+        },
+        {
+            "text": "Mrs. Luria.",
+            "page_#": 46
+        },
+        {
+            "text": "I just wanted to add for the record that, you know, although he",
+            "page_#": 46
+        },
+        {
+            "text": "referred to the letter numerous times and refused to answer the vast majority of",
+            "page_#": 46
+        },
+        {
+            "text": "questions, I felt that he negated his claim to privilege by actually -- his universal claim to",
+            "page_#": 46
+        },
+        {
+            "text": "privilege for every question by actually answering a select question about the abuse of",
+            "page_#": 46
+        },
+        {
+            "text": "the gmail account.",
+            "page_#": 46
+        },
+        {
+            "text": "So, although he claimed overall privilege, he did negate that on his own by",
+            "page_#": 46
+        },
+        {
+            "text": "answering a single question, and so that -- I just wanted to place that that was my",
+            "page_#": 46
+        },
+        {
+            "text": "impression on the record.",
+            "page_#": 46
+        },
+        {
+            "text": "Uh-huh.",
+            "page_#": 46
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 46
+        },
+        {
+            "text": "All right.",
+            "page_#": 46
+        },
+        {
+            "text": "Any other members of the committee?",
+            "page_#": 46
+        },
+        {
+            "text": "And I'll say that this record will remain open and that we are just going to -- the",
+            "page_#": 46
+        },
+        {
+            "text": "deposition will stand in recess subject to the call of the chair, so the record will not be",
+            "page_#": 46
+        },
+        {
+            "text": "closed, but does anyone else have anything now to add?",
+            "page_#": 46
+        },
+        {
+            "text": "No?",
+            "page_#": 46
+        },
+        {
+            "text": "I think I made my points about the state of engagement with Mr. Clark.",
+            "page_#": 46
+        },
+        {
+            "text": "select committee reached out to him through counsel back in August.",
+            "page_#": 46
+        },
+        {
+            "text": "The",
+            "page_#": 46
+        },
+        {
+            "text": "We repeatedly",
+            "page_#": 46
+        },
+        {
+            "text": "sought his voluntary cooperation, and it wasn't until he indicated he would not agree to a",
+            "page_#": 46
+        },
+        {
+            "text": "date for a voluntary cooperation that we moved to issue him a subpoena",
+            "page_#": 46
+        },
+        {
+            "text": "He changed counsel very late, only about a week ago.",
+            "page_#": 46
+        },
+        {
+            "text": "Mr. MacDougald was",
+            "page_#": 46
+        },
+        {
+            "text": "retained a week ago, but he had previous counsel with whom we were very directly",
+            "page_#": 47
+        },
+        {
+            "text": "engaged on multiple occasions.",
+            "page_#": 47
+        },
+        {
+            "text": "All right.",
+            "page_#": 47
+        },
+        {
+            "text": "Then I think we can go off the record at this point with the caveat that",
+            "page_#": 47
+        },
+        {
+            "text": "the deposition will stand in recess subject to the call of the chair.",
+            "page_#": 47
+        },
+        {
+            "text": "[Whereupon, at 11:43 a.m., the deposition was recessed, subject to the call of the",
+            "page_#": 47
+        },
+        {
+            "text": "chair.]",
+            "page_#": 47
+        },
+        {
+            "text": "[4:15 p.m.]",
+            "page_#": 48
+        },
+        {
+            "text": "Chairman Thompson.",
+            "page_#": 48
+        },
+        {
+            "text": "So we will reconvene the deposition of Jeffrey Bossert",
+            "page_#": 48
+        },
+        {
+            "text": "Clark.",
+            "page_#": 48
+        },
+        {
+            "text": "The committee will come to order.",
+            "page_#": 48
+        },
+        {
+            "text": "I understand that",
+            "page_#": 48
+        },
+        {
+            "text": "he Select Committee's Chief Investigative Counsel,",
+            "page_#": 48
+        },
+        {
+            "text": "can update the committee on additional communications with Mr. Clark's attorney.",
+            "page_#": 48
+        },
+        {
+            "text": "And I now recognize",
+            "page_#": 48
+        },
+        {
+            "text": "Thank you, Mr. Chairman.",
+            "page_#": 48
+        },
+        {
+            "text": "Upon the postponement or the recess of -- not postponement -- the recess of the",
+            "page_#": 48
+        },
+        {
+            "text": "deposition this morning, I immediately reached out to Harry MacDougald, who's counsel",
+            "page_#": 48
+        },
+        {
+            "text": "to Mr. Clark.",
+            "page_#": 48
+        },
+        {
+            "text": "Called him.",
+            "page_#": 48
+        },
+        {
+            "text": "His cell phone, voice mail was full.",
+            "page_#": 48
+        },
+        {
+            "text": "message, asking him to call me.",
+            "page_#": 48
+        },
+        {
+            "text": "Sent him a text",
+            "page_#": 48
+        },
+        {
+            "text": "And then sent an email, essentially letting him know we",
+            "page_#": 48
+        },
+        {
+            "text": "were going to reconvene at 4:00 o'clock for the purpose of you, Mr. Chairman,",
+            "page_#": 48
+        },
+        {
+            "text": "considering and ruling upon his objection, and received an email response from",
+            "page_#": 48
+        },
+        {
+            "text": "Mr. MacDougald at 3:25 p.m., indicating that he was already en route back to his office in",
+            "page_#": 48
+        },
+        {
+            "text": "Atlanta.",
+            "page_#": 48
+        },
+        {
+            "text": "He said it will not be possible for us to return at 4:00.",
+            "page_#": 48
+        },
+        {
+            "text": "Mr. Clark to appear without counsel.",
+            "page_#": 48
+        },
+        {
+            "text": "He could not allow",
+            "page_#": 48
+        },
+        {
+            "text": "And then he sets forth some specific objections to",
+            "page_#": 48
+        },
+        {
+            "text": "the process, the rules of the House which have the chairman ruling on objections.",
+            "page_#": 48
+        },
+        {
+            "text": "And I will make that email exchange part of the record as an exhibit to the",
+            "page_#": 48
+        },
+        {
+            "text": "deposition.",
+            "page_#": 48
+        },
+        {
+            "text": "Chairman Thompson.",
+            "page_#": 48
+        },
+        {
+            "text": "Thank you very much.",
+            "page_#": 48
+        },
+        {
+            "text": "Earlier today, Mr. Clark's attorney, Harry MacDougald, delivered to the",
+            "page_#": 48
+        },
+        {
+            "text": "Select Committee a letter asserting blanket privileges and objecting to Mr. Clark's further",
+            "page_#": 48
+        },
+        {
+            "text": "participation in the subpoenaed deposition.",
+            "page_#": 49
+        },
+        {
+            "text": "Pursuant to House Deposition Authority Regulation 7, a witness may refuse to",
+            "page_#": 49
+        },
+        {
+            "text": "answer questions only to preserve a privilege.",
+            "page_#": 49
+        },
+        {
+            "text": "That same authority empowers the chair",
+            "page_#": 49
+        },
+        {
+            "text": "to rule on any objection.",
+            "page_#": 49
+        },
+        {
+            "text": "Do we want to recognize other members?",
+            "page_#": 49
+        },
+        {
+            "text": "discussion.",
+            "page_#": 49
+        },
+        {
+            "text": "If so, we could open the floor for",
+            "page_#": 49
+        },
+        {
+            "text": "I know Mr. Raskin, who's in a CBC meeting, had indicated he wanted to say",
+            "page_#": 49
+        },
+        {
+            "text": "something or potentially.",
+            "page_#": 49
+        },
+        {
+            "text": "Does any other member wish to be heard on the objection?",
+            "page_#": 49
+        },
+        {
+            "text": "Ms. Lofgren.",
+            "page_#": 49
+        },
+        {
+            "text": "I think it's quite clear that Mr. Clark has failed to adhere to the",
+            "page_#": 49
+        },
+        {
+            "text": "subpoena, the Rules of the House, the precedence in law, in statute, and is completely",
+            "page_#": 49
+        },
+        {
+            "text": "acting in a lawless way.",
+            "page_#": 49
+        },
+        {
+            "text": "Chairman Thompson.",
+            "page_#": 49
+        },
+        {
+            "text": "Well, I thank the gentlelady.",
+            "page_#": 49
+        },
+        {
+            "text": "And the chair, at this point,",
+            "page_#": 49
+        },
+        {
+            "text": "is prepared to rule on the objection.",
+            "page_#": 49
+        },
+        {
+            "text": "As I stated in a letter I sent to Mr. Clark's attorney this afternoon, Mr. Clark does",
+            "page_#": 49
+        },
+        {
+            "text": "not enjoy categorical claims of privilege across every elements of the Select Committee",
+            "page_#": 49
+        },
+        {
+            "text": "investigation as authorized by House Resolution 503.",
+            "page_#": 49
+        },
+        {
+            "text": "Accordingly, I overrule the objections asserted by Mr. Clark and direct the witness",
+            "page_#": 49
+        },
+        {
+            "text": "to answer the questions posed by members and committee counsel, asserting relevant",
+            "page_#": 49
+        },
+        {
+            "text": "specific privileges on a question-by-question basis.",
+            "page_#": 49
+        },
+        {
+            "text": "Since the witness has decided not to reappear pursuant to notice, my ruling will",
+            "page_#": 49
+        },
+        {
+            "text": "be communicated to Mr. Clark in writing.",
+            "page_#": 49
+        },
+        {
+            "text": "The chair will allow Mr. Clark, until Tuesday,",
+            "page_#": 49
+        },
+        {
+            "text": "to cooperate with my direction to answer the Select Committee's questions in light of this",
+            "page_#": 49
+        },
+        {
+            "text": "ruling.",
+            "page_#": 49
+        },
+        {
+            "text": "Accordingly, the deposition stands in recess subject to the call of the chair.",
+            "page_#": 49
+        },
+        {
+            "text": "will close that part of the deposition.",
+            "page_#": 49
+        },
+        {
+            "text": "And we will now, for the benefit of the",
+            "page_#": 49
+        },
+        {
+            "text": "We",
+            "page_#": 49
+        },
+        {
+            "text": "Select Committee, just talk about the committee's business, strategy, and what other",
+            "page_#": 50
+        },
+        {
+            "text": "items we might want to discuss.",
+            "page_#": 50
+        },
+        {
+            "text": "-",
+            "page_#": 50
+        },
+        {
+            "text": "Mr. Chairman, thank you.",
+            "page_#": 50
+        },
+        {
+            "text": "We wanted to go off the record.",
+            "page_#": 50
+        },
+        {
+            "text": "We want to make sure we can go off the record",
+            "page_#": 50
+        },
+        {
+            "text": "now.",
+            "page_#": 50
+        },
+        {
+            "text": "We will let the court reporter go and thank her very much for her patience today.",
+            "page_#": 50
+        },
+        {
+            "text": "So we are off the record as of now.",
+            "page_#": 50
+        },
+        {
+            "text": "[Whereupon, at 4:21 p.m., the committee was recessed, subject to the call of the",
+            "page_#": 50
+        },
+        {
+            "text": "chair.]",
+            "page_#": 50
+        }
+    ]
+}

@@ -1,0 +1,6570 @@
+{
+    "title": "CTRL0000050585 - Transcribed Interview of James P. Waldron, (February 18, 2022)",
+    "id": "CTRL0000050585",
+    "date": "February 18, 2022",
+    "url_desc": "https://www.govinfo.gov/app/details/GPO-J6-TRANSCRIPT-CTRL0000050585/",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000050585/pdf/GPO-J6-TRANSCRIPT-CTRL0000050585.pdf#page=",
+    "witness": "James P. Waldron",
+    "data": [
+        {
+            "text": "SELECT COMMITTEE TO INVESTIGATE THE",
+            "page_#": 1
+        },
+        {
+            "text": "JANUARY 6TH ATTACK ON THE U.S. CAPITOL,",
+            "page_#": 1
+        },
+        {
+            "text": "U.S. HOUSE OF REPRESENTATIVES,",
+            "page_#": 1
+        },
+        {
+            "text": "WASHINGTON, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "DEPOSITION OF:",
+            "page_#": 1
+        },
+        {
+            "text": "JAMES P. WALDRON",
+            "page_#": 1
+        },
+        {
+            "text": "Friday, February 18, 2022",
+            "page_#": 1
+        },
+        {
+            "text": "Washington, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "The deposition in the above matter was held via Webex, commencing at 11:14",
+            "page_#": 1
+        },
+        {
+            "text": "a.m.",
+            "page_#": 1
+        },
+        {
+            "text": "Present:",
+            "page_#": 1
+        },
+        {
+            "text": "Representative Aguilar.",
+            "page_#": 1
+        },
+        {
+            "text": "Appearances:",
+            "page_#": 2
+        },
+        {
+            "text": "For the SELECT COMMITTEE TO INVESTIGATE",
+            "page_#": 2
+        },
+        {
+            "text": "THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL:",
+            "page_#": 2
+        },
+        {
+            "text": "STAFF ASSOCIATE",
+            "page_#": 2
+        },
+        {
+            "text": "SENIOR INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": ", CHIEF INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": ", CHIEF CLERK",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": "For the WITNESS:",
+            "page_#": 2
+        },
+        {
+            "text": "S. MICHAEL MCCOLLOCH",
+            "page_#": 2
+        },
+        {
+            "text": "KAREN COOK",
+            "page_#": 2
+        },
+        {
+            "text": "Mr..",
+            "page_#": 3
+        },
+        {
+            "text": "Let's go on the record.",
+            "page_#": 3
+        },
+        {
+            "text": "This is the -- ah, yes, I meant to mention that beforehand.",
+            "page_#": 3
+        },
+        {
+            "text": "The meeting is being",
+            "page_#": 3
+        },
+        {
+            "text": "recorded.",
+            "page_#": 3
+        },
+        {
+            "text": "While there is a -- there'll be a recording of this video, the official record will",
+            "page_#": 3
+        },
+        {
+            "text": "be the transcript that's prepared by the official reporters, who you'll see are participants",
+            "page_#": 3
+        },
+        {
+            "text": "here in the meeting.",
+            "page_#": 3
+        },
+        {
+            "text": "forward.",
+            "page_#": 3
+        },
+        {
+            "text": "I'll talk a little bit more about sort of the ground rules as we move",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Mccolloch.",
+            "page_#": 3
+        },
+        {
+            "text": "I hate to interrupt but just before I forget, as with most",
+            "page_#": 3
+        },
+        {
+            "text": "depositions, we will need to review the transcript draft before it goes final, and I assume",
+            "page_#": 3
+        },
+        {
+            "text": "we can get a copy of the recording once it's -- once this is concluded?",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. -",
+            "page_#": 3
+        },
+        {
+            "text": "So, no, I'm going to cover that.",
+            "page_#": 3
+        },
+        {
+            "text": "Let me get to that.",
+            "page_#": 3
+        },
+        {
+            "text": "Let me just",
+            "page_#": 3
+        },
+        {
+            "text": "sort of introduce the deposition and the players, and then I'll talk a little bit about the",
+            "page_#": 3
+        },
+        {
+            "text": "ground rules and the transcript, Mike.",
+            "page_#": 3
+        },
+        {
+            "text": "This is the deposition of James P. Waldron, conducted by the House Select",
+            "page_#": 3
+        },
+        {
+            "text": "Committee to Investigate the January 6th Attack on the United States Capitol pursuant to",
+            "page_#": 3
+        },
+        {
+            "text": "House Resolution 503.",
+            "page_#": 3
+        },
+        {
+            "text": "This deposition is being conducted remotely through the Webex platform.",
+            "page_#": 3
+        },
+        {
+            "text": "will be a staff-led deposition, though members may choose to ask questions as they so",
+            "page_#": 3
+        },
+        {
+            "text": "desire.",
+            "page_#": 3
+        },
+        {
+            "text": "participant list.",
+            "page_#": 3
+        },
+        {
+            "text": "their presence when they arrive.",
+            "page_#": 3
+        },
+        {
+            "text": "My name i s - \u00b7",
+            "page_#": 3
+        },
+        {
+            "text": "At the present time, no members are present.",
+            "page_#": 3
+        },
+        {
+            "text": "This",
+            "page_#": 3
+        },
+        {
+            "text": "I will try to keep my eye on the",
+            "page_#": 3
+        },
+        {
+            "text": "The members may come and go, and I'll try to introduce them or note",
+            "page_#": 3
+        },
+        {
+            "text": "committee.",
+            "page_#": 3
+        },
+        {
+            "text": "the chief investigative counsel;",
+            "page_#": 3
+        },
+        {
+            "text": "select committee; an",
+            "page_#": 3
+        },
+        {
+            "text": "I'm a senior investigative counsel with the select",
+            "page_#": 3
+        },
+        {
+            "text": "Joining us remotely also from the select committee a r e - who is",
+            "page_#": 3
+        },
+        {
+            "text": "and",
+            "page_#": 3
+        },
+        {
+            "text": ", who's the chief clerk.",
+            "page_#": 3
+        },
+        {
+            "text": "who are staff for the",
+            "page_#": 3
+        },
+        {
+            "text": "Other members of staff may",
+            "page_#": 3
+        },
+        {
+            "text": "join from time to time.",
+            "page_#": 4
+        },
+        {
+            "text": "We'll be holding the deposition under House rules that we previously provided to",
+            "page_#": 4
+        },
+        {
+            "text": "Mr. Waldron's counsel.",
+            "page_#": 4
+        },
+        {
+            "text": "Under those rules, Mr. Waldron, you're permitted to have your",
+            "page_#": 4
+        },
+        {
+            "text": "attorneys present.",
+            "page_#": 4
+        },
+        {
+            "text": "moment I'll ask them to identify themselves.",
+            "page_#": 4
+        },
+        {
+            "text": "government agencies may not attend.",
+            "page_#": 4
+        },
+        {
+            "text": "present today are the select committee counsel and your counsel.",
+            "page_#": 4
+        },
+        {
+            "text": "At this time, I'd ask counsel to identify themselves.",
+            "page_#": 4
+        },
+        {
+            "text": "Mr. Mccolloch.",
+            "page_#": 4
+        },
+        {
+            "text": "Ms. Cook.",
+            "page_#": 4
+        },
+        {
+            "text": "I'm Karen Cook for the witness.",
+            "page_#": 4
+        },
+        {
+            "text": "Mr~",
+            "page_#": 4
+        },
+        {
+            "text": "Before we get started, let me cover a few ground rules.",
+            "page_#": 4
+        },
+        {
+            "text": "I'll note for the record that your attorneys are present, and in a",
+            "page_#": 4
+        },
+        {
+            "text": "But counsel for other persons or other",
+            "page_#": 4
+        },
+        {
+            "text": "So, in other words, only the lawyers who are",
+            "page_#": 4
+        },
+        {
+            "text": "Mike Mccolloch for the witness.",
+            "page_#": 4
+        },
+        {
+            "text": "As you",
+            "page_#": 4
+        },
+        {
+            "text": "heard me mention earlier, we are recording this, but the official reporter will be",
+            "page_#": 4
+        },
+        {
+            "text": "transcribing it, and that will be the official record of this proceeding.",
+            "page_#": 4
+        },
+        {
+            "text": "opportunity to review the transcript after it's prepared.",
+            "page_#": 4
+        },
+        {
+            "text": "the video recording.",
+            "page_#": 4
+        },
+        {
+            "text": "You will have an",
+            "page_#": 4
+        },
+        {
+            "text": "You will not receive a copy of",
+            "page_#": 4
+        },
+        {
+            "text": "Because the reporter is taking down all the testimony, it's important that you wait",
+            "page_#": 4
+        },
+        {
+            "text": "until I finish my question before responding, and I will do my best to wait until you finish",
+            "page_#": 4
+        },
+        {
+            "text": "your answer before I ask another question, just to avoid any cross-talk, which makes it",
+            "page_#": 4
+        },
+        {
+            "text": "very difficult for the reporters to take down.",
+            "page_#": 4
+        },
+        {
+            "text": "The reporters cannot note any nonverbal response, such as shaking or nodding of",
+            "page_#": 4
+        },
+        {
+            "text": "your head and so forth, so it's important that you respond to each question with an",
+            "page_#": 4
+        },
+        {
+            "text": "audible verbal response.",
+            "page_#": 4
+        },
+        {
+            "text": "Any questions on any of that?",
+            "page_#": 4
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 4
+        },
+        {
+            "text": "Mr.-",
+            "page_#": 4
+        },
+        {
+            "text": "No.",
+            "page_#": 4
+        },
+        {
+            "text": "If you need to take any breaks to discuss anything with your",
+            "page_#": 4
+        },
+        {
+            "text": "attorneys or just take a break at any time, just let me know and we'll accommodate that",
+            "page_#": 5
+        },
+        {
+            "text": "as best we can.",
+            "page_#": 5
+        },
+        {
+            "text": "And I hope to be as efficient as we can to go through this process today.",
+            "page_#": 5
+        },
+        {
+            "text": "You may refuse to answer questions to preserve a privilege if that privilege is",
+            "page_#": 5
+        },
+        {
+            "text": "recognized by the select committee.",
+            "page_#": 5
+        },
+        {
+            "text": "If you refuse to answer a question based on privilege, staff may either proceed",
+            "page_#": 5
+        },
+        {
+            "text": "with the deposition or pause the deposition to seek a ruling from the chair on the",
+            "page_#": 5
+        },
+        {
+            "text": "objection at that time.",
+            "page_#": 5
+        },
+        {
+            "text": "at the end of the deposition, you'll be required to answer the question.",
+            "page_#": 5
+        },
+        {
+            "text": "If the chairman overrules the objection, either after it's made or",
+            "page_#": 5
+        },
+        {
+            "text": "I want to remind you -- and we do this for all witnesses, so I don't want you to",
+            "page_#": 5
+        },
+        {
+            "text": "read anything into this admonition -- that it's unlawful to deliberately provide false",
+            "page_#": 5
+        },
+        {
+            "text": "information to Congress.",
+            "page_#": 5
+        },
+        {
+            "text": "deposition, a knowingly false answer could subject you to prosecution for perjury.",
+            "page_#": 5
+        },
+        {
+            "text": "And because you will be taking an oath to tell the truth at this",
+            "page_#": 5
+        },
+        {
+            "text": "Any questions about anything I've said thus far?",
+            "page_#": 5
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 5
+        },
+        {
+            "text": "Mr.-",
+            "page_#": 5
+        },
+        {
+            "text": "The Reporter.",
+            "page_#": 5
+        },
+        {
+            "text": "No.",
+            "page_#": 5
+        },
+        {
+            "text": "Madam Reporter, could you swear the witness, please.",
+            "page_#": 5
+        },
+        {
+            "text": "Do you solemnly declare and affirm under the penalty of perjury",
+            "page_#": 5
+        },
+        {
+            "text": "that the testimony you are about to give will be the truth, the whole truth, and nothing",
+            "page_#": 5
+        },
+        {
+            "text": "but the truth?",
+            "page_#": 5
+        },
+        {
+            "text": "The Witness.",
+            "page_#": 5
+        },
+        {
+            "text": "I do.",
+            "page_#": 5
+        },
+        {
+            "text": "EXAMINATION",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "Sir, could you state your name and spell it for the record, please?",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "James P. Waldron, J-a-m-e-s, middle initial P, last name W-a-1-d-r-o-n.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "From time to time today, Mr. Waldron, I'm going to show you some exhibits.",
+            "page_#": 5
+        },
+        {
+            "text": "And because we're not in the room together, we're going to have - - - i s going to put",
+            "page_#": 5
+        },
+        {
+            "text": "them up on the screen and share his screen with us all.",
+            "page_#": 6
+        },
+        {
+            "text": "And I think we'll start with exhibit 1.",
+            "page_#": 6
+        },
+        {
+            "text": "Seems like the right one to start with.",
+            "page_#": 6
+        },
+        {
+            "text": "you see that okay?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "Yes.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "Now, I understand this is only a portion of the document, and we'll scroll",
+            "page_#": 6
+        },
+        {
+            "text": "through them.",
+            "page_#": 6
+        },
+        {
+            "text": "scroll down to see the document better, we can do our best to accommodate that.",
+            "page_#": 6
+        },
+        {
+            "text": "And if there's -- with any of these exhibits, if you want us to scroll up or",
+            "page_#": 6
+        },
+        {
+            "text": "And although we're only seeing just the very top of the first page of this",
+            "page_#": 6
+        },
+        {
+            "text": "document, do you recognize it?",
+            "page_#": 6
+        },
+        {
+            "text": "Have you seen this before?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "It appears to be a subpoena that was received by counsel.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "And you understand that you're appearing here today pursuant to this",
+            "page_#": 6
+        },
+        {
+            "text": "subpoena, correct?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "Correct.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "Have you produced any documents to the committee pursuant to the",
+            "page_#": 6
+        },
+        {
+            "text": "subpoena?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "No.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "-",
+            "page_#": 6
+        },
+        {
+            "text": "And,_ is there a way for us to expand that page so we're seeing -- maybe",
+            "page_#": 6
+        },
+        {
+            "text": "Can",
+            "page_#": 6
+        },
+        {
+            "text": "if we could put up exhibit 2.",
+            "page_#": 6
+        },
+        {
+            "text": "even in portrait mode?",
+            "page_#": 6
+        },
+        {
+            "text": "Maybe that's better.",
+            "page_#": 6
+        },
+        {
+            "text": "Great.",
+            "page_#": 6
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 6
+        },
+        {
+            "text": "So, Mr. Waldron, do you recognize this document?",
+            "page_#": 6
+        },
+        {
+            "text": "And I'll represent to you this",
+            "page_#": 6
+        },
+        {
+            "text": "is the first page of an 18-page document.",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "Yes.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "And is that a document that was prepared by you and/or your counsel?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "It appears to be a document that was prepared by counsel.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "And submitted in response to the subpoena?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Correct.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Did you or your counsel search to see whether you had custody or control of",
+            "page_#": 7
+        },
+        {
+            "text": "any documents that would be responsive to the subpoena?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Because the select committee has asserted that the promotion of claims of",
+            "page_#": 7
+        },
+        {
+            "text": "election fraud in connection with the 2020 election is among causes of violence on",
+            "page_#": 7
+        },
+        {
+            "text": "January 6th at the Capitol, a position that I understand has been adopted, in substance,",
+            "page_#": 7
+        },
+        {
+            "text": "by the Department of Homeland Security and the Department of Justice, and because",
+            "page_#": 7
+        },
+        {
+            "text": "causation or intended causation is a direct or implied element of inchoate offenses of",
+            "page_#": 7
+        },
+        {
+            "text": "various prosecution theories under Federal statutes which have been applied to",
+            "page_#": 7
+        },
+        {
+            "text": "defendants who were actual participants in the violence on January 6th at the Capitol,",
+            "page_#": 7
+        },
+        {
+            "text": "upon the advice of my counsel, I must respectfully decline to answer that question and",
+            "page_#": 7
+        },
+        {
+            "text": "instead assert my rights under the Fifth Amendment of the U.S. Constitution, since an",
+            "page_#": 7
+        },
+        {
+            "text": "answer could be exploited by prosecutors under these theories to assert a claim of",
+            "page_#": 7
+        },
+        {
+            "text": "liability under such statutes.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Are you asserting that the act of producing documents as opposed to the",
+            "page_#": 7
+        },
+        {
+            "text": "content of the documents would somehow incriminate you?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Because the select committee has asserted that the promotion of claims of",
+            "page_#": 7
+        },
+        {
+            "text": "election fraud in connection with the 2020 election is among the causes of violence on",
+            "page_#": 7
+        },
+        {
+            "text": "January 6th at the Capitol, a position that I understand has been adopted, in substance,",
+            "page_#": 7
+        },
+        {
+            "text": "by the Department of Homeland Security and the Department of Justice, and because",
+            "page_#": 7
+        },
+        {
+            "text": "causation or intended causation is a direct or implied element of inchoate offenses of",
+            "page_#": 7
+        },
+        {
+            "text": "various prosecution theories under Federal statutes which have been applied to",
+            "page_#": 7
+        },
+        {
+            "text": "defendants who were actual participants of the violence on January 6th at the Capitol,",
+            "page_#": 7
+        },
+        {
+            "text": "upon the advice of my counsel, I must respectfully decline to answer that question and",
+            "page_#": 7
+        },
+        {
+            "text": "instead assert my rights under the Fifth Amendment of the U.S. Constitution, since an",
+            "page_#": 7
+        },
+        {
+            "text": "answer could be exploited by prosecutors under these theories to assert a claim of",
+            "page_#": 8
+        },
+        {
+            "text": "liability under such statutes.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "I'm going to ask you a series of questions, Mr. Waldron, and if your answer is",
+            "page_#": 8
+        },
+        {
+            "text": "the same as the one you've given to the first -- or my last two questions, it's fine with me",
+            "page_#": 8
+        },
+        {
+            "text": "if you'd like to say \"same answer\" or you can read the answer again or any other answer,",
+            "page_#": 8
+        },
+        {
+            "text": "of course, is fine.",
+            "page_#": 8
+        },
+        {
+            "text": "answer\" rather than read that over and over again, that would be acceptable.",
+            "page_#": 8
+        },
+        {
+            "text": "Any other truthful answer is fine.",
+            "page_#": 8
+        },
+        {
+            "text": "But if you'd like to say \"same",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Understood.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Do you know Russell Ramsland?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Did you ever work for Russell Ramsland?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Do you know Adam Kraft?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Did you ever work for or with Allied Security Operations Group?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Were you involved in any meetings or discussions prior to 2020 regarding",
+            "page_#": 8
+        },
+        {
+            "text": "vulnerabilities of electronic voting machines?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Did you meet with any government officials regarding electronic voting",
+            "page_#": 8
+        },
+        {
+            "text": "issues prior to November 2020?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Are you going to assert your Fifth Amendment privilege not to answer any",
+            "page_#": 8
+        },
+        {
+            "text": "questions I would ask you about your work with Russell Ramsland or Allied Security",
+            "page_#": 8
+        },
+        {
+            "text": "Operations Group?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And is that because you believe the answers to those questions may tend to",
+            "page_#": 9
+        },
+        {
+            "text": "incriminate you?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Do you know Michael Flynn?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "How do you know Mr. Flynn?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Did you speak with him at any point in 2020 about the Presidential election?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Did you work with Mr. Flynn on developing a strategy to overturn the results",
+            "page_#": 9
+        },
+        {
+            "text": "of the Presidential election?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Were you involved in drafting Presidential findings related to the proposed",
+            "page_#": 9
+        },
+        {
+            "text": "seizure of voting machines?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "-",
+            "page_#": 9
+        },
+        {
+            "text": "Mr. Waldron, are you able to see or make out the first page of that document?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Not clearly.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "It's kind of small print.",
+            "page_#": 9
+        },
+        {
+            "text": "How about that?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Yes.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "And I'll represent to you that this is a four-page document, which the first",
+            "page_#": 9
+        },
+        {
+            "text": "if we could pull up exhibit 3.",
+            "page_#": 9
+        },
+        {
+            "text": "Okay, let's try and zoom in on it if we can.",
+            "page_#": 9
+        },
+        {
+            "text": "Are you able to make it out?",
+            "page_#": 9
+        },
+        {
+            "text": "page is what you see on the screen, and then behind that is a three-page document dated",
+            "page_#": 9
+        },
+        {
+            "text": "December 16 -- there it is -- with the first line being \"Presidential findings.\"",
+            "page_#": 9
+        },
+        {
+            "text": "Have you seen this document before?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Did you send the email that is the first page of this document to Mr. Flynn",
+            "page_#": 10
+        },
+        {
+            "text": "and others on December 16th, 2020?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Did you copy Bernie Kerik, Katherine Friess, and Michael Flynn on this",
+            "page_#": 10
+        },
+        {
+            "text": "document?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Excuse me, on this email.",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Have you discussed the contents of the document that's attached to this",
+            "page_#": 10
+        },
+        {
+            "text": "email with Mr. Kerik, Ms. Friess, and General Flynn before you sent them the document?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Did you have any role in drafting the document that's attached to this email?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "The document proposes that the President use his authority under certain",
+            "page_#": 10
+        },
+        {
+            "text": "executive orders to direct the Secretary of Defense to seize voting machines and election",
+            "page_#": 10
+        },
+        {
+            "text": "materials throughout the United States.",
+            "page_#": 10
+        },
+        {
+            "text": "Is that a fair characterization of this document?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "The justification that's set forth in this document for that action by the",
+            "page_#": 10
+        },
+        {
+            "text": "military is that Dominion Voting Systems and related companies are, quote, \"owned or",
+            "page_#": 10
+        },
+        {
+            "text": "heavily controlled and influenced by foreign agents, countries, and interests.\"",
+            "page_#": 10
+        },
+        {
+            "text": "Did you write that?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "The document refers to issues in Antrim County, Michigan.",
+            "page_#": 10
+        },
+        {
+            "text": "Were you",
+            "page_#": 10
+        },
+        {
+            "text": "relying on the situation in Antrim County to justify the seizure of voting machines by the",
+            "page_#": 11
+        },
+        {
+            "text": "military?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "At the time you wrote this, were you aware of any evidence that the voting",
+            "page_#": 11
+        },
+        {
+            "text": "machines in Antrim County had been hacked or otherwise manipulated by any foreign or",
+            "page_#": 11
+        },
+        {
+            "text": "malign actor?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Were you aware at the time that you wrote this document that all of the",
+            "page_#": 11
+        },
+        {
+            "text": "leading election security experts, as well as CISA and other agencies, had determined that",
+            "page_#": 11
+        },
+        {
+            "text": "there had not been any hacking of our election system?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "-",
+            "page_#": 11
+        },
+        {
+            "text": "Are you able to make out the print on that, Mr. Waldron?",
+            "page_#": 11
+        },
+        {
+            "text": "if you could pull up exhibits 9 and 10.",
+            "page_#": 11
+        },
+        {
+            "text": "We'll start with 10, actually.",
+            "page_#": 11
+        },
+        {
+            "text": "I know it's kind of",
+            "page_#": 11
+        },
+        {
+            "text": "small.",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "It's pretty small.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "If we can zoom in a little bit.",
+            "page_#": 11
+        },
+        {
+            "text": "How about that?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Good enough, I guess.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Are you able to tell whether you've seen this document before?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "The document is a joint statement from Elections Infrastructure Government",
+            "page_#": 11
+        },
+        {
+            "text": "Coordinating Council and the Election Infrastructure Sector Coordinating Executive",
+            "page_#": 11
+        },
+        {
+            "text": "Committees.",
+            "page_#": 11
+        },
+        {
+            "text": "third paragraph that says:",
+            "page_#": 11
+        },
+        {
+            "text": "votes, changed votes, or was in any way compromised.",
+            "page_#": 11
+        },
+        {
+            "text": "It was issued on November 12th, and I've highlighted a portion of it in the",
+            "page_#": 11
+        },
+        {
+            "text": "There is no evidence that any voting system deleted or lost",
+            "page_#": 11
+        },
+        {
+            "text": "Were you aware of that determination by the Coordinating Council at the time",
+            "page_#": 12
+        },
+        {
+            "text": "that you prepared the document that is part of exhibit 3?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Let's look at exhibit 9.",
+            "page_#": 12
+        },
+        {
+            "text": "Have you seen exhibit 9 before?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Exhibit 9 is a statement that was issued on November 16, 2020, signed by",
+            "page_#": 12
+        },
+        {
+            "text": "more than 50 election security experts.",
+            "page_#": 12
+        },
+        {
+            "text": "The title of the document is \"Scientists say no",
+            "page_#": 12
+        },
+        {
+            "text": "credible evidence of computer fraud in the 2020 election, but policymakers must work",
+            "page_#": 12
+        },
+        {
+            "text": "with experts to improve confidence.\"",
+            "page_#": 12
+        },
+        {
+            "text": "If we can scroll down a little bit.",
+            "page_#": 12
+        },
+        {
+            "text": "And that's about the fourth or fifth paragraph down.",
+            "page_#": 12
+        },
+        {
+            "text": "There's a highlighted",
+            "page_#": 12
+        },
+        {
+            "text": "section that says:",
+            "page_#": 12
+        },
+        {
+            "text": "that supports a conclusion that the 2020 election outcome in any State has been altered",
+            "page_#": 12
+        },
+        {
+            "text": "through technical compromise.",
+            "page_#": 12
+        },
+        {
+            "text": "To our collective knowledge, no credible evidence has been put forth",
+            "page_#": 12
+        },
+        {
+            "text": "Had you heard by December of 2020 of this statement by election security experts",
+            "page_#": 12
+        },
+        {
+            "text": "regarding the absence of evidence of technical compromise of the 2020 election?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Did you consider this statement by the country's foremost experts in that",
+            "page_#": 12
+        },
+        {
+            "text": "area when you wrote the document that's referenced in exhibit 3?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "When you wrote the memo that's attached to exhibit 3, did you intend for",
+            "page_#": 12
+        },
+        {
+            "text": "Mr. Flynn to present it to President Trump for his signature?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Do you know if the document was presented to President Trump for his",
+            "page_#": 12
+        },
+        {
+            "text": "signature?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "I'm going to pull up exhibit 4.",
+            "page_#": 13
+        },
+        {
+            "text": "This is an email dated December 17th, 2020.",
+            "page_#": 13
+        },
+        {
+            "text": "It's from the lette \u25a0 and then the rest of the email address is blacked out.",
+            "page_#": 13
+        },
+        {
+            "text": "Did you send this email?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did you use -- strike that.",
+            "page_#": 13
+        },
+        {
+            "text": "Did you work with Mr. Ramsland on the document referenced in this email?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did you -- actually, I will -- and we can scroll down to the second page,_",
+            "page_#": 13
+        },
+        {
+            "text": "Pages 2 through 4 of this document appear to be a document entitled",
+            "page_#": 13
+        },
+        {
+            "text": "\"Presidential Findings to Seize, Collect, Preserve and Analyze National Security",
+            "page_#": 13
+        },
+        {
+            "text": "Information Regarding the 2020 General Election.\"",
+            "page_#": 13
+        },
+        {
+            "text": "to the document that was attached to exhibit 3, but there have been some changes",
+            "page_#": 13
+        },
+        {
+            "text": "made.",
+            "page_#": 13
+        },
+        {
+            "text": "And it seems to roughly correspond",
+            "page_#": 13
+        },
+        {
+            "text": "Did you make the changes to this document?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Did you communicate with Mr. Ramsland using encrypted email or",
+            "page_#": 13
+        },
+        {
+            "text": "messaging apps during this time period?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Exhibit -- if we can go back up to the top of this one again,_ exhibit 4.",
+            "page_#": 13
+        },
+        {
+            "text": "The body of the email says:",
+            "page_#": 13
+        },
+        {
+            "text": "Final draft finding - includes DHS switch language as",
+            "page_#": 13
+        },
+        {
+            "text": "well as foreign interference expansion and warrant issuance language.",
+            "page_#": 13
+        },
+        {
+            "text": "Why was the Presidential findings document switched to provide for DHS seizure",
+            "page_#": 13
+        },
+        {
+            "text": "of voting machines as opposed to Department of Defense?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "The body of the email looks as if it's signed off by PW.",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Are you going to assert your Fifth Amendment privilege to any questions I",
+            "page_#": 14
+        },
+        {
+            "text": "Is that you?",
+            "page_#": 14
+        },
+        {
+            "text": "would ask you about these exhibits, exhibits 3 and 4, or your role in drafting Presidential",
+            "page_#": 14
+        },
+        {
+            "text": "findings relating to the seizure of voting machines?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "So you are going to refuse to answer those questions?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Well, let me -- I'm hoping for a yes or no answer on this.",
+            "page_#": 14
+        },
+        {
+            "text": "Are you refusing",
+            "page_#": 14
+        },
+        {
+            "text": "to answer questions about -- any other questions about exhibits 3 or 4 or your role in",
+            "page_#": 14
+        },
+        {
+            "text": "drafting Presidential findings relating to the seizure of voting machines?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Yes, it'll be the same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 14
+        },
+        {
+            "text": "Have you ever spoken with John Ratcliffe?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Have you ever discussed the 2020 election with Mr. Ratcliffe?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "If we can pull up exhibit 5, please.",
+            "page_#": 14
+        },
+        {
+            "text": "Mr. Waldron, have you seen this document before?",
+            "page_#": 14
+        },
+        {
+            "text": "And if you need us to scroll",
+            "page_#": 14
+        },
+        {
+            "text": "down a little, we can.",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Did you play any role in the preparation of this document?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "The first paragraph of the document says that former DOD and IC analysts",
+            "page_#": 14
+        },
+        {
+            "text": "have gathered evidence that foreign entities were involved in altering the vote counts in",
+            "page_#": 15
+        },
+        {
+            "text": "the 2020 election.",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Are you aware of evidence that suggests that foreign entities were involved",
+            "page_#": 15
+        },
+        {
+            "text": "What evidence do you have of that?",
+            "page_#": 15
+        },
+        {
+            "text": "in altering the vote counts in the 2020 election?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Does the claim of foreign involvement in altering votes relate to the false",
+            "page_#": 15
+        },
+        {
+            "text": "Antrim County claim that was referenced in exhibit 4?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "When did you first meet Rudy Giuliani?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Were you ever retained to work for the Trump campaign?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Were you ever retained to work on any aspects of challenging the 2020",
+            "page_#": 15
+        },
+        {
+            "text": "election?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Were you ever retained by Sidney Powell?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Were you a -- did you consider yourself part of the legal team that was being",
+            "page_#": 15
+        },
+        {
+            "text": "run by Rudy Giuliani?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Did you consider yourself part of any legal team that was seeking to",
+            "page_#": 15
+        },
+        {
+            "text": "challenge or overturn the results of the 2020 election?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Were you paid for any of the work that you did in challenging the results of",
+            "page_#": 15
+        },
+        {
+            "text": "the 2020 election?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "By whom were you paid?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "During what period of time did you work for the Trump campaign?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "During November and December of 2020, were you working for any",
+            "page_#": 16
+        },
+        {
+            "text": "individual or company other than the Trump campaign?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Are you going to -- are you going to refuse to answer any questions about",
+            "page_#": 16
+        },
+        {
+            "text": "your relationship with Rudy Giuliani or your work to assist the Trump campaign?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "I'm just trying to avoid going through too many more questions on this topic",
+            "page_#": 16
+        },
+        {
+            "text": "if your answer will be the same.",
+            "page_#": 16
+        },
+        {
+            "text": "Are you able to tell me whether your answer will be the same to any questions I",
+            "page_#": 16
+        },
+        {
+            "text": "ask about Rudy Giuliani or work to assist the Trump campaign?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Yes, it will be the same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "I'm going to ask you about some allegations of election fraud that I believe",
+            "page_#": 16
+        },
+        {
+            "text": "you've made publicly.",
+            "page_#": 16
+        },
+        {
+            "text": "First, let me ask you, who asked you to appear at public hearings",
+            "page_#": 16
+        },
+        {
+            "text": "where you discussed claims of election fraud?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Who prepared the materials that you used at those hearings?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "What investigation did you personally conduct regarding claims of election",
+            "page_#": 16
+        },
+        {
+            "text": "fraud?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Are you aware of any evidence that fake ballots were brought into Fulton",
+            "page_#": 17
+        },
+        {
+            "text": "County, Georgia, in connection with the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "You've made that claim publicly, haven't you?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Are you aware of any evidence that voter turnout exceeded 100 percent in",
+            "page_#": 17
+        },
+        {
+            "text": "certain precincts or counties during the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you made that claim publicly?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Are you aware of any evidence that there were improper injections of votes",
+            "page_#": 17
+        },
+        {
+            "text": "in contested States during the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you made that claim publicly?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Are you aware of any evidence that an algorithm was used to manipulate",
+            "page_#": 17
+        },
+        {
+            "text": "votes during the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you made that claim publicly?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Are you aware of any evidence that votes were improperly switched from",
+            "page_#": 17
+        },
+        {
+            "text": "Trump to Biden in the 2020 election?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Have you made that claim publicly?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Are you aware of any evidence that votes were counted on servers in foreign",
+            "page_#": 18
+        },
+        {
+            "text": "countries?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Did you ever tell Representative Louie Goh me rt that votes were routed",
+            "page_#": 18
+        },
+        {
+            "text": "through Frankfurt, Germany?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Have you ever publicly claimed that voting machines manufactured by",
+            "page_#": 18
+        },
+        {
+            "text": "Dominion Voting Systems were used to switch or delete votes?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Have you ever publicly claimed that large numbers of votes were cast on",
+            "page_#": 18
+        },
+        {
+            "text": "behalf of deceased individuals?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Did you ever conduct any research to determine if that happened?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Did you ever direct anyone to conduct research to determine whether votes",
+            "page_#": 18
+        },
+        {
+            "text": "had been cast on behalf of deceased individuals?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Did you ever tell Rudy Giuliani that you had determined that large numbers",
+            "page_#": 18
+        },
+        {
+            "text": "of votes had been cast on behalf of dead people?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Are you aware of claims that votes being cast by dead people have been",
+            "page_#": 18
+        },
+        {
+            "text": "debunked in every State in which they've been made?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Are you going to give the same reply to any questions I would ask of you",
+            "page_#": 18
+        },
+        {
+            "text": "about particular claims of election fraud regarding the 2020 election?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "And the same reply if I ask you questions about the evidence that you",
+            "page_#": 19
+        },
+        {
+            "text": "developed to support those claims?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "I'm going to ask you about -- I'm getting an error message here.",
+            "page_#": 19
+        },
+        {
+            "text": "still see me okay?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Mr.-",
+            "page_#": 19
+        },
+        {
+            "text": "Is the camera working?",
+            "page_#": 19
+        },
+        {
+            "text": "No.",
+            "page_#": 19
+        },
+        {
+            "text": "Okay.",
+            "page_#": 19
+        },
+        {
+            "text": "Give me one moment.",
+            "page_#": 19
+        },
+        {
+            "text": "Can we go off the record for a moment.",
+            "page_#": 19
+        },
+        {
+            "text": "[Off the record.]",
+            "page_#": 19
+        },
+        {
+            "text": "Mr.-",
+            "page_#": 19
+        },
+        {
+            "text": "Let's go back on the record.",
+            "page_#": 19
+        },
+        {
+            "text": "BYMR.-",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "I'm going to ask you about a meeting or -- a meeting and some other events",
+            "page_#": 19
+        },
+        {
+            "text": "in November of 2020.",
+            "page_#": 19
+        },
+        {
+            "text": "Did you attend a public hearing in Gettysburg, Pennsylvania, on November 25th,",
+            "page_#": 19
+        },
+        {
+            "text": "That was the error message I was",
+            "page_#": 19
+        },
+        {
+            "text": "getting.",
+            "page_#": 19
+        },
+        {
+            "text": "Can you",
+            "page_#": 19
+        },
+        {
+            "text": "2020?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "You spoke at several public hearings regarding claims of election fraud.",
+            "page_#": 19
+        },
+        {
+            "text": "Isn't that right?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Were you ever sworn in at any of those hearings?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Was your testimony given under oath in any of those hearings or",
+            "page_#": 19
+        },
+        {
+            "text": "quasi-hearings?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "You were presented as a cybersecurity expert.",
+            "page_#": 20
+        },
+        {
+            "text": "What specific training do",
+            "page_#": 20
+        },
+        {
+            "text": "you have in computer forensics?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Prior to 2020, what experience or training did you have in cybersecurity?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Prior to 2020, what experience or training did you have in election security",
+            "page_#": 20
+        },
+        {
+            "text": "matters?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "After the November 25th hearing in Gettysburg, did you drive down to",
+            "page_#": 20
+        },
+        {
+            "text": "Washington with Bernie Kerik and Katherine Friess?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Did you attend a meeting at the White House that evening?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Who else attended that meeting?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Was the President at the meeting?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Was Mr. Giuliani present at the meeting?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Was Representative Scott Perry at the meeting?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Were members of the Pennsylvania State legislature at the meeting?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "What was discussed at the November 25th White House meeting attended",
+            "page_#": 21
+        },
+        {
+            "text": "by Scott Perry and members of the Pennsylvania State legislature?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Will you have the same answer to any questions I ask you about a November",
+            "page_#": 21
+        },
+        {
+            "text": "25th White House meeting?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Did you meet with any Members of Congress in either December 2020 or",
+            "page_#": 21
+        },
+        {
+            "text": "Januaryof2021?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "And I'm specifically asking about -- well, let me just leave it at that.",
+            "page_#": 21
+        },
+        {
+            "text": "During those months, December of 2020 and January of 2021, did you meet or",
+            "page_#": 21
+        },
+        {
+            "text": "speak with Representative Louie Gohmert?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Do you know Representative Gohmert?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Did you meet during that timeframe with the White House chief of staff,",
+            "page_#": 21
+        },
+        {
+            "text": "Mark Meadows?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Did you meet with Mr. Meadows in his office on December 21st?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Were Members of Congress present for that meeting?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Was Paul Gosar present for that meeting?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "Was Mo Brooks present for that meeting?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Was Matt Gaetz present for the meeting on December 21st in the White",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Was Andy Biggs present for the meeting?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Was Rudy Giuliani present for the meeting?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "What was discussed in the December 21st meeting at the White House that",
+            "page_#": 22
+        },
+        {
+            "text": "House?",
+            "page_#": 22
+        },
+        {
+            "text": "involved Mr. Giuliani, yourself, Mr. Meadows and several Members of Congress?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Did you request at that meeting that the President issue orders to involve",
+            "page_#": 22
+        },
+        {
+            "text": "national security agencies in your search for evidence of election fraud?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Did you meet with the President on December 21st of 2020?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "_ , if we can pull up exhibit 6.",
+            "page_#": 22
+        },
+        {
+            "text": "Have you seen this document before, Mr. Waldron?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "The email appears to have been sent from the email address",
+            "page_#": 22
+        },
+        {
+            "text": "OmniTen@omnibuffalo.com.",
+            "page_#": 22
+        },
+        {
+            "text": "Is that an email address that you've used?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 22
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 22
+        },
+        {
+            "text": "Q",
+            "page_#": 22
+        },
+        {
+            "text": "Why did you send this -- actually, let me ask one other question before I get",
+            "page_#": 22
+        },
+        {
+            "text": "to that.",
+            "page_#": 22
+        },
+        {
+            "text": "The email is sent to",
+            "page_#": 22
+        },
+        {
+            "text": "Do you see that?",
+            "page_#": 22
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "And do you understand that to be the email address for -- the personal email",
+            "page_#": 23
+        },
+        {
+            "text": "address for Mark Meadows?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Why did you send this email to Mr. Meadows on December 22nd, 2020?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "There's a Gmail account listed in the cc line.",
+            "page_#": 23
+        },
+        {
+            "text": "It says",
+            "page_#": 23
+        },
+        {
+            "text": "Is that an email address for Rudy Giuliani?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Why did you copy Mr. Giuliani on this email?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Whose email is",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Attached to this email is a 17-page document.",
+            "page_#": 23
+        },
+        {
+            "text": "And,_, if we could just scroll down to see the first page of the attachment.",
+            "page_#": 23
+        },
+        {
+            "text": "There it is.",
+            "page_#": 23
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 23
+        },
+        {
+            "text": "Actually, just go up to the top so we can just see the date.",
+            "page_#": 23
+        },
+        {
+            "text": "There it is.",
+            "page_#": 23
+        },
+        {
+            "text": "Did you prepare this document, Mr. Waldron?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Have you seen the document before?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "Are you going to refuse to answer any questions that I ask you about this",
+            "page_#": 23
+        },
+        {
+            "text": "document or exhibit 6?",
+            "page_#": 23
+        },
+        {
+            "text": "A",
+            "page_#": 23
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 23
+        },
+        {
+            "text": "Q",
+            "page_#": 23
+        },
+        {
+            "text": "So you will offer the same reply to any questions that I ask about the",
+            "page_#": 23
+        },
+        {
+            "text": "document or exhibit 6?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "And you'd give the same reply to any questions, any further questions I",
+            "page_#": 24
+        },
+        {
+            "text": "might ask you about a December 21st meeting with Mr. Meadows?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Have you ever communicated with Mr. Meadows by text?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "On December 23rd, 2020, did you send a text message to Mr. Meadows",
+            "page_#": 24
+        },
+        {
+            "text": "advising him of a negative ruling in a court case in Arizona?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "During that timeframe, late December of 2020, were you monitoring",
+            "page_#": 24
+        },
+        {
+            "text": "litigation in various States regarding the election?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Were you keeping Mr. Meadows apprised of court cases?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Did you tell Mr. Meadows that you were disappointed in the result because",
+            "page_#": 24
+        },
+        {
+            "text": "Arizona was, quote, \"our lead domino that we were counting on to start the cascade\"?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "What cascade were you referring to in your text message to Mr. Meadows",
+            "page_#": 24
+        },
+        {
+            "text": "on December 23rd, 2020?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "Did your plan have anything to do with overturning the results of the 2020",
+            "page_#": 24
+        },
+        {
+            "text": "election?",
+            "page_#": 24
+        },
+        {
+            "text": "A",
+            "page_#": 24
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 24
+        },
+        {
+            "text": "Q",
+            "page_#": 24
+        },
+        {
+            "text": "On December 28, 2020, did you text Mr. Meadows regarding election",
+            "page_#": 24
+        },
+        {
+            "text": "challenges in Georgia?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Did you claim that there was some sort of election fraud going on in Walton",
+            "page_#": 25
+        },
+        {
+            "text": "County, Georgia?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "What was the basis for your claim that there was election fraud in Walton",
+            "page_#": 25
+        },
+        {
+            "text": "County, Georgia?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "On December 29th of 2020, did you meet with Mr. Meadows at the White",
+            "page_#": 25
+        },
+        {
+            "text": "House at around 3:30 in the afternoon?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Were you with Representative Scott Perry for that meeting?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Who arranged the meeting with Mr. Meadows at the White House on",
+            "page_#": 25
+        },
+        {
+            "text": "December 29th, 2020?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Do you know Scott Perry?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Have you talked with Mr. Perry or Representative Perry about election fraud",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Do you know Richard Higgins?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 25
+        },
+        {
+            "text": "Was Mr. Higgins with you at the White House meeting on December 29th?",
+            "page_#": 25
+        },
+        {
+            "text": "A",
+            "page_#": 25
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 25
+        },
+        {
+            "text": "issues?",
+            "page_#": 25
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Do you know John McGuire?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "What's your relationship with John McGuire?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Why were Mr. Higgins and Mr. McGuire with you at that meeting on",
+            "page_#": 26
+        },
+        {
+            "text": "December 29th at the White House?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "What was discussed during the December 29th meeting with Mr. Meadows",
+            "page_#": 26
+        },
+        {
+            "text": "and others at the White House?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "How often have you met with Representative Scott Perry?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Have you ever met or spoken with Representative Jim Jordan?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Mr. Waldron, can you explain why it was that you were talking and meeting",
+            "page_#": 26
+        },
+        {
+            "text": "with the White House chief of staff so frequently during the latter part of December of",
+            "page_#": 26
+        },
+        {
+            "text": "2020?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "By that point, the electoral votes had been certified in every State.",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "How many times did you speak with Mr. Meadows after the 2020 election?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 26
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 26
+        },
+        {
+            "text": "Q",
+            "page_#": 26
+        },
+        {
+            "text": "Is it true that you spoke with him eight to ten times and visited the White",
+            "page_#": 26
+        },
+        {
+            "text": "Is that",
+            "page_#": 26
+        },
+        {
+            "text": "right?",
+            "page_#": 26
+        },
+        {
+            "text": "House on multiple occasions after the 2020 election?",
+            "page_#": 26
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Did you ever say that to a reporter for The Washington Post?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Have you spoken to a reporter for The Washington Post?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Have you ever spoken to reporters from The New York Times?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Have you ever talked to them about issues that you're refusing to talk about",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Did you attend a briefing on Capitol Hill on January 5th, 2021, to discuss a",
+            "page_#": 27
+        },
+        {
+            "text": "today?",
+            "page_#": 27
+        },
+        {
+            "text": "strategy to overturn the 2020 Presidential election?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Which Members of Congress attended that meeting?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Did you prepare a PowerPoint presentation for that meeting?",
+            "page_#": 27
+        },
+        {
+            "text": "A",
+            "page_#": 27
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 27
+        },
+        {
+            "text": "Q",
+            "page_#": 27
+        },
+        {
+            "text": "Take a look at exhibit 7, please.",
+            "page_#": 27
+        },
+        {
+            "text": "So I will represent to you, Mr. Waldron,",
+            "page_#": 27
+        },
+        {
+            "text": "that this is a 38-page document.",
+            "page_#": 27
+        },
+        {
+            "text": "And if we can g o , _ just really quickly to the last page.",
+            "page_#": 27
+        },
+        {
+            "text": "And I'm not going to ask any specific questions about the last page, but I'll",
+            "page_#": 27
+        },
+        {
+            "text": "represent to you that I've seen other versions of this document that are 36 pages long or",
+            "page_#": 27
+        },
+        {
+            "text": "that do not include this last page.",
+            "page_#": 27
+        },
+        {
+            "text": "the document that's part of this exhibit.",
+            "page_#": 27
+        },
+        {
+            "text": "we're happy to -- I'm happy to do that.",
+            "page_#": 27
+        },
+        {
+            "text": "So I just wanted you to be aware of the full scope of",
+            "page_#": 27
+        },
+        {
+            "text": "And if you want to scroll through page by page,",
+            "page_#": 27
+        },
+        {
+            "text": "Have you seen this document before?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you prepare any --",
+            "page_#": 28
+        },
+        {
+            "text": "Can we go up to the top again, -",
+            "page_#": 28
+        },
+        {
+            "text": "Did you prepare any portion of this document?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Was any portion of this presentation given to Members of Congress on",
+            "page_#": 28
+        },
+        {
+            "text": "either January 4th or January 5th, 2021?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Do you know how White House Chief of Staff Mark Meadows got this",
+            "page_#": 28
+        },
+        {
+            "text": "document?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you give it to him?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Did you tell The New York Times that you did not send this document to Mr.",
+            "page_#": 28
+        },
+        {
+            "text": "Meadows?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "Have you ever used the email address p@bonfiresearch.org?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 28
+        },
+        {
+            "text": "If we can look at exhibit 8.",
+            "page_#": 28
+        },
+        {
+            "text": "And I'm going to come back to 7, but if we could",
+            "page_#": 28
+        },
+        {
+            "text": "flip to 8 for a moment.",
+            "page_#": 28
+        },
+        {
+            "text": "Exhibit 8 appears to be an email sent from p@bonfiresearch.org to",
+            "page_#": 28
+        },
+        {
+            "text": ", which is the personal email address for Mark Meadows.",
+            "page_#": 28
+        },
+        {
+            "text": "Did you send this email to Mr. Meadows on January 5th, 2021?",
+            "page_#": 28
+        },
+        {
+            "text": "A",
+            "page_#": 28
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 28
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "It appears that there's a -- although the email doesn't reference an",
+            "page_#": 29
+        },
+        {
+            "text": "attachment, the body of it says:",
+            "page_#": 29
+        },
+        {
+            "text": "Hill today.",
+            "page_#": 29
+        },
+        {
+            "text": "FYI - This is the briefing that we are going over on the",
+            "page_#": 29
+        },
+        {
+            "text": "Was exhibit 7 attached or some version of exhibit 7 attached to this email, exhibit",
+            "page_#": 29
+        },
+        {
+            "text": "8, when you sent it to Mr. Meadows?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Did you use exhibit 7 or some version of it for a briefing on the Hill on",
+            "page_#": 29
+        },
+        {
+            "text": "January 5th, 2021?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Did you tell The New York Times that you circulated exhibit 7 or a document",
+            "page_#": 29
+        },
+        {
+            "text": "like it to allies of former President Trump, including lawmakers on Capitol Hill?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Did you tell The New York Times that you met with Members of the House of",
+            "page_#": 29
+        },
+        {
+            "text": "Representatives on January 5th?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Which House Members did you meet with on January 5th, 2021?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Did you present the PowerPoint deck or portions of it that's included in",
+            "page_#": 29
+        },
+        {
+            "text": "exhibit 7 at that meeting?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "Mr. Waldron, how many media interviews have you given about the topics",
+            "page_#": 29
+        },
+        {
+            "text": "that I've been asking you about?",
+            "page_#": 29
+        },
+        {
+            "text": "A",
+            "page_#": 29
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 29
+        },
+        {
+            "text": "Q",
+            "page_#": 29
+        },
+        {
+            "text": "If we can go back to -- oh, we're on exhibit 7.",
+            "page_#": 29
+        },
+        {
+            "text": "title for a PowerPoint presentation, and it says:",
+            "page_#": 29
+        },
+        {
+            "text": "The first page appears to be a",
+            "page_#": 29
+        },
+        {
+            "text": "Election Fraud, Foreign Interference &",
+            "page_#": 29
+        },
+        {
+            "text": "Options for 6 JAN.",
+            "page_#": 30
+        },
+        {
+            "text": "Did you tell Members of Congress that there had been foreign interference in the",
+            "page_#": 30
+        },
+        {
+            "text": "2020 election?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "And I'm speaking specifically about a January 5th meeting.",
+            "page_#": 30
+        },
+        {
+            "text": "Members of Congress there had been foreign interference in the 2020 election?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Mr..",
+            "page_#": 30
+        },
+        {
+            "text": "Did you tell",
+            "page_#": 30
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 30
+        },
+        {
+            "text": "I'll note for the record it appears that Representative Aguilar has",
+            "page_#": 30
+        },
+        {
+            "text": "joined us.",
+            "page_#": 30
+        },
+        {
+            "text": "BYMR.-:",
+            "page_#": 30
+        },
+        {
+            "text": "What evidence are you aware of that there was foreign interference in the",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "2020 election?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "By January 2021, were you aware that the Department of Homeland Security",
+            "page_#": 30
+        },
+        {
+            "text": "had determined that there was no foreign manipulation of electronic voting machines?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "By January 2021, were you aware that there was a hand recount in Antrim",
+            "page_#": 30
+        },
+        {
+            "text": "County that confirmed the results generated by the electronic vote tabulators and that",
+            "page_#": 30
+        },
+        {
+            "text": "they were accurate?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "At the time of your meeting with House Members on January 5th, did you",
+            "page_#": 30
+        },
+        {
+            "text": "have any evidence that voting machines were hacked or otherwise altered through",
+            "page_#": 30
+        },
+        {
+            "text": "technical compromise?",
+            "page_#": 30
+        },
+        {
+            "text": "A",
+            "page_#": 30
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 30
+        },
+        {
+            "text": "Q",
+            "page_#": 30
+        },
+        {
+            "text": "Did you tell members in your meeting on January 5th, Members of Congress,",
+            "page_#": 30
+        },
+        {
+            "text": "that voting machines had been hacked or otherwise altered through technical",
+            "page_#": 31
+        },
+        {
+            "text": "compromise?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "If we can go to page 23.",
+            "page_#": 31
+        },
+        {
+            "text": "In your January 5th meeting with Members of Congress, did you offer the",
+            "page_#": 31
+        },
+        {
+            "text": "recommendations that are set forth in this slide?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Did you suggest that the President declare a national security emergency?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Did you suggest to the Members of Congress that all electronic voting in all",
+            "page_#": 31
+        },
+        {
+            "text": "States be declared invalid?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Did you draft this slide?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Were you recommending that the vote of every person who voted using",
+            "page_#": 31
+        },
+        {
+            "text": "electronic voting machines should be thrown out?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Did you suggest to the Members in your meeting on January 5th that votes",
+            "page_#": 31
+        },
+        {
+            "text": "for them be declared invalid?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "Did any Member of the House that you met with on January 5th express",
+            "page_#": 31
+        },
+        {
+            "text": "concern that this proposal of throwing out or declaring votes invalid would result in all of",
+            "page_#": 31
+        },
+        {
+            "text": "their elections being invalidated?",
+            "page_#": 31
+        },
+        {
+            "text": "A",
+            "page_#": 31
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 31
+        },
+        {
+            "text": "Q",
+            "page_#": 31
+        },
+        {
+            "text": "The last bullet point on this page says:",
+            "page_#": 31
+        },
+        {
+            "text": "Legal & genuine paper ballot counts",
+            "page_#": 31
+        },
+        {
+            "text": "or constitutional remedy delegated to Congress.",
+            "page_#": 32
+        },
+        {
+            "text": "What did you mean by \"constitutional remedy delegated to Congress\"?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Did you draft that language for this slide?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Was the constitutional remedy that's suggested here as this",
+            "page_#": 32
+        },
+        {
+            "text": "recommendation that Congress would decide the election?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Did you suggest in that January 5th meeting to the Members of Congress",
+            "page_#": 32
+        },
+        {
+            "text": "that you met with that an alternative to counting every vote in the country by hand",
+            "page_#": 32
+        },
+        {
+            "text": "would be for Congress to decide who should be the next President?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Did you consult with any legal scholar before making that recommendation?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "When you met with House Members on January 5th, did you discuss with",
+            "page_#": 32
+        },
+        {
+            "text": "them the options that you believed were available for Vice President Pence during the",
+            "page_#": 32
+        },
+        {
+            "text": "joint session of Congress that was scheduled for the next day?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "We're on exhibit 7, page 35.",
+            "page_#": 32
+        },
+        {
+            "text": "-",
+            "page_#": 32
+        },
+        {
+            "text": "if we can go down to page 35 of the same exhibit.",
+            "page_#": 32
+        },
+        {
+            "text": "The top of the slide says: Options for 6 JAN.",
+            "page_#": 32
+        },
+        {
+            "text": "First",
+            "page_#": 32
+        },
+        {
+            "text": "option is:",
+            "page_#": 32
+        },
+        {
+            "text": "Vice President Pence seats Republican electors over the objections of",
+            "page_#": 32
+        },
+        {
+            "text": "Democrats in States where fraud occurred.",
+            "page_#": 32
+        },
+        {
+            "text": "Did you write that language?",
+            "page_#": 32
+        },
+        {
+            "text": "A",
+            "page_#": 32
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 32
+        },
+        {
+            "text": "Q",
+            "page_#": 32
+        },
+        {
+            "text": "Who did you talk to to come up with the idea that that was an option for",
+            "page_#": 32
+        },
+        {
+            "text": "January 6th?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Did you tell the House Members that you met with on January 5th that Vice",
+            "page_#": 33
+        },
+        {
+            "text": "President Pence could seat Republican electors in States that had been certified for",
+            "page_#": 33
+        },
+        {
+            "text": "Mr. Biden?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "What legal authority are you aware of or were you aware of at the time that",
+            "page_#": 33
+        },
+        {
+            "text": "gave Vice President Pence the right to count electors for Mr. Trump from States that had",
+            "page_#": 33
+        },
+        {
+            "text": "been certified for Mr. Biden?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "The second bullet point as an option for January 6th is that Vice President",
+            "page_#": 33
+        },
+        {
+            "text": "Pence rejects the electors from States where fraud occurred, causing the election to be",
+            "page_#": 33
+        },
+        {
+            "text": "decided by remaining electoral votes.",
+            "page_#": 33
+        },
+        {
+            "text": "Did you tell House Members that you met with on January 5th that Vice President",
+            "page_#": 33
+        },
+        {
+            "text": "Pence could reject electors from certain States that had been certified for Mr. Biden?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "What was the legal basis for that suggestion or recommendation?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "Are you going to refuse to answer any questions that I ask you about your",
+            "page_#": 33
+        },
+        {
+            "text": "January 5th meeting with House Members regarding overturning the results of the 2020",
+            "page_#": 33
+        },
+        {
+            "text": "election?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "So you're not going to answer any of my questions on that topic?",
+            "page_#": 33
+        },
+        {
+            "text": "A",
+            "page_#": 33
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 33
+        },
+        {
+            "text": "Q",
+            "page_#": 33
+        },
+        {
+            "text": "And are you going to offer the same reply to any questions I ask you about",
+            "page_#": 33
+        },
+        {
+            "text": "exhibit 7 and the information that's included in that document?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Did you meet with Members of the United States Senate on January 4th,",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Was that meeting at the Trump International Hotel?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Who else was with you for that meeting?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Which United States Senators were present?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Were there Senators who participated by videoconference?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Did you present any portion of the presentation that's reflected in exhibit 7",
+            "page_#": 34
+        },
+        {
+            "text": "2021?",
+            "page_#": 34
+        },
+        {
+            "text": "during this January 4th meeting with United States Senators and others?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "Did you tell the Senators that there had been foreign interference in the",
+            "page_#": 34
+        },
+        {
+            "text": "2020 election?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "Mr. -",
+            "page_#": 34
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "I'll note that Representative Aguilar appears to have dropped off the",
+            "page_#": 34
+        },
+        {
+            "text": "call or out of the deposition.",
+            "page_#": 34
+        },
+        {
+            "text": "BY MR.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 34
+        },
+        {
+            "text": "2020 election?",
+            "page_#": 34
+        },
+        {
+            "text": "A",
+            "page_#": 34
+        },
+        {
+            "text": "What evidence were you aware of that there was foreign interference in the",
+            "page_#": 34
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 34
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Did you tell the Senators that you believed Vice President Pence could",
+            "page_#": 35
+        },
+        {
+            "text": "disregard certain electoral votes for Mr. Biden or count those votes for Mr. Trump?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Are you going to refuse to answer any additional questions I might have",
+            "page_#": 35
+        },
+        {
+            "text": "regarding your January 4th briefing of United States Senators?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "The same reply, yes.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "How many times have you been to the White House?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "How many times have you met with former President Trump?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Have you ever spoken to former President Trump about claims of election",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Have you ever spoken to former President Trump about options for",
+            "page_#": 35
+        },
+        {
+            "text": "fraud?",
+            "page_#": 35
+        },
+        {
+            "text": "overturning the results of the 2020 Presidential election?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Did you ever talk with the President about his expectations for what was",
+            "page_#": 35
+        },
+        {
+            "text": "going to happen on January 6th?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "We saw in exhibit 7 there were some options for January 6th.",
+            "page_#": 35
+        },
+        {
+            "text": "Did you ever",
+            "page_#": 35
+        },
+        {
+            "text": "discuss any of those with former President Trump?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 35
+        },
+        {
+            "text": "Did former President Trump ever tell you what he expected or hoped would",
+            "page_#": 35
+        },
+        {
+            "text": "happen on January 6th?",
+            "page_#": 35
+        },
+        {
+            "text": "A",
+            "page_#": 35
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 35
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Did you ever talk with Mr. Meadows about what he hoped or expected",
+            "page_#": 36
+        },
+        {
+            "text": "would happen on January 6th?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Did you ever talk with Mr. Giuliani about that subject?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Did you ever talk with anyone on Mr. Giuliani's team about what they",
+            "page_#": 36
+        },
+        {
+            "text": "expected to happen on January 6th?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "In the days leading up to January 6th, what did you expect to happen during",
+            "page_#": 36
+        },
+        {
+            "text": "the joint session of Congress?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "In November 2020, did you meet with President Trump and propose to him",
+            "page_#": 36
+        },
+        {
+            "text": "that he declare a national emergency and order a recount of all paper ballots in certain",
+            "page_#": 36
+        },
+        {
+            "text": "counties?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "How did he respond to that proposal?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Did you have any discussion with him on that topic?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Did you meet with him again in December of 2020?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Did you ever propose that President Trump use the military to seize voting",
+            "page_#": 36
+        },
+        {
+            "text": "machines?",
+            "page_#": 36
+        },
+        {
+            "text": "A",
+            "page_#": 36
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 36
+        },
+        {
+            "text": "Q",
+            "page_#": 36
+        },
+        {
+            "text": "Did you ever propose to President Trump that he impose martial law and use",
+            "page_#": 36
+        },
+        {
+            "text": "the military to re-run the election?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Did you ever hear Michael Flynn make that proposal to the President?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Are you going to refuse to answer any questions I ask you about meetings",
+            "page_#": 37
+        },
+        {
+            "text": "with former President Trump regarding the 2020 election?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "You would refuse to answer?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Do you believe that former Vice President Pence is responsible for the",
+            "page_#": 37
+        },
+        {
+            "text": "violence at the Capitol on January 6th?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Did you ever tell a reporter that Vice President Pence's refusal to go along",
+            "page_#": 37
+        },
+        {
+            "text": "with the plan to block Bide n's certification was the primary cause of the riot?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "In December 2020, were you in touch with members of the Arizona State",
+            "page_#": 37
+        },
+        {
+            "text": "legislature regarding auditing the election results in that State?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Who put you in touch with Representative Finchem and Senator Borrelli?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Did you have any meetings with them in December of 2020 or January of",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 37
+        },
+        {
+            "text": "Did you speak with them by phone in that time period?",
+            "page_#": 37
+        },
+        {
+            "text": "A",
+            "page_#": 37
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 37
+        },
+        {
+            "text": "2021?",
+            "page_#": 37
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "In 2021, did you have any interactions with Senator Karen Fann regarding an",
+            "page_#": 38
+        },
+        {
+            "text": "audit of the 2020 election results in Arizona?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Did you or Mr. Ramsland submit a proposal for ASOG -- that's Allied Security",
+            "page_#": 38
+        },
+        {
+            "text": "Operations Group -- to conduct an audit for the State of Arizona?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Are you going to refuse to answer any questions I have for you regarding",
+            "page_#": 38
+        },
+        {
+            "text": "your interactions with members of the Arizona State legislature regarding the 2020",
+            "page_#": 38
+        },
+        {
+            "text": "election?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "In November and December of 2020, did you meet with any State legislators",
+            "page_#": 38
+        },
+        {
+            "text": "from any other State?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Other than your public appearances in legislative hearings and other",
+            "page_#": 38
+        },
+        {
+            "text": "gatherings involving legislators, did you have any meetings with State-elected officials in",
+            "page_#": 38
+        },
+        {
+            "text": "November or December of 2020 or January of 2021?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "And when I say other gatherings, I'm referring to things like the meeting in",
+            "page_#": 38
+        },
+        {
+            "text": "Gettysburg, which I believe was in a hotel, but members of the legislature were present",
+            "page_#": 38
+        },
+        {
+            "text": "and it was a public gathering with members of the public also in attendance.",
+            "page_#": 38
+        },
+        {
+            "text": "Same answer?",
+            "page_#": 38
+        },
+        {
+            "text": "A",
+            "page_#": 38
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 38
+        },
+        {
+            "text": "Q",
+            "page_#": 38
+        },
+        {
+            "text": "Did you provide any -- and so I'm distinguishing those types of meetings,",
+            "page_#": 38
+        },
+        {
+            "text": "public meetings, whether it's actually in the State Capitol or some other gathering",
+            "page_#": 38
+        },
+        {
+            "text": "involving legislators.",
+            "page_#": 38
+        },
+        {
+            "text": "Did you have any meetings besides that with State-elected officials?",
+            "page_#": 39
+        },
+        {
+            "text": "So private",
+            "page_#": 39
+        },
+        {
+            "text": "meetings where the public wasn't present or it was not publicly announced that there",
+            "page_#": 39
+        },
+        {
+            "text": "was such a meeting.",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Did you provide any materials to State legislators regarding claims of",
+            "page_#": 39
+        },
+        {
+            "text": "election fraud?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Did you ever discuss with any State-elected official strategies for overturning",
+            "page_#": 39
+        },
+        {
+            "text": "the results of the 2020 Presidential election?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Did you play any role in procuring alternate slates of electors in any",
+            "page_#": 39
+        },
+        {
+            "text": "contested States?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "Say that again, please.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 39
+        },
+        {
+            "text": "Did you play any role in lining up or procuring alternate slates of electors?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "The same reply.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Have you ever talked with anyone about whether it would be helpful in",
+            "page_#": 39
+        },
+        {
+            "text": "That was a bad question.",
+            "page_#": 39
+        },
+        {
+            "text": "efforts to overturn the election to have alternate slates of electors?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Do you know Phill Kline?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Have you ever met Ian Northan?",
+            "page_#": 39
+        },
+        {
+            "text": "A",
+            "page_#": 39
+        },
+        {
+            "text": "Same reply.",
+            "page_#": 39
+        },
+        {
+            "text": "Q",
+            "page_#": 39
+        },
+        {
+            "text": "Did you or Mr. Ramsland ever submit a proposal -- sorry, I asked you that",
+            "page_#": 39
+        },
+        {
+            "text": "question already.",
+            "page_#": 39
+        },
+        {
+            "text": "Strike that.",
+            "page_#": 39
+        },
+        {
+            "text": "Are you going to refuse to answer any questions regarding your interactions with",
+            "page_#": 40
+        },
+        {
+            "text": "State election officials regarding the 2020 election?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "Yes, same reply.",
+            "page_#": 40
+        },
+        {
+            "text": "Q",
+            "page_#": 40
+        },
+        {
+            "text": "And I said State election officials.",
+            "page_#": 40
+        },
+        {
+            "text": "I meant to say State-elected officials.",
+            "page_#": 40
+        },
+        {
+            "text": "So not just those who were involved in administering elections but any State-elected",
+            "page_#": 40
+        },
+        {
+            "text": "official, will you refuse to answer questions regarding your interactions with those folks?",
+            "page_#": 40
+        },
+        {
+            "text": "A",
+            "page_#": 40
+        },
+        {
+            "text": "Yes, the same reply.",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. -",
+            "page_#": 40
+        },
+        {
+            "text": "Okay.",
+            "page_#": 40
+        },
+        {
+            "text": "If we could just -- I think I'm just about done.",
+            "page_#": 40
+        },
+        {
+            "text": "take a moment, I'm going to -- we can go off the record.",
+            "page_#": 40
+        },
+        {
+            "text": "and mute my mike and I'll be back momentarily.",
+            "page_#": 40
+        },
+        {
+            "text": "I'm going to turn off my video",
+            "page_#": 40
+        },
+        {
+            "text": "[Off the record.]",
+            "page_#": 40
+        },
+        {
+            "text": "Mr.-",
+            "page_#": 40
+        },
+        {
+            "text": "Mike, is there anything else that you want to put on the record?",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. Mccolloch.",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. Waldron, thank you.",
+            "page_#": 40
+        },
+        {
+            "text": "No.",
+            "page_#": 40
+        },
+        {
+            "text": "If we could",
+            "page_#": 40
+        },
+        {
+            "text": "I don't have any further questions for you.",
+            "page_#": 40
+        },
+        {
+            "text": "Just wanted to reiterate what's in our written response to",
+            "page_#": 40
+        },
+        {
+            "text": "the subpoena that all of this is, of course, subject to our other objections that we're not",
+            "page_#": 40
+        },
+        {
+            "text": "waiving that are outlined in our written response.",
+            "page_#": 40
+        },
+        {
+            "text": "And so, other than that, I believe that's all we have to say.",
+            "page_#": 40
+        },
+        {
+            "text": "If you're finished with",
+            "page_#": 40
+        },
+        {
+            "text": "the questions, then we will adjourn the deposition.",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. -",
+            "page_#": 40
+        },
+        {
+            "text": "the chair.",
+            "page_#": 40
+        },
+        {
+            "text": "you're --",
+            "page_#": 40
+        },
+        {
+            "text": "Well, we're going to keep the deposition open, subject to the call of",
+            "page_#": 40
+        },
+        {
+            "text": "Your objections are part of the record as exhibit 2.",
+            "page_#": 40
+        },
+        {
+            "text": "I just want to make sure",
+            "page_#": 40
+        },
+        {
+            "text": "Mr. Mccolloch.",
+            "page_#": 40
+        },
+        {
+            "text": "Mr.-",
+            "page_#": 40
+        },
+        {
+            "text": "So, with that, the deposition will remain open, subject to the call of the chair, but",
+            "page_#": 40
+        },
+        {
+            "text": "Yes.",
+            "page_#": 40
+        },
+        {
+            "text": "-- you're clear on that as well.",
+            "page_#": 40
+        },
+        {
+            "text": "we will adjourn for the day.",
+            "page_#": 40
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 41
+        },
+        {
+            "text": "Mr. Mccolloch.",
+            "page_#": 41
+        },
+        {
+            "text": "[Whereupon, at 12:14 p.m., the deposition was recessed, subject to the call of the",
+            "page_#": 41
+        },
+        {
+            "text": "chair.]",
+            "page_#": 41
+        },
+        {
+            "text": "We can go off the record.",
+            "page_#": 41
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 41
+        },
+        {
+            "text": "Certificate of Deponent/Interviewee",
+            "page_#": 42
+        },
+        {
+            "text": "I have read the foregoing _ _ pages, which contain the correct transcript of the",
+            "page_#": 42
+        },
+        {
+            "text": "answers made by me to the questions therein recorded.",
+            "page_#": 42
+        },
+        {
+            "text": "Witness Name",
+            "page_#": 42
+        },
+        {
+            "text": "Date",
+            "page_#": 42
+        }
+    ]
+}

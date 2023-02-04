@@ -1,0 +1,3454 @@
+{
+    "title": "CTRL0000916068 - Transcribed Interview of Steven Mnuchin, (July 18, 2022)",
+    "id": "CTRL0000916068",
+    "date": "July 18, 2022",
+    "url_desc": "https://www.govinfo.gov/app/details/GPO-J6-TRANSCRIPT-CTRL0000916068/",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-J6-TRANSCRIPT-CTRL0000916068/pdf/GPO-J6-TRANSCRIPT-CTRL0000916068.pdf#page=",
+    "witness": "Steven Mnuchin",
+    "data": [
+        {
+            "text": "SELECT COMMITTEE TO INVESTIGATE THE",
+            "page_#": 1
+        },
+        {
+            "text": "JANUARY 6TH ATTACK ON THE U.S. CAPITOL,",
+            "page_#": 1
+        },
+        {
+            "text": "U.S. HOUSE OF REPRESENTATIVES,",
+            "page_#": 1
+        },
+        {
+            "text": "WASHINGTON, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "INTERVIEW OF:",
+            "page_#": 1
+        },
+        {
+            "text": "STEVEN TERNER MNUCHIN",
+            "page_#": 1
+        },
+        {
+            "text": "Monday, July 18, 2022",
+            "page_#": 1
+        },
+        {
+            "text": "Washington, D.C.",
+            "page_#": 1
+        },
+        {
+            "text": "The interview in the above matter was held in Room 5480, O'Neill House Office",
+            "page_#": 1
+        },
+        {
+            "text": "Building, commencing at 2:07 p.m.",
+            "page_#": 1
+        },
+        {
+            "text": "Present:",
+            "page_#": 1
+        },
+        {
+            "text": "Representatives Aguilar and Lofgren.",
+            "page_#": 1
+        },
+        {
+            "text": "Appearances:",
+            "page_#": 2
+        },
+        {
+            "text": "For the SELECT COMMITTEE TO INVESTIGATE",
+            "page_#": 2
+        },
+        {
+            "text": "THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL:",
+            "page_#": 2
+        },
+        {
+            "text": "STAFF ASSOCIATE",
+            "page_#": 2
+        },
+        {
+            "text": "INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "SENIOR COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": ", CHIEF INVESTIGATIVE COUNSEL",
+            "page_#": 2
+        },
+        {
+            "text": "-",
+            "page_#": 2
+        },
+        {
+            "text": "SENIOR COUNSELOR TO THE VICE CHAIR",
+            "page_#": 2
+        },
+        {
+            "text": "CHIEF CLERK",
+            "page_#": 2
+        },
+        {
+            "text": "PROFESSIONAL STAFF MEMBER",
+            "page_#": 2
+        },
+        {
+            "text": "For STEVEN TERNER MNUCHIN:",
+            "page_#": 2
+        },
+        {
+            "text": "MILES GREENE",
+            "page_#": 2
+        },
+        {
+            "text": "STEVEN PEIKIN",
+            "page_#": 2
+        },
+        {
+            "text": "ALEXANDER WILLSCHER",
+            "page_#": 2
+        },
+        {
+            "text": "SULLIVAN & CROMWELL",
+            "page_#": 2
+        },
+        {
+            "text": "Good afternoon, Secretary Mnuchin.",
+            "page_#": 3
+        },
+        {
+            "text": "This is a transcribed",
+            "page_#": 3
+        },
+        {
+            "text": "interview conducted by the House Select Committee to Investigate the January 6th Attack",
+            "page_#": 3
+        },
+        {
+            "text": "on the United States Capitol pursuant to House Resolution 503.",
+            "page_#": 3
+        },
+        {
+            "text": "Could you please state your full name and spell your last name for the record?",
+            "page_#": 3
+        },
+        {
+            "text": "Secretary Mnuchin.",
+            "page_#": 3
+        },
+        {
+            "text": "-",
+            "page_#": 3
+        },
+        {
+            "text": "investigative counsel to the select committee.",
+            "page_#": 3
+        },
+        {
+            "text": "and I am the chief",
+            "page_#": 3
+        },
+        {
+            "text": "With me is",
+            "page_#": 3
+        },
+        {
+            "text": "---and",
+            "page_#": 3
+        },
+        {
+            "text": "Steven Terner Mnuchin, M-n-u-c-h-i-n.",
+            "page_#": 3
+        },
+        {
+            "text": "My name is",
+            "page_#": 3
+        },
+        {
+            "text": "Sure.",
+            "page_#": 3
+        },
+        {
+            "text": "also staff of the select",
+            "page_#": 3
+        },
+        {
+            "text": "committee.",
+            "page_#": 3
+        },
+        {
+            "text": "I understand you're represented by counsel.",
+            "page_#": 3
+        },
+        {
+            "text": "Counsel, if you could also introduce yourselves and spell your last names for us.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Peikin.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Willscher.",
+            "page_#": 3
+        },
+        {
+            "text": "Mr. Greene.",
+            "page_#": 3
+        },
+        {
+            "text": "Steven Peikin, P-e-i-k-i-n, from Sullivan & Cromwell.",
+            "page_#": 3
+        },
+        {
+            "text": "Alex Willscher, W-i-1-1-s-c-h-e-r, from Sullivan & Cromwell.",
+            "page_#": 3
+        },
+        {
+            "text": "Miles Greene, G-r-e-e-n-e, from Sullivan & Cromwell.",
+            "page_#": 3
+        },
+        {
+            "text": "Great.",
+            "page_#": 3
+        },
+        {
+            "text": "Welcome.",
+            "page_#": 3
+        },
+        {
+            "text": "This will be a staff-led interview, although members of the committee may join",
+            "page_#": 3
+        },
+        {
+            "text": "and choose to ask questions.",
+            "page_#": 3
+        },
+        {
+            "text": "put their camera on and I will do my best, Secretary Mnuchin, to indicate when they are",
+            "page_#": 3
+        },
+        {
+            "text": "present and recognize them if they choose to be.",
+            "page_#": 3
+        },
+        {
+            "text": "know who's on and who's not.",
+            "page_#": 3
+        },
+        {
+            "text": "Because it is a virtual interview, members, if they join, will",
+            "page_#": 3
+        },
+        {
+            "text": "I'll announce their presence so you",
+            "page_#": 3
+        },
+        {
+            "text": "There is an official reporter -- two official reporters -- who will be transcribing the",
+            "page_#": 3
+        },
+        {
+            "text": "record of the interview.",
+            "page_#": 3
+        },
+        {
+            "text": "Please wait until each question is complete before you begin",
+            "page_#": 3
+        },
+        {
+            "text": "your response, and we'll try to wait until your response is complete before we ask our",
+            "page_#": 3
+        },
+        {
+            "text": "next question.",
+            "page_#": 3
+        },
+        {
+            "text": "The stenographer cannot record nonverbal responses such as shaking of your",
+            "page_#": 4
+        },
+        {
+            "text": "head, so it's important that you answer each question with an audible verbal response.",
+            "page_#": 4
+        },
+        {
+            "text": "We ask that you provide complete answers based on your best recollection.",
+            "page_#": 4
+        },
+        {
+            "text": "the question is not clear, please ask for clarification.",
+            "page_#": 4
+        },
+        {
+            "text": "obviously, just say so.",
+            "page_#": 4
+        },
+        {
+            "text": "And if you don't know the answer,",
+            "page_#": 4
+        },
+        {
+            "text": "I have to remind you, as we do with all witnesses, that it is unlawful to deliberately",
+            "page_#": 4
+        },
+        {
+            "text": "provide false information to Congress.",
+            "page_#": 4
+        },
+        {
+            "text": "other statutes.",
+            "page_#": 4
+        },
+        {
+            "text": "Any questions about the basic --",
+            "page_#": 4
+        },
+        {
+            "text": "Secretary Mnuchin.",
+            "page_#": 4
+        },
+        {
+            "text": "No.",
+            "page_#": 4
+        },
+        {
+            "text": "Doing so could be a violation of 18 U.S.C. 1001 or",
+            "page_#": 4
+        },
+        {
+            "text": "All set.",
+            "page_#": 4
+        },
+        {
+            "text": "Okay, great.",
+            "page_#": 4
+        },
+        {
+            "text": "EXAMINATION",
+            "page_#": 4
+        },
+        {
+            "text": "If",
+            "page_#": 4
+        },
+        {
+            "text": "B~",
+            "page_#": 4
+        },
+        {
+            "text": "Q",
+            "page_#": 4
+        },
+        {
+            "text": "So let me start, Secretary Mnuchin, by just show you what we'll mark here as",
+            "page_#": 4
+        },
+        {
+            "text": "exhibit No. 1, which is a letter dated today from Special Counsel to the President Richard",
+            "page_#": 4
+        },
+        {
+            "text": "Sauber to your lawyers, Mr. Peikin and Mr. Willscher.",
+            "page_#": 4
+        },
+        {
+            "text": "Have you seen this in advance and had an opportunity to review it?",
+            "page_#": 4
+        },
+        {
+            "text": "A",
+            "page_#": 4
+        },
+        {
+            "text": "I just saw it when I arrived, and I've reviewed it.",
+            "page_#": 4
+        },
+        {
+            "text": "Q",
+            "page_#": 4
+        },
+        {
+            "text": "Okay, great.",
+            "page_#": 4
+        },
+        {
+            "text": "Thank you.",
+            "page_#": 4
+        },
+        {
+            "text": "It is a letter, for the record, from the White House counsel",
+            "page_#": 4
+        },
+        {
+            "text": "indicating that, in their view, it would not be appropriate to assert executive privilege on",
+            "page_#": 4
+        },
+        {
+            "text": "the subjects identified, including events within the White House on or about January 6th,",
+            "page_#": 4
+        },
+        {
+            "text": "attempts to use the Department of Justice to advance a false narrative that the 2020",
+            "page_#": 4
+        },
+        {
+            "text": "election was tainted by widespread fraud, other efforts to alter election results or",
+            "page_#": 4
+        },
+        {
+            "text": "obstruct the transfer of power.",
+            "page_#": 4
+        },
+        {
+            "text": "So, again, for the record, that's the position of the current White House counsel.",
+            "page_#": 4
+        },
+        {
+            "text": "Secretary Mnuchin, you're here voluntarily, correct?",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "Yes.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "Not pursuant to a subpoena but here, rather, to provide your voluntary",
+            "page_#": 5
+        },
+        {
+            "text": "cooperation to the committee.",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "That is correct.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "Which we very much appreciate.",
+            "page_#": 5
+        },
+        {
+            "text": "You served as Secretary of Treasury from, my understanding, February of 2017 all",
+            "page_#": 5
+        },
+        {
+            "text": "the way through the end of the administration in January 2021.",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "That is correct.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "Okay.",
+            "page_#": 5
+        },
+        {
+            "text": "At any point after the 2020 election, did you have any discussions",
+            "page_#": 5
+        },
+        {
+            "text": "with President Trump about the results, the integrity of the vote, or anything having to do",
+            "page_#": 5
+        },
+        {
+            "text": "with the election results?",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "I had a brief conversation with President Trump shortly after the election, so",
+            "page_#": 5
+        },
+        {
+            "text": "not long after, and asked him if he was going to concede the election.",
+            "page_#": 5
+        },
+        {
+            "text": "He told me he",
+            "page_#": 5
+        },
+        {
+            "text": "was going to pursue his legal remedies before he decided to do anything, which I",
+            "page_#": 5
+        },
+        {
+            "text": "understood.",
+            "page_#": 5
+        },
+        {
+            "text": "And that was the extent of our conversation.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "About approximately when did that conversation take place?",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "It was in the first week.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "I see.",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "It may have been a few days, but it was definitely within the first week.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "I see.",
+            "page_#": 5
+        },
+        {
+            "text": "Do you know if it was before or after the election had been called or",
+            "page_#": 5
+        },
+        {
+            "text": "the networks had indicated?",
+            "page_#": 5
+        },
+        {
+            "text": "I think that was on Saturday the 7th that they projected",
+            "page_#": 5
+        },
+        {
+            "text": "President Biden.",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 5
+        },
+        {
+            "text": "My guess is it had been after it had been called, but I don't recall specifically.",
+            "page_#": 5
+        },
+        {
+            "text": "Q",
+            "page_#": 5
+        },
+        {
+            "text": "Okay.",
+            "page_#": 5
+        },
+        {
+            "text": "Was that in person or by telephone?",
+            "page_#": 5
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "I believe it was by telephone.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "All right.",
+            "page_#": 6
+        },
+        {
+            "text": "Is it the only conversation with him at any time that you had",
+            "page_#": 6
+        },
+        {
+            "text": "about the election?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "It was the only conversation that I had about the election.",
+            "page_#": 6
+        },
+        {
+            "text": "There may have",
+            "page_#": 6
+        },
+        {
+            "text": "been other times where he said certain things about the election which were consistent",
+            "page_#": 6
+        },
+        {
+            "text": "with what he said publicly.",
+            "page_#": 6
+        },
+        {
+            "text": "I see.",
+            "page_#": 6
+        },
+        {
+            "text": "Okay.",
+            "page_#": 6
+        },
+        {
+            "text": "But the only time you recall a direct conversation with him",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "was that one?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "That is correct.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "All right.",
+            "page_#": 6
+        },
+        {
+            "text": "Did you in any way make an effort to form your own opinion about these",
+            "page_#": 6
+        },
+        {
+            "text": "allegations of alleged election fraud?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "You know, unlike the previous campaign, I was not involved in this campaign.",
+            "page_#": 6
+        },
+        {
+            "text": "I was really not in a position to understand things.",
+            "page_#": 6
+        },
+        {
+            "text": "Attorney General and other things that he was saying.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 6
+        },
+        {
+            "text": "So, you know, I followed the",
+            "page_#": 6
+        },
+        {
+            "text": "The Attorney General on December the 1st made a public",
+            "page_#": 6
+        },
+        {
+            "text": "announcement, did not see -- the Department of Justice did not see existence of election",
+            "page_#": 6
+        },
+        {
+            "text": "fraud sufficient to undermine confidence in the outcome in any State.",
+            "page_#": 6
+        },
+        {
+            "text": "Did you endorse that or believe that to be -- that was accurate?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "I had no expertise in understanding anything different, so I respected his",
+            "page_#": 6
+        },
+        {
+            "text": "view and assumed that he was correct.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "Okay.",
+            "page_#": 6
+        },
+        {
+            "text": "You mentioned before that that first conversation with President",
+            "page_#": 6
+        },
+        {
+            "text": "Trump did involve some discussion of whether he would concede.",
+            "page_#": 6
+        },
+        {
+            "text": "Is that right?",
+            "page_#": 6
+        },
+        {
+            "text": "A",
+            "page_#": 6
+        },
+        {
+            "text": "It was a very brief discussion, but yes.",
+            "page_#": 6
+        },
+        {
+            "text": "Q",
+            "page_#": 6
+        },
+        {
+            "text": "So no other conversations with him about whether he should concede after",
+            "page_#": 6
+        },
+        {
+            "text": "that initial?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "No.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Okay.",
+            "page_#": 7
+        },
+        {
+            "text": "Did you have any concerns -- we've heard from other colleagues of",
+            "page_#": 7
+        },
+        {
+            "text": "yours in the Cabinet that they had concerns about the nature of the advice that the",
+            "page_#": 7
+        },
+        {
+            "text": "President was getting after the election.",
+            "page_#": 7
+        },
+        {
+            "text": "Did you share those concerns, have any reason to believe he was not being served",
+            "page_#": 7
+        },
+        {
+            "text": "by other voices outside of the Cabinet?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Again, only from what I was hearing secondhand.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Tell me more about that.",
+            "page_#": 7
+        },
+        {
+            "text": "So yes.",
+            "page_#": 7
+        },
+        {
+            "text": "What were you hearing secondhand and what",
+            "page_#": 7
+        },
+        {
+            "text": "were your concerns?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "That there were people around him who were not necessarily the staff or",
+            "page_#": 7
+        },
+        {
+            "text": "the full-time people who had been part of the team that were making claims of election",
+            "page_#": 7
+        },
+        {
+            "text": "fraud.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Did you talk with the President at all about that, about --",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "1did not.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Okay.",
+            "page_#": 7
+        },
+        {
+            "text": "the advice the President was getting?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "that, no.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Did you express those concerns to anyone else, about the quality of",
+            "page_#": 7
+        },
+        {
+            "text": "I may have expressed that to the chief of staff, Mark Meadows, but beyond",
+            "page_#": 7
+        },
+        {
+            "text": "All right.",
+            "page_#": 7
+        },
+        {
+            "text": "On the issue of concession, did you ever talk to Mr. Meadows",
+            "page_#": 7
+        },
+        {
+            "text": "about whether the President should or shouldn't concede?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Not that I can recall.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 7
+        },
+        {
+            "text": "Okay.",
+            "page_#": 7
+        },
+        {
+            "text": "Anyone else besides the President himself, discussions about",
+            "page_#": 7
+        },
+        {
+            "text": "whether he should concede?",
+            "page_#": 7
+        },
+        {
+            "text": "A",
+            "page_#": 7
+        },
+        {
+            "text": "Not that I recall, no.",
+            "page_#": 7
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "I understand on January 6th you were traveling abroad, correct?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I was.",
+            "page_#": 8
+        },
+        {
+            "text": "I was in Israel.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "When did you first have indication that there was violence at the",
+            "page_#": 8
+        },
+        {
+            "text": "Capitol, and how did you get that information?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I came back from dinner, and we turned on the TV and we watched it.",
+            "page_#": 8
+        },
+        {
+            "text": "That",
+            "page_#": 8
+        },
+        {
+            "text": "was the first time I had any indication of it.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "When you first had the indication of it, did you take any action, make any",
+            "page_#": 8
+        },
+        {
+            "text": "inquiries to get more information?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Again, it was very late at night.",
+            "page_#": 8
+        },
+        {
+            "text": "Again, I don't recall.",
+            "page_#": 8
+        },
+        {
+            "text": "We were watching it",
+            "page_#": 8
+        },
+        {
+            "text": "live on TV.",
+            "page_#": 8
+        },
+        {
+            "text": "any calls.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "Not that I recall.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I definitely didn't speak to the President and didn't speak to Mr. Meadows at",
+            "page_#": 8
+        },
+        {
+            "text": "that point.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "Obviously, I had concerns about what was going on, but I don't recall making",
+            "page_#": 8
+        },
+        {
+            "text": "Did you speak to anyone at the White House, for example?",
+            "page_#": 8
+        },
+        {
+            "text": "Not the President, not Mr. Meadows?",
+            "page_#": 8
+        },
+        {
+            "text": "Okay.",
+            "page_#": 8
+        },
+        {
+            "text": "How about within your own organization, within the Treasury, did",
+            "page_#": 8
+        },
+        {
+            "text": "you call back to see if the events were in any way causing concern or affecting the",
+            "page_#": 8
+        },
+        {
+            "text": "Treasury Department?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "the Treasury at all.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 8
+        },
+        {
+            "text": "I was in regular communication with the Treasurer, and it was not impacting",
+            "page_#": 8
+        },
+        {
+            "text": "We were normally functioning.",
+            "page_#": 8
+        },
+        {
+            "text": "All right.",
+            "page_#": 8
+        },
+        {
+            "text": "So did you have any concerns about a security threat to the",
+            "page_#": 8
+        },
+        {
+            "text": "facility at Treasury?",
+            "page_#": 8
+        },
+        {
+            "text": "A",
+            "page_#": 8
+        },
+        {
+            "text": "I had the Secret Service with me, and, you know, they would advise me if",
+            "page_#": 8
+        },
+        {
+            "text": "there was such a situation, and we did not have any of those concerns.",
+            "page_#": 8
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "All right.",
+            "page_#": 9
+        },
+        {
+            "text": "How about discussions with anyone at Treasury or elsewhere",
+            "page_#": 9
+        },
+        {
+            "text": "about the stability of financial systems or markets, either on or after January 6th, did you",
+            "page_#": 9
+        },
+        {
+            "text": "have any of those concerns or discussions?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "I did not have those concerns.",
+            "page_#": 9
+        },
+        {
+            "text": "The markets were functioning, fully",
+            "page_#": 9
+        },
+        {
+            "text": "functioning.",
+            "page_#": 9
+        },
+        {
+            "text": "There were plenty of other times that I had those concerns while I was in",
+            "page_#": 9
+        },
+        {
+            "text": "office and we appropriately dealt with them, but the markets were functioning normally.",
+            "page_#": 9
+        },
+        {
+            "text": "Understood.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Pence that day?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Okay.",
+            "page_#": 9
+        },
+        {
+            "text": "Did you have any conversations with Vice President",
+            "page_#": 9
+        },
+        {
+            "text": "I had no conversations with him that day.",
+            "page_#": 9
+        },
+        {
+            "text": "I did have conversations with",
+            "page_#": 9
+        },
+        {
+            "text": "him later in the week.",
+            "page_#": 9
+        },
+        {
+            "text": "Okay.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "had been certified.",
+            "page_#": 9
+        },
+        {
+            "text": "Tell us about that conversation after January 6th and the election",
+            "page_#": 9
+        },
+        {
+            "text": "Tell us about any conversations you had with Vice President Pence.",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Again, I had a normal conversation with him just to check in, given the",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Tell us what you said to him and what he said back to you.",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Again, I wanted to make sure that he was okay.",
+            "page_#": 9
+        },
+        {
+            "text": "events.",
+            "page_#": 9
+        },
+        {
+            "text": "about the normal functioning of government.",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 9
+        },
+        {
+            "text": "Okay.",
+            "page_#": 9
+        },
+        {
+            "text": "Did he say anything, share anything with you about his experience or",
+            "page_#": 9
+        },
+        {
+            "text": "anything that had happened?",
+            "page_#": 9
+        },
+        {
+            "text": "A",
+            "page_#": 9
+        },
+        {
+            "text": "I appreciated what he did, but I don't -- I don't specifically remember that",
+            "page_#": 9
+        },
+        {
+            "text": "conversation.",
+            "page_#": 9
+        },
+        {
+            "text": "Did you express thanks or admiration or compliment him on the steps that",
+            "page_#": 9
+        },
+        {
+            "text": "he took on the 6th?",
+            "page_#": 9
+        },
+        {
+            "text": "And, again, we just talked",
+            "page_#": 9
+        },
+        {
+            "text": "press.",
+            "page_#": 9
+        },
+        {
+            "text": "He did not go into the details.",
+            "page_#": 9
+        },
+        {
+            "text": "I obviously had read a bunch of it in the",
+            "page_#": 9
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Okay.",
+            "page_#": 10
+        },
+        {
+            "text": "We'll talk a little bit more here about efforts, discussions about",
+            "page_#": 10
+        },
+        {
+            "text": "things to do and some of the transition.",
+            "page_#": 10
+        },
+        {
+            "text": "Anything at all, though, with Vice President Pence about the events of the 6th?",
+            "page_#": 10
+        },
+        {
+            "text": "Nothing else?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "No.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "How about military leaders or Members of Congress, did you ever speak to",
+            "page_#": 10
+        },
+        {
+            "text": "any of them about the events of the 6th?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "I don't recall speaking to Members of Congress, I think only because in one",
+            "page_#": 10
+        },
+        {
+            "text": "of the questions that you sent me you referenced that General Milley referenced a",
+            "page_#": 10
+        },
+        {
+            "text": "conversation that he and myself and Secretary Pompeo had had.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 10
+        },
+        {
+            "text": "Let's go to that.",
+            "page_#": 10
+        },
+        {
+            "text": "Do you recall a conversation where General",
+            "page_#": 10
+        },
+        {
+            "text": "Milley was present where you were talking to Secretary Pompeo?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Situation Room.",
+            "page_#": 10
+        },
+        {
+            "text": "having seen him other than that period of time.",
+            "page_#": 10
+        },
+        {
+            "text": "conversation on the sidelines of that.",
+            "page_#": 10
+        },
+        {
+            "text": "I believe -- I believe it must have been a meeting, a normal meeting in the",
+            "page_#": 10
+        },
+        {
+            "text": "It was probably a Principals Committee meeting, because I don't recall",
+            "page_#": 10
+        },
+        {
+            "text": "And we may have had a casual",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "Okay.",
+            "page_#": 10
+        },
+        {
+            "text": "And do you recall anything specific about that casual conversation?",
+            "page_#": 10
+        },
+        {
+            "text": "A",
+            "page_#": 10
+        },
+        {
+            "text": "Again, I recall that, you know, we felt there was the normal functioning of",
+            "page_#": 10
+        },
+        {
+            "text": "government.",
+            "page_#": 10
+        },
+        {
+            "text": "government was functioning.",
+            "page_#": 10
+        },
+        {
+            "text": "Q",
+            "page_#": 10
+        },
+        {
+            "text": "And, again, putting aside the election issues, we all had a lot to do and",
+            "page_#": 10
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 10
+        },
+        {
+            "text": "Let me just read you what General Milley testified when he was here",
+            "page_#": 10
+        },
+        {
+            "text": "before the select committee.",
+            "page_#": 10
+        },
+        {
+            "text": "He was asked, \"Do you remember on the 6th or days thereafter any discussion of",
+            "page_#": 10
+        },
+        {
+            "text": "the potential invocation of the 25th Amendment?\"",
+            "page_#": 10
+        },
+        {
+            "text": "He said, \"Yes.",
+            "page_#": 10
+        },
+        {
+            "text": "So I'm not a member of the Cabinet and I have no role whatsoever",
+            "page_#": 10
+        },
+        {
+            "text": "in the 25th Amendment, but there was at least one or two occasions when other",
+            "page_#": 11
+        },
+        {
+            "text": "members of the Cabinet mentioned it very brief, like 10 seconds, 15 seconds.",
+            "page_#": 11
+        },
+        {
+            "text": "they looked and they saw that I was standing there and, knowing that I'm not a member",
+            "page_#": 11
+        },
+        {
+            "text": "of the Cabinet, they shut up.\"",
+            "page_#": 11
+        },
+        {
+            "text": "Question:",
+            "page_#": 11
+        },
+        {
+            "text": "Answer:",
+            "page_#": 11
+        },
+        {
+            "text": "\"What do you remember them saying?\"",
+            "page_#": 11
+        },
+        {
+            "text": "General Milley said, \"It was just a discussion.",
+            "page_#": 11
+        },
+        {
+            "text": "And then",
+            "page_#": 11
+        },
+        {
+            "text": "\"Who were they?\"",
+            "page_#": 11
+        },
+        {
+            "text": "\"Steve Mnuchin, Pompeo.",
+            "page_#": 11
+        },
+        {
+            "text": "I think that's it, those two.\"",
+            "page_#": 11
+        },
+        {
+            "text": "They were talking about something",
+            "page_#": 11
+        },
+        {
+            "text": "and then the term '25th Amendment' comes up.",
+            "page_#": 11
+        },
+        {
+            "text": "away.\"",
+            "page_#": 11
+        },
+        {
+            "text": "see me, they know I'm not a member of the Cabinet, so they ceased the discussion.\"",
+            "page_#": 11
+        },
+        {
+            "text": "I'm there.",
+            "page_#": 11
+        },
+        {
+            "text": "I'm like from here to here",
+            "page_#": 11
+        },
+        {
+            "text": "And he literally was about as far as I am from you.",
+            "page_#": 11
+        },
+        {
+            "text": "\"And then they look, they",
+            "page_#": 11
+        },
+        {
+            "text": "That ring any bells, or do you recall talking to Secretary Pompeo in General",
+            "page_#": 11
+        },
+        {
+            "text": "Milley's presence about the 25th Amendment?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "I mean, I do recall speaking to Secretary Pompeo about the 25th",
+            "page_#": 11
+        },
+        {
+            "text": "Amendment.",
+            "page_#": 11
+        },
+        {
+            "text": "stopped the conversation when General Milley came up.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "I don't recall it being in that circumstance, and I surely don't recall that I",
+            "page_#": 11
+        },
+        {
+            "text": "Okay.",
+            "page_#": 11
+        },
+        {
+            "text": "Let's talk then about your conversations with Secretary Pompeo or",
+            "page_#": 11
+        },
+        {
+            "text": "others about that topic of the 25th Amendment.",
+            "page_#": 11
+        },
+        {
+            "text": "Tell me, when was the first time that you had any such discussion, either on or",
+            "page_#": 11
+        },
+        {
+            "text": "after January 6th?",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "Okay.",
+            "page_#": 11
+        },
+        {
+            "text": "Q",
+            "page_#": 11
+        },
+        {
+            "text": "Yes.",
+            "page_#": 11
+        },
+        {
+            "text": "A",
+            "page_#": 11
+        },
+        {
+            "text": "So I think, as you are aware, kind of during the month of December I was",
+            "page_#": 11
+        },
+        {
+            "text": "Again, I just want to put this in perspective on timing.",
+            "page_#": 11
+        },
+        {
+            "text": "very, very busy negotiating with Congress both what was the CARES Act and",
+            "page_#": 11
+        },
+        {
+            "text": "the additional funding of government, which I believe President Trump signed on",
+            "page_#": 11
+        },
+        {
+            "text": "December 28th.",
+            "page_#": 12
+        },
+        {
+            "text": "So that was really my full-time focus.",
+            "page_#": 12
+        },
+        {
+            "text": "I then ended up leaving shortly for vacation.",
+            "page_#": 12
+        },
+        {
+            "text": "I came back.",
+            "page_#": 12
+        },
+        {
+            "text": "planned trip to Egypt, Sudan, and other countries in the Mideast.",
+            "page_#": 12
+        },
+        {
+            "text": "and then I came back.",
+            "page_#": 12
+        },
+        {
+            "text": "And then I went on a",
+            "page_#": 12
+        },
+        {
+            "text": "I cut that trip short,",
+            "page_#": 12
+        },
+        {
+            "text": "So I believe the conversation that you're referencing must have been, you",
+            "page_#": 12
+        },
+        {
+            "text": "know -- we can check the exact date I got back, but it was not in the first few days.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "I see.",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "So, again, my conversations with Secretary Pompeo, when I got back, this",
+            "page_#": 12
+        },
+        {
+            "text": "was all over the press.",
+            "page_#": 12
+        },
+        {
+            "text": "So every time you turned on TV, there was the 25th Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "It came up very briefly in our conversation.",
+            "page_#": 12
+        },
+        {
+            "text": "We both believed that the best",
+            "page_#": 12
+        },
+        {
+            "text": "outcome was a normal transition of power, which was working, and neither one of us",
+            "page_#": 12
+        },
+        {
+            "text": "contemplated in any serious format the 25th Amendment.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "I see.",
+            "page_#": 12
+        },
+        {
+            "text": "Did you or anyone on your behalf do any kind of research into the",
+            "page_#": 12
+        },
+        {
+            "text": "predicates for the invocation of the act or sort of --",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "The only research I did out of curiosity was I googled it.",
+            "page_#": 12
+        },
+        {
+            "text": "It came up.",
+            "page_#": 12
+        },
+        {
+            "text": "remember my general counsel asking me if we wanted him to do extensive research on it.",
+            "page_#": 12
+        },
+        {
+            "text": "I said, no, not at this point.",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "I see Ms. Lofgren has joined us, a member of the committee.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "So you talked to Secretary Pompeo about that prospect?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "Again, it came up in a conversation.",
+            "page_#": 12
+        },
+        {
+            "text": "I can't recall in date whether it was in",
+            "page_#": 12
+        },
+        {
+            "text": "the conversation with General Milley or whether it was in a different conversation that",
+            "page_#": 12
+        },
+        {
+            "text": "we had.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 12
+        },
+        {
+            "text": "Okay.",
+            "page_#": 12
+        },
+        {
+            "text": "Do you remember talking about the 25th Amendment with any",
+            "page_#": 12
+        },
+        {
+            "text": "other members of the President's Cabinet?",
+            "page_#": 12
+        },
+        {
+            "text": "A",
+            "page_#": 12
+        },
+        {
+            "text": "I don't.",
+            "page_#": 12
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "Do you remember talking about it on the telephone in addition to",
+            "page_#": 13
+        },
+        {
+            "text": "the in-person discussion that General Milley referenced?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I recall discussing it on the telephone.",
+            "page_#": 13
+        },
+        {
+            "text": "meeting with General Milley.",
+            "page_#": 13
+        },
+        {
+            "text": "were together in the Situation Room.",
+            "page_#": 13
+        },
+        {
+            "text": "I don't particularly recall the",
+            "page_#": 13
+        },
+        {
+            "text": "But, again, it sounds like a meeting where the three of us",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "Okay.",
+            "page_#": 13
+        },
+        {
+            "text": "Do you recall a telephone conversation with Pompeo about it?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "Yes.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "I see.",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "No.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "All right.",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "I'm familiar with it, but go ahead.",
+            "page_#": 13
+        },
+        {
+            "text": "Q",
+            "page_#": 13
+        },
+        {
+            "text": "He said, \"Mnuchin did have conversations with other members, plural, of the",
+            "page_#": 13
+        },
+        {
+            "text": "Anyone else that you talked to on the phone?",
+            "page_#": 13
+        },
+        {
+            "text": "There's a -- let me read you a passage from Jonathan Karl's book.",
+            "page_#": 13
+        },
+        {
+            "text": "Cabinet that night, January 6th, and the next morning on a step much more dramatic than",
+            "page_#": 13
+        },
+        {
+            "text": "issuing a statement.",
+            "page_#": 13
+        },
+        {
+            "text": "talked to other members of the Cabinet about attempting to remove Trump from office",
+            "page_#": 13
+        },
+        {
+            "text": "by invoking the 25th Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "night was Secretary of State Pompeo.\"",
+            "page_#": 13
+        },
+        {
+            "text": "Again, is that accurate?",
+            "page_#": 13
+        },
+        {
+            "text": "A",
+            "page_#": 13
+        },
+        {
+            "text": "According to a source familiar with the conversations, Mnuchin",
+            "page_#": 13
+        },
+        {
+            "text": "Among the Cabinet officials Mnuchin spoke to that",
+            "page_#": 13
+        },
+        {
+            "text": "Does that refresh any recollection?",
+            "page_#": 13
+        },
+        {
+            "text": "It is completely inaccurate.",
+            "page_#": 13
+        },
+        {
+            "text": "I can tell you I did speak to Jonathan Karl on",
+            "page_#": 13
+        },
+        {
+            "text": "background.",
+            "page_#": 13
+        },
+        {
+            "text": "What I told him -- he asked me about the 25th Amendment.",
+            "page_#": 13
+        },
+        {
+            "text": "I said that I",
+            "page_#": 13
+        },
+        {
+            "text": "was not going to make any comments on the 25th Amendment, that I didn't think it was",
+            "page_#": 13
+        },
+        {
+            "text": "appropriate in that format, and that he shouldn't take that as meaning that there were",
+            "page_#": 13
+        },
+        {
+            "text": "conversations or there weren't conversations.",
+            "page_#": 13
+        },
+        {
+            "text": "He also asked me whether I had a conversation separately with Secretary Pompeo,",
+            "page_#": 13
+        },
+        {
+            "text": "and I answered I had spoken to Secretary Pompeo after January 6th, not referencing that",
+            "page_#": 13
+        },
+        {
+            "text": "I spoke to him about the 25th Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "So if he has that information from other people, I believe it's inaccurate.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "I see.",
+            "page_#": 14
+        },
+        {
+            "text": "Okay.",
+            "page_#": 14
+        },
+        {
+            "text": "And I take it from your answer, Secretary Mnuchin, that you",
+            "page_#": 14
+        },
+        {
+            "text": "never personally formed the view that President Trump was incapable of carrying out the",
+            "page_#": 14
+        },
+        {
+            "text": "functions of the office or had mental illness sufficient to trigger invocation of the 25th",
+            "page_#": 14
+        },
+        {
+            "text": "Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Again, I never did the legal research on the 25th Amendment.",
+            "page_#": 14
+        },
+        {
+            "text": "But, again,",
+            "page_#": 14
+        },
+        {
+            "text": "putting aside the elections, I believed that he was able to and we did have a normal",
+            "page_#": 14
+        },
+        {
+            "text": "functioning of the government.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "I see.",
+            "page_#": 14
+        },
+        {
+            "text": "Did you ever speak to Vice President Pence or any members of his",
+            "page_#": 14
+        },
+        {
+            "text": "staff about the 25th Amendment?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I don't recall.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Okay.",
+            "page_#": 14
+        },
+        {
+            "text": "So just to be clear, you don't remember any conversations with",
+            "page_#": 14
+        },
+        {
+            "text": "anyone other than Secretary Pompeo?",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "That's correct.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Okay.",
+            "page_#": 14
+        },
+        {
+            "text": "All right.",
+            "page_#": 14
+        },
+        {
+            "text": "Let me ask you about some other steps that were",
+            "page_#": 14
+        },
+        {
+            "text": "discussed in the days after January 6th to ensure functioning of government and a",
+            "page_#": 14
+        },
+        {
+            "text": "transition.",
+            "page_#": 14
+        },
+        {
+            "text": "We interviewed Secretary Scalia, and he told us that he thought perhaps a Cabinet",
+            "page_#": 14
+        },
+        {
+            "text": "meeting should be convened and that the Cabinet should be more directly involved in big",
+            "page_#": 14
+        },
+        {
+            "text": "decisions in the last 2 weeks of the administration.",
+            "page_#": 14
+        },
+        {
+            "text": "Do you remember hearing about that or having --",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "I do not.",
+            "page_#": 14
+        },
+        {
+            "text": "Q",
+            "page_#": 14
+        },
+        {
+            "text": "Okay.",
+            "page_#": 14
+        },
+        {
+            "text": "A",
+            "page_#": 14
+        },
+        {
+            "text": "Again, I may have spoken to Scalia during that period.",
+            "page_#": 14
+        },
+        {
+            "text": "You didn't talk to Scalia or others?",
+            "page_#": 14
+        },
+        {
+            "text": "I don't ever",
+            "page_#": 14
+        },
+        {
+            "text": "remember having a conversation as you've described and him saying there should be a",
+            "page_#": 15
+        },
+        {
+            "text": "Cabinet meeting.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "No.",
+            "page_#": 15
+        },
+        {
+            "text": "Did anyone raise that prospect with you?",
+            "page_#": 15
+        },
+        {
+            "text": "I mean, I would also just say in terms of Cabinet meetings, most of the",
+            "page_#": 15
+        },
+        {
+            "text": "functioning of the government that we did was outside of Cabinet meetings.",
+            "page_#": 15
+        },
+        {
+            "text": "be a little bit of an odd request.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 15
+        },
+        {
+            "text": "So it would",
+            "page_#": 15
+        },
+        {
+            "text": "Were there any discussions about, beyond the 25th Amendment or a",
+            "page_#": 15
+        },
+        {
+            "text": "Cabinet meeting, other steps that should be taken to ensure smooth function of",
+            "page_#": 15
+        },
+        {
+            "text": "government between January 6th and January 20th that you were involved in yourself?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "I'm sorry, give that to me again.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Were there any other steps discussed, that you discussed with anybody else,",
+            "page_#": 15
+        },
+        {
+            "text": "about specific things that needed to be done, so in the wake of January 6th, to make sure",
+            "page_#": 15
+        },
+        {
+            "text": "that the term was finished appropriately?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "Not in the wake of January 6th.",
+            "page_#": 15
+        },
+        {
+            "text": "There were other things that were part of",
+            "page_#": 15
+        },
+        {
+            "text": "a normal transition that were discussed, things that are similar to any other Presidential",
+            "page_#": 15
+        },
+        {
+            "text": "transition, and they were proceeding properly.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Okay.",
+            "page_#": 15
+        },
+        {
+            "text": "Did you ever at any time perceive resistance to cooperating with the",
+            "page_#": 15
+        },
+        {
+            "text": "transition, even going back before January 6th, from the White House or anyone else?",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "So if you recall, I believe it was in late November, the GSA certified the funds",
+            "page_#": 15
+        },
+        {
+            "text": "for the transition committee.",
+            "page_#": 15
+        },
+        {
+            "text": "Q",
+            "page_#": 15
+        },
+        {
+            "text": "Right.",
+            "page_#": 15
+        },
+        {
+            "text": "A",
+            "page_#": 15
+        },
+        {
+            "text": "We had been working internally on transition plans before the election,",
+            "page_#": 15
+        },
+        {
+            "text": "which is required no matter who wins the election.",
+            "page_#": 15
+        },
+        {
+            "text": "We continued to work on them.",
+            "page_#": 15
+        },
+        {
+            "text": "And then I believe it was after November 26th or 28th, I forget what the date was,",
+            "page_#": 15
+        },
+        {
+            "text": "when that was certified we were told by the White House that we could proceed and",
+            "page_#": 15
+        },
+        {
+            "text": "speak to -- in that case, I spoke to Janet Yellen several times.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Okay.",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "You can google the document.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 16
+        },
+        {
+            "text": "It's out there.",
+            "page_#": 16
+        },
+        {
+            "text": "But it sounds like once that occurred, the funds were appropriated,",
+            "page_#": 16
+        },
+        {
+            "text": "there was no -- you never perceived any resistance.",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I think that's called ascertainment or something like that.",
+            "page_#": 16
+        },
+        {
+            "text": "on it.",
+            "page_#": 16
+        },
+        {
+            "text": "No, none whatsoever.",
+            "page_#": 16
+        },
+        {
+            "text": "We had professional career staff who were working",
+            "page_#": 16
+        },
+        {
+            "text": "As I said, I had several conversations with Janet Yellen during that period of time.",
+            "page_#": 16
+        },
+        {
+            "text": "I see.",
+            "page_#": 16
+        },
+        {
+            "text": "Okay.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "I see that Mr. Aguilar has joined us as well, a second member of the committee.",
+            "page_#": 16
+        },
+        {
+            "text": "All right.",
+            "page_#": 16
+        },
+        {
+            "text": "So several of your colleagues in the Cabinet did resign, right, on or soon",
+            "page_#": 16
+        },
+        {
+            "text": "after January 6th.",
+            "page_#": 16
+        },
+        {
+            "text": "Did you have any conversations with either Secretary DeVos or",
+            "page_#": 16
+        },
+        {
+            "text": "Secretary Chao about their decisions to resign?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I did not.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Did you yourself consider resigning?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "I absolutely didn't.",
+            "page_#": 16
+        },
+        {
+            "text": "And let me be clear.",
+            "page_#": 16
+        },
+        {
+            "text": "I absolutely believed that the",
+            "page_#": 16
+        },
+        {
+            "text": "best thing I could do to serve the American people was to continue in my job.",
+            "page_#": 16
+        },
+        {
+            "text": "we had a lot of work to do in those last 2 weeks.",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 16
+        },
+        {
+            "text": "Do you remember discussions with anyone who didn't resign who",
+            "page_#": 16
+        },
+        {
+            "text": "was contemplating it, Cabinet or otherwise, as a result of January 6th?",
+            "page_#": 16
+        },
+        {
+            "text": "A",
+            "page_#": 16
+        },
+        {
+            "text": "No.",
+            "page_#": 16
+        },
+        {
+            "text": "I'd say everybody else who didn't resign, again, there was a lot of work",
+            "page_#": 16
+        },
+        {
+            "text": "going on independent of the election.",
+            "page_#": 16
+        },
+        {
+            "text": "of work we were working on right until the very end.",
+            "page_#": 16
+        },
+        {
+            "text": "As I said,",
+            "page_#": 16
+        },
+        {
+            "text": "Q",
+            "page_#": 16
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 16
+        },
+        {
+            "text": "Again, as it relates to the CARES Act, we had a lot",
+            "page_#": 16
+        },
+        {
+            "text": "Just going back, looking over my notes, Secretary Mnuchin, you",
+            "page_#": 16
+        },
+        {
+            "text": "issued a statement by tweet on the night of January 6th.",
+            "page_#": 16
+        },
+        {
+            "text": "where you were in Israel.",
+            "page_#": 16
+        },
+        {
+            "text": "I guess it was very late at night",
+            "page_#": 16
+        },
+        {
+            "text": "\"Violence is always unacceptable.",
+            "page_#": 17
+        },
+        {
+            "text": "We must respect our Constitution and",
+            "page_#": 17
+        },
+        {
+            "text": "democratic processes.\"",
+            "page_#": 17
+        },
+        {
+            "text": "It's something that was drafted for you, you drafted yourself?",
+            "page_#": 17
+        },
+        {
+            "text": "that came about?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "It was a combination.",
+            "page_#": 17
+        },
+        {
+            "text": "Do you recall how",
+            "page_#": 17
+        },
+        {
+            "text": "Typical of these types of tweets, it was a",
+            "page_#": 17
+        },
+        {
+            "text": "combination of myself, my communications staff, and other staff members.",
+            "page_#": 17
+        },
+        {
+            "text": "off on that tweet.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "But I signed",
+            "page_#": 17
+        },
+        {
+            "text": "And why was it important to use those words or to issue that",
+            "page_#": 17
+        },
+        {
+            "text": "message, in your view?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I thought it was important.",
+            "page_#": 17
+        },
+        {
+            "text": "was something I was watching on TV.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "I was out of the country.",
+            "page_#": 17
+        },
+        {
+            "text": "And, obviously, this",
+            "page_#": 17
+        },
+        {
+            "text": "And I thought it was appropriate.",
+            "page_#": 17
+        },
+        {
+            "text": "When you say, \"We must respect our Constitution and democratic",
+            "page_#": 17
+        },
+        {
+            "text": "processes,\" why -- beyond violence -- why did you feel it necessary to include a reference",
+            "page_#": 17
+        },
+        {
+            "text": "to the Constitution and the democratic process?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "Again, I thought it was appropriate.",
+            "page_#": 17
+        },
+        {
+            "text": "I can't remember the specific things.",
+            "page_#": 17
+        },
+        {
+            "text": "But, again, it was -- we thought it was appropriate.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "1did not.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "You were able, as a Cabinet Secretary --",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "But I wouldn't normally have done that.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 17
+        },
+        {
+            "text": "So, again, no conversations with DeVos or Chao or anyone else about resignations,",
+            "page_#": 17
+        },
+        {
+            "text": "Did you clear that or notify the White House in any way before --",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "All right.",
+            "page_#": 17
+        },
+        {
+            "text": "that you remember?",
+            "page_#": 17
+        },
+        {
+            "text": "A",
+            "page_#": 17
+        },
+        {
+            "text": "I don't recall anything, no.",
+            "page_#": 17
+        },
+        {
+            "text": "Q",
+            "page_#": 17
+        },
+        {
+            "text": "Okay.",
+            "page_#": 17
+        },
+        {
+            "text": "You mentioned a conversation with Vice President Pence.",
+            "page_#": 17
+        },
+        {
+            "text": "Is there",
+            "page_#": 17
+        },
+        {
+            "text": "anything else or any other conversations with him that you had, either about January 6th",
+            "page_#": 18
+        },
+        {
+            "text": "or about sort of transition or the last 2 weeks?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "I just recall one conversation with him during that period of time.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Yes.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "The one you mentioned earlier?",
+            "page_#": 18
+        },
+        {
+            "text": "I also wanted to ask you about a name of Jeff Clark.",
+            "page_#": 18
+        },
+        {
+            "text": "Do you know",
+            "page_#": 18
+        },
+        {
+            "text": "Jeff Clark, who was a lawyer at the Justice Department?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Yes.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "How do you know Jeff Clark?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 18
+        },
+        {
+            "text": "I met Jeff Clark -- so let me be clear.",
+            "page_#": 18
+        },
+        {
+            "text": "I didn't have any",
+            "page_#": 18
+        },
+        {
+            "text": "conversations during this period of time with Jeff Clark whatsoever.",
+            "page_#": 18
+        },
+        {
+            "text": "socially earlier on, and he was involved in certain areas around animal rights and other",
+            "page_#": 18
+        },
+        {
+            "text": "things that we had an interest in.",
+            "page_#": 18
+        },
+        {
+            "text": "of, you know, kind of January on.",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "election fraud?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "No.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "I see.",
+            "page_#": 18
+        },
+        {
+            "text": "But I never -- I never spoke to him within the period",
+            "page_#": 18
+        },
+        {
+            "text": "So you didn't have any discussions with him about his interest in",
+            "page_#": 18
+        },
+        {
+            "text": "I was -- I watched on TV and was surprised.",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "Certainly no discussions with anyone about him becoming",
+            "page_#": 18
+        },
+        {
+            "text": "Acting Attorney General?",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "Absolutely not.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "A",
+            "page_#": 18
+        },
+        {
+            "text": "No.",
+            "page_#": 18
+        },
+        {
+            "text": "Q",
+            "page_#": 18
+        },
+        {
+            "text": "Okay.",
+            "page_#": 18
+        },
+        {
+            "text": "Discussion with the President about him, did you ever --",
+            "page_#": 18
+        },
+        {
+            "text": "All right.",
+            "page_#": 18
+        },
+        {
+            "text": "Mr. Aguilar or Ms. Lofgren, do you have any questions?",
+            "page_#": 18
+        },
+        {
+            "text": "I met Jeff Clark",
+            "page_#": 18
+        },
+        {
+            "text": "Ms. Lofgren.",
+            "page_#": 18
+        },
+        {
+            "text": "No, thank you.",
+            "page_#": 18
+        },
+        {
+            "text": "Mr. Aguilar.",
+            "page_#": 19
+        },
+        {
+            "text": "No?",
+            "page_#": 19
+        },
+        {
+            "text": "Okay.",
+            "page_#": 19
+        },
+        {
+            "text": "-anything?",
+            "page_#": 19
+        },
+        {
+            "text": "BY",
+            "page_#": 19
+        },
+        {
+            "text": "Mr. Mnuchin, I just wanted to go back real quick to your conversations with",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Secretary Pompeo.",
+            "page_#": 19
+        },
+        {
+            "text": "No questions.",
+            "page_#": 19
+        },
+        {
+            "text": "So just so I'm clear, did you say there are two separate conversations that you can",
+            "page_#": 19
+        },
+        {
+            "text": "recall with Secretary Pompeo, one in the Situation Room and another over the phone,",
+            "page_#": 19
+        },
+        {
+            "text": "where the 25th Amendment was brought up?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "So, again, I recall the conversation over the phone.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Okay.",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Again, since you've referenced to me and General Milley said, I have no",
+            "page_#": 19
+        },
+        {
+            "text": "reason to believe he's not accurate, but I don't remember that conversation.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "So you recall one phone conversation?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "I do.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "Do you recall, just generally, the 25th Amendment coming up more than",
+            "page_#": 19
+        },
+        {
+            "text": "But the other one may have been the case.",
+            "page_#": 19
+        },
+        {
+            "text": "once in conversations that you had during the post-January 6th time period?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Again, what I recall was it was all over the press, and everybody was",
+            "page_#": 19
+        },
+        {
+            "text": "tweeting about it, and my name was in a lot of the tweets, again, you know, from the",
+            "page_#": 19
+        },
+        {
+            "text": "period I was coming back for the next 1 or 2 days.",
+            "page_#": 19
+        },
+        {
+            "text": "in that context and then, no, we didn't discuss it after that.",
+            "page_#": 19
+        },
+        {
+            "text": "And, you know, so, again, it came up",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 19
+        },
+        {
+            "text": "And what do you recall Secretary Pompeo saying to you on the topic?",
+            "page_#": 19
+        },
+        {
+            "text": "A",
+            "page_#": 19
+        },
+        {
+            "text": "Again, I think we both had the same view, which was, you know, we were",
+            "page_#": 19
+        },
+        {
+            "text": "supportive of an orderly transition of government, and we saw the government",
+            "page_#": 19
+        },
+        {
+            "text": "functioning and thought that was the best outcome.",
+            "page_#": 19
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "the topic?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "He didn't share that.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "And it sounds like he was not of the opinion, from what you could tell, about",
+            "page_#": 20
+        },
+        {
+            "text": "invoking the 25th Amendment?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "Did Secretary Pompeo share with you if he was talking to anyone else about",
+            "page_#": 20
+        },
+        {
+            "text": "I think we were both of the opinion at that time that the best thing was to",
+            "page_#": 20
+        },
+        {
+            "text": "proceed with a normal transition of power.",
+            "page_#": 20
+        },
+        {
+            "text": "BY",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Have you talked to President Trump since you both left office January the",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I have.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Have you talked to him at all about January 6th?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I have not.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Okay.",
+            "page_#": 20
+        },
+        {
+            "text": "20th?",
+            "page_#": 20
+        },
+        {
+            "text": "How about about your testimony today?",
+            "page_#": 20
+        },
+        {
+            "text": "Other than your lawyers,",
+            "page_#": 20
+        },
+        {
+            "text": "I don't want to hear about your conversations with them, but have you talked to anyone",
+            "page_#": 20
+        },
+        {
+            "text": "else about the fact that you were going to be here talking to us today?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "I told my wife and I told people in my office today in case this leaked into the",
+            "page_#": 20
+        },
+        {
+            "text": "press they were not surprised.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Yeah.",
+            "page_#": 20
+        },
+        {
+            "text": "Okay.",
+            "page_#": 20
+        },
+        {
+            "text": "But -- and I appreciate that.",
+            "page_#": 20
+        },
+        {
+            "text": "But sort of on the merits, any",
+            "page_#": 20
+        },
+        {
+            "text": "substantive discussion with --",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "None.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "-- anyone else about the subject matter of your testimony?",
+            "page_#": 20
+        },
+        {
+            "text": "A",
+            "page_#": 20
+        },
+        {
+            "text": "No.",
+            "page_#": 20
+        },
+        {
+            "text": "Q",
+            "page_#": 20
+        },
+        {
+            "text": "Okay.",
+            "page_#": 20
+        },
+        {
+            "text": "And fairly -- another standard question.",
+            "page_#": 20
+        },
+        {
+            "text": "Did anyone in any way try",
+            "page_#": 20
+        },
+        {
+            "text": "to influence your testimony, encourage you to do or not do certain things when you",
+            "page_#": 20
+        },
+        {
+            "text": "provide information to us?",
+            "page_#": 21
+        },
+        {
+            "text": "A",
+            "page_#": 21
+        },
+        {
+            "text": "No.",
+            "page_#": 21
+        },
+        {
+            "text": "And, again, I just want to clarify one thing since I did reach out to",
+            "page_#": 21
+        },
+        {
+            "text": "Secretary Pompeo to get his lawyer's information and put our lawyers in touch.",
+            "page_#": 21
+        },
+        {
+            "text": "was the extent of my conversation with him about today.",
+            "page_#": 21
+        },
+        {
+            "text": "Q",
+            "page_#": 21
+        },
+        {
+            "text": "I appreciate that.",
+            "page_#": 21
+        },
+        {
+            "text": "Okay.",
+            "page_#": 21
+        },
+        {
+            "text": "That",
+            "page_#": 21
+        },
+        {
+            "text": "Okay.",
+            "page_#": 21
+        },
+        {
+            "text": "I don't have any other questions.",
+            "page_#": 21
+        },
+        {
+            "text": "Mr. Aguilar do not either, then I think we can go off the record.",
+            "page_#": 21
+        },
+        {
+            "text": "[Whereupon, at 2:35 p.m., the interview was concluded.]",
+            "page_#": 21
+        },
+        {
+            "text": "And if Ms. Lofgren or",
+            "page_#": 21
+        },
+        {
+            "text": "Certificate of Deponent/Interviewee",
+            "page_#": 22
+        },
+        {
+            "text": "I have read the foregoing _ _ pages, which contain the correct transcript of the",
+            "page_#": 22
+        },
+        {
+            "text": "answers made by me to the questions therein recorded.",
+            "page_#": 22
+        },
+        {
+            "text": "Witness Name",
+            "page_#": 22
+        },
+        {
+            "text": "Date",
+            "page_#": 22
+        }
+    ]
+}
