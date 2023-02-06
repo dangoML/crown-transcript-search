@@ -3,6 +3,7 @@
 Copyright (c) 2019 - present AppSeed.us
 """
 import os
+import json
 from django import template
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse, HttpResponseRedirect, JsonResponse
@@ -52,7 +53,8 @@ def pages(request):
         html_template = loader.get_template('home/page-500.html')
         return HttpResponse(html_template.render(context, request))
 
-import json
+
+@login_required(login_url="/login/")
 def keyword(request):
     if request.method == "POST":
         keyword = request.POST.get("keyword").lower()

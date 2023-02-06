@@ -9,8 +9,9 @@
         width: 100%;
     }
 
-    .highlight {
-        background-color: yellow;
+    .light {
+        background-color: #2EB398;
+        color: white;
     }
 </style>
 {% endblock stylesheets %}
@@ -18,7 +19,7 @@
 {% block content %}
 
 <!-- [ Main Content ] start -->
-<div class="pcoded-main-container">
+<div class="">
     <div class="pcoded-wrapper">
 
         <div class="pcoded-content">
@@ -45,7 +46,7 @@
                         <div id="total"></div>
                         <div class="card p-3">
                             <div class="">
-                                <div class="table-responsive-sm">
+                                <div class="table-responsive">
 
                                     <table class="table table-hover table-border-style">
                                         <div class="row">
@@ -57,6 +58,7 @@
                                         </div>
                                         <hr>
                                         <tbody id="table_body">
+                                            
                                         </tbody>
                                     </table>
                                     <div id="loading_div" style="display: none;">
@@ -84,9 +86,23 @@
 <!-- Specific Page JS goes HERE  -->
 {% block javascripts %}
 <script>
+    function highlight(keyword) {
+        var re = new RegExp(keyword, 'gi');
+        var rows = document.getElementsByClassName("ctx") 
+        for (i=0;i<rows.length;i++){
+            var ele = rows[i];
+            var txt = ele.innerHTML;
+            var arry = txt.match(re);
+            console.log(arry)
+            var index = txt.indexOf(arry[0]);
+            if (index >= 0) {
+                html = txt.substring(0, index) + "<span class='light'>" + txt.substring(index, index + keyword.length) + "</span>" + txt.substring(index + keyword.length);
+                ele.innerHTML = html;
+            }
+        }
+    }
+
     const url = "{% url 'keyword' %}"
-
-
     function searchkeyword() {
         const tbody = document.getElementById('table_body');
         tbody.innerHTML = "";
@@ -120,6 +136,7 @@
                         tbody.insertAdjacentHTML('beforeend', html);
 
                     }
+                    highlight(data["keyword"])
                 }
 
             })
