@@ -10,8 +10,8 @@
     }
 
     .light {
-        background-color: #2EB398;
-        color: white;
+        background-color: #fff479;
+        color: black;
     }
 </style>
 {% endblock stylesheets %}
@@ -35,7 +35,8 @@
                                 {%csrf_token%}
                                 <div class="input-group mb-3">
                                     <input type="text" name="keyword" class="form-control" placeholder="Enter Keyword"
-                                        aria-label="Recipient's username" aria-describedby="basic-addon2">
+                                        aria-label="Recipient's username" aria-describedby="basic-addon2" minlength="4"
+                                        required>
                                     <div class="input-group-append">
                                         <button class="btn btn-primary" type="submit">Search</button>
                                     </div>
@@ -58,7 +59,7 @@
                                         </div>
                                         <hr>
                                         <tbody id="table_body">
-                                            
+
                                         </tbody>
                                     </table>
                                     <div id="loading_div" style="display: none;">
@@ -88,8 +89,8 @@
 <script>
     function highlight(keyword) {
         var re = new RegExp(keyword, 'gi');
-        var rows = document.getElementsByClassName("ctx") 
-        for (i=0;i<rows.length;i++){
+        var rows = document.getElementsByClassName("ctx")
+        for (i = 0; i < rows.length; i++) {
             var ele = rows[i];
             var txt = ele.innerHTML;
             var arry = txt.match(re);
@@ -123,7 +124,7 @@
 
                 if (typeof data["results"] !== 'undefined' && data["results"] !== null) {
                     const total = data["results"].length
-                    document.getElementById("total").innerHTML = `<p><b>Found ${total} results</b></p>`
+                    document.getElementById("total").innerHTML = `<p><b>Found ${total} results</b>&nbsp; <button class="btn btn-primary" onclick="tableToCSV()">Export to CSV</button></p> `
                     for (i = 0; i < total; i++) {
                         html = `<div class="row">
                             <div class="col-md-1">${i + 1}</div>
@@ -143,6 +144,65 @@
                 console.error('Error:', error);
 
             });
+    }
+</script>
+<script type="text/javascript">
+    function tableToCSV() {
+
+        // Variable to store the final csv data
+        var csv_data = [["Index|Context|Page #|Witness|URL"]];
+
+        var table = document.getElementById("table_body")
+        var rows = table.getElementsByClassName('row');
+        for (var i = 0; i < rows.length; i++) {
+
+            // Get each column data
+            var cols = rows[i].getElementsByTagName('div');
+            
+
+            // Stores each csv row data
+            var csvrow = [];
+            for (var j = 0; j < cols.length; j++) {
+                csvrow.push(cols[j].innerHTML);
+            }
+
+            // Combine each column value with comma
+            csv_data.push(csvrow.join("|"));
+        }
+
+        // Combine each row data with new line character
+        csv_data = csv_data.join('\n');
+
+        // Call this function to download csv file 
+        downloadCSVFile(csv_data);
+
+    }
+
+    function downloadCSVFile(csv_data) {
+
+        // Create CSV file object and feed
+        // our csv_data into it
+        CSVFile = new Blob([csv_data], {
+            type: "text/csv"
+        });
+
+        // Create to temporary link to initiate
+        // download process
+        var temp_link = document.createElement('a');
+
+        // Download csv file
+        temp_link.download = "keyword_search.csv";
+        var url = window.URL.createObjectURL(CSVFile);
+        temp_link.href = url;
+
+        // This link should not be displayed
+        temp_link.style.display = "none";
+        document.body.appendChild(temp_link);
+
+        // Automatically click the link to
+        // trigger download
+        temp_link.click();
+        document.body.removeChild(temp_link);
     }
 </script>
 

@@ -88,6 +88,6 @@ def keyword(request):
                     results.append(context)
             
 
-        return JsonResponse({"status":"success", "results":results, "keyword":keyword})
+        return JsonResponse({"status":"success", "results":results[:10000], "keyword":keyword})
     else:
         return render(request, "keyword.html")
