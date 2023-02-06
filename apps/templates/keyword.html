@@ -93,7 +93,6 @@
             var ele = rows[i];
             var txt = ele.innerHTML;
             var arry = txt.match(re);
-            console.log(arry)
             var index = txt.indexOf(arry[0]);
             if (index >= 0) {
                 html = txt.substring(0, index) + "<span class='light'>" + txt.substring(index, index + keyword.length) + "</span>" + txt.substring(index + keyword.length);
