@@ -4,15 +4,23 @@ from django.shortcuts import get_object_or_404
 from .forms import WitnessForm
 from .models import Witness
 import csv
+import os
 
 # Create your views here.
+def get_filenames_without_extension(folder):
+    filenames = []
+    for root, dirs, files in os.walk(folder):
+        for file in files:
+            filenames.append(os.path.splitext(file)[0])
+    return filenames
 
 def get_images(request):
    with open("apps/witness/images.csv", 'r') as read_obj:
         csv_reader = csv.reader(read_obj)
         list_of_csv = list(csv_reader)
+        image_list = get_filenames_without_extension("apps/static/assets/testimony_photos")
         print(list_of_csv)
-        return JsonResponse({"status":"success", "data":list_of_csv})
+        return JsonResponse({"status":"success", "data":image_list})
 
 
 

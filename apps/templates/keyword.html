@@ -14,7 +14,7 @@
         color: black;
     }
     .downloaded {
-        width: 60px;
+        width: 100px;
     }
 </style>
 {% endblock stylesheets %}
@@ -95,6 +95,20 @@
 <!-- Specific Page JS goes HERE  -->
 {% block javascripts %}
 <script>
+    function compareNames(name1, name2) {
+  const name1Parts = name1.split(" ");
+  const name2Parts = name2.split(" ");
+
+  if (name1.replace(/\s/g, "") == name2.replace(/\s/g, "")) {
+    return true;
+  }
+
+  if (name1Parts[0] !== name2Parts[0] || name1Parts[name1Parts.length - 1] !== name2Parts[name2Parts.length - 1]) {
+    return false;
+  }
+
+  return true;
+}
     function highlight(keyword) {
         var re = new RegExp(keyword, 'gi');
         var rows = document.getElementsByClassName("ctx")
@@ -150,7 +164,7 @@
                     const total = data["results"].length
                     document.getElementById("total").innerHTML = `<p><b>Found ${total} results</b>&nbsp; <button class="btn btn-primary" onclick="tableToCSV()">Export to CSV</button></p> `
                     for (i = 0; i < total; i++) {
-                        img = images.find((value)=> value[0] == data["results"][i]['witness'])
+                        img = images.find((value)=> compareNames(value,data["results"][i]['witness']))
                         html = `<div class="row">
                             <div class="col-md-1">${i + 1}</div>
                             <div class="col-md-4 ctx">${data["results"][i]['context']}</div>
@@ -159,7 +173,9 @@
                                 <br />
                                 <span>
                                     <i class="fa-solid fa-trash-can"></i>
-                                    <img class="downloaded" src="${img[1]}" alt="/*">
+                                    <img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.jpg" alt="">
+                                    <img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.jpeg" alt="">
+                                    <img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.png" alt="">
                                     <span>
                                 </div>
                             <div class="col-md-4"><a href="${data["results"][i]['url']}" target='_blank'>${data["results"][i]['url']}</a></div>
