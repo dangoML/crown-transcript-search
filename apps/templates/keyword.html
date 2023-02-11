@@ -97,10 +97,10 @@
 <script>
     function compareNames(name1, name2) {
   const name1Parts = name1.replace("_", "")
-  .replace(" III_", "").replace("���", "").toLowerCase()
+  .replace(" III_", "").replace("_", " ").replace("���", "").toLowerCase()
   .split(" ");
   const name2Parts = name2.replace("_", "")
-  .replace(" III_", "").replace("���", "").toLowerCase()
+  .replace(" III_", "").replace("_", " ").replace("���", "").toLowerCase()
   .split(" ");
 
   if (name1.replace(/\s/g, "") == name2.replace(/\s/g, "")) {
@@ -185,7 +185,7 @@
                     document.getElementById("total").innerHTML = `<p><b>Found ${total} results</b>&nbsp; <button class="btn btn-primary" onclick="tableToCSV()">Export to CSV</button></p> `
                     for (i = 0; i < total; i++) {
                         img = images.find((value)=> compareNames(value,data["results"][i]['witness']))
-                        if(!img && !list.find((t => t.name == data["results"][i]['witness']))){list.push({name:data["results"][i]['witness']}); img ="who"}
+                        if(!img){img ="who"; if(!list.find((t => t.name == data["results"][i]['witness'])))list.push({name:data["results"][i]['witness']})}
                         html = `<div class="row">
                             <div class="col-md-1">${i + 1}</div>
                             <div class="col-md-4 ctx">${data["results"][i]['context']}</div>
