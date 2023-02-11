@@ -13,11 +13,19 @@
         background-color: #fff479;
         color: black;
     }
+    .downloaded {
+        width: 60px;
+    }
 </style>
 {% endblock stylesheets %}
 
 {% block content %}
 
+<form id="form-id" class="hidden" onsubmit="event.preventDefault(); alert('ok')" method="post" action="{% url 'create' %}" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button id="witness-submit" type="submit">Save</button>
+</form>
 <!-- [ Main Content ] start -->
 <div class="">
     <div class="pcoded-wrapper">
@@ -130,7 +138,15 @@
                             <div class="col-md-1">${i + 1}</div>
                             <div class="col-md-4 ctx">${data["results"][i]['context']}</div>
                             <div class="col-md-1">${data["results"][i]['page_#']}</div>
-                            <div class="col-md-2">${data["results"][i]['witness']}</div>
+                            <div class="col-md-2">${data["results"][i]['witness']}
+                                <br />
+                                <span>
+                                    <i class="fa-solid fa-trash-can"></i>
+                                    <img class="downloaded" src="http://127.0.0.1:8000/witness/download/${data["results"][i]['witness']}/" alt="">
+                                    <button class="btn btn-outline-light text-dark p-0 text-center" onclick="submiter('${data["results"][i]['witness']}')"><i class="fas fa-image"></i></button>
+                                    <button class="btn btn-outline-light text-dark p-0 text-center" onclick="deleteWitness('${data["results"][i]['witness']}')"><i class="fa fa-trash"></i></button>
+                                    <span>
+                                </div>
                             <div class="col-md-4"><a href="${data["results"][i]['url']}" target='_blank'>${data["results"][i]['url']}</a></div>
                         </div><hr>`
                         tbody.insertAdjacentHTML('beforeend', html);
@@ -146,6 +162,41 @@
             });
     }
 </script>
+<script>
+    const chooseFileButton = document.getElementById("choose-file");
+    const fileInput = document.getElementById('id_profile_picture');
+    const fullName = document.getElementById("id_full_name");
+    const form = document.getElementById("form-id");
+    
+    function submiter(full_name) {
+        fullName.value = full_name;
+        fileInput.click();
+    }
+
+
+    function deleteWitness(name){
+        const formData = new FormData(form);
+
+        formData.append("full_name", document.getElementById("id_full_name").value);
+
+        fetch("/witness/delete/"+name+"/" ,{
+            method: "GET"
+        })
+        .then(response => {
+            // handle the response
+        })
+        .catch(error => {
+            // handle the error
+        });
+    }
+
+    document.getElementById("id_profile_picture").onchange = function() {
+    // Your code here
+    form.submit();
+    console.log("File upload completed.");
+  };
+</script>
+
 <script type="text/javascript">
     function tableToCSV() {
 

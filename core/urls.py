@@ -11,6 +11,7 @@ urlpatterns = [
     path("", include("apps.authentication.urls")), # Auth routes - login / register
 
     # ADD NEW Routes HERE
+    path("witness/", include("apps.witness.urls")),
 
     # Leave `Home.Urls` as last the last line
     path("", include("apps.home.urls"))

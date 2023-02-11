@@ -12,6 +12,8 @@ from django.urls import reverse
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
 
+from apps.witness.forms import WitnessForm
+
 data_files = []
 
 for root, dirs, files in os.walk("DEPO_DATA"):
@@ -87,7 +89,8 @@ def keyword(request):
                         }
                     results.append(context)
             
-
+        
         return JsonResponse({"status":"success", "results":results[:10000], "keyword":keyword})
     else:
-        return render(request, "keyword.html")
+        form = WitnessForm()
+        return render(request, "keyword.html", {'form': form})
