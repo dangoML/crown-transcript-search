@@ -96,13 +96,21 @@
 {% block javascripts %}
 <script>
     function compareNames(name1, name2) {
-  const name1Parts = name1.split(" ");
-  const name2Parts = name2.split(" ");
+  const name1Parts = name1.replace("_", "")
+  .replace(" III_", "")
+  .replace(" Jr_", "").toLowerCase()
+  .split(" ");
+  const name2Parts = name2.replace("_", "")
+  .replace(" III_", "")
+  .replace(" Jr_", "").toLowerCase()
+  .split(" ");
 
   if (name1.replace(/\s/g, "") == name2.replace(/\s/g, "")) {
     return true;
   }
-
+  if (name1Parts[0][1] == name2Parts[0][1] && name1Parts[name1Parts.length - 1] == name2Parts[name2Parts.length - 1]) {
+    return true;
+  }
   if (name1Parts[0] !== name2Parts[0] || name1Parts[name1Parts.length - 1] !== name2Parts[name2Parts.length - 1]) {
     return false;
   }
@@ -173,9 +181,10 @@
                                 <br />
                                 <span>
                                     <i class="fa-solid fa-trash-can"></i>
-                                    <img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.jpg" alt="">
-                                    <img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.jpeg" alt="">
-                                    <img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.png" alt="">
+                                    <div><img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.webp" alt=""></div>
+                                    <div><img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.jpg" alt=""></div>
+                                    <div><img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.jpeg" alt=""></div>
+                                    <div><img class="downloaded" src="{{ ASSETS_ROOT }}/testimony_photos/${img}.png" alt=""></div>
                                     <span>
                                 </div>
                             <div class="col-md-4"><a href="${data["results"][i]['url']}" target='_blank'>${data["results"][i]['url']}</a></div>
