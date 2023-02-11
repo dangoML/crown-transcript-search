@@ -21,7 +21,7 @@
 
 {% block content %}
 
-<form id="form-id" class="hidden" onsubmit="event.preventDefault(); alert('ok')" method="post" action="{% url 'create' %}" enctype="multipart/form-data">
+<form style="display: none;" id="form-id" class="hidden" onsubmit="event.preventDefault(); alert('ok')" method="post" action="{% url 'create' %}" enctype="multipart/form-data">
     {% csrf_token %}
     {{ form.as_p }}
     <button id="witness-submit" type="submit">Save</button>
