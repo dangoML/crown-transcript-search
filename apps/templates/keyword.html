@@ -187,6 +187,7 @@
                         img = images.find((value)=> compareNames(value,data["results"][i]['witness']))
                         if(!img){img ="who"; if(!list.find((t => t.name == data["results"][i]['witness'])))list.push({name:data["results"][i]['witness']})}
                         html = `<div class="row">
+                            
                             <div class="col-md-1">${i + 1}</div>
                             <div class="col-md-4 ctx">${data["results"][i]['context']}</div>
                             <div class="col-md-1">${data["results"][i]['page_#']}</div>
