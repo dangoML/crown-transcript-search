@@ -27,4 +27,3 @@ toml==0.10.2
 urllib3==1.26.14
 whitenoise==5.3.0
 Pillow==9.4.0
-python-csv=0.0.13
