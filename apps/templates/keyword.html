@@ -142,7 +142,7 @@
                                 <br />
                                 <span>
                                     <i class="fa-solid fa-trash-can"></i>
-                                    <img class="downloaded" src="http://127.0.0.1:8000/witness/download/${data["results"][i]['witness']}/" alt="">
+                                    <img class="downloaded" src="http://127.0.0.1:8000/witness/download/${data["results"][i]['witness']}/" alt="/*">
                                     <button class="btn btn-outline-light text-dark p-0 text-center" onclick="submiter('${data["results"][i]['witness']}')"><i class="fas fa-image"></i></button>
                                     <button class="btn btn-outline-light text-dark p-0 text-center" onclick="deleteWitness('${data["results"][i]['witness']}')"><i class="fa fa-trash"></i></button>
                                     <span>
@@ -183,6 +183,7 @@
             method: "GET"
         })
         .then(response => {
+            alert(name +" picture deleted")
             // handle the response
         })
         .catch(error => {
