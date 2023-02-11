@@ -1,10 +1,19 @@
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 from django.shortcuts import render, redirect
 from django.shortcuts import get_object_or_404
 from .forms import WitnessForm
 from .models import Witness
+import csv
 
 # Create your views here.
+
+def get_images(request):
+   with open("apps/witness/images.csv", 'r') as read_obj:
+        csv_reader = csv.reader(read_obj)
+        list_of_csv = list(csv_reader)
+        print(list_of_csv)
+        return JsonResponse({"status":"success", "data":list_of_csv})
+
 
 
 def create_witness(request):
@@ -31,8 +40,10 @@ def update_witness(request, wk):
 
 
 def delete_witness(request, full_name):
-    Witness.objects.get(full_name=full_name).delete()
-    return "deleted"
+    data_list = get_data_from_file("apps/witness/images.csv")
+    print(data_list)
+    #Witness.objects.get(full_name=full_name).delete()
+    return JsonResponse({"status":"success", "keyword":data_list})
 
 def download_picture(request, name):
     picture = get_object_or_404(Witness, full_name=name)

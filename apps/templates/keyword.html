@@ -109,6 +109,22 @@
             }
         }
     }
+    var images = [];
+    fetch("/witness/images/" ,{
+            method: "GET"
+        })
+        .then(response => {
+            response.json().then(data=>{
+                images = data.data
+
+                console.log(images)
+            });
+            
+            // handle the response
+        })
+        .catch(error => {
+            // handle the error
+        });
 
     const url = "{% url 'keyword' %}"
     function searchkeyword() {
@@ -134,6 +150,7 @@
                     const total = data["results"].length
                     document.getElementById("total").innerHTML = `<p><b>Found ${total} results</b>&nbsp; <button class="btn btn-primary" onclick="tableToCSV()">Export to CSV</button></p> `
                     for (i = 0; i < total; i++) {
+                        img = images.find((value)=> value[0] == data["results"][i]['witness'])
                         html = `<div class="row">
                             <div class="col-md-1">${i + 1}</div>
                             <div class="col-md-4 ctx">${data["results"][i]['context']}</div>
@@ -142,9 +159,7 @@
                                 <br />
                                 <span>
                                     <i class="fa-solid fa-trash-can"></i>
-                                    <img class="downloaded" src="http://127.0.0.1:8000/witness/download/${data["results"][i]['witness']}/" alt="/*">
-                                    <button class="btn btn-outline-light text-dark p-0 text-center" onclick="submiter('${data["results"][i]['witness']}')"><i class="fas fa-image"></i></button>
-                                    <button class="btn btn-outline-light text-dark p-0 text-center" onclick="deleteWitness('${data["results"][i]['witness']}')"><i class="fa fa-trash"></i></button>
+                                    <img class="downloaded" src="${img[1]}" alt="/*">
                                     <span>
                                 </div>
                             <div class="col-md-4"><a href="${data["results"][i]['url']}" target='_blank'>${data["results"][i]['url']}</a></div>

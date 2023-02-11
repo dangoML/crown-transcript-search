@@ -10,6 +10,7 @@ urlpatterns = [
     path('update/', views.update_witness, name='update'),
     path('download/<str:name>/', views.download_picture, name='download_picture'),
     path('delete/<str:full_name>/', views.delete_witness, name='delete'),
+    path('images/', views.get_images, name='images'),
     #path('delete/', views.delete_witness, name='create'),
     
 
