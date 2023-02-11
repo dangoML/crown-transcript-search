@@ -39,11 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'apps.home',                                    # Enable the inner home (home)
     'apps.witness',
-    'allauth',                                      # OAuth new
-    'allauth.account',                              # OAuth new
-    'allauth.socialaccount',                        # OAuth new 
-    'allauth.socialaccount.providers.github',       # OAuth new 
-    'allauth.socialaccount.providers.twitter',      # OAuth new  
+    #'allauth',                                      # OAuth new
+    #'allauth.account',                              # OAuth new
+    #'allauth.socialaccount',                        # OAuth new 
+    #'allauth.socialaccount.providers.github',       # OAuth new 
+    #S'allauth.socialaccount.providers.twitter',      # OAuth new  
     "sslserver"    
 ]
 
@@ -145,8 +145,8 @@ GITHUB_SECRET = os.getenv('GITHUB_SECRET', None)
 GITHUB_AUTH   = GITHUB_SECRET is not None and GITHUB_ID is not None
 
 AUTHENTICATION_BACKENDS = (
-    "core.custom-auth-backend.CustomBackend",
-    "allauth.account.auth_backends.AuthenticationBackend",
+    #"core.custom-auth-backend.CustomBackend",
+    #"allauth.account.auth_backends.AuthenticationBackend",
 )
 
 SITE_ID                    = 1 
