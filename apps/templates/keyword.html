@@ -28,63 +28,69 @@
 </form>
 <!-- [ Main Content ] start -->
 <div class="">
-    <div class="pcoded-wrapper">
-
-        <div class="pcoded-content">
-            <div class="pcoded-inner-content">
-                <!-- [ breadcrumb ] start -->
-
-                <!-- [ breadcrumb ] end -->
-                <div class="main-body">
-                    <div class="page-wrapper">
-                        <!-- [ Main Content ] start -->
-                        <div class="row p-3">
-                            <form action="" id="form" method="post" onsubmit="event.preventDefault(); searchkeyword();">
-                                {%csrf_token%}
-                                <div class="input-group mb-3">
-                                    <input type="text" name="keyword" class="form-control" placeholder="Enter Keyword"
-                                        aria-label="Recipient's username" aria-describedby="basic-addon2" minlength="4"
-                                        required>
-                                    <div class="input-group-append">
-                                        <button class="btn btn-primary" type="submit">Search</button>
-                                    </div>
-                                </div>
-                            </form>
-
-                        </div>
-                        <div id="total"></div>
-                        <div class="card p-3">
-                            <div class="">
-                                <div class="table-responsive">
-
-                                    <table class="table table-hover table-border-style">
-                                        <div class="row">
-                                            <div class="col-md-1"><b>Index</b></div>
-                                            <div class="col-md-4"><b>Context</b></div>
-                                            <div class="col-md-1"><b>Page #</b></div>
-                                            <div class="col-md-2"><b>witness</b></div>
-                                            <div class="col-md-4"><b>URL</b></div>
+    <div class="pcoded-wrapper row justify-content-center">
+        <div class="col-md-11">
+            <div class="pcoded-content">
+                <div class="pcoded-inner-content">
+                    <!-- [ breadcrumb ] start -->
+    
+                    <!-- [ breadcrumb ] end -->
+                    <div class="main-body">
+                        <div class="page-wrapper">
+                            <!-- [ Main Content ] start -->
+                            <div class="row p-3 justify-content-center">
+                                <div class="col-md-6">
+                                    <form action="" id="form" method="post" onsubmit="event.preventDefault(); searchkeyword();">
+                                        {%csrf_token%}
+                                        <div class="input-group mb-3">
+                                            <input type="text" name="keyword" class="form-control" placeholder="Enter Keyword"
+                                                aria-label="Recipient's username" aria-describedby="basic-addon2" minlength="4" value="Donald J. Trump"
+                                                required>
+                                            <div class="input-group-append">
+                                                <button class="btn btn-primary" type="submit">Search</button>
+                                            </div>
                                         </div>
-                                        <hr>
-                                        <tbody id="table_body">
-
-                                        </tbody>
-                                    </table>
-                                    <div id="loading_div" style="display: none;">
-                                        <center>
-                                            <br>
-                                            <h5>Loading Data ...</h5>
-                                            <br>
-                                        </center>
+                                    </form>
+                                </div>
+                                
+    
+                            </div>
+                            <div id="total"></div>
+                            <div class="card p-3">
+                                <div class="">
+                                    <div class="table-responsive">
+    
+                                        <table class="table table-hover table-border-style">
+                                            <div class="row">
+                                                <div class="col-md-1"><b>Index</b></div>
+                                                <div class="col-md-4"><b>Context</b></div>
+                                                <div class="col-md-1"><b>Page #</b></div>
+                                                <div class="col-md-2"><b>witness</b></div>
+                                                <div class="col-md-4"><b>URL</b></div>
+                                            </div>
+                                            <hr>
+                                            <tbody id="table_body">
+    
+                                            </tbody>
+                                        </table>
+                                        <div id="loading_div" style="display: none;">
+                                            <center>
+                                                <br>
+                                                <h5>Loading Data ...</h5>
+                                                <br>
+                                            </center>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+                            <!-- [ Main Content ] end -->
                         </div>
-                        <!-- [ Main Content ] end -->
                     </div>
                 </div>
             </div>
         </div>
+
+        
 
     </div>
 </div>
