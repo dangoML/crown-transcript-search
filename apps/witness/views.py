@@ -19,7 +19,7 @@ def get_images(request):
         csv_reader = csv.reader(read_obj)
         list_of_csv = list(csv_reader)
         image_list = get_filenames_without_extension("apps/static/assets/testimony_photos")
-        print(list_of_csv)
+        # print(list_of_csv)
         return JsonResponse({"status":"success", "data":image_list})
 
 
