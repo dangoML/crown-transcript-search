@@ -20,14 +20,14 @@ SECRET_KEY = env('SECRET_KEY', default='S#perS3crEt_007')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-# SECURE_SSL_REDIRECT=True
+SECURE_SSL_REDIRECT=True
 
 # Assets Management
 ASSETS_ROOT = os.getenv('ASSETS_ROOT', '/static/assets') 
 
 # load production server from .env
-ALLOWED_HOSTS        = ["*"]
-CSRF_TRUSTED_ORIGINS = ['http://localhost:85', 'http://127.0.0.1', 'https://' + env('SERVER', default='127.0.0.1') ]
+ALLOWED_HOSTS        = ["crown-transcript-search.herokuapp.com", "transcripts.j6families.org"]
+CSRF_TRUSTED_ORIGINS = ['https://transcripts.j6families.org', 'http://127.0.0.1', 'https://' + env('SERVER', default='127.0.0.1') ]
 
 # Application definition
 
