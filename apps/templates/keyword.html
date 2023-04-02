@@ -157,7 +157,7 @@
             response.json().then(data=>{
                 images = data.data
 
-                console.log(images)
+                // console.log(images)
             });
             
             // handle the response
@@ -168,11 +168,14 @@
 
     const url = "{% url 'keyword' %}"
     function searchkeyword() {
+        
         const tbody = document.getElementById('table_body');
         tbody.innerHTML = "";
         document.getElementById("loading_div").style.display = "block"
         const form = document.getElementById('form');
-        const data = new URLSearchParams(new FormData(form));
+        const formdata = new FormData(form)
+        const data = new URLSearchParams(formdata);
+        window.history.pushState({}, null, "?search="+formdata.get("keyword"));
         fetch(url, {
             method: 'POST',
             headers: {
@@ -214,11 +217,11 @@
                     }
                     highlight(data["keyword"])
                 }
-                console.log(list)
+                // console.log(list)
 
             })
             .catch((error) => {
-                console.error('Error:', error);
+                // console.error('Error:', error);
 
             });
     }
@@ -318,6 +321,14 @@
         document.body.removeChild(temp_link);
     }
 </script>
+{% if search %}
+<script>
+    console.log("hi keval")
+    var input = document.querySelector("[name='keyword']")
+    input.value = "{{search}}";
+    searchkeyword();
+</script>
+{%endif%}
 
 
 {% endblock javascripts %}

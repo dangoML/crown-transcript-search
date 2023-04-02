@@ -92,5 +92,6 @@ def keyword(request):
         
         return JsonResponse({"status":"success", "results":results[:10000], "keyword":keyword})
     else:
+        search = request.GET.get("search")
         form = WitnessForm()
-        return render(request, "keyword.html", {'form': form})
+        return render(request, "keyword.html", {'form': form, 'search':search})
