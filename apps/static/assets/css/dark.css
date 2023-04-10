@@ -142,15 +142,18 @@ body.dark .card .card-header {
 }
 
 body.dark .table thead th {
+  color: white;
   border-top: 1px solid #334756;
 }
 
 body.dark .table td,
 body.dark .table th {
+  color: white;
   border-bottom: 1px solid #334756;
 }
 
 body.dark .border-bottom {
+  color: white;
   border-bottom: 1px solid #334756 !important;
 }
 

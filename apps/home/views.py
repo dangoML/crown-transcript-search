@@ -55,12 +55,10 @@ def pages(request):
         html_template = loader.get_template('home/page-500.html')
         return HttpResponse(html_template.render(context, request))
 
-
-#@login_required(login_url="/login/")
-def keyword(request):
-    if request.method == "POST":
-        keyword = request.POST.get("keyword").lower()
-        
+def keyword2(request):
+    keyword = request.GET.get("search")
+    if keyword:
+        keyword = keyword.lower()
         results = []
         for file in data_files:
             with open(file, "r") as f:
@@ -81,17 +79,50 @@ def keyword(request):
                         ctx += data['data'][i+1]['text']
                     except:
                         pass
-                    context = {
-                        "context":ctx,
-                        "witness":witness,
-                        "page_#":x['page_#'],
-                        "url":data['url']+str(x['page_#'])
-                        }
+                    context = [ctx,x['page_#'],witness,data['url']+str(x['page_#'])]
                     results.append(context)
+        ctxx={"results":results[:10000], "keyword":keyword}
+    else:
+        ctxx={}
+    return render(request, "keyword2.html", ctxx)
+
+
+#@login_required(login_url="/login/")
+# def keyword(request):
+#     if request.method == "POST":
+#         keyword = request.POST.get("keyword").lower()
+        
+#         results = []
+#         for file in data_files:
+#             with open(file, "r") as f:
+#                 data = json.load(f)
+
+#             witness = data['witness']
+
+            
+#             for i, x in enumerate(data['data']):
+#                 ctx = ""
+#                 if keyword in x['text'].lower():
+#                     try:
+#                         ctx += data['data'][i-1]['text']
+#                     except:
+#                         pass
+#                     ctx += x["text"]
+#                     try:
+#                         ctx += data['data'][i+1]['text']
+#                     except:
+#                         pass
+#                     context = {
+#                         "context":ctx,
+#                         "witness":witness,
+#                         "page_#":x['page_#'],
+#                         "url":data['url']+str(x['page_#'])
+#                         }
+#                     results.append(context)
             
         
-        return JsonResponse({"status":"success", "results":results[:10000], "keyword":keyword})
-    else:
-        search = request.GET.get("search")
-        form = WitnessForm()
-        return render(request, "keyword.html", {'form': form, 'search':search})
+#         return JsonResponse({"status":"success", "results":results[:10000], "keyword":keyword})
+#     else:
+#         search = request.GET.get("search")
+#         form = WitnessForm()
+#         return render(request, "keyword.html", {'form': form, 'search':search})
