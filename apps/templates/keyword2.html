@@ -173,14 +173,13 @@ Dashboard
                             this.data(data)
                         }
                     })
-
-
+                    highlight("{{keyword}}");
                 });
             })
             .catch(error => {
                 // handle the error
             });
-        highlight("{{keyword}}");
+        
     });
 
 </script>
