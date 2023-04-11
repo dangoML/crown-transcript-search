@@ -41,7 +41,8 @@ Dashboard
                                         <div class="input-group mb-3">
                                             <input type="text" name="search" class="form-control"
                                                 placeholder="Donald J. Trump" aria-label="Recipient's username"
-                                                aria-describedby="basic-addon2" minlength="4" value="{{keyword}}" required>
+                                                aria-describedby="basic-addon2" minlength="4" value="{{keyword}}"
+                                                required>
                                             <div class="input-group-append">
                                                 <button class="btn btn-primary" type="submit">Search</button>
                                             </div>
@@ -66,9 +67,7 @@ Dashboard
                                         <tr>
                                             <td class="ctx">{{data.0}}</td>
                                             <td>{{data.1}}</td>
-                                            <td>{{data.2}}<br/>
-                                                <img src="/static/assets/testimony_photos/{{data.2}}.jpg" width="100px" alt="">
-                                            </td>
+                                            <td class="img">{{data.2}}</td>
                                             <td>{{data.3}}</td>
 
                                         </tr>
@@ -92,25 +91,9 @@ Dashboard
 {% endblock %}
 
 {% block javascripts %}
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
-    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-    crossorigin="anonymous"></script>
-<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
 <script>
-    $(document).ready(function () {
-        $('#example').DataTable({
-            "paging": true,
-            "responsive": true,
-            "columnDefs": [
-                { "width": "50%", "targets": 0 },
-                { "width": "5%", "targets": 1 },
-                { "width": "15%", "targets": 2 },
-                { "width": "30%", "targets": 3 },
-            ]
-        });
-    });
     function highlight(keyword) {
-        console.log(keyword)
         var re = new RegExp(keyword, 'gi');
         var rows = document.getElementsByClassName("ctx")
         for (i = 0; i < rows.length; i++) {
@@ -124,6 +107,81 @@ Dashboard
             }
         }
     }
-    highlight("{{keyword}}");
+    function compareNames(name1, name2) {
+        const name1Parts = name1.split('.')[0].replace("_", "")
+            .replace(" III_", "").replace("_", " ").replace("���", "").toLowerCase()
+            .split(" ");
+        const name2Parts = name2.replace("_", "")
+            .replace(" III_", "").replace("_", " ").replace("���", "").toLowerCase()
+            .split(" ");
+
+        if (name1.replace(/\s/g, "") == name2.replace(/\s/g, "")) {
+            return true;
+        }
+        try {
+            if (name1Parts.length >= 3 && name1Parts[0][2] == name2Parts[0][2] && name1Parts[name1Parts.length - 1] == name2Parts[name2Parts.length - 1]) {
+                return true;
+            } if (name1Parts.length >= 3 && name1Parts[0][1] == name2Parts[0][1] && name1Parts[name1Parts.length - 2] == name2Parts[name2Parts.length - 1]) {
+                return true;
+            } if (name1Parts.length >= 3 && [0][1] == name2Parts[0][1] && name1Parts[name1Parts.length - 2] == name2Parts[name2Parts.length - 2]) {
+                return true;
+            } if (name1Parts[0][0] == name2Parts[0][0] && name1Parts[name1Parts.length - 1] == name2Parts[name2Parts.length - 1]) {
+                return true;
+            }
+
+        } catch (error) {
+
+        }
+        if (name1Parts[0][0] == name2Parts[0][0] && name1Parts[name1Parts.length - 1] == name2Parts[name2Parts.length - 1]) {
+            return true;
+        }
+        if (name1Parts[0] !== name2Parts[0] || name1Parts[name1Parts.length - 1] !== name2Parts[name2Parts.length - 1]) {
+            return false;
+        }
+
+        return true;
+    }
+    $(document).ready(function () {
+        var table = $('#example').DataTable({
+            "paging": true,
+            "responsive": true,
+            "language": {
+                search: "Keyword Filter",
+                searchPlaceholder: "Search records"
+            },
+            "columnDefs": [
+                { "width": "50%", "targets": 0 },
+                { "width": "5%", "targets": 1 },
+                { "width": "15%", "targets": 2 },
+                { "width": "30%", "targets": 3 },
+            ]
+        });
+        var images = [];
+        fetch("/witness/images/", {
+            method: "GET"
+        })
+            .then(response => {
+                response.json().then(data => {
+                    images = data.data
+                    var witness = document.getElementsByClassName("img")
+                    table.rows().every(function (rowIdx, tableLoop, rowLoop) {
+                        var data = this.data();
+                        var name = data[2]
+                        var img = images.find((value) => compareNames(value, name))
+                        if (img){
+                            data[2] += `<br/><img width="100px" src="{{ ASSETS_ROOT }}/testimony_photos/${img}">`
+                            this.data(data)
+                        }
+                    })
+
+
+                });
+            })
+            .catch(error => {
+                // handle the error
+            });
+        highlight("{{keyword}}");
+    });
+
 </script>
 {% endblock %}

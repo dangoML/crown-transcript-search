@@ -11,7 +11,7 @@ def get_filenames_without_extension(folder):
     filenames = []
     for root, dirs, files in os.walk(folder):
         for file in files:
-            filenames.append(os.path.splitext(file)[0])
+            filenames.append(file)
     return filenames
 
 def get_images(request):
