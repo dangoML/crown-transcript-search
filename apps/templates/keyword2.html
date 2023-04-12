@@ -51,8 +51,8 @@ Dashboard
                                 </div>
                             </div>
                             <div class="container mt-5">
-
                                 <table id="example" class="table table-striped table-bordered" style="width:100%">
+                                    <div class="d-flex justify-content-center">Witness filter &nbsp;<div id="extra" ></div></div>
                                     <thead>
                                         <tr>
                                             <th>Context</th>
@@ -143,6 +143,27 @@ Dashboard
     }
     $(document).ready(function () {
         var table = $('#example').DataTable({
+            // "dom": "lfr<'#extra'>tip",
+            initComplete: function () {
+                this.api().columns([2]).every(function () {
+                    var column = this;
+                    var select = $('<select><option value=""></option></select>')
+                        .appendTo($("#extra").empty())
+                        .on('change', function () {
+                            var val = $.fn.dataTable.util.escapeRegex(
+                                $(this).val()
+                            );
+
+                            column
+                                .search(val ? '^' + val + '$' : '', true, false)
+                                .draw();
+                        });
+
+                    column.data().unique().sort().each(function (d, j) {
+                        select.append('<option value="' + d + '">' + d + '</option>')
+                    });
+                });
+            },
             "paging": true,
             "responsive": true,
             "language": {
@@ -154,7 +175,19 @@ Dashboard
                 { "width": "5%", "targets": 1 },
                 { "width": "15%", "targets": 2 },
                 { "width": "30%", "targets": 3 },
-            ]
+            ],
+
+        });
+        $(table.columns([2]).header()).find('select').on('change', function () {
+            var nextSelect = $(table.columns(2).header()).find('select');
+            var nextColumn = table.column(2);
+            var nextColumnResults = table.column(2, { search: 'applied' });
+            nextColumn.search('').draw();
+            nextSelect.empty();
+            nextSelect.append('<option value=""></option>');
+            nextColumnResults.data().unique().sort().each(function (d, j) {
+                nextSelect.append('<option value="' + d + '">' + d + '</option>')
+            });
         });
         var images = [];
         fetch("/witness/images/", {
@@ -168,7 +201,7 @@ Dashboard
                         var data = this.data();
                         var name = data[2]
                         var img = images.find((value) => compareNames(value, name))
-                        if (img){
+                        if (img) {
                             data[2] += `<br/><img width="100px" src="{{ ASSETS_ROOT }}/testimony_photos/${img}">`
                             this.data(data)
                         }
@@ -179,7 +212,7 @@ Dashboard
             .catch(error => {
                 // handle the error
             });
-        
+
     });
 
 </script>
