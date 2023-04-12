@@ -41,7 +41,8 @@ Dashboard
                                         <div class="input-group mb-3">
                                             <input type="text" name="search" class="form-control"
                                                 placeholder="Donald J. Trump" aria-label="Recipient's username"
-                                                aria-describedby="basic-addon2" minlength="4" value="{{keyword}}"
+                                                aria-describedby="basic-addon2" minlength="4"
+                                                {%if keyword%} value="{{keyword}}" {%else%} value="Donald J. Trump"{%endif%}
                                                 required>
                                             <div class="input-group-append">
                                                 <button class="btn btn-primary" type="submit">Search</button>
