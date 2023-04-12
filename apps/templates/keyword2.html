@@ -52,7 +52,9 @@ Dashboard
                             </div>
                             <div class="container mt-5">
                                 <table id="example" class="table table-striped table-bordered" style="width:100%">
-                                    <div class="d-flex justify-content-center">Witness filter &nbsp;<div id="extra" ></div></div>
+                                    <div class="d-flex justify-content-center">Witness filter &nbsp;<div id="extra">
+                                        </div>
+                                    </div>
                                     <thead>
                                         <tr>
                                             <th>Context</th>
@@ -93,20 +95,6 @@ Dashboard
 {% block javascripts %}
 
 <script>
-    function highlight(keyword) {
-        var re = new RegExp(keyword, 'gi');
-        var rows = document.getElementsByClassName("ctx")
-        for (i = 0; i < rows.length; i++) {
-            var ele = rows[i];
-            var txt = ele.innerHTML;
-            var arry = txt.match(re);
-            var index = txt.indexOf(arry[0]);
-            if (index >= 0) {
-                html = txt.substring(0, index) + "<span class='light'>" + txt.substring(index, index + keyword.length) + "</span>" + txt.substring(index + keyword.length);
-                ele.innerHTML = html;
-            }
-        }
-    }
     function compareNames(name1, name2) {
         const name1Parts = name1.split('.')[0].replace("_", "")
             .replace(" III_", "").replace("_", " ").replace("���", "").toLowerCase()
@@ -189,6 +177,8 @@ Dashboard
                 nextSelect.append('<option value="' + d + '">' + d + '</option>')
             });
         });
+
+
         var images = [];
         fetch("/witness/images/", {
             method: "GET"
@@ -197,16 +187,26 @@ Dashboard
                 response.json().then(data => {
                     images = data.data
                     var witness = document.getElementsByClassName("img")
+                    var keyword = "{{keyword}}"
+                    var re = new RegExp(keyword, 'gi');
                     table.rows().every(function (rowIdx, tableLoop, rowLoop) {
                         var data = this.data();
+                        var txt = data[0]
+                        var arry = txt.match(re);
+                        var index = txt.indexOf(arry[0]);
+                        if (index >= 0) {
+                            html = txt.substring(0, index) + "<span class='light'>" + txt.substring(index, index + keyword.length) + "</span>" + txt.substring(index + keyword.length);
+                            data[0] = html;
+                        }
                         var name = data[2]
                         var img = images.find((value) => compareNames(value, name))
                         if (img) {
                             data[2] += `<br/><img width="100px" src="{{ ASSETS_ROOT }}/testimony_photos/${img}">`
-                            this.data(data)
+
                         }
+                        this.data(data)
                     })
-                    highlight("{{keyword}}");
+
                 });
             })
             .catch(error => {
