@@ -109,9 +109,9 @@ body.dark .custom-select,
 body.dark .form-control,
 body.dark .input-group-prepend,
 body.dark .input-group-append {
-  background-color: rgba(8, 32, 50, 0.8);
+  background-color: white;
   border-color: #2C394B !important;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 body.dark .custom-select span,
