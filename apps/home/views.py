@@ -72,11 +72,14 @@ def keyword2(request):
                 if keyword in x['text'].lower():
                     try:
                         ctx += data['data'][i-1]['text']
+                        ctx +=" "
                     except:
                         pass
                     ctx += x["text"]
+                    ctx +=" "
                     try:
                         ctx += data['data'][i+1]['text']
+                        ctx +=" "
                     except:
                         pass
                     context = [ctx,x['page_#'],witness,data['url']+str(x['page_#'])]
